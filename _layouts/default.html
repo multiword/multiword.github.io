@@ -9,15 +9,17 @@
   </title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <!--<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/siglex.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/mwe.css">
+  <!--
   {% for stylesheet in page.stylesheets %}
   <link rel="stylesheet" type="text/css" href="{{ stylesheet }}">
   {% endfor %}-->
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="{{ site.baseurl }}/">SIGLEX-MWE</a>
+  <div class="mwebar"></div>
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <a class="navbar-brand" href="{{ site.baseurl }}/"><strong>SIGLEX-MWE</strong></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -30,61 +32,59 @@
             Organization
           </a>
           <div class="dropdown-menu" aria-labelledby="organizationNavbarDropdown">
-            <a class="dropdown-item" href="{{ site.baseurl }}/index.html">Test</a>
-            <!--<a class="dropdown-item" href="{{ site.baseurl }}/board/advisory.html">Advisory Board</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/constitution.html">Constitution</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="{{ site.baseurl }}/board/2016.html">2016 Board</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/board/2013.html">2013 Board</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/board/2010.html">2010 Board</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/board/2007.html">2007 Board</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/board/2004.html">2004 Board</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/board/2000.html">2000 Board</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/board/1994.html">1994 Board</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/board/1991.html">1991 Board</a>-->
+            <a class="dropdown-item" href="{{ site.baseurl }}/organization/standingcommittee">Standing committee</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/organization/advisorycommittee">Advisory committee</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/organization/members">Members</a>    
+            <hr class="mt-1 mb-1"/>
+            <a class="dropdown-item" href="{{ site.baseurl }}/organization/constitution.html">Constitution</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/organization/yearlyreports.html">Yearly reports</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/organization/website.html">Website</a>
+            <!--<a class="dropdown-item" href="{{ site.baseurl }}/organization/contact.html">Contact</a>-->
           </div>
-        </li>
-        <!--<li class="nav-item dropdown">
+        </li>        
+        <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="sectionsNavbarDropdown" role="button" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
-            Sections
+            Events
           </a>
           <div class="dropdown-menu" aria-labelledby="sectionsNavbarDropdown">
-            <a class="dropdown-item" href="http://multiword.sourceforge.net/">Multiword Expressions (MWE)</a>
-            <a class="dropdown-item" href="https://semeval.github.io/">Semantic Evaluation (SemEval)</a>
-          </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/members.html">Members</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/events.html">Events</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.aclweb.org/anthology/sigs/siglex/">Publications</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/forum.html">Forum</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/mwe2021">MWE 2021</a>
+            <a class="dropdown-item" href="http://multiword.sourceforge.net/mwelex2020/">MWE-LEX 2020</a>
+            <a class="dropdown-item" href="http://multiword.sourceforge.net/mwewn2019">MWE-WN 2019</a>
+            <hr class="mt-1 mb-1"/>
+            <a class="dropdown-item" href="href="{{ site.baseurl }}/events/pastevents">Past events</a>
+            
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="legacyNavbarDropdown" role="button" data-toggle="dropdown"
+          <a class="nav-link dropdown-toggle" href="#" id="sectionsNavbarDropdown" role="button" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
-            Legacy
+            Links
           </a>
-          <div class="dropdown-menu" aria-labelledby="legacyNavbarDropdown">
-            <a class="dropdown-item" href="{{ site.baseurl }}/legacy/kilgarriff.html">Adam Kilgarriff, 1960-2015 (In Memoriam)</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/legacy/pastmeetings.html">Events 1995-2007</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/legacy/corporaarchive.html">CORPORA email categorization 1997-2004</a>
-            <a class="dropdown-item" href="http://alt.qcri.org/siglex/messctr.php?TYPE=ALL">Mailing list archives 2008-2020</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/legacy/lexical_resources.html">Index of lexical resources</a>
+          <div class="dropdown-menu" aria-labelledby="sectionsNavbarDropdown">
+            <a class="dropdown-item" href="http://parseme.eu">PARSEME COST Action</a>
+            <a class="dropdown-item" href="https://gitlab.com/parseme/corpora/wikis/home">PARSEME Corpora</a>
+            <a class="dropdown-item" href="http://multiword.sourceforge.net/sharedtask2017">PARSEME shared task 1.0 (2017)</a>
+            <a class="dropdown-item" href="http://multiword.sourceforge.net/sharedtask2018">PARSEME shared task 1.1 (2018)</a>
+            <a class="dropdown-item" href="http://multiword.sourceforge.net/sharedtask2020">PARSEME shared task 1.2 (2020)</a>
           </div>
-        </li>-->
+        </li>        
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/mailinglist.html">Mailing list</a>
+        </li>
       </ul>
     </div>
   </nav>
-  <div class="container pt-2">
+  <!--------------------------------------------------------------->
+  <div class="container pt-2 main">
     {{ content }}
   </div>
+  <!--------------------------------------------------------------->
+  <div class="footer">
+      <div class="container">
+        <!-- Add content to footer if needed -->
+      </div>
+  </div>
+  
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
     integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
     crossorigin="anonymous"></script>
@@ -94,9 +94,8 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
     crossorigin="anonymous"></script>
-  {% for script in page.scripts %}
+  <!--{% for script in page.scripts %}
   <script type="text/javascript" language="javascript" src="{{ script }}"></script>
-  {% endfor %}
+  {% endfor %}-->
   </body>
-
 </html>
