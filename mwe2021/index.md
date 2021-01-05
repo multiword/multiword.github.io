@@ -9,8 +9,8 @@ layout: default
 ## 17th Workshop on Multiword Expressions (MWE 2021)
 **Colocated with ACL-IJCNLP 2021 (Bangkok, Thailand), 5 or 6 August 2021**
 
-Organised and sponsored by:
-SIGLEX, the Special Interest Group on the Lexicon of the ACL
+Organised and sponsored by:\
+Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)) 
 
 <a href="https://twitter.com/mwe_workshop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@mwe_workshop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -59,16 +59,24 @@ The 17th Workshop on MWEs invites submissions on (but not limited to) the follow
 - Evaluation of end-user applications concerning MWEs and constructions
 - Resources and tools for MWEs and constructions (e.g. lexicons, identifiers) in end-user applications
 
+-----
 
 ### <a name="submission"> Submission modalities </a>
 
+-----
 
 ### <a name="dates"> Important dates </a>
 
+-----
 
 ### <a name="organizers"> Organizers </a>
 
+-----
+
 ### <a name="committee"> Program Committee </a>
+
+-----
 
 ### <a name="contact"> Contact </a>
 
+-----
