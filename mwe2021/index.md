@@ -13,9 +13,24 @@ Organised and sponsored by:
 SIGLEX, the Special Interest Group on the Lexicon of the ACL
 
 <a href="https://twitter.com/mwe_workshop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@mwe_workshop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 -----
 
-### Description
+<details open markdown="block">
+  <summary>
+    Contents on this page
+  </summary>
+- [Workshop Description](#description)
+- [Submission Modalities](#submission)
+- [Important Dates](#dates)
+- [Organizers](#organizers)
+- [Program Committee](#committee)
+- [Contact](#contact)
+</details>
+
+-----
+
+### <a name="description"> Description </a>
 
 Multiword expressions (MWEs) are word combinations which exhibit lexical, syntactic, semantic, pragmatic and/or statistical idiosyncrasies ([Baldwin &amp; Kim 2010](https://people.eng.unimelb.edu.au/tbaldwin/pubs/handbook2009.pdf)), such as _by and large_, _hot dog_, _pay a visit_ and _pull one&#39;s leg_. The notion encompasses closely related phenomena: idioms, compounds, light-verb constructions, rhetorical figures, institutionalised phrases, collocations, etc. The behaviour of MWEs is often unpredictable, in particular their meanings are not regularly composed of the meanings of their parts. Thus, MWEs are a major challenge in computational linguistics ([Constant et al. 2017](https://www.aclweb.org/anthology/J17-4005/)), including linguistic modelling (e.g. treebanking), computational modelling (e.g. parsing), and end-user NLP applications (e.g. natural language understanding, machine translation, and social media mining).
 
@@ -45,13 +60,15 @@ The 17th Workshop on MWEs invites submissions on (but not limited to) the follow
 - Resources and tools for MWEs and constructions (e.g. lexicons, identifiers) in end-user applications
 
 
-### Submission modalities
+### <a name="submission"> Submission modalities </a>
 
 
-### Important dates
+### <a name="dates"> Important dates </a>
 
 
-### Organizers
+### <a name="organizers"> Organizers </a>
 
-### Contact
+### <a name="committee"> Program Committee </a>
+
+### <a name="contact"> Contact </a>
 
