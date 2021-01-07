@@ -61,22 +61,127 @@ The 17th Workshop on MWEs invites submissions on (but not limited to) the follow
 
 -----
 
+### Joint session with WOAH Workshop
+Pursuing the MWE Section's tradition of synergies with other communities and in accordance with ACL-IJCNLP 2021's theme track on NLP for social good, we will organise a joint session with the [Workshop on Online  Abuse and Harm (WOAH)](https://www.workshopononlineabuse.com/). We believe that MWEs are important in online abuse detection, and that the latter can provide an interesting testbed for MWE processing technology. The main goal is to pave the way towards the creation of data for a shared task involving both communities. The format of the session is under discussion, and we welcome suggestions from the community. Submissions describing research on MWEs and abusive language, especially introducing new datasets, are also welcome.
+
+
+-----
+
 ### <a name="submission"> Submission modalities </a>
+
+- Long papers (8 content pages + references) should report on solid and finished research including new experimental results, resources and/or techniques.
+- Short papers (4 content pages + references) should report on small experiments, focused contributions, ongoing research, negative results and/or philosophical discussion.
+
+In regular research papers, the reported research should be substantially original. Papers available as preprints can also be submitted provided that they fulfill the conditions defined by the [ACL Policies for Submission, Review and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation). Notice that double submission to ACL-IJCNLP 2021 main conference and MWE 2021 is allowed but should be notified at submission time, as per the [ACL-IJCNLP 2021 call for papers](https://2021.aclweb.org/calls/papers/#multiple-submission-policy): &quot;_[...] papers can be dual-submitted to both ACL-IJCNLP 2021 and an ACL-IJCNLP 2021 workshop which has its submission deadline falling before our notification date of May 5, 2021.&quot;_
+
+Submission is **double-blind** as per the[ACL-IJCNLP 2021 guidelines](https://2021.aclweb.org/calls/papers/#paper-submission-information). For all types of submission, the ACL-IJCNLP 2021 [templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates) must be used. There is no limit on the number of reference pages. An extra page will be allowed to take the reviewers&#39; comments into account in the final versions of accepted papers (long = 9 content pages, short = 5 content pages).
+
+The decisions as to oral or poster presentations of the selected papers will be taken by the PC chairs, depending on the available infrastructure for participation (presential and/or virtual). No distinction between papers presented orally and as posters is made in the workshop proceedings.
+
+All papers should be submitted via the workshop&#39;s START space, available soon. Please choose the appropriate submission modality (long/short).
+
 
 -----
 
 ### <a name="dates"> Important dates </a>
 
+All deadlines are at 23:59 UTC-12 (anywhere in the world).
+
+- April 19, 2021: Paper Submission Deadline
+- May 28, 2021: Notification of Acceptance
+- June 7, 2021: Camera-ready papers due
+- August 5 or 6, 2021: Workshop (Date TBD)
+
+
 -----
 
 ### <a name="organizers"> Organizers </a>
+
+- **Program chairs:** Paul Cook, Jelena Mitrović, Carla Parra Escartín and Ashwini Vaidya
+- **Publication chairs:** Petya Osenova and Shiva Taslimipoor
+- **Communication chair:** Carlos Ramisch
+
 
 -----
 
 ### <a name="committee"> Program Committee </a>
 
+<details open markdown="block">
+  <summary>
+    See the list
+  </summary>
+- Margarita Alonso-Ramos, Universidade da Coruña (Spain);
+- Tim Baldwin, University of Melbourne (Australia); 
+- Verginica Barbu Mititelu, Romanian Academy (Romania); 
+- Archna Bhatia, Florida Institute for Human and Machine Cognition (USA); 
+- Fabienne Cap, Uppsala University (Sweden); 
+- Anastasia Christofidou, Academy of Athens (Greece); 
+- Ken Church, IBM Research (USA); 
+- Matthieu Constant, Université de Lorraine (France); 
+- Monika Czerepowicka, University of Warmia and Mazury (Poland);
+- Myriam de Lhonneux, University of Copenhagen (Denmark);
+- Gaël Dias, University of Caen Basse-Normandie (France); 
+- Meghdad Farahmand, University of Geneva (Switzerland); 
+- Christiane Fellbaum, Princeton University (USA); 
+- Joaquim Ferreira da Silva, New University of Lisbon (Portugal); 
+- Karën Fort, Sorbonne Université (France); 
+- Aggeliki Fotopoulou, ILSP/RC "Athena" (Greece); 
+- Marcos Garcia, University of Santiago de Compostela (Spain); 
+- Stefan Th. Gries, University of California (USA); 
+- Bruno Guillaume, Université de Lorraine (France); 
+- Chikara Hashimoto, Yahoo!Japan (Japan); 
+- Uxoa Iñurrieta, University of the Basque Country (Spain); 
+- Diptesh Kanojia, IIT Bombay (India); 
+- Elma Kerz, RWTH Aachen (Germany); 
+- Ekaterina Kochmar, University of Cambridge (UK); 
+- Dimitrios Kokkinakis, University of Gothenburg (Sweden); 
+- Ioannis Korkontzelos, Edge Hill University (UK); 
+- Cvetana Krstev, University of Belgrade (Serbia); 
+- Eric Laporte, University Paris-Est Marne-la-Vallee (France); 
+- Timm Lichte, University of Duesseldorf (Germany); 
+- Teresa Lynn, ADAPT Centre (Ireland);
+- Stella Markantonatou, Institute for Language and Speech Processing (Greece); 
+- Yuji Matsumoto, Nara Institute of Science and Technology (Japan); 
+- Nurit Melnik, The Open University of Israel (Israel);
+- Laura A. Michaelis, University of Colorado Boulder (USA);
+- Johanna Monti, "L'Orientale" University of Naples (Italy); 
+- Preslav Nakov, Qatar Computing Research Institute, HBKU (Qatar); 
+- Malvina Nissim, University of Groningen (Netherlands); 
+- Diarmuid Ó Séaghdha, University of Cambridge (UK); 
+- Jan Odijk, University of Utrecht (Netherlands); 
+- Haris Papageorgiou, Institute for Language and Speech Processing (Greece); 
+- Marie-Sophie Pausé, independent researcher (France); 
+- Pavel Pecina, Charles University (Czech Republic); 
+- Ted Pedersen, University of Minnesota (USA); 
+- Scott Piao, Lancaster University (UK); 
+- Maciej Piasecki, Wroclaw University of Technology (Poland);
+- Alain Polguère, Université de Lorraine (France); 
+- Matīss Rikters, University of Tokyo (Japan);
+- Fatiha Sadat, Université du Québec à Montréal (Canada); 
+- Manfred Sailer, Goethe-Universität Frankfurt am Main (Germany);
+- Magali Sanches Duran, University of São Paulo (Brazil); 
+- Agata Savary, Université François Rabelais Tours (France); 
+- Sabine Schulte im Walde, University of Stuttgart (Germany); 
+- Matthew Shardlow, Manchester Metropolitan University (UK); 
+- Vered Shwartz, Allen AI (USA);
+- Gyri Smørdal Losnegaard, University of Bergen (Norway);
+- Ivelina Stoyanova, Bulgarian Academy of Sciences (Bulgaria); 
+- Stan Szpakowicz, University of Ottawa (Canada); 
+- Carole Tiberius, Dutch Language Institute (Netherlands); 
+- Beata Trawinski, Institut für Deutsche Sprache Mannheim (Germany); 
+- Ruben Urizar, University of the Basque Country (Spain); 
+- Aline Villavicencio, Federal University of Rio Grande do Sul (Brazil); 
+- Veronika Vincze, Hungarian Academy of Sciences (Hungary);
+- Martin Volk, University of Zürich (Switzerland); 
+- Zeerak Waseem, University of Sheffield (UK);
+- Eric Wehrli, University of Geneva (Switzerland);
+- Seid Muhie Yimam, Universität Hamburg (Germany); 
+</details>
+
 -----
 
 ### <a name="contact"> Contact </a>
+
+For any inquiries regarding the workshop please send an email to [mweworkshop2021@gmail.com](mweworkshop2021@gmail.com)
 
 -----
