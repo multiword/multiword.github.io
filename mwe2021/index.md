@@ -59,9 +59,8 @@ The 17th Workshop on MWEs invites submissions on (but not limited to) the follow
 - Evaluation of end-user applications concerning MWEs and constructions
 - Resources and tools for MWEs and constructions (e.g. lexicons, identifiers) in end-user applications
 
------
 
-### Joint session with WOAH Workshop
+##### Joint session with WOAH Workshop
 Pursuing the MWE Section's tradition of synergies with other communities and in accordance with ACL-IJCNLP 2021's theme track on NLP for social good, we will organise a joint session with the [Workshop on Online  Abuse and Harm (WOAH)](https://www.workshopononlineabuse.com/). We believe that MWEs are important in online abuse detection, and that the latter can provide an interesting testbed for MWE processing technology. The main goal is to pave the way towards the creation of data for a shared task involving both communities. The format of the session is under discussion, and we welcome suggestions from the community. Submissions describing research on MWEs and abusive language, especially introducing new datasets, are also welcome.
 
 
