@@ -105,10 +105,11 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 
 ### <a name="committee"> Program Committee </a>
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
-    See the list
+    See the full list
   </summary>
+
 - Margarita Alonso-Ramos, Universidade da Coruña (Spain);
 - Tim Baldwin, University of Melbourne (Australia); 
 - Verginica Barbu Mititelu, Romanian Academy (Romania); 
