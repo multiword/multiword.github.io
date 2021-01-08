@@ -5,7 +5,19 @@ layout: default
 
 ### SIGLEX-MWE Section Constitution
 
-#### 1. Statement of Purpose
+<details open markdown="block">
+  <summary>
+    Contents on this page
+  </summary>
+- [1. Statement of Purpose](#1)
+- [2. Relation to SIGLEX](#2)
+- [3. Membership](#3)
+- [4. Standing Committee](#4)
+- [5. Standing Committee Duties](#5)
+- [6. Changes to the constitution](#6)
+</details>
+
+#### <a name="1"></a> 1. Statement of Purpose 
 
 The **Multiword Expressions (MWE) Section** is a Section of the **Special Interest Group on the Lexicon (SIGLEX)** of the **Association for Computational Linguistics (ACL)**. The goals of the SIGLEX-MWE Section (henceforth referred to as the Section) are:
 
@@ -15,15 +27,15 @@ recent research and developments on topics related to *multiword expressions*.
 - To organize, support and announce events and initiatives such as meetings and
 workshops on topics related to *multiword expressions*.
 
-#### 2. Relation to SIGLEX
+#### <a name="2"></a> 2. Relation to SIGLEX
 
 All activities of the Section are subject to the approval of the SIGLEX elected officers (henceforth referred to as the *SIGLEX board*). Unless specified differently in this constitution, the Section conforms to the [SIGLEX constitution](https://siglex.org/constitution.html).
 
-#### 3. Membership
+#### <a name="3"></a> 3. Membership
 
 Membership is free and open to anyone interested in topics related to multiword expressions. Membership is obtained automatically by selecting the MWE section while registering to SIGLEX. A Section member must provide at least his/her full name, affiliation, scientific profile and an email address, which must be up-to-date. Membership can be terminated either according to the SIGLEX constitution or by the Section's Standing Committee upon a majority vote if a member does not comply with the current constitution or with the ACL anti-harassment policy.
 
-#### 4. Standing Committee
+#### <a name="4"></a> 4. Standing Committee
 
 The Standing Committee (SC) of the Section is composed of **five officers**:
 
@@ -33,7 +45,7 @@ The Standing Committee (SC) of the Section is composed of **five officers**:
 
 The SC officers must be members of the Section and have published research work in topics related to multiword expressions. Additionally, some criteria that could be used to nominate an officer can include geographical distribution balance, gender balance, scientific excellence, diversity and multilingualism.
 
-#### 5. Standing Committee Duties
+#### <a name="5"></a> 5. Standing Committee Duties
 
 The duties of the SC are:
 
@@ -47,6 +59,6 @@ such as meetings, related workshops, shared tasks, tutorials, seminars and resea
 - To receive feedback and proposals from the Section members concerning the Section's activities.
 - To yearly collect expressions of interest from candidates for the SC incoming members.
 
-## 6. Changes to the constitution
+#### <a name="6"></a> 6. Changes to the constitution
 
 A change to this constitution may be initiated by the Standing Committee or by any other group of 5 members of the Section. Applying the proposed change requires an approval of the SIGLEX board.
