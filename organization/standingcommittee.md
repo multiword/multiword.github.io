@@ -13,6 +13,8 @@ The section is coordinated by a standing committee composed of:
 - [Ashwini Vaidya](https://web.iitd.ac.in/~avaidya/) (Indian Institute of Technology, Delhi, India) - nominated officer in 2019-2021  
 - [Carlos Ramisch](https://pageperso.lis-lab.fr/carlos.ramisch/) (Aix Marseille University, France) - elected section representative at the [SIGLEX board](https://siglex.org/board/2020.html) in 2020-2022
 
+See the list of past officers in the [advisory committee](advisorycommittee).
+
 New officers are welcome every year. If you are a section member, you have published research on MWEs, and you wish to serve the MWE community, please, contact us. Calls for candidates will also be published yearly on the MWE [mailing list](../mailinglist).
 
 To contact the standing committee, please write to [siglex-mwe-board@googlegroups.com](mailto:siglex-mwe-board@googlegroups.com)
