@@ -11,3 +11,5 @@ The mailing list is the official channel to communicate with all members. News o
 
   * Post a message using the [Google Groups interface](https://groups.google.com/g/siglex-mwe-members) or
   * Send an email directly to [siglex-mwe-members@googlegroups.com](mailto:siglex-mwe-members@googlegroups.com)
+  
+If you would like to be removed from the mailing list, please send a request to [siglex-mwe-board@googlegroups.com](mailto:siglex-mwe-board@googlegroups.com).

@@ -9,7 +9,7 @@ Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section
 
 ### 2021
 
-* ACL [17th Workshop on Multiword Expressions (MWE 2021)](mwe2021) - August 5 or 6 - Bangkok, Thailand
+* ACL [17th Workshop on Multiword Expressions (MWE 2021)](../mwe2021) - August 5 or 6 - Bangkok, Thailand
 
 ### 2020
 
