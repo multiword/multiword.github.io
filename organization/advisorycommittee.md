@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Advisory committee
 layout: default
 ---
 
-### Past Officers
+### Advisory committee
 
 The section's past officers (not currently serving in the standing committee) compose the section's advisory committee.
 
