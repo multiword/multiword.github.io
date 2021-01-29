@@ -15,6 +15,6 @@ The section is coordinated by a standing committee composed of:
 
 See the list of past officers in the [advisory committee](advisorycommittee).
 
-New officers are welcome every year. If you are a section member, you have published research on MWEs, and you wish to serve the MWE community, please, contact us. Calls for candidates will also be published yearly on the MWE [mailing list](../mailinglist).
+New officers are welcome every year, as defined in the [constitution](constitution). If you are a section [member](members), you have published research on MWEs, and you wish to serve the MWE community, please, contact us. Calls for candidates are published yearly around July/August on the MWE [mailing list](../mailinglist).
 
-To contact the standing committee, please write to [siglex-mwe-board@googlegroups.com](mailto:siglex-mwe-board@googlegroups.com)
+To contact the standing committee, please write to [siglex-mwe-board@googlegroups.com](mailto:siglex-mwe-board@googlegroups.com).

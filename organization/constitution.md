@@ -62,3 +62,9 @@ such as meetings, related workshops, shared tasks, tutorials, seminars and resea
 #### <a name="6"></a> 6. Changes to the constitution
 
 A change to this constitution may be initiated by the Standing Committee or by any other group of 5 members of the Section. Applying the proposed change requires an approval of the SIGLEX board.
+
+<hr/>
+
+<div style="text-align: right"><p> August 23, 2017 </p></div>
+
+<br/><br/>

@@ -32,21 +32,21 @@ Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section
 
 ### 2016
 
-*   ACL [12th Workshop on Multiword Expressions (MWE 2016)](http://multiword.sourceforge.net/mwe2016) - August 11, 2016 - Berlin, Germany
+* ACL [12th Workshop on Multiword Expressions (MWE 2016)](http://multiword.sourceforge.net/mwe2016) - August 11, 2016 - Berlin, Germany
 
 ### 2015
 
-*   NAACL [11th Workshop on Multiword Expressions (MWE 2015)](http://multiword.sourceforge.net/mwe2015) - June 4, 2015 - Denver, Colorado, USA
-*   Europhras 2015 [Workshop on Multi-word Units in Machine Translation and Translation Technologies](http://www.europhras2015.eu/presentation) - July 1-2, 2015 - Málaga, Spain
+* NAACL [11th Workshop on Multiword Expressions (MWE 2015)](http://multiword.sourceforge.net/mwe2015) - June 4, 2015 - Denver, Colorado, USA
+* Europhras 2015 [Workshop on Multi-word Units in Machine Translation and Translation Technologies](http://www.europhras2015.eu/presentation) - July 1-2, 2015 - Málaga, Spain
 
 ### 2014
 
-*   EACL [10th Workshop on Multiword Expressions (MWE 2014)](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_08_MWE_2014___lb__EACL__rb__) - April 26-27, 2014 - Gothenburg, Sweden
+* EACL [10th Workshop on Multiword Expressions (MWE 2014)](http://multiword.sourceforge.net/mwe2014) - April 26-27, 2014 - Gothenburg, Sweden
 
 ### 2013
 
-*   NAACL [9th Workshop on Multiword Expressions (MWE 2013)](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_09_MWE_2013___lb__NAACL__rb__) - June 13-14, 2013 - Atlanta, Georgia, USA
-*   MT SUMMIT [Workshop on Multi-word Units in Machine Translation and Translation Technology](http://www.mtsummit2013.info/workshop4.asp) - September 3, 2013 - Nice, France
+* NAACL [9th Workshop on Multiword Expressions (MWE 2013)](http://multiword.sourceforge.net/mwe2013) - June 13-14, 2013 - Atlanta, Georgia, USA
+* MT SUMMIT [Workshop on Multi-word Units in Machine Translation and Translation Technology](http://www.mtsummit2013.info/workshop4.asp) - September 3, 2013 - Nice, France
 
 ### 2012
 
@@ -55,24 +55,24 @@ Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section
 
 ### 2011
 
-* ACL workshop [_Multiword Expressions: from Parsing and Generation to the real world_](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_20_MWE_2011___lb__ACL__rb__) - June 23, 2011 - Portland, Oregon, USA
+* ACL workshop [_Multiword Expressions: from Parsing and Generation to the real world_](http://multiword.sourceforge.net/mwe2011) - June 23, 2011 - Portland, Oregon, USA
 
 ### 2010
 
-* COLING workshop [Multiword Expressions: from Theory to Applications](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_30_MWE_2010___lb__COLING__rb__) - August 28, 2010 - Beijing, China
+* COLING workshop [Multiword Expressions: from Theory to Applications](http://multiword.sourceforge.net/mwe2010) - August 28, 2010 - Beijing, China
 *   SLTC 2010 Workshop [Compounds and Multiword Expressions](http://www.ida.liu.se/~sarst/compound-ws/) - October 29, 2010 - Linköping, Sweden
 
 ### 2009
 
-* ACL workshop [Multiword Expressions: Identification, Interpretation, Disambiguation and Applications](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_40_MWE_2009___lb__ACL__rb__) - 6 August 2009 - Singapore
+* ACL workshop [Multiword Expressions: Identification, Interpretation, Disambiguation and Applications](http://multiword.sourceforge.net/mwe2009) - 6 August 2009 - Singapore
 
 ### 2008
 
-* LREC workshop [Towards a Shared Task for Multiword Expressions](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_50_MWE_2008___lb__LREC__rb__) - Sunday, 1 June 2008 - Marrakech, Morocco
+* LREC workshop [Towards a Shared Task for Multiword Expressions](http://multiword.sourceforge.net/mwe2008) - Sunday, 1 June 2008 - Marrakech, Morocco
 
 ### 2007
 
-* ACL workshop [A Broader Perspective on Multiword Expressions](PHITE.php?sitesig=CONF&page=CONF_70_MWE_2007___lb__ACL__rb__) - Prague, Czech Republic
+* ACL workshop [A Broader Perspective on Multiword Expressions](http://multiword.sourceforge.net/mwe2007) - Prague, Czech Republic
 
 ### 2006
 
