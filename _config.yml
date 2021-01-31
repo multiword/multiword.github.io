@@ -23,7 +23,7 @@ email: siglex-mwe-board@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   SIGLEX section for multiword expressions (MWEs). SIGLEX-MWE is a section of the Special Interest Group on the Lexicon (SIGLEX) of the Association for Computational Linguistics (ACL). It is dedicated to promoting scientific activity on multiword expressions in computational linguistics. Its main activity is the coordination of the MWE workshop series and related events such as the PARSEME shared tasks. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://multiword.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://multiword.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: siglex_mwe
 github_username:  multiword
 #future: true # Activate this if you use blog posts and you want to show posts with future dates before the date arrives
