@@ -60,7 +60,7 @@ Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section
 ### 2010
 
 * COLING workshop [Multiword Expressions: from Theory to Applications](http://multiword.sourceforge.net/mwe2010) - August 28, 2010 - Beijing, China
-*   SLTC 2010 Workshop [Compounds and Multiword Expressions](http://www.ida.liu.se/~sarst/compound-ws/) - October 29, 2010 - Linköping, Sweden
+*   SLTC 2010 Workshop [Compounds and Multiword Expressions](../legacy/compound-ws) - October 29, 2010 - Linköping, Sweden
 
 ### 2009
 
