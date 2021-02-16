@@ -79,6 +79,7 @@ Submission is **double-blind** as per the [ACL-IJCNLP 2021 guidelines](https://2
 The decisions as to oral or poster presentations of the selected papers will be taken by the PC chairs, depending on the available infrastructure for participation (presential and/or virtual). No distinction between papers presented orally and as posters is made in the workshop proceedings.
 
 All papers should be submitted via the workshop's START space. Please choose the appropriate submission modality (long/short):
+
 [https://www.softconf.com/acl2021/w14_MWE2021/](https://www.softconf.com/acl2021/w14_MWE2021/)
 
 -----
