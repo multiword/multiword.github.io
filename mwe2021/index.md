@@ -61,6 +61,7 @@ The 17th Workshop on MWEs invites submissions on (but not limited to) the follow
 
 
 ##### Joint session with WOAH Workshop
+
 Pursuing the MWE Section's tradition of synergies with other communities and in accordance with ACL-IJCNLP 2021's theme track on NLP for social good, we will organise a joint session with the [Workshop on Online  Abuse and Harm (WOAH)](https://www.workshopononlineabuse.com/). We believe that MWEs are important in online abuse detection, and that the latter can provide an interesting testbed for MWE processing technology. The main goal is to pave the way towards the creation of data for a shared task involving both communities. The format of the session is under discussion, and we welcome suggestions from the community. Submissions describing research on MWEs and abusive language, especially introducing new datasets, are also welcome.
 
 
@@ -71,14 +72,14 @@ Pursuing the MWE Section's tradition of synergies with other communities and in 
 - Long papers (8 content pages + references) should report on solid and finished research including new experimental results, resources and/or techniques.
 - Short papers (4 content pages + references) should report on small experiments, focused contributions, ongoing research, negative results and/or philosophical discussion.
 
-In regular research papers, the reported research should be substantially original. Papers available as preprints can also be submitted provided that they fulfill the conditions defined by the [ACL Policies for Submission, Review and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation). Notice that double submission to ACL-IJCNLP 2021 main conference and MWE 2021 is allowed but should be notified at submission time, as per the [ACL-IJCNLP 2021 call for papers](https://2021.aclweb.org/calls/papers/#multiple-submission-policy): &quot;_[...] papers can be dual-submitted to both ACL-IJCNLP 2021 and an ACL-IJCNLP 2021 workshop which has its submission deadline falling before our notification date of May 5, 2021.&quot;_
+In regular research papers, the reported research should be substantially original. Papers available as preprints can also be submitted provided that they fulfill the conditions defined by the [ACL Policies for Submission, Review and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation) , in particular the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). Notice that double submission to ACL-IJCNLP 2021 main conference and MWE 2021 is allowed but should be notified at submission time, as per the [ACL-IJCNLP 2021 call for papers](https://2021.aclweb.org/calls/papers/#multiple-submission-policy): &quot;_[...] papers can be dual-submitted to both ACL-IJCNLP 2021 and an ACL-IJCNLP 2021 workshop which has its submission deadline falling before our notification date of May 5, 2021.&quot;_
 
 Submission is **double-blind** as per the [ACL-IJCNLP 2021 guidelines](https://2021.aclweb.org/calls/papers/#paper-submission-information). For all types of submission, the ACL-IJCNLP 2021 [templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates) must be used. There is no limit on the number of reference pages. An extra page will be allowed to take the reviewers&#39; comments into account in the final versions of accepted papers (long = 9 content pages, short = 5 content pages).
 
 The decisions as to oral or poster presentations of the selected papers will be taken by the PC chairs, depending on the available infrastructure for participation (presential and/or virtual). No distinction between papers presented orally and as posters is made in the workshop proceedings.
 
-All papers should be submitted via the workshop&#39;s START space, available soon. Please choose the appropriate submission modality (long/short).
-
+All papers should be submitted via the workshop's START space. Please choose the appropriate submission modality (long/short):
+[https://www.softconf.com/acl2021/w14_MWE2021/](https://www.softconf.com/acl2021/w14_MWE2021/)
 
 -----
 
