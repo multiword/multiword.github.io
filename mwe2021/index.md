@@ -167,6 +167,7 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 - Matthew Shardlow, Manchester Metropolitan University (UK); 
 - Vered Shwartz, Allen AI (USA);
 - Gyri Smørdal Losnegaard, University of Bergen (Norway);
+- Ranka Stanković, University of Belgrade (Serbia);
 - Ivelina Stoyanova, Bulgarian Academy of Sciences (Bulgaria); 
 - Stan Szpakowicz, University of Ottawa (Canada); 
 - Carole Tiberius, Dutch Language Institute (Netherlands); 
