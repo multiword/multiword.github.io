@@ -129,6 +129,7 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 - Karën Fort, Sorbonne Université (France); 
 - Aggeliki Fotopoulou, ILSP/RC "Athena" (Greece); 
 - Marcos Garcia, University of Santiago de Compostela (Spain); 
+- Voula Giouli, Institute for Language and Speech Processing (Greece);
 - Stefan Th. Gries, University of California (USA); 
 - Bruno Guillaume, Université de Lorraine (France); 
 - Chikara Hashimoto, Yahoo!Japan (Japan); 
