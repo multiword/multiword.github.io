@@ -577,19 +577,12 @@ body .ui-tooltip{border-width:2px}
 .ui-widget{font-family:Verdana,Arial,sans-serif;font-size:1.1em}
 .ui-widget .ui-widget{font-size:1em}
 .ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button{font-family:Verdana,Arial,sans-serif;font-size:1em}
-.ui-widget-content{border:1px solid #aaa;background:#fff url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;color:#222}
 .ui-widget-content a{color:#222}
-.ui-widget-header{border:1px solid #aaa;background:#ccc url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x;color:#222;font-weight:bold}
 .ui-widget-header a{color:#222}
-.ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default{border:1px solid #d3d3d3;background:#e6e6e6 url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#555}
 .ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited{color:#555;text-decoration:none}
-.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{border:1px solid #999;background:#dadada url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121}
 .ui-state-hover a,.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited{color:#212121;text-decoration:none}
-.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active{border:1px solid #aaa;background:#fff url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121}
 .ui-state-active a,.ui-state-active a:link,.ui-state-active a:visited{color:#212121;text-decoration:none}
-.ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight{border:1px solid #fcefa1;background:#fbf9ee url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x;color:#363636}
 .ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a{color:#363636}
-.ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error{border:1px solid #cd0a0a;background:#fef1ec url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x;color:#cd0a0a}
 .ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a{color:#cd0a0a}
 .ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text{color:#cd0a0a}
 .ui-priority-primary,.ui-widget-content .ui-priority-primary,.ui-widget-header .ui-priority-primary{font-weight:bold}
@@ -597,13 +590,6 @@ body .ui-tooltip{border-width:2px}
 .ui-state-disabled,.ui-widget-content .ui-state-disabled,.ui-widget-header .ui-state-disabled{opacity:.35;filter:Alpha(Opacity=35);background-image:none}
 .ui-state-disabled .ui-icon{filter:Alpha(Opacity=35)}
 .ui-icon{width:16px;height:16px}
-.ui-icon,.ui-widget-content .ui-icon{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-icons_222222_256x240.png)}
-.ui-widget-header .ui-icon{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-icons_222222_256x240.png)}
-.ui-state-default .ui-icon{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-icons_888888_256x240.png)}
-.ui-state-hover .ui-icon,.ui-state-focus .ui-icon{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-icons_454545_256x240.png)}
-.ui-state-active .ui-icon{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-icons_454545_256x240.png)}
-.ui-state-highlight .ui-icon{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-icons_2e83ff_256x240.png)}
-.ui-state-error .ui-icon,.ui-state-error-text .ui-icon{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-icons_cd0a0a_256x240.png)}
 .ui-icon-blank{background-position:16px 16px}
 .ui-icon-carat-1-n{background-position:0 0}
 .ui-icon-carat-1-ne{background-position:-16px 0}
@@ -783,8 +769,6 @@ body .ui-tooltip{border-width:2px}
 .ui-corner-all,.ui-corner-top,.ui-corner-right,.ui-corner-tr{border-top-right-radius:4px}
 .ui-corner-all,.ui-corner-bottom,.ui-corner-left,.ui-corner-bl{border-bottom-left-radius:4px}
 .ui-corner-all,.ui-corner-bottom,.ui-corner-right,.ui-corner-br{border-bottom-right-radius:4px}
-.ui-widget-overlay{background:#aaa url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;opacity:.3;filter:Alpha(Opacity=30)}
-.ui-widget-shadow{margin:-8px 0 0 -8px;padding:8px;background:#aaa url(/web/20180829020346im_/http://www.europhras2015.eu/img/jquery-ui-1.10.3/smoothness/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;opacity:.3;filter:Alpha(Opacity=30);border-radius:8px}
 div#UniCMSMagnifier_overlay{margin-top:10px;margin-bottom:10px;margin-left:10px;margin-right:10px}
 #UniCMSMagnifier_imagecanvas{padding-top:30px;padding-bottom:10px;padding-left:10px;padding-right:10px}
 .UniCMSMagnifier_imagecanvas_tl,.UniCMSMagnifier_imagecanvas_tr,.UniCMSMagnifier_imagecanvas_bl,.UniCMSMagnifier_imagecanvas_br{position:absolute;width:10px;height:10px}
@@ -798,20 +782,12 @@ div#UniCMSMagnifier_overlay a.UniCMSMagnifier_donwnload{position:absolute;top:5p
 #UniCMSMagnifier_gallery_prev{}
 #UniCMSMagnifier_gallery_next{}
 #UniCMSMagnifier_shadow{background-color:black}
-#UniCMSMagnifier_imagecanvas{background-color:white;background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/throbber/2.gif);background-position:50% 50%;background-repeat:no-repeat;width:32px;height:32px}
-.UniCMSMagnifier_imagecanvas_tl,.UniCMSMagnifier_imagecanvas_tr,.UniCMSMagnifier_imagecanvas_bl,.UniCMSMagnifier_imagecanvas_br{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/galeria/corners-white.gif);background-color:black}
 .UniCMSMagnifier_imagecanvas_tl{background-position:top left}
 .UniCMSMagnifier_imagecanvas_tr{background-position:top right}
 .UniCMSMagnifier_imagecanvas_bl{background-position:bottom left}
 .UniCMSMagnifier_imagecanvas_br{background-position:bottom right}
-#UniCMSMagnifier_close{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/galeria/fancy_closebox.png);cursor:pointer;text-indent:-9999em}
-#UniCMSMagnifier_close:hover{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/galeria/fancy_closebox-on.png)}
 div#UniCMSMagnifier_overlay a.UniCMSMagnifier_donwnload{font-size:1em;font-weight:bold;font-family:Helvetica,Vernada,sans-serif;color:black;background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/actions/floppy-bw.png);background-position:0 50%;background-repeat:no-repeat}
 #UniCMSMagnifier_gallery_prev,#UniCMSMagnifier_gallery_next{cursor:pointer;background-repeat:no-repeat;background-position:center center;text-indent:-999em;z-index:1000}
-#UniCMSMagnifier_gallery_prev{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/galeria/fancy_left.png)}
-#UniCMSMagnifier_gallery_next{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/galeria/fancy_right.png)}
-#UniCMSMagnifier_gallery_prev:hover,#UniCMSMagnifier_overlay > .UniCMSMagnifier_gallery_prev-on{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/galeria/fancy_left-on.png)}
-#UniCMSMagnifier_gallery_next:hover,#UniCMSMagnifier_overlay > .UniCMSMagnifier_gallery_next-on{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/galeria/fancy_right-on.png)}
 .datepicker2{top:0;left:0;padding:4px;margin-top:1px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}
 .datepicker2:before{content:'';display:inline-block;border-left:7px solid transparent;border-right:7px solid transparent;border-bottom:7px solid #ccc;border-bottom-color:rgba(0,0,0,0.2);position:absolute;top:-7px;left:6px}
 .datepicker2:after{content:'';display:inline-block;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:6px solid #ffffff;position:absolute;top:-6px;left:7px}
@@ -1676,8 +1652,6 @@ input.span1,textarea.span1,.uneditable-input.span1{width:60px}
 }
 @media (min-width:980px){.nav-collapse.collapse{height:auto !important;overflow:visible !important}
 }
-@font-face{font-family:'Font-Awesome-More';src:url('/web/20180829020346im_/http://www.europhras2015.eu/css/3rdpart/awesome-2.1/Font-Awesome-More.eot');src:url('/web/20180829020346im_/http://www.europhras2015.eu/css/3rdpart/awesome-2.1/Font-Awesome-More.eot#iefix') format('embedded-opentype'),url('/web/20180829020346im_/http://www.europhras2015.eu/css/3rdpart/awesome-2.1/Font-Awesome-More.svg#Font-Awesome-More') format('svg'),url('/web/20180829020346im_/http://www.europhras2015.eu/css/3rdpart/awesome-2.1/Font-Awesome-More.woff') format('woff'),url('/web/20180829020346im_/http://www.europhras2015.eu/css/3rdpart/awesome-2.1/Font-Awesome-More.ttf') format('truetype');font-weight:normal;font-style:normal}
-[class^="icon-"]:before,[class*=" icon-"]:before{font-family:'Font-Awesome-More';font-weight:normal;font-style:normal;display:inline-block;text-decoration:inherit;-webkit-font-smoothing:antialiased}
 a [class^="icon-"],a [class*=" icon-"]{display:inline-block;text-decoration:inherit}
 .icon-large:before{vertical-align:middle;font-size:1.3333333333333333em}
 .btn [class^="icon-"],.nav-tabs [class^="icon-"],.btn [class*=" icon-"],.nav-tabs [class*=" icon-"]{line-height:.9em}
@@ -2231,7 +2205,7 @@ div#pagina div.sec_interior div#noticia{float:left}
 #supercabecera2 .content_doku_display .content_doku ul.enlaces li{display:block;float:left;margin-left:14px;margin-top:8px;padding-bottom:4px;padding-left:18px;padding-top:3px}
 #supercabecera2 .content_doku_display .content_doku ul.enlaces li a,#supercabecera2 .content_doku_display .content_doku ul.enlaces li a:hover{font-size:1em;padding-left:14px}
 div#general{}
-div#menus{background:url(/web/20180829020346im_/http://www.europhras2015.eu/img/general/menuadmin-cabecera.png) no-repeat;padding-top:0px;border-color:#dadadb}
+div#menus{padding-top:0px;border-color:#dadadb}
 div#frecuentes{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/general/menu-separador_otros.png)}
 div#pagina{}
 div#pagina h1#titulo_pagina{font-size:1.636em;background:none}
@@ -2280,9 +2254,9 @@ div.sec_interior table td.accommodation-day span{display:block}
 div.sec_interior ul{display:block;margin-bottom:9px;clear:left}
 div.sec_interior ul ul,div.sec_interior ul ol,div.sec_interior ol ul,div.sec_interior ol ol{margin-left:0}
 div.sec_interior ul ul ul,div.sec_interior ul ul ol,div.sec_interior ul ol ul,div.sec_interior ol ul ul,div.sec_interior ol ol ol,div.sec_interior ol ol ul,div.sec_interior ol ul ol,div.sec_interior ul ol ol{width:367px}
-div.sec_interior ul li{background:url(/web/20180829020346im_/http://www.europhras2015.eu/img/interior/lista_items-nivel1.png) no-repeat;background-position:0px 4px;margin-top:8px;padding-left:13px;clear:both}
-div.sec_interior ul li ul li{background:url(/web/20180829020346im_/http://www.europhras2015.eu/img/interior/lista_items-nivel2.png) no-repeat;background-position:0px 4px;margin-top:8px;padding-left:13px}
-div.sec_interior ul li ul li ul li{background:url(/web/20180829020346im_/http://www.europhras2015.eu/img/interior/lista_items-nivel3.png) no-repeat;background-position:0px 4px;margin-top:8px;padding-left:13px}
+div.sec_interior ul li{background-position:0px 4px;margin-top:8px;padding-left:13px;clear:both}
+div.sec_interior ul li ul li{background-position:0px 4px;margin-top:8px;padding-left:13px}
+div.sec_interior ul li ul li ul li{background-position:0px 4px;margin-top:8px;padding-left:13px}
 div.sec_interior ul li a{}
 div.sec_interior ul li a.autolink{padding-right:0}
 div.sec_interior ul li.level1{margin-left:20px}
@@ -2408,14 +2382,14 @@ div.sec_interior table td.centeralign,div.sec_interior table th.centeralign{text
 div.sec_interior table td.rightalign,div.sec_interior table th.rightalign{text-align:right}
 div.sec_interior table td a{color:#f36500;font-weight:normal}
 div.sec_interior table td a:hover{color:#ffffff;background-color:#f36500;font-weight:normal}
-div.sec_interior table td.asignatura a{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/gestordocencia/tablas-enlaces-fondo-off.png);background-position:left center}
-div.sec_interior table td.asignatura a:hover{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/gestordocencia/tablas-enlaces-fondo-on.png);background-position:left center}
+div.sec_interior table td.asignatura a{background-position:left center}
+div.sec_interior table td.asignatura a:hover{background-position:left center}
 div.sec_interior table td.td-subcabecera{background-color:#d7ecfa;color:#008295;text-transform:uppercase}
 div.sec_interior ul{list-style-type:none;list-style-position:outside}
 div.sec_interior ul li{color:#404040;text-align:justify}
-div.sec_interior ul li.level1{background:url(/web/20180829020346im_/http://www.europhras2015.eu/img/interior/lista_items-nivel1.png) no-repeat;background-position:0px 4px;margin-top:8px;padding-left:17px}
-div.sec_interior ul li.level2{background:url(/web/20180829020346im_/http://www.europhras2015.eu/img/interior/lista_items-nivel1.png) no-repeat;background-position:0px 4px;overflow:hidden;margin-top:4px;padding-left:13px}
-div.sec_interior ul li.level3{background:url(/web/20180829020346im_/http://www.europhras2015.eu/img/interior/lista_items-nivel3.png) no-repeat;background-position:0px 6px;overflow:hidden;margin-top:4px;padding-left:10px}
+div.sec_interior ul li.level1{background-position:0px 4px;margin-top:8px;padding-left:17px}
+div.sec_interior ul li.level2{background-position:0px 4px;overflow:hidden;margin-top:4px;padding-left:13px}
+div.sec_interior ul li.level3{background-position:0px 6px;overflow:hidden;margin-top:4px;padding-left:10px}
 div.sec_interior ul li ol li{background:none;color:#404040;text-align:justify;text-transform:none}
 div.sec_interior ul li a{}
 div.sec_interior ul li a.autolink{background-image:none !important}
@@ -2436,7 +2410,7 @@ div.sec_interior ul.departamento li.level1 ul.departamento li.level2 a{}
 div.sec_interior ul.departamento li.level1 ul.departamento li.level2 a:hover{}
 div.sec_interior ul.departamento li.level1 ul.departamento li.level2 a.doble_externo,div.sec_interior ul.departamento li.level1 ul.departamento li.level2 a.doble_externo:hover{background-image:none}
 div.sec_interior ul.enlaces{list-style-type:none;border-color:#00637d}
-div.sec_interior div.sec-directory ul.admin-options li,div.sec_interior div.sec-directory ul.admin-options li:hover{background:url(/web/20180829020346im_/http://www.europhras2015.eu/img/interior/lista_items-nivel1.png) no-repeat;background-position:0px 4px}
+div.sec_interior div.sec-directory ul.admin-options li,div.sec_interior div.sec-directory ul.admin-options li:hover{background-position:0px 4px}
 div.sec_interior ul.enlaces li div.li em{background-image:url(/web/20180829020346im_/http://www.europhras2015.eu/img/interior/lista-fondo.gif);background-position:6px 50%;background-repeat:no-repeat;font-style:normal;font-weight:normal}
 div.sec_interior ul.enlaces li a{border-color:#BBB;line-height:12px;text-align:left;text-decoration:none;background-repeat:no-repeat;background-image:none}
 div.sec_interior ul.enlaces li a:hover{}
