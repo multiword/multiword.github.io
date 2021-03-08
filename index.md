@@ -9,4 +9,4 @@ SIGLEX-MWE is a section of the [Special Interest Group on the Lexicon (SIGLEX)](
 
 Anyone interested in research in multiword expressions is welcome to **join the section** (free of charge) by filling in the form on the [SIGLEX members page](https://siglex.org/members.html).
 
-<a href="https://twitter.com/siglex_mwe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">Follow @siglex_mwe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/mwe_workshop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">Follow @mwe_workshop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

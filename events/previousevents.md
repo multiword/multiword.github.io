@@ -37,7 +37,7 @@ Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section
 ### 2015
 
 * NAACL [11th Workshop on Multiword Expressions (MWE 2015)](http://multiword.sourceforge.net/mwe2015) - June 4, 2015 - Denver, Colorado, USA
-* Europhras 2015 [Workshop on Multi-word Units in Machine Translation and Translation Technologies](http://www.europhras2015.eu/presentation) - July 1-2, 2015 - Málaga, Spain
+* Europhras 2015 [Workshop on Multi-word Units in Machine Translation and Translation Technologies](../legacy/mumttt2015) - July 1-2, 2015 - Málaga, Spain
 
 ### 2014
 
@@ -46,7 +46,7 @@ Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section
 ### 2013
 
 * NAACL [9th Workshop on Multiword Expressions (MWE 2013)](http://multiword.sourceforge.net/mwe2013) - June 13-14, 2013 - Atlanta, Georgia, USA
-* MT SUMMIT [Workshop on Multi-word Units in Machine Translation and Translation Technology](http://www.mtsummit2013.info/workshop4.asp) - September 3, 2013 - Nice, France
+* MT SUMMIT [Workshop on Multi-word Units in Machine Translation and Translation Technology](../legacy/mumttt2013) - September 3, 2013 - Nice, France
 
 ### 2012
 
