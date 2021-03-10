@@ -13,3 +13,5 @@ The mailing list is the official channel to communicate with all members. News o
   * Send an email directly to [siglex-mwe-members@googlegroups.com](mailto:siglex-mwe-members@googlegroups.com)
   
 If you would like to be removed from the mailing list, please send a request to [siglex-mwe-board@googlegroups.com](mailto:siglex-mwe-board@googlegroups.com).
+
+The 2008-2021 archive of our [historical multiword-expressions mailing list](https://sourceforge.net/p/multiword/mailman/multiword-expressions/) on SourceForge is still available, but the list has been closed on March 2021.
