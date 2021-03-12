@@ -20,11 +20,12 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
   <summary>
     Contents on this page
   </summary>
-- [Workshop Description](#description)
-- [Submission Modalities](#submission)
-- [Important Dates](#dates)
+- [Description](#description)
+- [Submission modalities](#submission)
+- [Instructions for authors](#instructions)
+- [Important dates](#dates)
 - [Organizers](#organizers)
-- [Program Committee](#committee)
+- [Program committee](#committee)
 - [Contact](#contact)
 </details>
 
@@ -72,11 +73,18 @@ Pursuing the MWE Section's tradition of synergies with other communities and in 
 - Long papers (8 content pages + references) should report on solid and finished research including new experimental results, resources and/or techniques.
 - Short papers (4 content pages + references) should report on small experiments, focused contributions, ongoing research, negative results and/or philosophical discussion.
 
-In regular research papers, the reported research should be substantially original. Papers available as preprints can also be submitted provided that they fulfill the conditions defined by the [ACL Policies for Submission, Review and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation) , in particular the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). Notice that double submission to ACL-IJCNLP 2021 main conference and MWE 2021 is allowed but should be notified at submission time, as per the [ACL-IJCNLP 2021 call for papers](https://2021.aclweb.org/calls/papers/#multiple-submission-policy): &quot;_[...] papers can be dual-submitted to both ACL-IJCNLP 2021 and an ACL-IJCNLP 2021 workshop which has its submission deadline falling before our notification date of May 5, 2021.&quot;_
-
-Submission is **double-blind** as per the [ACL-IJCNLP 2021 guidelines](https://2021.aclweb.org/calls/papers/#paper-submission-information). For all types of submission, the ACL-IJCNLP 2021 [templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates) must be used. There is no limit on the number of reference pages. An extra page will be allowed to take the reviewers&#39; comments into account in the final versions of accepted papers (long = 9 content pages, short = 5 content pages).
+In regular research papers, the reported research should be substantially original. Papers available as preprints can also be submitted provided that they fulfill the conditions defined by the [ACL Policies for Submission, Review and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation). Notice that double submission to ACL-IJCNLP 2021 main conference and MWE 2021 is allowed but should be notified at submission time, as per the [ACL-IJCNLP 2021 call for papers](https://2021.aclweb.org/calls/papers/#multiple-submission-policy): &quot;_[...] papers can be dual-submitted to both ACL-IJCNLP 2021 and an ACL-IJCNLP 2021 workshop which has its submission deadline falling before our notification date of May 5, 2021.&quot;_
 
 The decisions as to oral or poster presentations of the selected papers will be taken by the PC chairs, depending on the available infrastructure for participation (presential and/or virtual). No distinction between papers presented orally and as posters is made in the workshop proceedings.
+
+-----
+
+### <a name="instructions"> Instructions for authors </a>
+
+Submission is **double-blind** as per the [ACL-IJCNLP 2021 guidelines](https://2021.aclweb.org/calls/papers/#paper-submission-information). Submissions should adhere to the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). 
+For all types of submission, the ACL-IJCNLP 2021 [templates](https://2021.aclweb.org/calls/papers/#paper-submission-and-templates) must be used. There is no limit on the number of reference pages. An extra page will be allowed to take the reviewers&#39; comments into account in the final versions of accepted papers (long = 9 content pages, short = 5 content pages).
+
+The [PMWE book series](https://langsci-press.org/catalog/series/pmwe) editors have put forward a list of conventions to [cite multilingual MWE examples](https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf) and a [checklist for PMWE authors](https://gitlab.com/parseme/pmwe/-/wikis/Checklist%20for%20authors%20and%20volume%20editors). Parts of the checklist are specific to PMWE authors, but sections like _Terms, abbreviations and spelling_ can be relevant for MWE 2021 submissions. We encourage authors to adopt these conventions whenever relevant, without enforcing them. We hope that, in the long term, these could become widely adopted standards in the community.
 
 All papers should be submitted via the workshop's START space. Please choose the appropriate submission modality (long/short):
 
@@ -105,7 +113,7 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 
 -----
 
-### <a name="committee"> Program Committee </a>
+### <a name="committee"> Program committee </a>
 
 <details markdown="block">
   <summary>
