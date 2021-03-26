@@ -106,10 +106,11 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 
 ### <a name="organizers"> Organizers </a>
 
-- **Program chairs:** Paul Cook, Jelena Mitrović, Carla Parra Escartín and Ashwini Vaidya
-- **Publication chairs:** Petya Osenova and Shiva Taslimipoor
-- **Communication chair:** Carlos Ramisch
+- **Program chairs:** [Paul Cook](http://cs.unb.ca/~ccook1/), [Jelena Mitrović](http://jelena.mitrovic.rs/), [Carla Parra Escartín](https://sites.google.com/site/carlaparraescartin/) and [Ashwini Vaidya](https://web.iitd.ac.in/~avaidya/)
+- **Publication chairs:** [Petya Osenova](http://bultreebank.org/en/our-team/petya-osenova/) and [Shiva Taslimipoor](https://shivaat.github.io/)
+- **Communication chair:** [Carlos Ramisch](https://pageperso.lis-lab.fr/carlos.ramisch/)
 
+The MWE workshop is organized by the [SIGLEX-MWE section](https://multiword.org).
 
 -----
 
@@ -195,5 +196,7 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 ### <a name="contact"> Contact </a>
 
 For any inquiries regarding the workshop please send an email to [mweworkshop2021@gmail.com](mweworkshop2021@gmail.com)
+
+Please register to [SIGLEX](../organization/members) and check the "MWE Section" box to be registered to our [mailing list](../mailinglist).
 
 -----
