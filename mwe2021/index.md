@@ -16,6 +16,14 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 -----
 
+### News
+
+* <span class="alert alert-danger" role="alert">**April 08, 2021**: ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format.</span>
+
+
+
+-----
+
 <details open markdown="block">
   <summary>
     Contents on this page
