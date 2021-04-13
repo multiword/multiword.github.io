@@ -104,8 +104,7 @@ All papers should be submitted via the workshop's START space. Please choose the
 
 All deadlines are at 23:59 UTC-12 (anywhere in the world).
 
-- ~~April 19, 2021: Paper Submission Deadline~~
-- April 26, 2021: EXTENDED Paper Submission Deadline
+- ~~April 19, 2021: Paper Submission Deadline~~ **April 26, 2021: EXTENDED Paper Submission Deadline**
 - May 28, 2021: Notification of Acceptance
 - June 7, 2021: Camera-ready papers due
 - August 5 or 6, 2021: Workshop (Date TBD)
