@@ -18,6 +18,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
+* <span class="alert alert-danger" role="alert">**April 13, 2021**: Paper submission deadline is extended to April 26, 2021.</span>
 * <span class="alert alert-danger" role="alert">**April 08, 2021**: ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format.</span>
 
 
