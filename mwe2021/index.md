@@ -18,9 +18,11 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
-* <span class="alert alert-danger" role="alert">**April 13, 2021**: Paper submission deadline is extended to April 26, 2021.</span>
+* <span class="alert alert-danger" role="alert">**April 27, 2021**: Paper submission deadline is extended again to May 3, 2021.</span>
 
-* <span class="alert alert-danger" role="alert">**April 08, 2021**: ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format.</span>
+* **April 13, 2021**: Paper submission deadline is extended to April 26, 2021.
+
+* **April 08, 2021**: ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format.
 
 
 
@@ -106,7 +108,9 @@ All papers should be submitted via the workshop's START space. Please choose the
 
 All deadlines are at 23:59 UTC-12 (anywhere in the world).
 
-- ~~April 19, 2021: Paper Submission Deadline~~ **April 26, 2021: EXTENDED Paper Submission Deadline**
+- ~~April 19, 2021: Paper Submission Deadline~~
+- ~~April 26, 2021: EXTENDED Paper Submission Deadline~~ 
+- **May 3, 2021: RE-EXTENDED Paper Submission Deadline** (there will be no further extension)
 - May 28, 2021: Notification of Acceptance
 - June 7, 2021: Camera-ready papers due
 - August 5 or 6, 2021: Workshop (Date TBD)
