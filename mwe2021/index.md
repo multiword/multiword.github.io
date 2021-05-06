@@ -7,7 +7,7 @@ layout: default
 {:toc} -->
 
 ## 17th Workshop on Multiword Expressions (MWE 2021)
-**Colocated with ACL-IJCNLP 2021 (~~Bangkok, Thailand~~ Online), 6 August 2021**
+**Colocated with [ACL-IJCNLP 2021](https://2021.aclweb.org/) (~~Bangkok, Thailand~~ Online), 6 August 2021**
 
 Organised and sponsored by:\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)) 
