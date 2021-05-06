@@ -7,7 +7,7 @@ layout: default
 {:toc} -->
 
 ## 17th Workshop on Multiword Expressions (MWE 2021)
-**Colocated with ACL-IJCNLP 2021 (Bangkok, Thailand), 5 or 6 August 2021**
+**Colocated with ACL-IJCNLP 2021 (~~Bangkok, Thailand~~ Online), 6 August 2021**
 
 Organised and sponsored by:\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)) 
@@ -18,13 +18,10 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
-* <span class="alert alert-danger" role="alert">**April 27, 2021**: Paper submission deadline is extended again to May 3, 2021.</span>
-
+* **May 06, 2021**: The [ACL-IJCNLP workshop dates](https://2021.aclweb.org/calls/workshops/) have been announced. MWE 2021 will take place on *August 6, 2021*.
+* **April 27, 2021**: Paper submission deadline is extended again to May 3, 2021.
 * **April 13, 2021**: Paper submission deadline is extended to April 26, 2021.
-
 * **April 08, 2021**: ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format.
-
-
 
 -----
 
@@ -77,7 +74,6 @@ The 17th Workshop on MWEs invites submissions on (but not limited to) the follow
 
 Pursuing the MWE Section's tradition of synergies with other communities and in accordance with ACL-IJCNLP 2021's theme track on NLP for social good, we will organise a joint session with the [Workshop on Online  Abuse and Harm (WOAH)](https://www.workshopononlineabuse.com/). We believe that MWEs are important in online abuse detection, and that the latter can provide an interesting testbed for MWE processing technology. The main goal is to pave the way towards the creation of data for a shared task involving both communities. The format of the session is under discussion, and we welcome suggestions from the community. Submissions describing research on MWEs and abusive language, especially introducing new datasets, are also welcome.
 
-
 -----
 
 ### <a name="submission"> Submission modalities </a>
@@ -113,8 +109,7 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 - **May 3, 2021: RE-EXTENDED Paper Submission Deadline** (there will be no further extension)
 - May 28, 2021: Notification of Acceptance
 - June 7, 2021: Camera-ready papers due
-- August 5 or 6, 2021: Workshop (Date TBD)
-
+- August 6, 2021: Workshop
 
 -----
 
@@ -135,74 +130,74 @@ The MWE workshop is organized by the [SIGLEX-MWE section](https://multiword.org)
     See the full list
   </summary>
 
-- Margarita Alonso-Ramos, Universidade da Coruña (Spain);
-- Tim Baldwin, University of Melbourne (Australia); 
-- Verginica Barbu Mititelu, Romanian Academy (Romania); 
-- Archna Bhatia, Florida Institute for Human and Machine Cognition (USA); 
-- Fabienne Cap, Uppsala University (Sweden); 
-- Anastasia Christofidou, Academy of Athens (Greece); 
-- Ken Church, IBM Research (USA); 
-- Matthieu Constant, Université de Lorraine (France); 
-- Monika Czerepowicka, University of Warmia and Mazury (Poland);
-- Myriam de Lhonneux, University of Copenhagen (Denmark);
-- Gaël Dias, University of Caen Basse-Normandie (France); 
-- Meghdad Farahmand, University of Geneva (Switzerland); 
-- Christiane Fellbaum, Princeton University (USA); 
-- Joaquim Ferreira da Silva, New University of Lisbon (Portugal); 
-- Karën Fort, Sorbonne Université (France); 
-- Aggeliki Fotopoulou, ILSP/RC "Athena" (Greece); 
-- Marcos Garcia, University of Santiago de Compostela (Spain); 
-- Voula Giouli, Institute for Language and Speech Processing (Greece);
-- Stefan Th. Gries, University of California (USA); 
-- Bruno Guillaume, Université de Lorraine (France); 
-- Chikara Hashimoto, Yahoo!Japan (Japan); 
-- Uxoa Iñurrieta, University of the Basque Country (Spain); 
-- Diptesh Kanojia, IIT Bombay (India); 
-- Elma Kerz, RWTH Aachen (Germany); 
-- Ekaterina Kochmar, University of Cambridge (UK); 
-- Dimitrios Kokkinakis, University of Gothenburg (Sweden); 
-- Ioannis Korkontzelos, Edge Hill University (UK); 
-- Cvetana Krstev, University of Belgrade (Serbia); 
-- Eric Laporte, University Paris-Est Marne-la-Vallee (France); 
-- Timm Lichte, University of Duesseldorf (Germany); 
-- Teresa Lynn, ADAPT Centre (Ireland);
-- Stella Markantonatou, Institute for Language and Speech Processing (Greece); 
-- Yuji Matsumoto, Nara Institute of Science and Technology (Japan); 
-- Nurit Melnik, The Open University of Israel (Israel);
-- Laura A. Michaelis, University of Colorado Boulder (USA);
-- Johanna Monti, "L'Orientale" University of Naples (Italy); 
-- Preslav Nakov, Qatar Computing Research Institute, HBKU (Qatar); 
-- Malvina Nissim, University of Groningen (Netherlands); 
-- Diarmuid Ó Séaghdha, University of Cambridge (UK); 
-- Jan Odijk, University of Utrecht (Netherlands); 
-- Haris Papageorgiou, Institute for Language and Speech Processing (Greece); 
-- Marie-Sophie Pausé, independent researcher (France); 
-- Pavel Pecina, Charles University (Czech Republic); 
-- Ted Pedersen, University of Minnesota (USA); 
-- Scott Piao, Lancaster University (UK); 
-- Maciej Piasecki, Wroclaw University of Technology (Poland);
-- Alain Polguère, Université de Lorraine (France); 
-- Matīss Rikters, University of Tokyo (Japan);
-- Fatiha Sadat, Université du Québec à Montréal (Canada); 
-- Manfred Sailer, Goethe-Universität Frankfurt am Main (Germany);
-- Magali Sanches Duran, University of São Paulo (Brazil); 
-- Agata Savary, Université François Rabelais Tours (France); 
-- Sabine Schulte im Walde, University of Stuttgart (Germany); 
-- Matthew Shardlow, Manchester Metropolitan University (UK); 
-- Vered Shwartz, Allen AI (USA);
-- Gyri Smørdal Losnegaard, University of Bergen (Norway);
-- Ranka Stanković, University of Belgrade (Serbia);
-- Ivelina Stoyanova, Bulgarian Academy of Sciences (Bulgaria); 
-- Stan Szpakowicz, University of Ottawa (Canada); 
-- Carole Tiberius, Dutch Language Institute (Netherlands); 
-- Beata Trawinski, Institut für Deutsche Sprache Mannheim (Germany); 
-- Ruben Urizar, University of the Basque Country (Spain); 
-- Aline Villavicencio, Federal University of Rio Grande do Sul (Brazil); 
-- Veronika Vincze, Hungarian Academy of Sciences (Hungary);
-- Martin Volk, University of Zürich (Switzerland); 
-- Zeerak Waseem, University of Sheffield (UK);
-- Eric Wehrli, University of Geneva (Switzerland);
-- Seid Muhie Yimam, Universität Hamburg (Germany); 
+- Margarita Alonso-Ramos, Universidade da Coruña (Spain)
+- Tim Baldwin, University of Melbourne (Australia)
+- Verginica Barbu Mititelu, Romanian Academy (Romania)
+<!-- - Archna Bhatia, Florida Institute for Human and Machine Cognition (USA)-->
+- Fabienne Cap, Uppsala University (Sweden)
+- Anastasia Christofidou, Academy of Athens (Greece)
+- Ken Church, IBM Research (USA)
+- Matthieu Constant, Université de Lorraine (France)
+- Monika Czerepowicka, University of Warmia and Mazury (Poland)
+- Myriam de Lhonneux, University of Copenhagen (Denmark)
+- Gaël Dias, University of Caen Basse-Normandie (France)
+- Meghdad Farahmand, University of Geneva (Switzerland)
+- Christiane Fellbaum, Princeton University (USA)
+- Joaquim Ferreira da Silva, New University of Lisbon (Portugal)
+- Karën Fort, Sorbonne Université (France)
+- Aggeliki Fotopoulou, ILSP/RC "Athena" (Greece)
+- Marcos Garcia, University of Santiago de Compostela (Spain)
+- Voula Giouli, Institute for Language and Speech Processing (Greece)
+- Stefan Th. Gries, University of California (USA)
+- Bruno Guillaume, Université de Lorraine (France)
+- Chikara Hashimoto, Yahoo!Japan (Japan)
+- Uxoa Iñurrieta, University of the Basque Country (Spain)
+- Diptesh Kanojia, IIT Bombay (India)
+- Elma Kerz, RWTH Aachen (Germany)
+- Ekaterina Kochmar, University of Cambridge (UK)
+- Dimitrios Kokkinakis, University of Gothenburg (Sweden)
+- Ioannis Korkontzelos, Edge Hill University (UK)
+- Cvetana Krstev, University of Belgrade (Serbia)
+- Eric Laporte, University Paris-Est Marne-la-Vallee (France)
+- Timm Lichte, University of Duesseldorf (Germany)
+- Teresa Lynn, ADAPT Centre (Ireland)
+- Stella Markantonatou, Institute for Language and Speech Processing (Greece)
+- Yuji Matsumoto, Nara Institute of Science and Technology (Japan)
+- Nurit Melnik, The Open University of Israel (Israel)
+- Laura A. Michaelis, University of Colorado Boulder (USA)
+- Johanna Monti, "L'Orientale" University of Naples (Italy)
+- Preslav Nakov, Qatar Computing Research Institute, HBKU (Qatar)
+- Malvina Nissim, University of Groningen (Netherlands)
+- Diarmuid Ó Séaghdha, University of Cambridge (UK)
+- Jan Odijk, University of Utrecht (Netherlands)
+- Haris Papageorgiou, Institute for Language and Speech Processing (Greece)
+- Marie-Sophie Pausé, independent researcher (France)
+- Pavel Pecina, Charles University (Czech Republic)
+- Ted Pedersen, University of Minnesota (USA)
+- Scott Piao, Lancaster University (UK)
+- Maciej Piasecki, Wroclaw University of Technology (Poland)
+- Alain Polguère, Université de Lorraine (France)
+- Matīss Rikters, University of Tokyo (Japan)
+- Fatiha Sadat, Université du Québec à Montréal (Canada)
+- Manfred Sailer, Goethe-Universität Frankfurt am Main (Germany)
+- Magali Sanches Duran, University of São Paulo (Brazil)
+- Agata Savary, Université François Rabelais Tours (France)
+- Sabine Schulte im Walde, University of Stuttgart (Germany)
+- Matthew Shardlow, Manchester Metropolitan University (UK) 
+- Vered Shwartz, Allen AI (USA)
+- Gyri Smørdal Losnegaard, University of Bergen (Norway)
+- Ranka Stanković, University of Belgrade (Serbia)
+- Ivelina Stoyanova, Bulgarian Academy of Sciences (Bulgaria)
+- Stan Szpakowicz, University of Ottawa (Canada)
+- Carole Tiberius, Dutch Language Institute (Netherlands)
+- Beata Trawinski, Institut für Deutsche Sprache Mannheim (Germany)
+- Ruben Urizar, University of the Basque Country (Spain)
+- Aline Villavicencio, Federal University of Rio Grande do Sul (Brazil)
+- Veronika Vincze, Hungarian Academy of Sciences (Hungary)
+- Martin Volk, University of Zürich (Switzerland)
+- Zeerak Waseem, University of Sheffield (UK)
+- Eric Wehrli, University of Geneva (Switzerland)
+- Seid Muhie Yimam, Universität Hamburg (Germany) 
 </details>
 
 -----
