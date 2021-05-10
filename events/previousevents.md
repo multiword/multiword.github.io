@@ -7,9 +7,11 @@ layout: default
 
 Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section or endorsed by SIGLEX).
 
+Proceedings of most MWE workshops can be found on the [ACL anthology page on MWE workshops](https://www.aclweb.org/anthology/venues/mwe/).
+
 ### 2021
 
-* ACL [17th Workshop on Multiword Expressions (MWE 2021)](../mwe2021) - August 5 or 6 - Bangkok, Thailand
+* ACL [17th Workshop on Multiword Expressions (MWE 2021)](../mwe2021) - August 6 - <del>Bangkok, Thailand</del> Online
 
 ### 2020
 
@@ -82,8 +84,8 @@ Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section
 
 ### 2004
 
-* ACL workshop [Multiword Expressions: Integrating Processing](http://www.cl.cam.ac.uk/~alk23/mwe04/mwe.html) - Barcelona, Spain
+* ACL workshop [Multiword Expressions: Integrating Processing](https://www.aclweb.org/anthology/volumes/W04-04/)<!--(http://www.cl.cam.ac.uk/~alk23/mwe04/mwe.html)--> - Barcelona, Spain
 
 ### 2003
 
-* ACL workshop [Multiword Expressions: Analysis, Acquisition and Treatment](http://www.cl.cam.ac.uk/~alk23/mwe/mwe.html) - Sapporo, Japan
+* ACL workshop [Multiword Expressions: Analysis, Acquisition and Treatment](https://www.aclweb.org/anthology/volumes/W03-18/)<!--(http://www.cl.cam.ac.uk/~alk23/mwe/mwe.html)--> - Sapporo, Japan
