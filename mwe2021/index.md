@@ -36,6 +36,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Organizers](#organizers)
 - [Program committee](#committee)
 - [Contact](#contact)
+- [Anti-harassment policy](#antiharassment)
 </details>
 
 -----
@@ -181,6 +182,7 @@ The MWE workshop is organized by the [SIGLEX-MWE section](https://multiword.org)
 - Fatiha Sadat, Université du Québec à Montréal (Canada)
 - Manfred Sailer, Goethe-Universität Frankfurt am Main (Germany)
 - Magali Sanches Duran, University of São Paulo (Brazil)
+- Branislava Šandrih, University of Belgrade (Serbia)
 - Agata Savary, Université François Rabelais Tours (France)
 - Sabine Schulte im Walde, University of Stuttgart (Germany)
 - Matthew Shardlow, Manchester Metropolitan University (UK) 
@@ -209,3 +211,7 @@ For any inquiries regarding the workshop please send an email to [mweworkshop202
 Please register to [SIGLEX](../organization/members) and check the "MWE Section" box to be registered to our [mailing list](../mailinglist).
 
 -----
+
+### <a name="antiharassment"> Anti-harassment policy </a>
+
+The workshop supports the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
