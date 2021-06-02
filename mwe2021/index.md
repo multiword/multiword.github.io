@@ -29,6 +29,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
   <summary>
     Contents on this page
   </summary>
+- [Accepted papers](#papers)
 - [Description](#description)
 - [Submission modalities](#submission)
 - [Instructions for authors](#instructions)
@@ -40,6 +41,19 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 </details>
 
 -----
+
+### <a name="papers"> Accepted papers </a>
+
+* PIE: Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing
+(Jianing Zhou, Hongyu Gong and Suma Bhat)
+* Data-driven Identification of Idioms in Song Lyrics
+(Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider)
+* Lexical Semantic Recognition (Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider)
+* Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity
+(Samin Fakharian and Paul Cook)
+* Finding BERT’s Idiomatic Key (Vasudevan Nedumpozhimana and John Kelleher)
+* Where do aspectual variants of light verb constructions belong? (Angeliki Fotopoulou, Eric Laporte and Takuya Nakamura)
+* Families of light verb constructions - A corpus study on German stehen unter-LVCs (Jens Fleischhauer)
 
 ### <a name="description"> Description </a>
 
