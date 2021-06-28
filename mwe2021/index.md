@@ -29,6 +29,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
   <summary>
     Contents on this page
   </summary>
+- [Program](#program) 
 - [Accepted papers](#papers)
 - [Description](#description)
 - [Submission modalities](#submission)
@@ -41,6 +42,63 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 </details>
 
 -----
+### <a name="program"> Program </a>
+
+Friday August 6th 2021, All times **CEST** (Central European Summer Time)
+
+14:00- 14:10 Welcome and Preparation
+
+14:10 -15:50 **Session 1: Long Papers (1 hr 40 min)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD
+  * Where do aspectual variants of light verb constructions belong?  
+     *Angeliki Fotopoulou, Eric Laporte and Takuya Nakamura*  
+          
+  * Data-driven Identification of Idioms in Song Lyrics   
+    *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*
+ 
+  * Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains (Findings of ACL)
+    *Christian Lang, Lennart Wachowiak, Barbara Heinisch, Dagmar Gromann*   
+ 
+  * Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity  
+    *Samin Fakharian and Paul Cook*  
+ 
+  * PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing   
+    *Jianing Zhou, Hongyu Gong and Suma Bhat* 
+
+
+15:50 - 16:05 **Break**
+
+16:05- 17:05 **Session 2: Invited Talk (60 min)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
+
+   * A Long hard look at MWEs in the age of Language Models  
+      *Vered Schwartz*  
+ 
+17:05 -17:20  **Break**
+
+17:20 -18:05 **Session 3: Short Papers (45 min)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
+
+   * Lexical Semantic Recognition   
+     *Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*
+    
+   * Finding BERT’s Idiomatic Key   
+      *Vasudevan Nedumpozhimana and John Kelleher*
+      
+   * Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs  
+    *Jens Fleischhauer*
+    
+18:05- 18:20 **Break**  
+
+18:20 -19:00 **Session 4: Joint panel with WOAH (Workshop on Online Abuse and Harms) (40 min)**    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
+
+19:00- 19:20 **Session 5: Section reporting and community discussion (20 min)**    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD      
+
+
+
+
 
 ### <a name="papers"> Accepted papers </a>
 
