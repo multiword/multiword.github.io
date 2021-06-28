@@ -51,7 +51,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 14:10 -15:50 **Session 1: Long Papers (1 hr 40 min)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD
   * Where do aspectual variants of light verb constructions belong?  
-     *Angeliki Fotopoulou, Eric Laporte and Takuya Nakamura*  
+     *Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura*  
           
   * Data-driven Identification of Idioms in Song Lyrics   
     *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*
@@ -110,7 +110,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 * Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity
 (Samin Fakharian and Paul Cook)
 * Finding BERT’s Idiomatic Key (Vasudevan Nedumpozhimana and John Kelleher)
-* Where do aspectual variants of light verb constructions belong? (Angeliki Fotopoulou, Eric Laporte and Takuya Nakamura)
+* Where do aspectual variants of light verb constructions belong? (Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura)
 * Families of light verb constructions - A corpus study on German stehen unter-LVCs (Jens Fleischhauer)
 
 ### <a name="description"> Description </a>
