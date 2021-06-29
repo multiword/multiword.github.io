@@ -66,7 +66,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
     *Jianing Zhou, Hongyu Gong and Suma Bhat* 
 
 
-15:50 - 16:05 **Break (15 min) **
+15:50 - 16:05 **Break (15 min)**
 
 16:05- 17:05 **Session 2: Invited Talk (60 min)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
@@ -88,7 +88,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
    * Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs  
     *Jens Fleischhauer*
     
-18:05- 18:20 **Break (15 min) **  
+18:05- 18:20 **Break (15 min)**  
 
 18:20 -19:00 **Session 4: Joint panel with WOAH (Workshop on Online Abuse and Harms) (40 min)**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
