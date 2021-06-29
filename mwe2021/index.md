@@ -56,7 +56,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
   * Data-driven Identification of Idioms in Song Lyrics   
     *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*
  
-  * Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains (Findings of ACL)
+  * Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains (Findings of ACL)  
     *Christian Lang, Lennart Wachowiak, Barbara Heinisch, Dagmar Gromann*   
  
   * Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity  
@@ -66,15 +66,15 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
     *Jianing Zhou, Hongyu Gong and Suma Bhat* 
 
 
-15:50 - 16:05 **Break**
+15:50 - 16:05 **Break (15 min) **
 
 16:05- 17:05 **Session 2: Invited Talk (60 min)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
 
    * A Long hard look at MWEs in the age of Language Models  
-      *Vered Schwartz*  
+      *Vered Shwartz*  
  
-17:05 -17:20  **Break**
+17:05 -17:20  **Break (15 min)**
 
 17:20 -18:05 **Session 3: Short Papers (45 min)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
@@ -88,7 +88,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
    * Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs  
     *Jens Fleischhauer*
     
-18:05- 18:20 **Break**  
+18:05- 18:20 **Break (15 min) **  
 
 18:20 -19:00 **Session 4: Joint panel with WOAH (Workshop on Online Abuse and Harms) (40 min)**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
