@@ -71,8 +71,27 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 16:05- 17:05 **Session 2: Invited Talk (60 min)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
 
-   * A Long hard look at MWEs in the age of Language Models  
-      *Vered Shwartz*  
+   * **A Long hard look at MWEs in the age of Language Models  
+      *Vered Shwartz***  
+      
+      <details markdown="block">
+      <summary>
+      <span style="color: blue;"> Click here for more details </span>
+      </summary>
+      
+      ---
+      
+      <b>Bio</b> <br>
+      **Vered Shwartz** is a postdoctoral researcher at the Allen Institute for AI (AI2) and the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, multiword expressions, and commonsense reasoning.
+  
+      <b> Abstract</b> <br>
+      In recent years, language models (LMs) have become almost synonymous with NLP. Pre-trained to “read” a large text corpus, such models are useful as both a representation layer as well as a source of world knowledge. But how well do they represent MWEs? This talk will discuss various problems in rep-resenting MWEs, and the extent to which LMs address them:
+  
+      - Do LMs capture the implicit relationship between constituents in compositional MWEs (from *baby oil* through *parsley cake* to *cheese-burger stabbing*)?
+      - Do LMs recognize when words are used non-literally in non-compositional MWEs (e.g. do they know whether there are fleas in the *flea market*)?
+      - Do LMs know idioms, and can they infer the meaning of new idioms from the context as humans often do?
+      ---
+      </details>
  
 17:05 -17:20  **Break (15 min)**
 
@@ -102,16 +121,18 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 
 ### <a name="papers"> Accepted papers </a>
 
-* PIE: Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing
-(Jianing Zhou, Hongyu Gong and Suma Bhat)
-* Data-driven Identification of Idioms in Song Lyrics
-(Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider)
-* Lexical Semantic Recognition (Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider)
-* Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity
-(Samin Fakharian and Paul Cook)
-* Finding BERT’s Idiomatic Key (Vasudevan Nedumpozhimana and John Kelleher)
-* Where do aspectual variants of light verb constructions belong? (Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura)
-* Families of light verb constructions - A corpus study on German stehen unter-LVCs (Jens Fleischhauer)
+This year, we received 19 submissions, among which 7 were accepted for presentation. The overall
+acceptance rate was 36%.
+* *PIE: Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing
+(Jianing Zhou, Hongyu Gong and Suma Bhat)*
+* *Data-driven Identification of Idioms in Song Lyrics
+(Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider)*
+* *Lexical Semantic Recognition (Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider)*
+* *Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity
+(Samin Fakharian and Paul Cook)*
+* *Finding BERT’s Idiomatic Key (Vasudevan Nedumpozhimana and John Kelleher)*
+* *Where do aspectual variants of light verb constructions belong? (Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura)*
+* *Families of light verb constructions - A corpus study on German stehen unter-LVCs (Jens Fleischhauer)*
 
 ### <a name="description"> Description </a>
 
@@ -179,9 +200,9 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 
 - ~~April 19, 2021: Paper Submission Deadline~~
 - ~~April 26, 2021: EXTENDED Paper Submission Deadline~~ 
-- **May 3, 2021: RE-EXTENDED Paper Submission Deadline** (there will be no further extension)
-- May 28, 2021: Notification of Acceptance
-- June 7, 2021: Camera-ready papers due
+- ~~**May 3, 2021: RE-EXTENDED Paper Submission Deadline** (there will be no further extension)~~
+- ~~May 28, 2021: Notification of Acceptance~~
+- ~~June 7, 2021: Camera-ready papers due~~
 - August 6, 2021: Workshop
 
 -----
