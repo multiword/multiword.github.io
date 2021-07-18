@@ -117,7 +117,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 19:00- 19:20 **Session 5: Section reporting and community discussion (20 min)**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD      
 
-
+-----
 
 
 
@@ -135,6 +135,8 @@ acceptance rate was 36%.
 * *Finding BERT’s Idiomatic Key (Vasudevan Nedumpozhimana and John Kelleher)*
 * *Where do aspectual variants of light verb constructions belong? (Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura)*
 * *Families of light verb constructions - A corpus study on German stehen unter-LVCs (Jens Fleischhauer)*
+
+-----
 
 ### <a name="description"> Description </a>
 
