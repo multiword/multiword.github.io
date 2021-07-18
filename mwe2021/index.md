@@ -71,8 +71,8 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 16:05- 17:05 **Session 2: Invited Talk (60 min)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
 
-   * **A Long hard look at MWEs in the age of Language Models  
-      *Vered Shwartz***  
+   * <b>A Long hard look at MWEs in the age of Language Models  
+      *Vered Shwartz*</b>
       
       <details markdown="block">
       <summary>
@@ -90,7 +90,9 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
       - Do LMs capture the implicit relationship between constituents in compositional MWEs (from *baby oil* through *parsley cake* to *cheese-burger stabbing*)?
       - Do LMs recognize when words are used non-literally in non-compositional MWEs (e.g. do they know whether there are fleas in the *flea market*)?
       - Do LMs know idioms, and can they infer the meaning of new idioms from the context as humans often do?
+  
       ---
+  
       </details>
  
 17:05 -17:20  **Break (15 min)**
