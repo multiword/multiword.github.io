@@ -45,7 +45,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 ### <a name="program"> Program </a>
 
 Friday August 6th 2021, All times CEST (Central European Summer Time)
-|    |                                                                                                                                                                                   |
+|  Time  |    Program                                                                                                                                                                               |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 14:00- 14:10   | Welcome and Preparation                                                                                                                                                           |
 |                | **Session 1: Long Papers (1 hr 40 min)**<br>Chair: TBD                                                                                                                                |
