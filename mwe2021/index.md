@@ -56,7 +56,7 @@ Friday August 6th 2021, All times CEST (Central European Summer Time)
 | 15:30-15:50    | PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing <br>*Jianing Zhou, Hongyu Gong and Suma Bhat*                                        |
 | 15:50 - 16:05  | **Break (15 min)**                                                                                                                                                                    |
 |                | **Session 2: Invited talk (60 min)**<br>Chair: TBD                                                                                                                                    |
-| 16:05- 17:05   | A Long hard look at MWEs in the age of Language Models<br>*Vered Shwartz* [ See More](#myfootnote1)                                                                                                           |
+| 16:05- 17:05   | A Long hard look at MWEs in the age of Language Models<br>*Vered Shwartz*                                                                                                           |
 | 17:05- 17:20   | **Break (15 min)**                                                                                                                                                                    |
 |                | **Session 3: Short Papers (45 min)**<br>Chair: TBD                                                                                                                                    |
 | 17:20-17:35    | Lexical Semantic Recognition <br>*Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*                                                                        |
@@ -67,7 +67,7 @@ Friday August 6th 2021, All times CEST (Central European Summer Time)
 | 19:00- 19:20   | **Session 5: Section reporting and community discussion (20 min)**<br>Chair: TBD                                                                                                      |
 
   
-  <a name="myfootnote1">About the Speaker</a>: <br> **Vered Shwartz** is a postdoctoral researcher at the Allen Institute for AI (AI2) and the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, multiword expressions, and commonsense reasoning. <br><br>
+  About the Speaker</a>: <br> **Vered Shwartz** is a postdoctoral researcher at the Allen Institute for AI (AI2) and the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, multiword expressions, and commonsense reasoning. <br><br>
 Abstract: <br>In recent years, language models (LMs) have become almost synonymous with NLP. Pre-trained to “read” a large text corpus, such models are useful as both a representation layer as well as a source of world knowledge. But how well do they represent MWEs? This talk will discuss various problems in rep-resenting MWEs, and the extent to which LMs address them:<br>
 - Do LMs capture the implicit relationship between constituents in compositional MWEs (from *baby oil* through *parsley cake* to *cheese-burger stabbing*)? <br>
 - Do LMs recognize when words are used non-literally in non-compositional MWEs (e.g. do they know whether there are fleas in the *flea market*)? <br>
