@@ -179,17 +179,17 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 ### <a name="papers"> Accepted papers </a>
 
 This year, we received 19 submissions, among which 7 were accepted for presentation. The overall
-acceptance rate was 36%.
-* *PIE: Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing
+acceptance rate was 36%. The proceedings are available at [ACL anthology](https://aclanthology.org/volumes/2021.mwe-1/).
+* *[PIE: Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing](https://aclanthology.org/2021.mwe-1.5/)
 (Jianing Zhou, Hongyu Gong and Suma Bhat)*
-* *Data-driven Identification of Idioms in Song Lyrics
+* *[Data-driven Identification of Idioms in Song Lyrics](https://aclanthology.org/2021.mwe-1.3/)
 (Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider)*
-* *Lexical Semantic Recognition (Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider)*
-* *Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity
+* *[Lexical Semantic Recognition](https://aclanthology.org/2021.mwe-1.6/) (Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider)*
+* *[Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity](https://aclanthology.org/2021.mwe-1.4/)
 (Samin Fakharian and Paul Cook)*
-* *Finding BERT’s Idiomatic Key (Vasudevan Nedumpozhimana and John Kelleher)*
-* *Where do aspectual variants of light verb constructions belong? (Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura)*
-* *Families of light verb constructions - A corpus study on German stehen unter-LVCs (Jens Fleischhauer)*
+* *[Finding BERT’s Idiomatic Key](https://aclanthology.org/2021.mwe-1.7/) (Vasudevan Nedumpozhimana and John Kelleher)*
+* *[Where do aspectual variants of light verb constructions belong?](https://aclanthology.org/2021.mwe-1.2/) (Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura)*
+* *[Light Verb Constructions and Their Families - A Corpus Study on German ‘stehen unter’-LVCs](https://aclanthology.org/2021.mwe-1.8/) (Jens Fleischhauer)*
 
 -----
 
