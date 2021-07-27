@@ -124,15 +124,15 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 |                |                                                                                                                 |
 |                | **Session 1: Long Papers (1h40min)**                                                                            |
 |                | Chair: TBD                                                                                                      |
-| 14:10-14:30    | Where do aspectual variants of light verb constructions belong?                                                 |
+| 14:10-14:30    | Where do aspectual variants of light verb constructions belong? [[paper]](https://aclanthology.org/2021.mwe-1.2/)                                                 |
 |                | *Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura*                                                         |
-| 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics                                                             |
+| 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics [[paper]](https://aclanthology.org/2021.mwe-1.3/)                                                            |
 |                | *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*                                               |
 | 14:50-15:10    | Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains       |
 |                | *Christian Lang, Lennart Wachowiak, Barbara Heinisch, Dagmar Gromann*                                           |
-| 15:10-15:30    | Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity                        |
+| 15:10-15:30    | Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity [[paper]](https://aclanthology.org/2021.mwe-1.4/)                       |
 |                | *Samin Fakharian and Paul Cook*                                                                                 |
-| 15:30-15:50    | PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing                  |
+| 15:30-15:50    | PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing [[paper]](https://aclanthology.org/2021.mwe-1.5/)                 |
 |                | *Jianing Zhou, Hongyu Gong and Suma Bhat*                                                                       |
 |                |                                                                                                                 |
 | 15:50 - 16:05  | **Break (15 min)**                                                                                              |
@@ -144,11 +144,11 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 | 17:05- 17:20   | **Break (15 min)**                                                                                              |
 |                |                                                                                                                 |
 |                | **Session 3: Short Papers (45min)**<br>Chair: TBD                                                               |
-| 17:20-17:35    | Lexical Semantic Recognition                                                                                    |
+| 17:20-17:35    | Lexical Semantic Recognition [[paper]](https://aclanthology.org/2021.mwe-1.6/)                                                                                   |
 |                | *Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*                                     |
-| 17:35-17:50    | Finding BERT’s Idiomatic Key                                                                                    |
+| 17:35-17:50    | Finding BERT’s Idiomatic Key [[paper]](https://aclanthology.org/2021.mwe-1.7/)                                                                                   |
 |                | *Vasudevan Nedumpozhimana and John Kelleher*                                                                    |
-| 17:50-18:05    | Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs                      |
+| 17:50-18:05    | Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs [[paper]](https://aclanthology.org/2021.mwe-1.8/)                     |
 |                | *Jens Fleischhauer*                                                                                             |
 |                |                                                                                                                 |
 | 18:05- 18:20   | **Break (15min)**                                                                                               |
