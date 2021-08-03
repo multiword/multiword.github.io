@@ -69,7 +69,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 15:50 - 16:05 **Break (15 min)**
 
 16:05- 17:05 **Session 2: Invited Talk (60 min)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  Paul Cook  
 
    * <b>A Long hard look at MWEs in the age of Language Models  
       *Vered Shwartz*</b>
@@ -98,7 +98,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 17:05 -17:20  **Break (15 min)**
 
 17:20 -18:05 **Session 3: Short Papers (45 min)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  Vered Shwartz  
 
    * Lexical Semantic Recognition   
      *Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*
@@ -112,10 +112,10 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 18:05- 18:20 **Break (15 min)**  
 
 18:20 -19:00 **Session 4: Joint panel with WOAH (Workshop on Online Abuse and Harms) (40 min)**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  Jelena Mitrović  
 
 19:00- 19:20 **Session 5: Section reporting and community discussion (20 min)**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  Carlos Ramisch
 
 -->
 Friday August 6th 2021, All times **CEST** (Central European Summer Time)
