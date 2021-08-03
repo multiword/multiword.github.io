@@ -50,7 +50,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 | 14:00- 14:10  &nbsp;&nbsp; | Welcome and Preparation                                                                              | 
 |                |                                                                                                                  |
 |                | **Session 1: Long Papers (1h40min)**                                                                             |
-|                | Chair: TBD                                                                                                       |
+|                | Chair: Preslav Nakov                                                                                                       |
 | 14:10-14:30    | Where do aspectual variants of light verb constructions belong? [[paper](https://aclanthology.org/2021.mwe-1.2/)]|
 |                | *Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura*                                                          |
 | 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics [[paper](https://aclanthology.org/2021.mwe-1.3/)]            |
