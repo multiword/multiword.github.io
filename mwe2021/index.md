@@ -45,119 +45,46 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 -----
 ### <a name="program"> Program </a>
 
-<!--
-14:00- 14:10 Welcome and Preparation
-
-14:10 -15:50 **Session 1: Long Papers (1 hr 40 min)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  TBD
-  * Where do aspectual variants of light verb constructions belong?  
-     *Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura*  
-          
-  * Data-driven Identification of Idioms in Song Lyrics   
-    *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*
- 
-  * Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains (Findings of ACL)  
-    *Christian Lang, Lennart Wachowiak, Barbara Heinisch, Dagmar Gromann*   
- 
-  * Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity  
-    *Samin Fakharian and Paul Cook*  
- 
-  * PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing   
-    *Jianing Zhou, Hongyu Gong and Suma Bhat* 
-
-
-15:50 - 16:05 **Break (15 min)**
-
-16:05- 17:05 **Session 2: Invited Talk (60 min)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  Paul Cook  
-
-   * <b>A Long hard look at MWEs in the age of Language Models  
-      *Vered Shwartz*</b>
-      
-      <details markdown="block">
-      <summary>
-      <span style="color: blue;"> Click here for more details </span>
-      </summary>
-      
-      ---
-      
-      <b>Bio</b> <br>
-      **Vered Shwartz** is a postdoctoral researcher at the Allen Institute for AI (AI2) and the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, multiword expressions, and commonsense reasoning.
-  
-      <b> Abstract</b> <br>
-      In recent years, language models (LMs) have become almost synonymous with NLP. Pre-trained to “read” a large text corpus, such models are useful as both a representation layer as well as a source of world knowledge. But how well do they represent MWEs? This talk will discuss various problems in rep-resenting MWEs, and the extent to which LMs address them:
-  
-      - Do LMs capture the implicit relationship between constituents in compositional MWEs (from *baby oil* through *parsley cake* to *cheese-burger stabbing*)?
-      - Do LMs recognize when words are used non-literally in non-compositional MWEs (e.g. do they know whether there are fleas in the *flea market*)?
-      - Do LMs know idioms, and can they infer the meaning of new idioms from the context as humans often do?
-  
-      ---
-  
-      </details>
- 
-17:05 -17:20  **Break (15 min)**
-
-17:20 -18:05 **Session 3: Short Papers (45 min)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  Vered Shwartz  
-
-   * Lexical Semantic Recognition   
-     *Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*
-    
-   * Finding BERT’s Idiomatic Key   
-      *Vasudevan Nedumpozhimana and John Kelleher*
-      
-   * Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs  
-    *Jens Fleischhauer*
-    
-18:05- 18:20 **Break (15 min)**  
-
-18:20 -19:00 **Session 4: Joint panel with WOAH (Workshop on Online Abuse and Harms) (40 min)**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  Jelena Mitrović  
-
-19:00- 19:20 **Session 5: Section reporting and community discussion (20 min)**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chair:  Carlos Ramisch
-
--->
 Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 
-| 14:00- 14:10  &nbsp;&nbsp; | Welcome and Preparation                                                                             |
-|                |                                                                                                                 |
-|                | **Session 1: Long Papers (1h40min)**                                                                            |
-|                | Chair: TBD                                                                                                      |
-| 14:10-14:30    | Where do aspectual variants of light verb constructions belong? [[paper]](https://aclanthology.org/2021.mwe-1.2/)                                                 |
-|                | *Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura*                                                         |
-| 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics [[paper]](https://aclanthology.org/2021.mwe-1.3/)                                                            |
-|                | *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*                                               |
-| 14:50-15:10    | Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains       |
-|                | *Christian Lang, Lennart Wachowiak, Barbara Heinisch, Dagmar Gromann*                                           |
-| 15:10-15:30    | Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity [[paper]](https://aclanthology.org/2021.mwe-1.4/)                       |
-|                | *Samin Fakharian and Paul Cook*                                                                                 |
-| 15:30-15:50    | PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing [[paper]](https://aclanthology.org/2021.mwe-1.5/)                 |
-|                | *Jianing Zhou, Hongyu Gong and Suma Bhat*                                                                       |
-|                |                                                                                                                 |
-| 15:50 - 16:05  | **Break (15 min)**                                                                                              |
-|                |                                                                                                                 |
-|                | **Session 2: Invited talk (60min)**<br>Chair: TBD                                                               |
-| 16:05- 17:05   | [A long hard look at MWEs in the age of Language Models](#keynote)                                              |
-|                | *Vered Shwartz*                                                                                                 |
-|                |                                                                                                                 |
-| 17:05- 17:20   | **Break (15 min)**                                                                                              |
-|                |                                                                                                                 |
-|                | **Session 3: Short Papers (45min)**<br>Chair: TBD                                                               |
-| 17:20-17:35    | Lexical Semantic Recognition [[paper]](https://aclanthology.org/2021.mwe-1.6/)                                                                                   |
-|                | *Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*                                     |
-| 17:35-17:50    | Finding BERT’s Idiomatic Key [[paper]](https://aclanthology.org/2021.mwe-1.7/)                                                                                   |
-|                | *Vasudevan Nedumpozhimana and John Kelleher*                                                                    |
-| 17:50-18:05    | Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs [[paper]](https://aclanthology.org/2021.mwe-1.8/)                     |
-|                | *Jens Fleischhauer*                                                                                             |
-|                |                                                                                                                 |
-| 18:05- 18:20   | **Break (15min)**                                                                                               |
-|                |                                                                                                                 |
-| 18:20-19:00    | **Session 4: Joint panel with WOAH: [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home) (40min)**                                |
-|                | Chair: TBD                                                                                                      |
-|                |                                                                                                                 |
-| 19:00- 19:20   | **Session 5: Section reporting and community discussion (20min)**                                               |
-|                | Chair: TBD                                                                                                      |
+| 14:00- 14:10  &nbsp;&nbsp; | Welcome and Preparation                                                                              | 
+|                |                                                                                                                  |
+|                | **Session 1: Long Papers (1h40min)**                                                                             |
+|                | Chair: TBD                                                                                                       |
+| 14:10-14:30    | Where do aspectual variants of light verb constructions belong? [[paper](https://aclanthology.org/2021.mwe-1.2/)]|
+|                | *Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura*                                                          |
+| 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics [[paper](https://aclanthology.org/2021.mwe-1.3/)]            |
+|                | *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*                                                |
+| 14:50-15:10    | Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains [[Findings paper](https://aclanthology.org/2021.findings-acl.316/)] |
+|                | *Christian Lang, Lennart Wachowiak, Barbara Heinisch, Dagmar Gromann*                                            |
+| 15:10-15:30    | Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity [[paper](https://aclanthology.org/2021.mwe-1.4/)] |
+|                | *Samin Fakharian and Paul Cook*                                                                                  |
+| 15:30-15:50    | PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing [[paper](https://aclanthology.org/2021.mwe-1.5/)] |
+|                | *Jianing Zhou, Hongyu Gong and Suma Bhat*                                                                        |
+|                |                                                                                                                  |
+| 15:50 - 16:05  | **Break (15 min)**                                                                                               |
+|                |                                                                                                                  |
+|                | **Session 2: Invited talk (60min)**<br>Chair: Paul Cook                                                          |
+| 16:05- 17:05   | [A long hard look at MWEs in the age of Language Models](#keynote)                                               |
+|                | *Vered Shwartz*                                                                                                  |
+|                |                                                                                                                  |
+| 17:05- 17:20   | **Break (15 min)**                                                                                               |
+|                |                                                                                                                  |
+|                | **Session 3: Short Papers (45min)**<br>Chair: Vered Shwartz                                                      |
+| 17:20-17:35    | Lexical Semantic Recognition [[paper](https://aclanthology.org/2021.mwe-1.6/)]                                   |
+|                | *Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*                                      |
+| 17:35-17:50    | Finding BERT’s Idiomatic Key [[paper](https://aclanthology.org/2021.mwe-1.7/)]                                   |
+|                | *Vasudevan Nedumpozhimana and John Kelleher*                                                                     |
+| 17:50-18:05    | Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs [[paper](https://aclanthology.org/2021.mwe-1.8/)] |
+|                | *Jens Fleischhauer*                                                                                              |
+|                |                                                                                                                  |
+| 18:05- 18:20   | **Break (15min)**                                                                                                |
+|                |                                                                                                                  |
+| 18:20-19:00    | **Session 4: Joint panel with WOAH: [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home) (40min)** |
+|                | Chair: Jelena Mitrović                                                                                           |
+|                |                                                                                                                  |
+| 19:00- 19:20   | **Session 5: Section reporting and community discussion (20min)**                                                |
+|                | Chair: Carlos Ramisch                                                                                            |
 
 -----
 
