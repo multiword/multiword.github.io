@@ -81,7 +81,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 | 18:05- 18:20   | **Break (15min)**                                                                                                |
 |                |                                                                                                                  |
 | 18:20-19:00    | **Session 4: Joint panel with WOAH: [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home) (40min)** |
-|                | Chair: Jelena Mitrović                                                                                           |
+|                | Chair: Jelena Mitrović and Bertie Vidgen                                                                         |
 |                |                                                                                                                  |
 | 19:00- 19:20   | **Session 5: Section reporting and community discussion (20min)**                                                |
 |                | Chair: Carlos Ramisch                                                                                            |
