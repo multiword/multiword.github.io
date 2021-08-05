@@ -48,9 +48,10 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 
 | 14:00- 14:10  &nbsp;&nbsp; | Welcome and Preparation                                                                              | 
+|                | Zoom live session                                                                                                |
 |                |                                                                                                                  |
 |                | **Session 1: Long Papers (1h40min)**                                                                             |
-|                | Chair: Preslav Nakov                                                                                                       |
+|                | Chair: Preslav Nakov — Zoom live session                                                                         |
 | 14:10-14:30    | Where do aspectual variants of light verb constructions belong? [[paper](https://aclanthology.org/2021.mwe-1.2/)]|
 |                | *Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura*                                                          |
 | 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics [[paper](https://aclanthology.org/2021.mwe-1.3/)]            |
@@ -64,13 +65,15 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 |                |                                                                                                                  |
 | 15:50 - 16:05  | **Break (15 min)**                                                                                               |
 |                |                                                                                                                  |
-|                | **Session 2: Invited talk (60min)**<br>Chair: Paul Cook                                                          |
+|                | **Session 2: Invited talk (60min)**                                                                              |
+|                | Chair: Paul Cook — Zoom live session                                                                             |
 | 16:05- 17:05   | [A long hard look at MWEs in the age of Language Models](#keynote)                                               |
 |                | *Vered Shwartz*                                                                                                  |
 |                |                                                                                                                  |
 | 17:05- 17:20   | **Break (15 min)**                                                                                               |
 |                |                                                                                                                  |
-|                | **Session 3: Short Papers (45min)**<br>Chair: Vered Shwartz                                                      |
+|                | **Session 3: Short Papers (45min)**                                                                              |
+|                | Chair: Vered Shwartz — Zoom live session                                                                         |
 | 17:20-17:35    | Lexical Semantic Recognition [[paper](https://aclanthology.org/2021.mwe-1.6/)]                                   |
 |                | *Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*                                      |
 | 17:35-17:50    | Finding BERT’s Idiomatic Key [[paper](https://aclanthology.org/2021.mwe-1.7/)]                                   |
@@ -82,9 +85,11 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 |                |                                                                                                                  |
 | 18:20-19:00    | **Session 4: Joint panel with WOAH: [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home) (40min)** |
 |                | Chair: Jelena Mitrović and Bertie Vidgen                                                                         |
+|                | ACL 2021's Gather.town → [Thematic spaces → D&I rooms / Thematic Spaces → Machine Translation table](jointsessionmap.png)|
 |                |                                                                                                                  |
 | 19:00- 19:20   | **Session 5: Section reporting and community discussion (20min)**                                                |
-|                | Chair: Carlos Ramisch                                                                                            |
+|                | Zoom live session **open to all MWE Section members**                                                            |
+|                | Chair: Carlos Ramisch — Zoom live session **open to all MWE Section members**                                    |
 
 -----
 
