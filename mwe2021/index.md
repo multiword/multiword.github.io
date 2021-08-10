@@ -53,7 +53,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 
 | 14:00-14:10&nbsp;&nbsp;| Welcome and Preparation                                                                                  | 
-|                | Zoom live session [[slides](slides/opening.pdf)]                                                                 |
+|                | Zoom live session [[slides](slides/mwe2021-opening.pdf)]                                                                 |
 |                |                                                                                                                  |
 |                | **Session 1: Long Papers (1h40min)**                                                                             |
 |                | Chair: Preslav Nakov — Zoom live session                                                                         |
@@ -62,7 +62,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 |                | [[paper](https://aclanthology.org/2021.mwe-1.2/)][[slides](slides/mwe-1.2-laporte.pdf)]                          |
 | 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics                                                              |
 |                | *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*                                                |
-|                | [[paper](https://aclanthology.org/2021.mwe-1.3/)][[slides](slides/mwe-1.4-fakharian.pdf)]                        |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.3/)][[slides](slides/mwe-1.3-amin.pdf)]                        |
 | 14:50-15:10    | Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains        |
 |                | *Christian Lang, Lennart Wachowiak, Barbara Heinisch, Dagmar Gromann*                                            |
 |                | [[ACL Findings paper](https://aclanthology.org/2021.findings-acl.316/)][[slides](slides/mwe-findings-lang.pdf)]  |
