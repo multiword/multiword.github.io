@@ -103,7 +103,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 |                |                                                                                                                  |
 | 19:00- 19:20   | **Session 5: Section reporting and community discussion (20min)**                                                |
 |                | Chair: Carlos Ramisch — Zoom live session **open to all MWE Section members**                                    |
-|                | [[slides](slides/mwe2021-community-discussion)] [[SemEval task 2 slides](slides/semeval2022-task2.pdf)]          |
+|                | [[slides](slides/mwe2021-community-discussion.pdf)] [[SemEval task 2 slides](slides/semeval2022-task2.pdf)]          |
 
 -----
 
