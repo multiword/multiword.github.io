@@ -18,10 +18,15 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
+* **August 10, 2021**: Vered Shwartz's [invited talk](#keynote) pre-recorded video now available.
 * **May 06, 2021**: The [ACL-IJCNLP workshop dates](https://2021.aclweb.org/calls/workshops/) have been announced. MWE 2021 will take place on *August 6, 2021*.
 * **April 27, 2021**: Paper submission deadline is extended again to May 3, 2021.
 * **April 13, 2021**: Paper submission deadline is extended to April 26, 2021.
 * **April 08, 2021**: ACL-IJCNLP'2021 organizers have decided that the conference will use complete virtual format.
+
+-----
+
+<a href="mwe2021-group-picture.gif"><img class="img-fluid mx-auto d-block" alt="MWE 2021 group picture" src="mwe2021-group-picture-small.png"/></a>
 
 -----
 
@@ -47,21 +52,26 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 
-| 14:00- 14:10  &nbsp;&nbsp; | Welcome and Preparation                                                                              | 
-|                | Zoom live session                                                                                                |
+| 14:00-14:10&nbsp;&nbsp;| Welcome and Preparation                                                                                  | 
+|                | Zoom live session [[slides](slides/opening.pdf)]                                                                 |
 |                |                                                                                                                  |
 |                | **Session 1: Long Papers (1h40min)**                                                                             |
 |                | Chair: Preslav Nakov — Zoom live session                                                                         |
-| 14:10-14:30    | Where do aspectual variants of light verb constructions belong? [[paper](https://aclanthology.org/2021.mwe-1.2/)]|
+| 14:10-14:30    | Where do aspectual variants of light verb constructions belong?                                                  |
 |                | *Aggeliki Fotopoulou, Eric Laporte and Takuya Nakamura*                                                          |
-| 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics [[paper](https://aclanthology.org/2021.mwe-1.3/)]            |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.2/)][[slides](slides/mwe-1.2-laporte.pdf)]                          |
+| 14:30-14:50    | Data-driven Identification of Idioms in Song Lyrics                                                              |
 |                | *Miriam Amin, Peter Fankhauser, Marc Kupietz and Roman Schneider*                                                |
-| 14:50-15:10    | Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains [[Findings paper](https://aclanthology.org/2021.findings-acl.316/)] |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.4/)][[slides](slides/mwe-1.4-fakharian.pdf)]                        |
+| 14:50-15:10    | Transforming Term Extraction: Transformer-Based Approaches to Multilingual Term Extraction Across Domains        |
 |                | *Christian Lang, Lennart Wachowiak, Barbara Heinisch, Dagmar Gromann*                                            |
-| 15:10-15:30    | Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity [[paper](https://aclanthology.org/2021.mwe-1.4/)] |
+|                | [[ACL Findings paper](https://aclanthology.org/2021.findings-acl.316/)][[slides](slides/mwe-findings-lang.pdf)]  |
+| 15:10-15:30    | Contextualized Embeddings Encode Monolingual and Cross-lingual Knowledge of Idiomaticity                         |
 |                | *Samin Fakharian and Paul Cook*                                                                                  |
-| 15:30-15:50    | PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing [[paper](https://aclanthology.org/2021.mwe-1.5/)] |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.4/)][[slides](slides/mwe-1.4-fakharian.pdf)]                        |
+| 15:30-15:50    | PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing                   |
 |                | *Jianing Zhou, Hongyu Gong and Suma Bhat*                                                                        |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.5/)][[slides](slides/mwe-1.5-zhou.pdf)]                             |
 |                |                                                                                                                  |
 | 15:50 - 16:05  | **Break (15 min)**                                                                                               |
 |                |                                                                                                                  |
@@ -69,27 +79,31 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 |                | Chair: Paul Cook — Zoom live session                                                                             |
 | 16:05- 17:05   | [A long hard look at MWEs in the age of Language Models](#keynote)                                               |
 |                | *Vered Shwartz*                                                                                                  |
+|                | [[abstract](https://aclanthology.org/2021.mwe-1.1/)][[video](https://www.youtube.com/watch?v=Opc46DDVsP4)]       |
 |                |                                                                                                                  |
 | 17:05- 17:20   | **Break (15 min)**                                                                                               |
 |                |                                                                                                                  |
 |                | **Session 3: Short Papers (45min)**                                                                              |
 |                | Chair: Vered Shwartz — Zoom live session                                                                         |
-| 17:20-17:35    | Lexical Semantic Recognition [[paper](https://aclanthology.org/2021.mwe-1.6/)]                                   |
+| 17:20-17:35    | Lexical Semantic Recognition                                                                                     |
 |                | *Nelson F. Liu, Daniel Hershcovich, Michael Kranzlein and Nathan Schneider*                                      |
-| 17:35-17:50    | Finding BERT’s Idiomatic Key [[paper](https://aclanthology.org/2021.mwe-1.7/)]                                   |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.6/)][[slides](slides/mwe-1.6-liu.pdf)]                              |
+| 17:35-17:50    | Finding BERT’s Idiomatic Key                                                                                     |
 |                | *Vasudevan Nedumpozhimana and John Kelleher*                                                                     |
-| 17:50-18:05    | Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs [[paper](https://aclanthology.org/2021.mwe-1.8/)] |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.7/)][[slides](slides/mwe-1.7-nedumpozhimana.pdf)]                   |
+| 17:50-18:05    | Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs                       |
 |                | *Jens Fleischhauer*                                                                                              |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.8/)][[slides](slides/mwe-1.8-fleischhauer.pdf)]                     |
 |                |                                                                                                                  |
 | 18:05- 18:20   | **Break (15min)**                                                                                                |
 |                |                                                                                                                  |
-| 18:20-19:00    | **Session 4: Joint panel with WOAH: [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home) (40min)** |
+| 18:20-19:00    | **Session 4: Joint panel with [Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/home) (40min)** |
 |                | Chair: Jelena Mitrović and Bertie Vidgen                                                                         |
-|                | ACL 2021's Gather.town → [Thematic spaces → D&I rooms / Thematic Spaces → Machine Translation table](jointsessionmap.png)|
+|                | ACL 2021's Gather.town → [Thematic spaces → D&I rooms/Thematic Spaces → Machine Translation](jointsessionmap.png)|
 |                |                                                                                                                  |
 | 19:00- 19:20   | **Session 5: Section reporting and community discussion (20min)**                                                |
-|                | Zoom live session **open to all MWE Section members**                                                            |
 |                | Chair: Carlos Ramisch — Zoom live session **open to all MWE Section members**                                    |
+|                | [[slides](slides/mwe2021-community-discussion)] [[SemEval task 2 slides](slides/semeval2022-task2.pdf)]          |
 
 -----
 
@@ -97,7 +111,9 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
  
 **A Long hard look at MWEs in the age of Language Models** <br/>
 *[Vered Shwartz](https://vered1986.github.io/)*
-      
+
+Now available as a [pre-recorded video](https://www.youtube.com/watch?v=Opc46DDVsP4)!
+
 **Bio**: Vered Shwartz is a postdoctoral researcher at the Allen Institute for AI (AI2) and the University of Washington. She will join the Department of Computer Science at the University of British Columbia as an Assistant Professor in fall 2021. Her research interests include computational semantics and pragmatics, multiword expressions, and commonsense reasoning.
 
 **Abstract**: In recent years, language models (LMs) have become almost synonymous with NLP. Pre-trained to “read” a large text corpus, such models are useful as both a representation layer as well as a source of world knowledge. But how well do they represent MWEs? This talk will discuss various problems in rep-resenting MWEs, and the extent to which LMs address them:
@@ -194,7 +210,7 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 - ~~**May 3, 2021: RE-EXTENDED Paper Submission Deadline** (there will be no further extension)~~
 - ~~May 28, 2021: Notification of Acceptance~~
 - ~~June 7, 2021: Camera-ready papers due~~
-- August 6, 2021: Workshop
+~~- August 6, 2021: Workshop~~
 
 -----
 
