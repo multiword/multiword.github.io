@@ -93,7 +93,7 @@ Friday August 6th 2021, All times **CEST** (Central European Summer Time)
 |                | [[paper](https://aclanthology.org/2021.mwe-1.7/)][[slides](slides/mwe-1.7-nedumpozhimana.pdf)]                   |
 | 17:50-18:05    | Light verb constructions and their families - A corpus study on German 'stehen unter'-LVCs                       |
 |                | *Jens Fleischhauer*                                                                                              |
-|                | [[paper](https://aclanthology.org/2021.mwe-1.8/)][[slides](slides/mwe-1.8-fleischhauer.pdf)]                     |
+|                | [[paper](https://aclanthology.org/2021.mwe-1.8/)][[slides](slides/mwe-1.8-fleischhauer.pdf)][[video](https://mediathek.hhu.de/watch/876a7b91-03d5-4893-879c-d2ca8d373fb3)] |
 |                |                                                                                                                  |
 | 18:05- 18:20   | **Break (15min)**                                                                                                |
 |                |                                                                                                                  |
