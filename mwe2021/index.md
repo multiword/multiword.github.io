@@ -210,7 +210,7 @@ All deadlines are at 23:59 UTC-12 (anywhere in the world).
 - ~~**May 3, 2021: RE-EXTENDED Paper Submission Deadline** (there will be no further extension)~~
 - ~~May 28, 2021: Notification of Acceptance~~
 - ~~June 7, 2021: Camera-ready papers due~~
-~~- August 6, 2021: Workshop~~
+- ~~August 6, 2021: Workshop~~
 
 -----
 
