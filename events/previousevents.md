@@ -5,9 +5,13 @@ layout: default
 
 ## MWE workshops and related events
 
-Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section or endorsed by SIGLEX).
+Overview of the workshops dedicated to MWEs (organised by the SIGLEX-MWE section or endorsed by SIGLEX-MWE).
 
 Proceedings of most MWE workshops can be found on the [ACL anthology page on MWE workshops](https://www.aclweb.org/anthology/venues/mwe/).
+
+### 2022
+
+* SEMEVAL 2022 [Task 2 - Multilingual Idiomaticity Detection and Sentence Embedding](https://sites.google.com/view/semeval2022task2-idiomaticity)
 
 ### 2021
 
