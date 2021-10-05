@@ -7,6 +7,8 @@ layout: default
 
 The section's past officers (not currently serving in the standing committee) compose the section's advisory committee.
 
+- [Petya Osenova](http://bultreebank.org/en/our-team/petya-osenova/) (Sofia University and Bulgarian Academy of Sciences, Bulgaria) - nominated officer in 2019-2021  
+- [Ashwini Vaidya](https://web.iitd.ac.in/~avaidya/) (Indian Institute of Technology, Delhi, India) - nominated officer in 2019-2021
 - [Jelena Mitrović](https://www.linkedin.com/in/jelena-mitrovi%C4%87-78354711/) (University of Passau, Germany) - nominated officer in 2018-2020  
 - [Carla Parra Escartín](https://sites.google.com/site/carlaparraescartin/) (Iconic Translation Machines, Ireland) - nominated officer in 2018-2020  
 - [Agata Savary](http://www.info.univ-tours.fr/~savary/) (Université François Rabelais Tours, France) - elected section representative at the [SIGLEX board](https://siglex.org/board/2016.html) in 2016-2020  
