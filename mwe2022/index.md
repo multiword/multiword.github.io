@@ -9,7 +9,7 @@ layout: default
 ## 18th Workshop on Multiword Expressions (MWE 2022)
 **Planned to be colocated with [LREC 2022](https://lrec2022.lrec-conf.org/) (Marseille, France), Date: TBD**
 
-Organised and sponsored by:\
+**Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
 
 <a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
