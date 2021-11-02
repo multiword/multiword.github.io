@@ -26,8 +26,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
   <summary>
     Contents on this page
   </summary>
-- [Program](#program)
-- [Keynote talk](#keynote)
+<!---- [Program](#program)--->
+<!---- [Keynote talk](#keynote)--->
 <!---- [Accepted papers](#papers)--->
 - [Description](#description)
 - [Submission modalities](#submission)
@@ -35,16 +35,6 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Program committee](#committee)
 - [Contact](#contact)
 </details>
-
------
-
-### <a name="program"> Program </a>
-TBA
-
------
-
-### <a name="keynote"> Keynote talk </a>
-TBA
 
 -----
 
