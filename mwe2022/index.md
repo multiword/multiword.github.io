@@ -161,6 +161,6 @@ The workshop will invite two types of submissions:
 
 ### <a name="contact"> Contact </a>
 
-For any inquiries regarding the workshop please send an email to [siglex-mwe-board@googlegroups.com ](siglex-mwe-board@googlegroups.com )
+For any inquiries regarding the workshop please send an email to [mweworkshop2022@gmail.com ](mweworkshop2022@gmail.com )
 
 Please register to [SIGLEX](../organization/members) and check the "MWE Section" box to be registered to our [mailing list](../mailinglist).
