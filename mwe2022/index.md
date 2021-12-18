@@ -32,6 +32,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 <!---- [Accepted papers](#papers)--->
 - [Description](#description)
 - [Submission modalities](#submission)
+- [Important dates](#dates)
 - [Organizers](#organizers)
 - [Program committee](#committee)
 - [Contact](#contact)
@@ -81,6 +82,14 @@ The MWE Section would like to pursue its efforts in building bridges with other 
 The workshop will invite two types of submissions:
 - **Archival submissions** present substantially original research. Submissions will follow the [LREC stylesheet](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/). They can be **long papers** (8 content pages + references) or **short papers** (4 content pages + references). One **extra page** will be granted for the final versions. The decisions as to **oral or poster presentations** will be taken by the PC chairs, with no distinction in the proceedings. Submission will be **double-blind**.
 - **Non-archival submissions** of abstracts will also be considered for presentation, but not included in the proceedings. Abstracts will go through a light reviewing process.
+
+-----
+
+### <a name="dates"> Important Dates </a>
+Paper Submission Deadline: April 8, 2022
+Notification of Acceptance: May 3, 2022
+Camera-ready Papers Deadline: May 23, 2022
+Workshop: June 25, 2022
 
 -----
 
