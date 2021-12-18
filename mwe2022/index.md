@@ -86,9 +86,9 @@ The workshop will invite two types of submissions:
 -----
 
 ### <a name="dates"> Important Dates </a>
-Paper Submission Deadline: April 8, 2022
-Notification of Acceptance: May 3, 2022
-Camera-ready Papers Deadline: May 23, 2022
+**Paper Submission Deadline: April 8, 2022**<br>
+Notification of Acceptance: May 3, 2022<br>
+Camera-ready Papers Deadline: May 23, 2022<br>
 Workshop: June 25, 2022
 
 -----
