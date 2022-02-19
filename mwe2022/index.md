@@ -96,7 +96,7 @@ The **double-blind** submissions (Archival submissions) should adhere to the [AC
 
 The [PMWE book series](https://langsci-press.org/catalog/series/pmwe) editors have put forward a list of conventions to [cite multilingual MWE examples](https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf) and a [checklist for PMWE authors](https://gitlab.com/parseme/pmwe/-/wikis/Checklist%20for%20authors%20and%20volume%20editors). Parts of the checklist are specific to PMWE authors, but sections like _Terms, abbreviations and spelling_ can be relevant for MWE 2022 submissions. We encourage authors to adopt these conventions whenever relevant, without enforcing them. We hope that, in the long term, these could become widely adopted standards in the community.
 
-All papers should be submitted via the workshop's START space. Please choose the appropriate submission modality as described in the Sumbission modalities section above.
+All submissions should be done via the workshop's START space. Please choose the appropriate submission modality as described in the Sumbission modalities section above.
 
 -----
 
