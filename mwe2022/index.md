@@ -39,6 +39,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Organizers](#organizers)
 - [Program committee](#committee)
 - [Contact](#contact)
+- [Anti-harassment policy](#antiharassment)
 </details>
 
 -----
@@ -189,3 +190,9 @@ Workshop: June 25, 2022
 For any inquiries regarding the workshop please send an email to [mweworkshop2022@gmail.com ](mweworkshop2022@gmail.com )
 
 Please register to [SIGLEX](../organization/members) and check the "MWE Section" box to be registered to our [mailing list](../mailinglist).
+
+-----
+
+### <a name="antiharassment"> Anti-harassment policy </a>
+
+The workshop supports the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
