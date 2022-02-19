@@ -85,6 +85,8 @@ The workshop invites two types of submissions:
 - **Archival submissions** present substantially original research. Submissions will follow the [LREC stylesheet](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/). They can be long papers (8 content pages + references) or short papers (4 content pages + references). The decisions as to oral or poster presentations will be taken by the PC chairs, with no distinction in the proceedings. Submission will be **double-blind**.
 - **Non-archival submissions** of abstracts will also be considered for presentation, but not included in the proceedings. They can be abstracts describing preliminary results, work in progress, or ongoing projects or abstracts of papers recently submitted or published at other venues (conferences, journals, book chapters). Abstracts are not anonymous and will go through a light reviewing process.
 
+All papers should be submitted via the workshop's START submission space. Please choose the appropriate link for standard [Archival submission](https://www.softconf.com/lrec2022/MWE/user/scmd.cgi?scmd=submitPaperCustom&pageid=0) or for [the Non-archival submission](https://www.softconf.com/lrec2022/MWE/user/scmd.cgi?scmd=submitPaperCustom&pageid=1). Registering to the workshop will be necessary to present both archival and non-archival submissions. Presentation and participation formats (on-line, on-site, both) will depend on LREC 2022 main conference arrangements and will be announced later.
+
 -----
 
 ### <a name="dates"> Important Dates </a>
