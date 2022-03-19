@@ -36,6 +36,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 <!---- [Keynote talk](#keynote)--->
 <!---- [Accepted papers](#papers)--->
 - [Description](#description)
+- [Keynote speakers](#keynotes) 
 - [Submission modalities](#submission)
 - [Instructions for authors](#instructions)
 - [Important dates](#dates)
@@ -82,6 +83,13 @@ Through this workshop, we would like to bring together and encourage researchers
 ##### Joint session with SIGUL 2022 Workshop
 
 The MWE Section would like to pursue its efforts in building bridges with other communities. We intend to organise a joint session with the workshop of the [Special Interest Group on Under-resourced Languages](http://www.elra.info/en/sig/sigul/), SIGUL 2022, which proposal was also submitted to be co-located with LREC 2022. The goal is to foster future synergies that could address scientific challenges in the creation of resources, models and applications to deal with multiword expressions and related phenomena in low-resource scenarios, in accordance with one of our special topics in MWE 2022.  The session format is currently under discussion. This would require some overlap between the schedules of both workshops, implying synchronisation as to whether both of them take place before or after LREC 2022.
+
+-----
+
+### <a name="keynotes"> Keynote Speakers </a>
+This year, we are going to have two amazing talks by:
+- [Sabine Schulte im Walde](http://www.schulteimwalde.de), University of Stuttgart
+- [Steven Bird](http://www.stevenbird.net), Charles Darwin University
 
 -----
 
