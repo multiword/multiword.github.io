@@ -11,6 +11,8 @@ layout: default
 
 **Date of the Workshop:** June 25, 2022
 
+**Paper Submission Deadline: <font color="red">April 8, 2022</font>**<br>
+
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
 
