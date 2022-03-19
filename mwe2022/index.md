@@ -20,6 +20,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
+* **March 19, 2022**: Final CFP posted.
+* **March, 2022**: Invited speakers at MWE 2022: Sabine Schulte im Walde (University of Stuttgart), Steven Bird (Charles Darwin University)
 * **February 21, 2022**: Second CFP posted.
 * **December 21, 2021**: First CFP posted.
 * **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
