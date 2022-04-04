@@ -11,7 +11,7 @@ layout: default
 
 **Date of the Workshop:** June 25, 2022
 
-**Paper Submission Deadline: <font color="red">April 8, 2022</font>**<br>
+**Paper Submission Deadline Extended: <font color="red">April 12, 2022 AoE</font>**<br>
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
@@ -22,6 +22,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
+* **April 04, 2022**: Paper submission deadline extended to April 12, 2022 (AoE).
 * **March 19, 2022**: Final CFP posted.
 * **March, 2022**: Invited speakers at MWE 2022: Sabine Schulte im Walde (University of Stuttgart), Steven Bird (Charles Darwin University)
 * **February 21, 2022**: Second CFP posted.
@@ -115,7 +116,7 @@ All submissions should be made via the workshop's START space. Please choose the
 -----
 
 ### <a name="dates"> Important Dates </a>
-Paper Submission Deadline: **<font color="red">April 8, 2022</font>**<br>
+Paper Submission Deadline: **<font color="red">April 12, 2022</font>**<br>
 Notification of Acceptance: May 3, 2022<br>
 Camera-ready Papers Deadline: May 23, 2022<br>
 Workshop: June 25, 2022
