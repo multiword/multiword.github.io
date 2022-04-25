@@ -11,7 +11,7 @@ layout: default
 
 **Date of the Workshop:** June 25, 2022
 
-**Paper Submission Deadline Extended: <font color="red">April 17, 2022 (AoE)</font>**<br>
+**Early-Bird Registration Deadline: <font color="red">May 6, 2022 (23:59 UTC+2)</font>**<br>
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
@@ -22,7 +22,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
-* **April 20, 2022**: LREC extended the <font color="red">Early-Bird Registration deadline</font> for the main conference and workshops to <font color="red">May 6, 2022 (23:59 UTC+2)</font>.
+* **April 20, 2022**: LREC extended the Early-Bird Registration deadline for the main conference and workshops to May 6, 2022 (23:59 UTC+2).
 * **April 12, 2022**: Paper submission deadline extended to April 17, 2022.
 * **April 04, 2022**: Paper submission deadline extended to April 12, 2022.
 * **March 19, 2022**: Final CFP posted.
