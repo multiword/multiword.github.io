@@ -11,11 +11,12 @@ Proceedings of most MWE workshops can be found on the [ACL anthology page on MWE
 
 ### 2022
 
+* LREC [18th Workshop on Multiword Expressions (MWE 2022)](../mwe2022) - June 25, 2022 - Marseille, France
 * SEMEVAL 2022 [Task 2 - Multilingual Idiomaticity Detection and Sentence Embedding](https://sites.google.com/view/semeval2022task2-idiomaticity)
 
 ### 2021
 
-* ACL [17th Workshop on Multiword Expressions (MWE 2021)](../mwe2021) - August 6 - <del>Bangkok, Thailand</del> Online
+* ACL [17th Workshop on Multiword Expressions (MWE 2021)](../mwe2021) - August 6, 2021 - <del>Bangkok, Thailand</del> Online
 
 ### 2020
 

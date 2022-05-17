@@ -224,8 +224,8 @@ For any inquiries regarding the workshop please send an email to [mweworkshop202
 
 Please register to [SIGLEX](../organization/members) and check the "MWE Section" box to be registered to our [mailing list](../mailinglist).
 
------
 
 ### <a name="antiharassment"> Anti-harassment policy </a>
 
 The workshop supports the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
+
