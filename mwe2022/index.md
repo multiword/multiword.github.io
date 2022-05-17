@@ -93,7 +93,7 @@ The MWE Section would like to pursue its efforts in building bridges with other 
 
 ### <a name="keynotes"> Keynote Speakers </a>
 This year, we are going to have two amazing talks by:
-- [Sabine Schulte im Walde](http://www.schulteimwalde.de), University of Stuttgart
+[Sabine Schulte im Walde](http://www.schulteimwalde.de), University of Stuttgart
 <ul>
 <li> <b>Title:</b> Figurative Language in Noun Compound Models across Target Properties, Domains and Time </li>
 <li> <b>Abstract:</b> A variety of distributional and multi-modal computational approaches has been suggested for modelling the degrees of compositionality across types of multiword expressions and languages. As the starting point of my talk, I will present standard variants of computational models that have been proven successful in predicting the compositionality of German and English noun compounds. The main part of the talk will then be concerned with investigating the general reliability of these standard models and discussing implications for gold-standard datasets: I will demonstrate how prediction results vary (i) across representations, (ii) across empirical target properties, (iii) across compound types, (iv) across levels of abstractness, and (v) for general- vs. domain-specific language. Finally, I will present a preliminary quantitative study on diachronic changes of noun compound meanings and compositionality over time. </li>
@@ -102,7 +102,7 @@ This year, we are going to have two amazing talks by:
 The topics of her research include synchronic and diachronic language variation and ambiguity; figurative languge usage in multiword expressions and metaphors; the creation of datasets with human judgements on meaning components and meaning relatedness; and the application of models to lexicography, machine translation, and terminology extraction.</li>
 </ul>
 
-- [Steven Bird](http://www.stevenbird.net), Charles Darwin University
+[Steven Bird](http://www.stevenbird.net), Charles Darwin University
 <ul>
 <li> <b>Title:</b> Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture </li>
 <li> <b>Abstract:</b> Research on multiword expressions and on under-resourced languages often begins with problematisation. The existence of non-compositional meaning, or the paucity of conventional language resources, are treated as problems to be solved. This perspective is associated with the view of Language as a lexico-grammatical code, and of NLP as a conventional sequence of computational tasks. In this talk, I share from my experience in an Australian Aboriginal community, where people tend to see language as an expression of identity and of ‘connection to country’. Here, my early attempts to collect language data were thwarted. There was no obvious role for tasks like speech recognition, parsing, or translation. Instead, working under the authority of local elders, I pivoted to language processing tasks that were more in keeping with local interests and aspirations. I describe these tasks and suggest some new ways of framing the work of NLP, and I explore implications for work on multiword expressions and on under-resourced languages. </li>
