@@ -93,6 +93,7 @@ The MWE Section would like to pursue its efforts in building bridges with other 
 
 ### <a name="keynotes"> Keynote Speakers </a>
 This year, we are going to have two amazing talks by:
+
 [Sabine Schulte im Walde](http://www.schulteimwalde.de), University of Stuttgart
 <ul>
 <li> <b>Title:</b> Figurative Language in Noun Compound Models across Target Properties, Domains and Time </li>
