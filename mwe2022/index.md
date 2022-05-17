@@ -11,6 +11,8 @@ layout: default
 
 **Date of the Workshop:** June 25, 2022
 
+**Early-Bird Registration Deadline: <font color="red">May 6, 2022 (23:59 UTC+2)</font>**<br>
+
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
 
@@ -20,8 +22,14 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
-* **December 9, 2022**: MWE-2022 proposal accepted at LREC 2022.
-* **November, 2022**: MWE-2022 proposal submitted to LREC 2022.
+* **April 20, 2022**: LREC extended the Early-Bird Registration deadline for the main conference and workshops to May 6, 2022 (23:59 UTC+2).
+* **April 12, 2022**: Paper submission deadline extended to April 17, 2022.
+* **April 04, 2022**: Paper submission deadline extended to April 12, 2022.
+* **March 19, 2022**: Final CFP posted.
+* **March, 2022**: Invited speakers at MWE 2022: Sabine Schulte im Walde (University of Stuttgart), Steven Bird (Charles Darwin University)
+* **February 21, 2022**: Second CFP posted.
+* **December 21, 2021**: First CFP posted.
+* **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
 
 -----
 
@@ -33,7 +41,9 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 <!---- [Keynote talk](#keynote)--->
 <!---- [Accepted papers](#papers)--->
 - [Description](#description)
+- [Keynote speakers](#keynotes) 
 - [Submission modalities](#submission)
+- [Instructions for authors](#instructions)
 - [Important dates](#dates)
 - [Organizers](#organizers)
 - [Program committee](#committee)
@@ -81,15 +91,34 @@ The MWE Section would like to pursue its efforts in building bridges with other 
 
 -----
 
+### <a name="keynotes"> Keynote Speakers </a>
+This year, we are going to have two amazing talks by:
+- [Sabine Schulte im Walde](http://www.schulteimwalde.de), University of Stuttgart
+- [Steven Bird](http://www.stevenbird.net), Charles Darwin University
+
+-----
+
 ### <a name="submission"> Submission modalities </a>
-The workshop will invite two types of submissions:
-- **Archival submissions** present substantially original research. Submissions will follow the [LREC stylesheet](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/). They can be **long papers** (8 content pages + references) or **short papers** (4 content pages + references). One **extra page** will likely be granted for the final versions. The decisions as to **oral or poster presentations** will be taken by the PC chairs, with no distinction in the proceedings. Submission will be **double-blind**.
-- **Non-archival submissions** of abstracts will also be considered for presentation, but not included in the proceedings. Abstracts will go through a light reviewing process.
+The workshop invites two types of submissions:
+- **Archival submissions** present substantially original research. Submissions will follow the [LREC stylesheet](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/). They can be long papers (8 content pages + references) or short papers (4 content pages + references). The decisions as to oral or poster presentations will be taken by the PC chairs, with no distinction in the proceedings. Submission will be **double-blind**.
+- **Non-archival submissions** of abstracts will also be considered for presentation, but not included in the proceedings. They can be abstracts describing preliminary results, work in progress, or ongoing projects or abstracts of papers recently submitted or published at other venues (conferences, journals, book chapters). Abstracts are not anonymous and will go through a light reviewing process.
+
+All papers should be submitted via the workshop's START submission space. Please choose the appropriate link for standard [Archival submission](https://www.softconf.com/lrec2022/MWE/user/scmd.cgi?scmd=submitPaperCustom&pageid=0) or for the [Non-archival submission](https://www.softconf.com/lrec2022/MWE/user/scmd.cgi?scmd=submitPaperCustom&pageid=1). Registering to the workshop will be necessary to present both archival and non-archival submissions. Presentation and participation formats (on-line, on-site, both) will depend on LREC 2022 main conference arrangements and will be announced later.
+
+-----
+
+### <a name="instructions"> Instructions for authors </a>
+
+The **double-blind** submissions (Archival submissions) should adhere to the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). There is no limit on the number of reference pages.
+
+The [PMWE book series](https://langsci-press.org/catalog/series/pmwe) editors have put forward a list of conventions to [cite multilingual MWE examples](https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf) and a [checklist for PMWE authors](https://gitlab.com/parseme/pmwe/-/wikis/Checklist%20for%20authors%20and%20volume%20editors). Parts of the checklist are specific to PMWE authors, but sections like _Terms, abbreviations and spelling_ can be relevant for MWE 2022 submissions. We encourage authors to adopt these conventions whenever relevant, without enforcing them. We hope that, in the long term, these could become widely adopted standards in the community.
+
+All submissions should be made via the workshop's START space. Please choose the appropriate submission modality as described in the Sumbission modalities section above.
 
 -----
 
 ### <a name="dates"> Important Dates </a>
-Paper Submission Deadline: **<font color="red">April 8, 2022</font>**<br>
+Paper Submission Deadline: **<font color="red">April 17, 2022</font>**<br>
 Notification of Acceptance: May 3, 2022<br>
 Camera-ready Papers Deadline: May 23, 2022<br>
 Workshop: June 25, 2022
