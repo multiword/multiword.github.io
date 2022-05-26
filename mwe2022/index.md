@@ -110,7 +110,7 @@ The topics of her research include synchronic and diachronic language variation 
 Steven studied computer science at the University of Melbourne before completing a PhD in computational linguistics at the University of Edinburgh. He has conducted fieldwork on endangered languages in West Africa, South America, Central Asia, Melanesia, and Australia. He has held academic positions at the Universities of Edinburgh, Pennsylvania, Melbourne, and UC Berkeley. He holds a secondary appointment as Senior Research Scientist at the International Computer Science Institute, UC Berkeley. He serves as Linguist at the Nawarddeken Academy in West Arnhem.
 
 Steven is leading the Top End Language Lab. </li>
-<li> <b>Note:</b> This talk is shared with SIGUL. </li>
+<li> <b>Note:</b> This talk is scheduled for the shared session MWE+SIGUL. </li>
 </ul>
 
 -----
