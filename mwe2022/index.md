@@ -11,8 +11,6 @@ layout: default
 
 **Date of the Workshop:** June 25, 2022
 
-**Early-Bird Registration Deadline: <font color="red">May 6, 2022 (23:59 UTC+2)</font>**<br>
-
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
 
