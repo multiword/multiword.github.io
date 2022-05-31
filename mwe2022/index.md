@@ -3,10 +3,8 @@ title: Multiword Expressions Workshop 2022
 layout: default
 ---
 
-<!-- * TOC
-{:toc} -->
 
-## 18th Workshop on Multiword Expressions (MWE 2022)
+<h2>18th Workshop on Multiword Expressions (MWE 2022)</h2>
 **Colocated with [LREC 2022](https://lrec2022.lrec-conf.org/) (Marseille, France)**
 
 **Date of the Workshop:** June 25, 2022
@@ -20,6 +18,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### News
 
+* **May 31, 2022**: Preliminary program online.
 * **April 20, 2022**: LREC extended the Early-Bird Registration deadline for the main conference and workshops to May 6, 2022 (23:59 UTC+2).
 * **April 12, 2022**: Paper submission deadline extended to April 17, 2022.
 * **April 04, 2022**: Paper submission deadline extended to April 12, 2022.
@@ -35,23 +34,130 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
   <summary>
     Contents on this page
   </summary>
-<!---- [Program](#program)--->
-<!---- [Keynote talk](#keynote)--->
-<!---- [Accepted papers](#papers)--->
-- [Description](#description)
+* TOC
+{:toc}
+<!-- 
+- [Program](#program)
 - [Keynote speakers](#keynotes) 
+- [Description](#description)
 - [Submission modalities](#submission)
 - [Instructions for authors](#instructions)
 - [Important dates](#dates)
 - [Organizers](#organizers)
 - [Program committee](#committee)
 - [Contact](#contact)
-- [Anti-harassment policy](#antiharassment)
+- [Anti-harassment policy](#antiharassment)-->
 </details>
 
 -----
 
-<!---### <a name="papers"> Accepted papers </a>--->
+### <a name="program"> Program </a>
+
+* Saturday June 25th 2022, All times **CEST** (Central European Summer Time)
+* Room (on-site participation) and zoom link (virtual participation) to be announed
+
+
+| 09:00-09:10&nbsp;&nbsp;| Opening | 
+| | |
+|                | **Session 1** |
+|                | Chair: TBA |
+| 09:10-09:25    | A General Framework for Detecting Metaphorical Collocations (short, on-site) |
+|                | *Marija Brkić Bakarić, Lucia Načinović Prskalo and Maja Popović* |
+| 09:25-09:40    | Improving Grammatical Error Correction for Multiword Expressions (short, on-site) |
+|                | *Shiva Taslimipoor, Christopher Bryant and Zheng Yuan* |
+| 09:40-09:50    | Native and Non-native Speakers’ Idiom Production: What Can Read Speech Tell Us? (non-archival, on-site) |
+|                | *Jing Liu and Helmer Strik* |
+| 09:50-10:10    | An Analysis of Attention in German Verbal Idiom Disambiguation (long, online) |
+|                | *Rafael Ehren, Laura Kallmeyer and Timm Lichte* |
+| 10:10-10:30    | Support Verb Constructions across the Ocean Sea (long, online) |
+|                | *Jorge Baptista, Nuno Mamede and Sónia Reis* |
+|                | |
+| 10:30 - 11:00  | **Coffee break** |
+|                | |
+|                | **Session 2** |
+|                | Chair: TBA |
+| 11:00- 12:00   | **Invited talk:** [Figurative Language in Noun Compound Models across Target Properties, Domains and Time](#keynotes) |
+|                | *Sabine Schulte im Walde*
+|                | |
+| 12:00-12:20    | A Matrix-Based Heuristic Algorithm for Extracting Multiword Expressions from a Corpus (long, online) |
+|                | *Orhan Bilgin* |
+| 12:20-12:40    | Multi-word Lexical Units Recognition in WordNet (long, online) |
+|                | *Marek Maziarz, Ewa Rudnicka and Łukasz Grabowski* |
+| 12:40-13:00    | Automatic Detection of Difficulty of French Medical Sequences in Context (long, online) |
+|                | *Anaïs Koptient and Natalia Grabar* |
+|                | |
+| 13:00- 14:00   | **Lunch break** |
+|                | |
+|                | **Session 3 - Joint session with [SIGUL](https://sigul-2022.ilc.cnr.it/)** |
+|                | Chair: TBA |
+| 14:00- 15:00   | MWE+SIGUL poster session |
+|                | **MWE posters** |
+|                | Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger |
+|                | *Aoife Finn, Suzanne Duncan, Peter-Lucas Jones, Gianna Leoni and Keoni Mahelona* |
+|                | Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German |
+|                | *Felix Schneider, Sven Sickert, Phillip Brandes, Sophie Marshall and Joachim Denzler* |
+|                | Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output |
+|                | *Albina Khusainova, Vitaly Romanov and Adil Khan* |
+|                | A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models |
+|                | *Abigail Walsh, Teresa Lynn and Jennifer Foster* |
+|                | Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions |
+|                | *Yagmur Ozturk, Najet Hadj Mohamed, Adam Lion-Bouton and Agata Savary* |
+|                | German Light Verb Constructions in Business Process Models (non-archival) |
+|                | *Kristin Kutzner and Ralf Laue* |
+|                | **SIGUL posters** |
+|                | TBA |
+|                | |
+| 15:00- 16:00   | **Invited talk:** [Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture](#keynotes) |
+|                | *Steven Bird*
+|                | |
+| 16:00 - 16:30  | **Coffee break** |
+|                | |
+|                | **Session 4** |
+|                | Chair: TBA |
+| 16:30-16:40    | Compound-internal Anaphora: Evidence from Acceptability Judgements on Italian Argumental Compounds (non-archival, online) |
+|                | *Irene Lami and Joost van de Weijer* |
+| 16:40-16:50    | Light Verb Constructions in Corpora of Historical English (non-archival, online) |
+|                | *Eva Zehentner* |
+| 16:50-17:05    | Sample Efficient Approaches for Idiomaticity Detection (short, online) |
+|                | *Dylan Robert Schumacher Phelps, Xuan-Rui Fan, Edward Gow-Smith, Harish Tayyar Madabushi, Carolina Scarton and Aline Villavicencio* |
+| 17:05-17:20    | mwetoolkit-lib: Adaptation of the mwetoolkit as a Python Library and an Application to MWE-based Document Clustering (short, online) |
+|                | *Fernando Rezende Zagatti, Paulo Augusto de Lima Medeiros, Esther da Cunha Soares, Lucas Nildaimon dos Santos Silva, Carlos Ramisch and Livy Real* |
+| 17:20-17:40    | Handling Idioms in Symbolic Multilingual Natural Language Generation (long, online) |
+|                | *Michaelle Dubé and François Lareau* |
+|                | |
+| 17:40- 18:00   | MWE community discussion - **open to all MWE Section members** |
+|                | Chair: Carlos Ramisch |
+
+
+
+
+-----
+
+### <a name="keynotes"> Keynote Speakers </a>
+This year, we are going to have two amazing talks by:
+
+[Sabine Schulte im Walde](http://www.schulteimwalde.de), University of Stuttgart
+<ul>
+<li> <b>Title:</b> Figurative Language in Noun Compound Models across Target Properties, Domains and Time </li>
+<li> <b>Abstract:</b> A variety of distributional and multi-modal computational approaches has been suggested for modelling the degrees of compositionality across types of multiword expressions and languages. As the starting point of my talk, I will present standard variants of computational models that have been proven successful in predicting the compositionality of German and English noun compounds. The main part of the talk will then be concerned with investigating the general reliability of these standard models and discussing implications for gold-standard datasets: I will demonstrate how prediction results vary (i) across representations, (ii) across empirical target properties, (iii) across compound types, (iv) across levels of abstractness, and (v) for general- vs. domain-specific language. Finally, I will present a preliminary quantitative study on diachronic changes of noun compound meanings and compositionality over time. </li>
+<li> <b>Bio:</b> Sabine Schulte im Walde is an Associate Professor at the Institute for Natural Language Processing at the University of Stuttgart. She studied Computational Linguistics and Cognitive Science at the Universities of Stuttgart and Edinburgh, received a PhD in Computational Linguistics in 2003 from the University of Stuttgart, and the Venia Legendi (Habilitation) from Saarland University in 2009. From 2003-2004 she was a member of the Language Technology Group at the lexicographer DUDEN in Mannheim. In the past 10 years, Sabine has been the Principal Investigator of several research projects from the German Research Foundation (DFG), she was a Director of the Integrated Research Training Group for doctoral students in the DFG Collaborative Research Centre 732, and from 2011-2016 she was a DFG Heisenberg Fellow.
+
+The topics of her research include synchronic and diachronic language variation and ambiguity; figurative languge usage in multiword expressions and metaphors; the creation of datasets with human judgements on meaning components and meaning relatedness; and the application of models to lexicography, machine translation, and terminology extraction.</li>
+</ul>
+
+[Steven Bird](http://www.stevenbird.net), Charles Darwin University
+<ul>
+<li> <b>Title:</b> Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture </li>
+<li> <b>Abstract:</b> Research on multiword expressions and on under-resourced languages often begins with problematisation. The existence of non-compositional meaning, or the paucity of conventional language resources, are treated as problems to be solved. This perspective is associated with the view of Language as a lexico-grammatical code, and of NLP as a conventional sequence of computational tasks. In this talk, I share from my experience in an Australian Aboriginal community, where people tend to see language as an expression of identity and of ‘connection to country’. Here, my early attempts to collect language data were thwarted. There was no obvious role for tasks like speech recognition, parsing, or translation. Instead, working under the authority of local elders, I pivoted to language processing tasks that were more in keeping with local interests and aspirations. I describe these tasks and suggest some new ways of framing the work of NLP, and I explore implications for work on multiword expressions and on under-resourced languages. </li>
+<li> <b>Bio:</b> Steven Bird is conducting social and technological experiments in the future evolution of the world's languages. Together with his students and colleagues, he is developing scalable methods for preserving disappearing words and worldviews for future generations of speakers and scholars. He is collaborating with speech communities in diasporas and ancestral homelands to design new approaches to language maintenance and revitalisation.
+
+Steven studied computer science at the University of Melbourne before completing a PhD in computational linguistics at the University of Edinburgh. He has conducted fieldwork on endangered languages in West Africa, South America, Central Asia, Melanesia, and Australia. He has held academic positions at the Universities of Edinburgh, Pennsylvania, Melbourne, and UC Berkeley. He holds a secondary appointment as Senior Research Scientist at the International Computer Science Institute, UC Berkeley. He serves as Linguist at the Nawarddeken Academy in West Arnhem.
+
+Steven is leading the Top End Language Lab. </li>
+<li> <b>Note:</b> This talk is scheduled for the MWE+SIGUL Joint Session. </li>
+</ul>
+
+------
 
 ### <a name="description"> Description </a>
 
@@ -83,35 +189,14 @@ Through this workshop, we would like to bring together and encourage researchers
 - Evaluation of annotations and processing techniques for low-resource languages
 - Processing for end-user applications in low-resource languages
 
-##### Joint session with SIGUL 2022 Workshop
+<h5> Joint session with SIGUL 2022 Workshop</h5>
 
-The MWE Section would like to pursue its efforts in building bridges with other communities. We intend to organise a joint session with the workshop of the [Special Interest Group on Under-resourced Languages](http://www.elra.info/en/sig/sigul/), SIGUL 2022, which proposal was also submitted to be co-located with LREC 2022. The goal is to foster future synergies that could address scientific challenges in the creation of resources, models and applications to deal with multiword expressions and related phenomena in low-resource scenarios, in accordance with one of our special topics in MWE 2022.  The session format is currently under discussion. This would require some overlap between the schedules of both workshops, implying synchronisation as to whether both of them take place before or after LREC 2022.
+Pursuing its efforts in building bridges with other communities, the MWE Section organises a joint session with the [workshop of the Special Interest Group on Under-resourced Languages (SIGUL 2022)](https://sigul-2022.ilc.cnr.it/). The goal is to foster future synergies that could address scientific challenges in the creation of resources, models and applications to deal with multiword expressions and related phenomena in low-resource scenarios, in accordance with one of our special topics in MWE 2022. The session will feature a joint poster session and a joint keynote talk by Steven Bird.
 
------
 
-### <a name="keynotes"> Keynote Speakers </a>
-This year, we are going to have two amazing talks by:
+<!-- Version in the initial website/call for papers -->
+<!--The MWE Section would like to pursue its efforts in building bridges with other communities. We intend to organise a joint session with the workshop of the [Special Interest Group on Under-resourced Languages](http://www.elra.info/en/sig/sigul/), SIGUL 2022, which proposal was also submitted to be co-located with LREC 2022. The goal is to foster future synergies that could address scientific challenges in the creation of resources, models and applications to deal with multiword expressions and related phenomena in low-resource scenarios, in accordance with one of our special topics in MWE 2022.  The session format is currently under discussion. This would require some overlap between the schedules of both workshops, implying synchronisation as to whether both of them take place before or after LREC 2022.-->
 
-[Sabine Schulte im Walde](http://www.schulteimwalde.de), University of Stuttgart
-<ul>
-<li> <b>Title:</b> Figurative Language in Noun Compound Models across Target Properties, Domains and Time </li>
-<li> <b>Abstract:</b> A variety of distributional and multi-modal computational approaches has been suggested for modelling the degrees of compositionality across types of multiword expressions and languages. As the starting point of my talk, I will present standard variants of computational models that have been proven successful in predicting the compositionality of German and English noun compounds. The main part of the talk will then be concerned with investigating the general reliability of these standard models and discussing implications for gold-standard datasets: I will demonstrate how prediction results vary (i) across representations, (ii) across empirical target properties, (iii) across compound types, (iv) across levels of abstractness, and (v) for general- vs. domain-specific language. Finally, I will present a preliminary quantitative study on diachronic changes of noun compound meanings and compositionality over time. </li>
-<li> <b>Bio:</b> Sabine Schulte im Walde is an Associate Professor at the Institute for Natural Language Processing at the University of Stuttgart. She studied Computational Linguistics and Cognitive Science at the Universities of Stuttgart and Edinburgh, received a PhD in Computational Linguistics in 2003 from the University of Stuttgart, and the Venia Legendi (Habilitation) from Saarland University in 2009. From 2003-2004 she was a member of the Language Technology Group at the lexicographer DUDEN in Mannheim. In the past 10 years, Sabine has been the Principal Investigator of several research projects from the German Research Foundation (DFG), she was a Director of the Integrated Research Training Group for doctoral students in the DFG Collaborative Research Centre 732, and from 2011-2016 she was a DFG Heisenberg Fellow.
-
-The topics of her research include synchronic and diachronic language variation and ambiguity; figurative languge usage in multiword expressions and metaphors; the creation of datasets with human judgements on meaning components and meaning relatedness; and the application of models to lexicography, machine translation, and terminology extraction.</li>
-</ul>
-
-[Steven Bird](http://www.stevenbird.net), Charles Darwin University
-<ul>
-<li> <b>Title:</b> Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture </li>
-<li> <b>Abstract:</b> Research on multiword expressions and on under-resourced languages often begins with problematisation. The existence of non-compositional meaning, or the paucity of conventional language resources, are treated as problems to be solved. This perspective is associated with the view of Language as a lexico-grammatical code, and of NLP as a conventional sequence of computational tasks. In this talk, I share from my experience in an Australian Aboriginal community, where people tend to see language as an expression of identity and of ‘connection to country’. Here, my early attempts to collect language data were thwarted. There was no obvious role for tasks like speech recognition, parsing, or translation. Instead, working under the authority of local elders, I pivoted to language processing tasks that were more in keeping with local interests and aspirations. I describe these tasks and suggest some new ways of framing the work of NLP, and I explore implications for work on multiword expressions and on under-resourced languages. </li>
-<li> <b>Bio:</b> Steven Bird is conducting social and technological experiments in the future evolution of the world's languages. Together with his students and colleagues, he is developing scalable methods for preserving disappearing words and worldviews for future generations of speakers and scholars. He is collaborating with speech communities in diasporas and ancestral homelands to design new approaches to language maintenance and revitalisation.
-
-Steven studied computer science at the University of Melbourne before completing a PhD in computational linguistics at the University of Edinburgh. He has conducted fieldwork on endangered languages in West Africa, South America, Central Asia, Melanesia, and Australia. He has held academic positions at the Universities of Edinburgh, Pennsylvania, Melbourne, and UC Berkeley. He holds a secondary appointment as Senior Research Scientist at the International Computer Science Institute, UC Berkeley. He serves as Linguist at the Nawarddeken Academy in West Arnhem.
-
-Steven is leading the Top End Language Lab. </li>
-<li> <b>Note:</b> This talk is scheduled for the MWE+SIGUL Joint Session. </li>
-</ul>
 
 -----
 
