@@ -34,9 +34,6 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
   <summary>
     Contents on this page
   </summary>
-* TOC
-{:toc}
-<!-- 
 - [Program](#program)
 - [Keynote speakers](#keynotes) 
 - [Description](#description)
@@ -46,8 +43,12 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Organizers](#organizers)
 - [Program committee](#committee)
 - [Contact](#contact)
-- [Anti-harassment policy](#antiharassment)-->
+- [Anti-harassment policy](#antiharassment)
 </details>
+
+<!-- Does not work...
+* TOC
+{:toc}-->
 
 -----
 
@@ -105,7 +106,22 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | German Light Verb Constructions in Business Process Models (non-archival) |
 |                | *Kristin Kutzner and Ralf Laue* |
 |                | **SIGUL posters** |
-|                | TBA |
+|                | Evaluating Unsupervised Approaches to Morphological Segmentation for Wolastoqey |
+|                | *Diego Bear and Paul Cook* |
+|                | Baseline English and Maltese-English Classification Models for Subjectivity Detection, Sentiment Analysis, Emotion Analysis, Sarcasm Detection, and Irony Detection |
+|                | *Keith Cortis and Brian Davis* |
+|                | Building Open-source Speech Technology for Low-resource Minority Languages with SáMi as an Example - Tools, Methods and Experiments |
+|                | *Katri Hiovain-Asikainen and Sjur Moshagen* |
+|                | Investigating the Quality of Static Anchor Embeddings from Transformers for Under-Resourced Languages |
+|                | *Pranaydeep Singh, Orphee De Clercq and Els Lefever* |
+|                | Introducing YakuToolkit. Yakut Treebank and Morphological Analyzer |
+|                | *Tatiana Merzhevich and Fabrí­cio Ferraz Gerardi* |
+|                | A Language Model for Spell Checking of Educational Texts in Kurdish (Sorani) |
+|                | *Roshna Abdulrahman and Hossein Hassani* |
+|                | SimRelUz: Similarity and Relatedness Scores as a Semantic Evaluation Dataset for Uzbek Language |
+|                | *Ulugbek Salaev, Elmurod Kuriyozov and Carlos Gómez-Rodríguez* |
+|                | ENRICH4ALL: A First Luxembourgish BERT Model for a Multilingual Chatbot |
+|                | *Dimitra Anastasiou* |
 |                | |
 | 15:00- 16:00   | **Invited talk:** [Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture](#keynotes) |
 |                | *Steven Bird*
@@ -219,7 +235,7 @@ All submissions should be made via the workshop's START space. Please choose the
 
 -----
 
-### <a name="dates"> Important Dates </a>
+### <a name="dates"> Important dates </a>
 Paper Submission Deadline: **<font color="red">April 17, 2022</font>**<br>
 Notification of Acceptance: May 3, 2022<br>
 Camera-ready Papers Deadline: May 23, 2022<br>
@@ -309,6 +325,7 @@ For any inquiries regarding the workshop please send an email to [mweworkshop202
 
 Please register to [SIGLEX](../organization/members) and check the "MWE Section" box to be registered to our [mailing list](../mailinglist).
 
+-----
 
 ### <a name="antiharassment"> Anti-harassment policy </a>
 
