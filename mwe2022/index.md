@@ -60,7 +60,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 | 09:00-09:10&nbsp;&nbsp;| Opening | 
 | | |
-|                | **Session 1** (Chair: Agata Savary) |
+|                | **Session 1 - Oral presentations** (Chair: Agata Savary) |
 | 09:10-09:25    | A General Framework for Detecting Metaphorical Collocations (short, on-site) |
 |                | *Marija Brkić Bakarić, Lucia Načinović Prskalo and Maja Popović* |
 | 09:25-09:40    | Improving Grammatical Error Correction for Multiword Expressions (short, on-site) |
@@ -74,11 +74,11 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | |
 | 10:30 - 11:00  | **Coffee break** |
 |                | |
-|                | **Invited talk** (Chair: Carlos Ramisch) |
+|                | **Keynote speech** (Chair: Carlos Ramisch) |
 | 11:00- 12:00   | [Figurative Language in Noun Compound Models across Target Properties, Domains and Time](#keynotes) |
 |                | *Sabine Schulte im Walde*
 |                | |
-|                | **Session 2** (Chair: Harish Tayyar Madabushi) |
+|                | **Session 2 - Oral presentations** (Chair: Harish Tayyar Madabushi) |
 | 12:00-12:20    | A Matrix-Based Heuristic Algorithm for Extracting Multiword Expressions from a Corpus (long, online) |
 |                | *Orhan Bilgin* |
 | 12:20-12:40    | Multi-word Lexical Units Recognition in WordNet (long, online) |
@@ -88,46 +88,43 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | |
 | 13:00- 14:00   | **Lunch break** |
 |                | |
-|                | **Session 3 - Joint session with [SIGUL](https://sigul-2022.ilc.cnr.it/)** |
-|                | Chair: Shiva Taslimipoor |
-| 14:00- 15:00   | MWE+SIGUL poster session |
-|                | **MWE posters** |
-|                | Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger |
+| 14:00- 15:00   | **Session 3 - [Joint SIGUL-MWE poster session](https://sigul-2022.ilc.cnr.it/)** (Chairs: Shiva Taslimipoor) |
+|                | **[MWE]** Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger |
 |                | *Aoife Finn, Suzanne Duncan, Peter-Lucas Jones, Gianna Leoni and Keoni Mahelona* |
-|                | Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German |
+|                | **[MWE]** Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German |
 |                | *Felix Schneider, Sven Sickert, Phillip Brandes, Sophie Marshall and Joachim Denzler* |
-|                | Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output |
+|                | **[MWE]** Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output |
 |                | *Albina Khusainova, Vitaly Romanov and Adil Khan* |
-|                | A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models |
+|                | **[MWE]** A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models |
 |                | *Abigail Walsh, Teresa Lynn and Jennifer Foster* |
-|                | Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions |
+|                | **[MWE]** Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions |
 |                | *Yagmur Ozturk, Najet Hadj Mohamed, Adam Lion-Bouton and Agata Savary* |
-|                | German Light Verb Constructions in Business Process Models (non-archival) |
+|                | **[MWE]** German Light Verb Constructions in Business Process Models (non-archival) |
 |                | *Kristin Kutzner and Ralf Laue* |
-|                | **SIGUL posters** |
-|                | Evaluating Unsupervised Approaches to Morphological Segmentation for Wolastoqey |
+|                | **[SIGUL]** Evaluating Unsupervised Approaches to Morphological Segmentation for Wolastoqey |
 |                | *Diego Bear and Paul Cook* |
-|                | Baseline English and Maltese-English Classification Models for Subjectivity Detection, Sentiment Analysis, Emotion Analysis, Sarcasm Detection, and Irony Detection |
+|                | **[SIGUL]** Baseline English and Maltese-English Classification Models for Subjectivity Detection, Sentiment Analysis, Emotion Analysis, Sarcasm Detection, and Irony Detection |
 |                | *Keith Cortis and Brian Davis* |
-|                | Building Open-source Speech Technology for Low-resource Minority Languages with SáMi as an Example - Tools, Methods and Experiments |
+|                | **[SIGUL]** Building Open-source Speech Technology for Low-resource Minority Languages with SáMi as an Example - Tools, Methods and Experiments |
 |                | *Katri Hiovain-Asikainen and Sjur Moshagen* |
-|                | Investigating the Quality of Static Anchor Embeddings from Transformers for Under-Resourced Languages |
+|                | **[SIGUL]** Investigating the Quality of Static Anchor Embeddings from Transformers for Under-Resourced Languages |
 |                | *Pranaydeep Singh, Orphee De Clercq and Els Lefever* |
-|                | Introducing YakuToolkit. Yakut Treebank and Morphological Analyzer |
+|                | **[SIGUL]** Introducing YakuToolkit. Yakut Treebank and Morphological Analyzer |
 |                | *Tatiana Merzhevich and Fabrí­cio Ferraz Gerardi* |
-|                | A Language Model for Spell Checking of Educational Texts in Kurdish (Sorani) |
+|                | **[SIGUL]** A Language Model for Spell Checking of Educational Texts in Kurdish (Sorani) |
 |                | *Roshna Abdulrahman and Hossein Hassani* |
-|                | SimRelUz: Similarity and Relatedness Scores as a Semantic Evaluation Dataset for Uzbek Language |
+|                | **[SIGUL]** SimRelUz: Similarity and Relatedness Scores as a Semantic Evaluation Dataset for Uzbek Language |
 |                | *Ulugbek Salaev, Elmurod Kuriyozov and Carlos Gómez-Rodríguez* |
-|                | ENRICH4ALL: A First Luxembourgish BERT Model for a Multilingual Chatbot |
+|                | **[SIGUL]** ENRICH4ALL: A First Luxembourgish BERT Model for a Multilingual Chatbot |
 |                | *Dimitra Anastasiou* |
 |                | |
-| 15:00- 16:00   | **Invited talk:** [Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture](#keynotes) |
+|                | **[Joint SIGUL-MWE keynote speech](https://sigul-2022.ilc.cnr.it/)** (Chair: TBA) |
+| 15:00- 16:00   | [Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture](#keynotes) |
 |                | *Steven Bird*
 |                | |
 | 16:00 - 16:30  | **Coffee break** |
 |                | |
-|                | **Session 4** (Chair: Teresa Lynn) |
+|                | **Session 4 - Oral presentations** (Chair: Teresa Lynn) |
 | 16:30-16:40    | Compound-internal Anaphora: Evidence from Acceptability Judgements on Italian Argumental Compounds (non-archival, online) |
 |                | *Irene Lami and Joost van de Weijer* |
 | 16:40-16:50    | Light Verb Constructions in Corpora of Historical English (non-archival, online) |
