@@ -60,8 +60,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 | 09:00-09:10&nbsp;&nbsp;| Opening | 
 | | |
-|                | **Session 1** |
-|                | Chair: TBA |
+|                | **Session 1** (Chair: Agata Savary) |
 | 09:10-09:25    | A General Framework for Detecting Metaphorical Collocations (short, on-site) |
 |                | *Marija Brkić Bakarić, Lucia Načinović Prskalo and Maja Popović* |
 | 09:25-09:40    | Improving Grammatical Error Correction for Multiword Expressions (short, on-site) |
@@ -75,11 +74,11 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | |
 | 10:30 - 11:00  | **Coffee break** |
 |                | |
-|                | **Session 2** |
-|                | Chair: TBA |
-| 11:00- 12:00   | **Invited talk:** [Figurative Language in Noun Compound Models across Target Properties, Domains and Time](#keynotes) |
+|                | **Invited talk** (Chair: Carlos Ramisch) |
+| 11:00- 12:00   | [Figurative Language in Noun Compound Models across Target Properties, Domains and Time](#keynotes) |
 |                | *Sabine Schulte im Walde*
 |                | |
+|                | **Session 2** (Chair: Harish Tayyar Madabushi) |
 | 12:00-12:20    | A Matrix-Based Heuristic Algorithm for Extracting Multiword Expressions from a Corpus (long, online) |
 |                | *Orhan Bilgin* |
 | 12:20-12:40    | Multi-word Lexical Units Recognition in WordNet (long, online) |
@@ -90,7 +89,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 | 13:00- 14:00   | **Lunch break** |
 |                | |
 |                | **Session 3 - Joint session with [SIGUL](https://sigul-2022.ilc.cnr.it/)** |
-|                | Chair: TBA |
+|                | Chair: Shiva Taslimipoor |
 | 14:00- 15:00   | MWE+SIGUL poster session |
 |                | **MWE posters** |
 |                | Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger |
@@ -128,8 +127,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | |
 | 16:00 - 16:30  | **Coffee break** |
 |                | |
-|                | **Session 4** |
-|                | Chair: TBA |
+|                | **Session 4** (Chair: Teresa Lynn) |
 | 16:30-16:40    | Compound-internal Anaphora: Evidence from Acceptability Judgements on Italian Argumental Compounds (non-archival, online) |
 |                | *Irene Lami and Joost van de Weijer* |
 | 16:40-16:50    | Light Verb Constructions in Corpora of Historical English (non-archival, online) |
@@ -141,8 +139,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 | 17:20-17:40    | Handling Idioms in Symbolic Multilingual Natural Language Generation (long, online) |
 |                | *Michaelle Dubé and François Lareau* |
 |                | |
-| 17:40- 18:00   | MWE community discussion - **open to all MWE Section members** |
-|                | Chair: Carlos Ramisch |
+| 17:40- 18:00   | **MWE community discussion** (Chair: Carlos Ramisch) |
+|                | Open to all MWE Section members for online participation |
 
 
 
