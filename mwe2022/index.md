@@ -63,44 +63,57 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | **Session 1 - Oral presentations** (Chair: Agata Savary) |
 | 09:10-09:25    | A General Framework for Detecting Metaphorical Collocations (short, on-site) |
 |                | *Marija Brkić Bakarić, Lucia Načinović Prskalo and Maja Popović* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.3.pdf)][slides] |
 | 09:25-09:40    | Improving Grammatical Error Correction for Multiword Expressions (short, on-site) |
 |                | *Shiva Taslimipoor, Christopher Bryant and Zheng Yuan* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.4.pdf)][slides] |
 | 09:40-09:50    | Native and Non-native Speakers’ Idiom Production: What Can Read Speech Tell Us? (non-archival, on-site) |
 |                | *Jing Liu and Helmer Strik* |
 | 09:50-10:10    | An Analysis of Attention in German Verbal Idiom Disambiguation (long, online) |
 |                | *Rafael Ehren, Laura Kallmeyer and Timm Lichte* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf)][slides] |
 | 10:10-10:30    | Support Verb Constructions across the Ocean Sea (long, online) |
 |                | *Jorge Baptista, Nuno Mamede and Sónia Reis* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.6.pdf)][slides] |
 |                | |
 | 10:30 - 11:00  | **Coffee break** |
 |                | |
 |                | **Keynote speech** (Chair: Carlos Ramisch) |
 | 11:00- 12:00   | [Figurative Language in Noun Compound Models across Target Properties, Domains and Time](#keynotes) |
-|                | *Sabine Schulte im Walde*
+|                | **_Sabine Schulte im Walde_**
+|                | [[abstract](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.1.pdf)][slides] |
 |                | |
 |                | **Session 2 - Oral presentations** (Chair: Harish Tayyar Madabushi) |
 | 12:00-12:20    | A Matrix-Based Heuristic Algorithm for Extracting Multiword Expressions from a Corpus (long, online) |
 |                | *Orhan Bilgin* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.7.pdf)][slides] |
 | 12:20-12:40    | Multi-word Lexical Units Recognition in WordNet (long, online) |
 |                | *Marek Maziarz, Ewa Rudnicka and Łukasz Grabowski* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.8.pdf)][slides] |
 | 12:40-13:00    | Automatic Detection of Difficulty of French Medical Sequences in Context (long, online) |
 |                | *Anaïs Koptient and Natalia Grabar* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.9.pdf)][slides] |
 |                | |
 | 13:00- 14:00   | **Lunch break** |
 |                | |
 | 14:00- 15:00   | **Session 3 - [Joint SIGUL-MWE poster session](https://sigul-2022.ilc.cnr.it/)** (Chairs: Shiva Taslimipoor) |
 |                | **[MWE]** Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger |
 |                | *Aoife Finn, Suzanne Duncan, Peter-Lucas Jones, Gianna Leoni and Keoni Mahelona* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.10.pdf)][poster] |
 |                | **[MWE]** Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German |
 |                | *Felix Schneider, Sven Sickert, Phillip Brandes, Sophie Marshall and Joachim Denzler* |
-|                | **[MWE]** Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output |
-|                | *Albina Khusainova, Vitaly Romanov and Adil Khan* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.11.pdf)][poster] |
+|                | <del>**[MWE]** Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output</del> **RETRACTED** |
+|                | <del> *Albina Khusainova, Vitaly Romanov and Adil Khan* </del> |
 |                | **[MWE]** A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models |
 |                | *Abigail Walsh, Teresa Lynn and Jennifer Foster* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.13.pdf)][poster] |
 |                | **[MWE]** Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions |
 |                | *Yagmur Ozturk, Najet Hadj Mohamed, Adam Lion-Bouton and Agata Savary* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.14.pdf)][poster] |
 |                | **[MWE]** German Light Verb Constructions in Business Process Models (non-archival) |
 |                | *Kristin Kutzner and Ralf Laue* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.491.pdf)][poster] - published at LREC 2022 main |
 |                | **[SIGUL]** Evaluating Unsupervised Approaches to Morphological Segmentation for Wolastoqey |
 |                | *Diego Bear and Paul Cook* |
 |                | **[SIGUL]** Baseline English and Maltese-English Classification Models for Subjectivity Detection, Sentiment Analysis, Emotion Analysis, Sarcasm Detection, and Irony Detection |
@@ -120,7 +133,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | |
 |                | **[Joint SIGUL-MWE keynote speech](https://sigul-2022.ilc.cnr.it/)** (Chair: TBA) |
 | 15:00- 16:00   | [Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture](#keynotes) |
-|                | *Steven Bird*
+|                | **_Steven Bird_**
+|                | [[abstract](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.2.pdf)][slides] |
 |                | |
 | 16:00 - 16:30  | **Coffee break** |
 |                | |
@@ -131,15 +145,16 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | *Eva Zehentner* |
 | 16:50-17:05    | Sample Efficient Approaches for Idiomaticity Detection (short, online) |
 |                | *Dylan Robert Schumacher Phelps, Xuan-Rui Fan, Edward Gow-Smith, Harish Tayyar Madabushi, Carolina Scarton and Aline Villavicencio* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.15.pdf)][poster] |
 | 17:05-17:20    | mwetoolkit-lib: Adaptation of the mwetoolkit as a Python Library and an Application to MWE-based Document Clustering (short, online) |
 |                | *Fernando Rezende Zagatti, Paulo Augusto de Lima Medeiros, Esther da Cunha Soares, Lucas Nildaimon dos Santos Silva, Carlos Ramisch and Livy Real* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.16.pdf)][poster] |
 | 17:20-17:40    | Handling Idioms in Symbolic Multilingual Natural Language Generation (long, online) |
 |                | *Michaelle Dubé and François Lareau* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.17.pdf)][poster] |
 |                | |
 | 17:40- 18:00   | **MWE community discussion** (Chair: Carlos Ramisch) |
 |                | Open to all MWE Section members for online participation |
-
-
 
 
 -----
