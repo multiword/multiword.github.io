@@ -55,12 +55,14 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 ### <a name="program"> Program </a>
 
 * Saturday June 25th 2022, All times **CEST** (Central European Summer Time)
-* Room (on-site participation) and zoom link (virtual participation) to be announed
+* Oral sessions in Joliette, SIGUL+MWE keynote in Grand Large, posters in Phar'Club area
+* Zoom link on [LREC virtual conference platform](https://lrec-virtual.org/presentation/workshops-and-tutorials/18th-workshop-multiword-expressions-mwe-2022)
 
 
 | 09:00-09:10&nbsp;&nbsp;| Opening | 
 | | |
-|                | **Session 1 - Oral presentations** (Chair: Agata Savary) |
+|                | **Session 1: Oral presentations** |
+|                | Chair: Agata Savary, Online co-chair: Marcos Garcia |
 | 09:10-09:25    | A General Framework for Detecting Metaphorical Collocations (short, on-site) |
 |                | *Marija Brkić Bakarić, Lucia Načinović Prskalo and Maja Popović* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.3.pdf)][slides] |
@@ -78,12 +80,13 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | |
 | 10:30 - 11:00  | **Coffee break** |
 |                | |
-|                | **Keynote speech** (Chair: Carlos Ramisch) |
+|                | **Keynote: Sabine Schulte im Walde** |
 | 11:00- 12:00   | [Figurative Language in Noun Compound Models across Target Properties, Domains and Time](#keynotes) |
-|                | **_Sabine Schulte im Walde_**
+|                | Chair: Carlos Ramisch, Online co-chair: Archna Bhatia |
 |                | [[abstract](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.1.pdf)][slides] |
 |                | |
-|                | **Session 2 - Oral presentations** (Chair: Harish Tayyar Madabushi) |
+|                | **Session 2: Oral presentations** |
+|                | Chair: Harish Tayyar Madabushi, Online co-chair: Archna Bhatia |
 | 12:00-12:20    | A Matrix-Based Heuristic Algorithm for Extracting Multiword Expressions from a Corpus (long, online) |
 |                | *Orhan Bilgin* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.7.pdf)][slides] |
@@ -96,7 +99,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | |
 | 13:00- 14:00   | **Lunch break** |
 |                | |
-| 14:00- 15:00   | **Session 3 - [Joint SIGUL-MWE poster session](https://sigul-2022.ilc.cnr.it/)** (Chairs: Shiva Taslimipoor) |
+| 14:00- 15:00   | **Session 3: [Joint SIGUL-MWE poster session](https://sigul-2022.ilc.cnr.it/)** |
+|                | Chair: Shiva Taslimipoor - Phar'Club area |
 |                | **[MWE]** Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger |
 |                | *Aoife Finn, Suzanne Duncan, Peter-Lucas Jones, Gianna Leoni and Keoni Mahelona* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.10.pdf)][poster] |
@@ -131,14 +135,16 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | **[SIGUL]** ENRICH4ALL: A First Luxembourgish BERT Model for a Multilingual Chatbot |
 |                | *Dimitra Anastasiou* |
 |                | |
-|                | **[Joint SIGUL-MWE keynote speech](https://sigul-2022.ilc.cnr.it/)** (Chair: TBA) |
+|                | **[Joint SIGUL-MWE keynote](https://sigul-2022.ilc.cnr.it/): Steven Bird** |
 | 15:00- 16:00   | [Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture](#keynotes) |
-|                | **_Steven Bird_**
+|                | Chair: Shiva Taslimipoor, Online co-chair: Paul Cook |
+|                | Grand Large room |
 |                | [[abstract](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.2.pdf)][slides] |
 |                | |
 | 16:00 - 16:30  | **Coffee break** |
 |                | |
-|                | **Session 4 - Oral presentations** (Chair: Teresa Lynn) |
+|                | **Session 4: Oral presentations** |
+|                | Chair: Teresa Lynn, Online co-chair: Paul Cook |
 | 16:30-16:40    | Compound-internal Anaphora: Evidence from Acceptability Judgements on Italian Argumental Compounds (non-archival, online) |
 |                | *Irene Lami and Joost van de Weijer* |
 | 16:40-16:50    | Light Verb Constructions in Corpora of Historical English (non-archival, online) |
@@ -153,7 +159,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | *Michaelle Dubé and François Lareau* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.17.pdf)][poster] |
 |                | |
-| 17:40- 18:00   | **MWE community discussion** (Chair: Carlos Ramisch) |
+| 17:40- 18:00   | **MWE community discussion** |
+|                | Chair: Carlos Ramisch |
 |                | Open to all MWE Section members for online participation |
 
 
