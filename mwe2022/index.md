@@ -101,18 +101,18 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 |                | |
 | 14:00- 15:00   | **Session 3: [Joint SIGUL-MWE poster session](https://sigul-2022.ilc.cnr.it/)** |
 |                | Chair: Shiva Taslimipoor - Phar'Club area |
-|                | **[MWE]** Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger |
+|                | **[MWE]** Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger (long) |
 |                | *Aoife Finn, Suzanne Duncan, Peter-Lucas Jones, Gianna Leoni and Keoni Mahelona* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.10.pdf)][poster] |
-|                | **[MWE]** Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German |
+|                | **[MWE]** Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German (short) |
 |                | *Felix Schneider, Sven Sickert, Phillip Brandes, Sophie Marshall and Joachim Denzler* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.11.pdf)][poster] |
-|                | <del>**[MWE]** Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output</del> **RETRACTED** |
+|                | <del>**[MWE]** Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output (long)</del> **RETRACTED** |
 |                | <del> *Albina Khusainova, Vitaly Romanov and Adil Khan* </del> |
-|                | **[MWE]** A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models |
+|                | **[MWE]** A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models (long) |
 |                | *Abigail Walsh, Teresa Lynn and Jennifer Foster* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.13.pdf)][poster] |
-|                | **[MWE]** Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions |
+|                | **[MWE]** Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions (short) |
 |                | *Yagmur Ozturk, Najet Hadj Mohamed, Adam Lion-Bouton and Agata Savary* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.14.pdf)][poster] |
 |                | **[MWE]** German Light Verb Constructions in Business Process Models (non-archival) |
