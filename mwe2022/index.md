@@ -101,7 +101,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.7.pdf)][[slides](slides/MWE22_presentation_Orhan_Bilgin.pptx)] |
 | 12:20-12:40    | Multi-word Lexical Units Recognition in WordNet (long, online) |
 |                | *Marek Maziarz, Ewa Rudnicka and Łukasz Grabowski* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.8.pdf)][slides] |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.8.pdf)][[slides](slides/LREC MWE Workshop presentation 2022_MaziarzEtAl.pdf)] |
 | 12:40-13:00    | Automatic Detection of Difficulty of French Medical Sequences in Context (long, online) |
 |                | *Anaïs Koptient and Natalia Grabar* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.9.pdf)][slides] |
