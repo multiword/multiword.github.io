@@ -81,7 +81,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | *Jing Liu and Helmer Strik* |
 | 09:50-10:10    | An Analysis of Attention in German Verbal Idiom Disambiguation (long, online) |
 |                | *Rafael Ehren, Laura Kallmeyer and Timm Lichte* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf)][slides] |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf)][[slides](slides/PIE_attention_MWE_workshop_LREC_2022_slides.pdf)] |
 | 10:10-10:30    | Support Verb Constructions across the Ocean Sea (long, online) |
 |                | *Jorge Baptista, Nuno Mamede and Sónia Reis* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.6.pdf)][[slides](slides/Support Verb Constructions  across the Ocean Sea.pdf)] |
