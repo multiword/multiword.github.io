@@ -115,7 +115,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.10.pdf)][poster] |
 |                | **[MWE]** Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German (short) |
 |                | *Felix Schneider, Sven Sickert, Phillip Brandes, Sophie Marshall and Joachim Denzler* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.11.pdf)][poster] |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.11.pdf)][[poster](slides/SchneiderEtAl_poster.pdf)] |
 |                | <del>**[MWE]** Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output (long)</del> **RETRACTED** |
 |                | <del> *Albina Khusainova, Vitaly Romanov and Adil Khan* </del> |
 |                | **[MWE]** A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models (long) |
