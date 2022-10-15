@@ -79,7 +79,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.4.pdf)][slides] |
 | 09:40-09:50    | Native and Non-native Speakers’ Idiom Production: What Can Read Speech Tell Us? (non-archival, on-site) |
 |                | *Jing Liu and Helmer Strik* |
-|                | [[slides](slides/MWE_idiom speech production_Liu&Strik.pdf] |
+|                | [[slides](slides/MWE_idiom speech production_Liu\&Strik.pdf] |
 | 09:50-10:10    | An Analysis of Attention in German Verbal Idiom Disambiguation (long, online) |
 |                | *Rafael Ehren, Laura Kallmeyer and Timm Lichte* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf)][[slides](slides/PIE_attention_MWE_workshop_LREC_2022_slides.pdf)] |
