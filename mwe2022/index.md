@@ -34,6 +34,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
   <summary>
     Contents on this page
   </summary>
+- [Proceedings](#proceedings)
 - [Program](#program)
 - [Keynote speakers](#keynotes) 
 - [Description](#description)
@@ -49,6 +50,12 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 <!-- Does not work...
 * TOC
 {:toc}-->
+
+-----
+
+### <a name="proceedings"> Proceedings </a>
+
+The proceedings for MWE2022 can be found [here](https://aclanthology.org/events/mwe-2022/).
 
 -----
 
