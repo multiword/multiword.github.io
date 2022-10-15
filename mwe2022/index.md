@@ -155,6 +155,9 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | Chair: Teresa Lynn, Online co-chair: Paul Cook |
 | 16:30-16:40    | Compound-internal Anaphora: Evidence from Acceptability Judgements on Italian Argumental Compounds (non-archival, online) |
 |                | *Irene Lami and Joost van de Weijer* |
+|                | [[poster](slides/COMP-INTERNAL ANAPHORA.pdf)] |
+|                | |
+
 | 16:40-16:50    | Light Verb Constructions in Corpora of Historical English (non-archival, online) |
 |                | *Eva Zehentner* |
 | 16:50-17:05    | Sample Efficient Approaches for Idiomaticity Detection (short, online) |
