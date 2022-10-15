@@ -84,7 +84,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf)][slides] |
 | 10:10-10:30    | Support Verb Constructions across the Ocean Sea (long, online) |
 |                | *Jorge Baptista, Nuno Mamede and Sónia Reis* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.6.pdf)][slides] |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.6.pdf)][[slides](slides/Support Verb Constructions  across the Ocean Sea.pdf)] |
 |                | |
 | 10:30 - 11:00  | **Coffee break** |
 |                | |
