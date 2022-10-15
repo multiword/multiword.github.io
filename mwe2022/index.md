@@ -34,7 +34,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
   <summary>
     Contents on this page
   </summary>
-- [Proceedings](#proceedings)
+- [Proceedings and video recording](#proceedings-video)
 - [Program](#program)
 - [Keynote speakers](#keynotes) 
 - [Description](#description)
@@ -53,9 +53,10 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 -----
 
-### <a name="proceedings"> Proceedings </a>
+### <a name="proceedings-video"> Proceedings and video recording </a>
 
 The proceedings for MWE2022 can be found [here](https://aclanthology.org/events/mwe-2022/).
+The video recording for MWE2022 can be found [here](http://www.lrec-conf.org/proceedings/lrec2022/media/workshops/MWE2022.mp4).
 
 -----
 
