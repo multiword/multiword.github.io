@@ -165,7 +165,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.16.pdf)][poster] |
 | 17:20-17:40    | Handling Idioms in Symbolic Multilingual Natural Language Generation (long, online) |
 |                | *Michaelle Dubé and François Lareau* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.17.pdf)][[poster](slides/mwe_michaelle_dube.pptx)] |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.17.pdf)][[poster](slides/mwe_michaelle_dube.pdf)] |
 |                | |
 | 17:40- 18:00   | **MWE community discussion** |
 |                | Chair: Carlos Ramisch |
