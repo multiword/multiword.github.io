@@ -76,7 +76,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.3.pdf)][[slides](slides/MWE_brkicBakaric_2022.pdf)] |
 | 09:25-09:40    | Improving Grammatical Error Correction for Multiword Expressions (short, on-site) |
 |                | *Shiva Taslimipoor, Christopher Bryant and Zheng Yuan* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.4.pdf)][slides] |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.4.pdf)][[slides](slides/MWE2022_MWE-GEC.pdf)] |
 | 09:40-09:50    | Native and Non-native Speakers’ Idiom Production: What Can Read Speech Tell Us? (non-archival, on-site) |
 |                | *Jing Liu and Helmer Strik* |
 |                | [[slides](slides/MWE_idiom speech production_Liu_Strik.pdf)] |
