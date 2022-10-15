@@ -174,7 +174,7 @@ The video recording for MWE2022 can be found [here](http://www.lrec-conf.org/pro
 
 -----
 
-### <a name="keynotes"> Keynote Speakers </a>
+### <a name="keynotes"> Keynote speakers </a>
 This year, we are going to have two amazing talks by:
 
 [Sabine Schulte im Walde](http://www.schulteimwalde.de), University of Stuttgart
