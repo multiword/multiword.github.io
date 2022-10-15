@@ -125,7 +125,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.14.pdf)][poster] |
 |                | **[MWE]** German Light Verb Constructions in Business Process Models (non-archival) |
 |                | *Kristin Kutzner and Ralf Laue* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.491.pdf)][poster] - published at LREC 2022 main |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.491.pdf)][[poster](slides/Poster_LREC_V02.pdf)] - published at LREC 2022 main |
 |                | **[SIGUL]** Evaluating Unsupervised Approaches to Morphological Segmentation for Wolastoqey |
 |                | *Diego Bear and Paul Cook* |
 |                | **[SIGUL]** Baseline English and Maltese-English Classification Models for Subjectivity Detection, Sentiment Analysis, Emotion Analysis, Sarcasm Detection, and Irony Detection |
