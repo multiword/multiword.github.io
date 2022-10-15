@@ -55,8 +55,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### <a name="proceedings-video"> Proceedings and video recording </a>
 
-The proceedings for MWE2022 can be found [here](https://aclanthology.org/events/mwe-2022/).<br>
-The video recording for MWE2022 can be found [here](http://www.lrec-conf.org/proceedings/lrec2022/media/workshops/MWE2022.mp4).
+The <b>proceedings</b> for MWE2022 can be found <b>[here](https://aclanthology.org/events/mwe-2022/)</b>.<br>
+The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-conf.org/proceedings/lrec2022/media/workshops/MWE2022.mp4)</b>.
 
 -----
 
