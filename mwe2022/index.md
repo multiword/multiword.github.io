@@ -92,7 +92,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | **Keynote: Sabine Schulte im Walde** |
 | 11:00- 12:00   | [Figurative Language in Noun Compound Models across Target Properties, Domains and Time](#keynotes) |
 |                | Chair: Carlos Ramisch, Online co-chair: Archna Bhatia |
-|                | [[abstract](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.1.pdf)][slides] |
+|                | [[abstract](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.1.pdf)][[slides](slides/ssiw-slides.pdf)] |
 |                | |
 |                | **Session 2: Oral presentations** |
 |                | Chair: Harish Tayyar Madabushi, Online co-chair: Archna Bhatia |
