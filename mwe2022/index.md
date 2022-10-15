@@ -162,8 +162,8 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 | 16:40-16:50    | Light Verb Constructions in Corpora of Historical English (non-archival, online) |
 |                | *Eva Zehentner* |
 | 16:50-17:05    | Sample Efficient Approaches for Idiomaticity Detection (short, online) |
-|                | *Dylan Robert Schumacher Phelps, Xuan-Rui Fan, Edward Gow-Smith, Harish Tayyar Madabushi, Carolina Scarton and Aline Villavicencio* | [[slides](slides/Sample Efficient Approaches for Idiomaticity Detection.pdf)]
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.15.pdf)][poster] |
+|                | *Dylan Robert Schumacher Phelps, Xuan-Rui Fan, Edward Gow-Smith, Harish Tayyar Madabushi, Carolina Scarton and Aline Villavicencio* |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.15.pdf)][[poster](slides/Sample Efficient Approaches for Idiomaticity Detection.pdf)] |
 | 17:05-17:20    | mwetoolkit-lib: Adaptation of the mwetoolkit as a Python Library and an Application to MWE-based Document Clustering (short, online) |
 |                | *Fernando Rezende Zagatti, Paulo Augusto de Lima Medeiros, Esther da Cunha Soares, Lucas Nildaimon dos Santos Silva, Carlos Ramisch and Livy Real* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.16.pdf)][poster] |
