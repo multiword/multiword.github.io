@@ -120,7 +120,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | <del> *Albina Khusainova, Vitaly Romanov and Adil Khan* </del> |
 |                | **[MWE]** A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models (long) |
 |                | *Abigail Walsh, Teresa Lynn and Jennifer Foster* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.13.pdf)][poster] |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.13.pdf)][[poster](slides/A BERT'S EYE VIEW_MWE 2022_draft_3.pdf)] |
 |                | **[MWE]** Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions (short) |
 |                | *Yagmur Ozturk, Najet Hadj Mohamed, Adam Lion-Bouton and Agata Savary* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.14.pdf)][poster] |
