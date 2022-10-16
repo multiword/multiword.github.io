@@ -166,7 +166,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.15.pdf)][[poster](slides/Sample Efficient Approaches for Idiomaticity Detection.pdf)] |
 | 17:05-17:20    | mwetoolkit-lib: Adaptation of the mwetoolkit as a Python Library and an Application to MWE-based Document Clustering (short, online) |
 |                | *Fernando Rezende Zagatti, Paulo Augusto de Lima Medeiros, Esther da Cunha Soares, Lucas Nildaimon dos Santos Silva, Carlos Ramisch and Livy Real* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.16.pdf)][[poster](slides/MWE2022 - mwetoolkit-lib.pdf)] |
+|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.16.pdf)][[poster](slides/MWE2022-mwetoolkit-lib.pdf)] |
 | 17:20-17:40    | Handling Idioms in Symbolic Multilingual Natural Language Generation (long, online) |
 |                | *Michaelle Dubé and François Lareau* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.17.pdf)][[poster](slides/mwe_michaelle_dube.pdf)] |
