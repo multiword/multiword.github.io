@@ -174,6 +174,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 | 17:40- 18:00   | **MWE community discussion** |
 |                | Chair: Carlos Ramisch |
 |                | Open to all MWE Section members for online participation |
+|                | [[slides](slides/MWE2022_community_discussion.pdf)] |
 
 
 -----
