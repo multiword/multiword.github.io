@@ -68,43 +68,44 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 
 
 | 09:00-09:10&nbsp;&nbsp;| Opening | 
+| | [[slides](slides/MWE2022_introduction.pdf)]|
 | | |
 |                | **Session 1: Oral presentations** |
 |                | Chair: Agata Savary, Online co-chair: Marcos Garcia |
 | 09:10-09:25    | A General Framework for Detecting Metaphorical Collocations (short, on-site) |
 |                | *Marija Brkić Bakarić, Lucia Načinović Prskalo and Maja Popović* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.3.pdf)][[slides](slides/MWE_brkicBakaric_2022.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.3/)][[slides](slides/MWE_brkicBakaric_2022.pdf)] |
 | 09:25-09:40    | Improving Grammatical Error Correction for Multiword Expressions (short, on-site) |
 |                | *Shiva Taslimipoor, Christopher Bryant and Zheng Yuan* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.4.pdf)][[slides](slides/MWE2022_MWE-GEC.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.4/)][[slides](slides/MWE2022_MWE-GEC.pdf)] |
 | 09:40-09:50    | Native and Non-native Speakers’ Idiom Production: What Can Read Speech Tell Us? (non-archival, on-site) |
 |                | *Jing Liu and Helmer Strik* |
 |                | [[slides](slides/MWE_idiom speech production_Liu_Strik.pdf)] |
 | 09:50-10:10    | An Analysis of Attention in German Verbal Idiom Disambiguation (long, online) |
 |                | *Rafael Ehren, Laura Kallmeyer and Timm Lichte* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.5.pdf)][[slides](slides/PIE_attention_MWE_workshop_LREC_2022_slides.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.5/)][[slides](slides/PIE_attention_MWE_workshop_LREC_2022_slides.pdf)] |
 | 10:10-10:30    | Support Verb Constructions across the Ocean Sea (long, online) |
 |                | *Jorge Baptista, Nuno Mamede and Sónia Reis* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.6.pdf)][[slides](slides/Support Verb Constructions  across the Ocean Sea.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.6/)][[slides](slides/Support Verb Constructions  across the Ocean Sea.pdf)] |
 |                | |
 | 10:30 - 11:00  | **Coffee break** |
 |                | |
 |                | **Keynote: Sabine Schulte im Walde** |
 | 11:00- 12:00   | [Figurative Language in Noun Compound Models across Target Properties, Domains and Time](#keynotes) |
 |                | Chair: Carlos Ramisch, Online co-chair: Archna Bhatia |
-|                | [[abstract](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.1.pdf)][[slides](slides/ssiw-slides.pdf)] |
+|                | [[abstract](https://aclanthology.org/2022.mwe-1.1/)][[slides](slides/ssiw-slides.pdf)] |
 |                | |
 |                | **Session 2: Oral presentations** |
 |                | Chair: Harish Tayyar Madabushi, Online co-chair: Archna Bhatia |
 | 12:00-12:20    | A Matrix-Based Heuristic Algorithm for Extracting Multiword Expressions from a Corpus (long, online) |
 |                | *Orhan Bilgin* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.7.pdf)][[slides](slides/MWE22_presentation_Orhan_Bilgin.pptx)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.7/)][[slides](slides/MWE22_presentation_Orhan_Bilgin.pptx)] |
 | 12:20-12:40    | Multi-word Lexical Units Recognition in WordNet (long, online) |
 |                | *Marek Maziarz, Ewa Rudnicka and Łukasz Grabowski* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.8.pdf)][[slides](slides/LREC MWE Workshop presentation 2022_MaziarzEtAl.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.8/)][[slides](slides/LREC MWE Workshop presentation 2022_MaziarzEtAl.pdf)] |
 | 12:40-13:00    | Automatic Detection of Difficulty of French Medical Sequences in Context (long, online) |
 |                | *Anaïs Koptient and Natalia Grabar* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.9.pdf)][slides] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.9/)][slides] |
 |                | |
 | 13:00- 14:00   | **Lunch break** |
 |                | |
@@ -112,18 +113,18 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | Chair: Shiva Taslimipoor - Phar'Club area |
 |                | **[MWE]** Annotating “Particles” in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger (long) |
 |                | *Aoife Finn, Suzanne Duncan, Peter-Lucas Jones, Gianna Leoni and Keoni Mahelona* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.10.pdf)][poster] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.10/)][poster] |
 |                | **[MWE]** Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German (short) |
 |                | *Felix Schneider, Sven Sickert, Phillip Brandes, Sophie Marshall and Joachim Denzler* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.11.pdf)][[poster](slides/SchneiderEtAl_poster.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.11/)][[poster](slides/SchneiderEtAl_poster.pdf)] |
 |                | <del>**[MWE]** Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output (long)</del> **RETRACTED** |
 |                | <del> *Albina Khusainova, Vitaly Romanov and Adil Khan* </del> |
 |                | **[MWE]** A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models (long) |
 |                | *Abigail Walsh, Teresa Lynn and Jennifer Foster* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.13.pdf)][[poster](slides/A BERT'S EYE VIEW_MWE 2022_draft_3.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.13/)][[poster](slides/A BERT'S EYE VIEW_MWE 2022_draft_3.pdf)] |
 |                | **[MWE]** Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions (short) |
 |                | *Yagmur Ozturk, Najet Hadj Mohamed, Adam Lion-Bouton and Agata Savary* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.14.pdf)][poster] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.14/)][poster] |
 |                | **[MWE]** German Light Verb Constructions in Business Process Models (non-archival) |
 |                | *Kristin Kutzner and Ralf Laue* |
 |                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.491.pdf)][[poster](slides/Poster_LREC_V02.pdf)] - published at LREC 2022 main |
@@ -148,7 +149,7 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 | 15:00- 16:00   | [Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture](#keynotes) |
 |                | Chair: Shiva Taslimipoor, Online co-chair: Paul Cook |
 |                | Grand Large room |
-|                | [[abstract](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.2.pdf)][slides] |
+|                | [[abstract](https://aclanthology.org/2022.mwe-1.2/)][slides] |
 |                | |
 | 16:00 - 16:30  | **Coffee break** |
 |                | |
@@ -156,20 +157,18 @@ The <b>video recording</b> for MWE2022 can be found <b>[here](http://www.lrec-co
 |                | Chair: Teresa Lynn, Online co-chair: Paul Cook |
 | 16:30-16:40    | Compound-internal Anaphora: Evidence from Acceptability Judgements on Italian Argumental Compounds (non-archival, online) |
 |                | *Irene Lami and Joost van de Weijer* |
-|                | [[poster](slides/COMP-INTERNAL ANAPHORA.pdf)] |
-|                | |
-
+|                | [[slides](slides/COMP-INTERNAL ANAPHORA.pdf)] |
 | 16:40-16:50    | Light Verb Constructions in Corpora of Historical English (non-archival, online) |
 |                | *Eva Zehentner* |
 | 16:50-17:05    | Sample Efficient Approaches for Idiomaticity Detection (short, online) |
 |                | *Dylan Robert Schumacher Phelps, Xuan-Rui Fan, Edward Gow-Smith, Harish Tayyar Madabushi, Carolina Scarton and Aline Villavicencio* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.15.pdf)][[poster](slides/Sample Efficient Approaches for Idiomaticity Detection.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.15/)][[slides](slides/Sample Efficient Approaches for Idiomaticity Detection.pdf)] |
 | 17:05-17:20    | mwetoolkit-lib: Adaptation of the mwetoolkit as a Python Library and an Application to MWE-based Document Clustering (short, online) |
 |                | *Fernando Rezende Zagatti, Paulo Augusto de Lima Medeiros, Esther da Cunha Soares, Lucas Nildaimon dos Santos Silva, Carlos Ramisch and Livy Real* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.16.pdf)][[poster](slides/MWE2022-mwetoolkit-lib.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.16/)][[slides](slides/MWE2022-mwetoolkit-lib.pdf)] |
 | 17:20-17:40    | Handling Idioms in Symbolic Multilingual Natural Language Generation (long, online) |
 |                | *Michaelle Dubé and François Lareau* |
-|                | [[paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/MWE/pdf/2022.mwe2022-1.17.pdf)][[poster](slides/mwe_michaelle_dube.pdf)] |
+|                | [[paper](https://aclanthology.org/2022.mwe-1.17/)][[slides](slides/mwe_michaelle_dube.pdf)] |
 |                | |
 | 17:40- 18:00   | **MWE community discussion** |
 |                | Chair: Carlos Ramisch |
