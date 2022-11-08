@@ -7,6 +7,8 @@ layout: default
 
 The section's past officers (not currently serving in the standing committee) compose the section's advisory committee.
 
+- [Paul Cook](http://cs.unb.ca/~ccook1/) (University of New Brunswick, Canada) - nominated officer in 2020-2022
+- [Shiva Taslimipoor](https://shivaat.github.io/) (University of Cambridge, UK) - nominated officer in 2020-2022
 - [Petya Osenova](http://bultreebank.org/en/our-team/petya-osenova/) (Sofia University and Bulgarian Academy of Sciences, Bulgaria) - nominated officer in 2019-2021  
 - [Ashwini Vaidya](https://web.iitd.ac.in/~avaidya/) (Indian Institute of Technology, Delhi, India) - nominated officer in 2019-2021
 - [Jelena Mitrović](https://www.linkedin.com/in/jelena-mitrovi%C4%87-78354711/) (University of Passau, Germany) - nominated officer in 2018-2020  
