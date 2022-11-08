@@ -117,7 +117,7 @@ TBD
 ### <a name="contact"> Contact </a>
 
 For any inquiries regarding the workshop please send an email to
-[mweworkshop2023@gmail.com ](mailto:mweworkshop2023@gmail.com )
+[mweworkshop2023@googlegroups.com ](mailto:mweworkshop2023@googlegroups.com )
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
