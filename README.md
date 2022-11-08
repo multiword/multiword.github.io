@@ -1,8 +1,12 @@
 # multiword.github.io
 
-This repository holds the source for the [Multiword Expressions Section](https://multiword.org/) of the [Special Interest Group on the Lexicon (SIGLEX)](https://siglex.org/).
+This repository holds the source for the website of the [Multiword Expressions Section](https://multiword.org/) of the [Special Interest Group on the Lexicon (SIGLEX)](https://siglex.org/).
 
-## Making pull requests on github
+## Editing (for owners)
+
+If you are an "owner" of the [https://github.com/multiword](multiword) GitHub organization, you can publish changes by pushing to the main branch. It will take a few minutes until changes are visible on the Web.
+
+## Making pull requests on github (for other contributors)
 
 You can propose improvements/corrections to the MWE Section's website via pull requests. A pull request is a modification sent to the website editors for review. Once a pull request is accepted, the modification is automatically applied to the website.
 
