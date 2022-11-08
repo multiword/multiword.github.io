@@ -4,7 +4,7 @@ This repository holds the source for the website of the [Multiword Expressions S
 
 ## Editing (for owners)
 
-If you are an "owner" of the [https://github.com/multiword](multiword) GitHub organization, you can publish changes by pushing to the main branch. It will take a few minutes until changes are visible on the Web.
+If you are an "owner" of the [https://github.com/multiword](multiword) GitHub organization, you can publish changes by pushing to the main branch. It will take a few minutes until changes are visible on the Web. You can check the status on the project's [Actions](https://github.com/multiword/multiword.github.io/actions) page.
 
 ## Making pull requests on github (for other contributors)
 
