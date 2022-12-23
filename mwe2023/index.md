@@ -44,8 +44,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Program](#program)
 - [Keynote speakers](#keynotes) 
 - [Description](#description)
-- [Shared Task](#shared-task)
-- [Submission modalities](#submission)
+- [Shared task](#shared-task)
+- [Submission formats](#submission)
 - [Instructions for authors](#instructions)
 - [Important dates](#dates)
 - [Organizers](#organizers)
@@ -114,9 +114,12 @@ As a new release of the PARSEME corpus of verbal MWEs is currently underway, we 
 
 -----
 
-### <a name="submission"> Submission modalities </a>
+### <a name="submission">Submission formats</a>
 
-TBD
+The workshop invites  two types of submissions:
+
+* **archival submissions** that present substantially original research in both **long paper** format (8 pages + references) and **short paper** format (4 pages + references).
+* **non-archival submissions** of abstracts describing relevant research presented/published elsewhere which will not be included in the MWE proceedings.
 
 -----
 
