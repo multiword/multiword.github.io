@@ -6,7 +6,7 @@ layout: default
 
 <h2>19th Workshop on Multiword Expressions (MWE 2023)</h2>
 
-**Colocated with:** [EACL 2023]()https://2023.eacl.org/ (Dubrovnik, Croatia)
+**Colocated with:** [EACL 2023](https://2023.eacl.org/) (Dubrovnik, Croatia)
 
 **Date of the Workshop:** 2 or 6 May 2023
 
