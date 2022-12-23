@@ -46,7 +46,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Description](#description)
 - [Shared task](#shared-task)
 - [Submission formats](#submission)
-- [Instructions for authors](#instructions)
+- [Paper submission and templates](#instructions)
 - [Important dates](#dates)
 - [Organizers](#organizers)
 - [Program committee](#committee)
@@ -123,9 +123,10 @@ The workshop invites  two types of submissions:
 
 -----
 
-### <a name="instructions"> Instructions for authors </a>
+### <a name="instructions">Paper submission and templates</a>
 
-TBD
+
+Papers should be submitted via the workshop's START submission page, available soon. Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL 2023 stylesheet](https://2023.aclweb.org/calls/style_and_formatting/).
 
 -----
 
