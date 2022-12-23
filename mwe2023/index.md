@@ -132,7 +132,12 @@ Papers should be submitted via the workshop's START submission page, available s
 
 ### <a name="dates"> Important dates </a>
 
-TBD
+| What                       | When             |
+| -------------------------- | ---------------- |
+| Paper submission deadline  | 13 February 2023 |
+| Notification of acceptance | 13 March 2023    |
+| Camera-ready papers due    | 27 March 2023    |
+| Workshop                   | 2 or 6 May 2023  |
 
 -----
 
