@@ -6,9 +6,9 @@ layout: default
 
 <h2>19th Workshop on Multiword Expressions (MWE 2023)</h2>
 
-**Colocated with:** TBA
+**Colocated with:** [EACL 2023]()https://2023.eacl.org/ (Dubrovnik, Croatia)
 
-**Date of the Workshop:** TBA
+**Date of the Workshop:** 2 or 6 May 2023
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
@@ -30,7 +30,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **December 21, 2021**: First CFP posted.
 * **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
 -->
-* **November 2, 2022**: Organising committee formed
+* **9 December 2022**: MWE 2023 proposal accepted to EACL 2023
+* **2 November 2022**: Organising committee formed
 
 -----
 
@@ -128,4 +129,5 @@ Section" box to be registered to our [mailing list](../mailinglist).
 
 The workshop supports the [ACL anti-harassment
 policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
+
 
