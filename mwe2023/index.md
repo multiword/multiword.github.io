@@ -48,10 +48,10 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Submission formats](#submission)
 - [Paper submission and templates](#instructions)
 - [Important dates](#dates)
-- [Organizers](#organizers)
-- [Program committee](#committee)
-- [Contact](#contact)
+- [Organizing Committee](#organizers)
+- [Program Committee](#committee)
 - [Anti-harassment policy](#antiharassment)
+- [Contact](#contact)
 </details>
 
 <!-- Does not work...
@@ -141,7 +141,7 @@ Papers should be submitted via the workshop's START submission page, available s
 
 -----
 
-### <a name="organizers"> Organizing committee </a>
+### <a name="organizers"> Organizing Committee </a>
 
 | What | Who |
 | ---- | --- |
@@ -152,25 +152,23 @@ Papers should be submitted via the workshop's START submission page, available s
 
 -----
 
-### <a name="committee"> Program committee </a>
+### <a name="committee"> Program Committee </a>
 
 TBD
 
 -----
 
-### <a name="contact"> Contact </a>
+### <a name="antiharassment"> Anti-harassment policy </a>
 
-For any inquiries regarding the workshop please send an email to
-[mweworkshop2023@googlegroups.com ](mailto:mweworkshop2023@googlegroups.com )
-
-Please register to [SIGLEX](../organization/members) and check the "MWE
-Section" box to be registered to our [mailing list](../mailinglist).
+The workshop follows the [ACL anti-harassment
+policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
 
 -----
 
-### <a name="antiharassment"> Anti-harassment policy </a>
+### <a name="contact"> Contact </a>
 
-The workshop supports the [ACL anti-harassment
-policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
+For any inquiries regarding the workshop please send an email to the Organizing
+Committee at [mweworkshop2023@googlegroups.com](mailto:mweworkshop2023@googlegroups.com )
 
-
+Please register to [SIGLEX](../organization/members) and check the "MWE
+Section" box to be registered to our [mailing list](../mailinglist).
