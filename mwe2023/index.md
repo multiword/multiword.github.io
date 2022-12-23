@@ -44,6 +44,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Program](#program)
 - [Keynote speakers](#keynotes) 
 - [Description](#description)
+- [Shared Task](#shared-task)
 - [Submission modalities](#submission)
 - [Instructions for authors](#instructions)
 - [Important dates](#dates)
@@ -104,6 +105,12 @@ Through this workshop, we would like to bring together and encourage researchers
 * Resources and tools (e.g. lexicons, identifiers) and their integration into end-user applications;
 * Multiword terminology extraction;
 * Adaptation and transfer of annotations and related resources to new languages and domains including low-resource ones.
+
+-----
+
+### <a name="shared-task">Shared Task</a>
+
+As a new release of the PARSEME corpus of verbal MWEs is currently underway, we encourage submission of research papers that include analyses of the new edition of the PARSEME data and improvements over the results for PARSEME 2020 shared task as well as SemEval 2022 task 2 on idiomaticity prediction.
 
 -----
 
