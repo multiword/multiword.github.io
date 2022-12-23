@@ -30,6 +30,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **December 21, 2021**: First CFP posted.
 * **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
 -->
+* **23 December 2022**: First CFP posted
 * **9 December 2022**: MWE 2023 proposal accepted to EACL 2023
 * **2 November 2022**: Organising committee formed
 
@@ -78,7 +79,31 @@ TBD
 
 ### <a name="description"> Description </a>
 
-TBD
+Multiword expressions (MWEs) are word combinations that exhibit lexical, syntactic, semantic, pragmatic, and/or statistical idiosyncrasies (Baldwin & Kim 2010), such as by and large, hot dog, pay a visit and pull one's leg. The notion encompasses closely related phenomena: idioms, compounds, light-verb constructions, phrasal verbs, rhetorical figures, collocations, institutionalised phrases, etc. Their behaviour is often unpredictable; for example, their meaning often does not result from the direct combination of the meanings of their parts. Given their irregular nature, MWEs often pose complex problems in linguistic modelling (e.g. annotation), NLP tasks (e.g. parsing), and end-user applications (e.g. natural language understanding and MT), hence still representing an open issue for computational linguistics (Constant et al. 2017).
+
+For almost two decades, modelling and processing MWEs for NLP has been the topic of the MWE workshop organised by the [MWE section](https://multiword.org) of [SIGLEX](https://siglex.org) in conjunction with major NLP conferences since 2003. Impressive progress has been made in the field, but our understanding of MWEs still requires much research considering their need and usefulness in NLP applications. This is also relevant to domain-specific NLP pipelines that need to tackle terminologies most often realised as MWEs. Following previous years, for this 19th edition of the workshop, we identified the following topics on which contributions are particularly encouraged:
+
+* **MWE processing and identification in specialized languages and domains:** Multiword terminology extraction from domain-specific corpora (Bonin et al. 2010) is of particular importance to various applications, such as MT (Semmar & Laib, 2017), or for the identification and monitoring of neologisms and technical jargon (Chatzitheodorou et al, 2021).  We expect approaches that deal with the processing of MWEs as well as the processing of terminology in specialised domains can benefit from each other. 
+* **MWE processing to enhance end-user applications:** MWEs have gained particular attention in end-user applications, including MT (Zaninello & Birch 2020; Han et al. 2021), simplification (Kochmar et al. 2020), language learning and assessment (Paquot et al. 2019; Christiansen & Arnon 2017), social media mining (Maisto et al. 2017), and abusive language detection (Zampieri et al. 2020; Caselli et al. 2020). We believe that it is crucial to extend and deepen these first attempts to integrate and evaluate MWE technology in these and further end-user applications.
+* **MWE identification and interpretation in pre-trained language models:** Most current MWE processing is limited to their identification and detection using pre-trained language models, but we still lack understanding about how MWEs are represented and dealt with therein (Nedumpozhimana & Kelleher 2021; Garcia et al. 2021, Fakharian & Cook 2021), how to better model the compositionality of MWEs from semantics (Moreau et al. 2018). Now that NLP has shifted towards end-to-end neural models like BERT, capable of solving complex tasks with little or no intermediary linguistic symbols, questions arise about the extent to which MWEs should be implicitly or explicitly modelled (Shwartz & Dagan, 2019).
+* **MWE processing in low-resource languages:** The PARSEME shared tasks (Ramisch et al. 2020; 2018; Savary et al. 2017), among others, have fostered significant progress in MWE identification, providing datasets that include low-resource languages, evaluation measures, and tools that now allow fully integrating MWE identification into end-user applications. A few efforts have recently explored methods for the automatic interpretation of MWEs (Bhatia, et al. 2018; 2017), and their processing in low-resource languages (Liu & Wang 2020; Kumar et al. 2017). Resource creation and sharing should be pursued in parallel with the development of methods able to capitalize on small datasets (Han et al. 2020).
+
+Through this workshop, we would like to bring together and encourage researchers in various NLP subfields to submit MWE-related research, so that approaches that deal with processing of MWEs including processing for low-resource languages and for various applications can benefit from each other. We also intend to consolidate the converging effects of previous joint workshops [LAW-MWE-CxG 2018](http://multiword.sourceforge.net/lawmwecxg2018/), [MWE-WN 2019](http://multiword.sourceforge.net/mwewn2019/) and [MWE-LEX 2020](http://multiword.sourceforge.net/mwelex2020/), the joint [MWE-WOAH](https://multiword.org/mwe2021/#program) panel in 2021, and the [MWE-SIGUL 2022 joint session](https://multiword.org/mwe2022/), extending our scope to MWEs in e-lexicons and WordNets, MWE annotation, as well as grammatical constructions. Correspondingly, we call for papers on research related (but not limited) to MWEs and constructions in:
+
+* Computationally-applicable theoretical work in psycholinguistics and corpus linguistics; 
+* Annotation (expert, crowdsourcing, automatic) and representation in resources such as corpora, treebanks, e-lexicons, and WordNets (also for low-resource languages); 
+* Processing in syntactic and semantic frameworks (e.g. CCG, CxG, HPSG, LFG, TAG, UD, etc.); 
+* Discovery and identification methods, including for specialized languages and domains such as clinical or biomedical NLP; 
+* Interpretation of MWEs and understanding of text containing them; 
+* Language acquisition, language learning, and non-standard language (e.g. tweets, speech); 
+* Evaluation of annotation and processing techniques; 
+* Retrospective comparative analyses from the PARSEME shared tasks;
+* Processing for end-user applications (e.g. MT, NLU, summarisation, language learning, etc.);
+* Implicit and explicit representation in pre-trained language models and end-user applications;
+* Evaluation and probing of pre-trained language models; 
+* Resources and tools (e.g. lexicons, identifiers) and their integration into end-user applications;
+* Multiword terminology extraction;
+* Adaptation and transfer of annotations and related resources to new languages and domains including low-resource ones.
 
 -----
 
