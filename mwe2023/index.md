@@ -141,12 +141,14 @@ Papers should be submitted via the workshop's START submission page, available s
 
 -----
 
-### <a name="organizers"> Organizers </a>
+### <a name="organizers"> Organizing committee </a>
 
-- **Program chairs:** [Marcos Garcia](http://www.grupolys.org/~marcos/), [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/), [Shiva Taslimipoor](https://shivaat.github.io/), [Lifeng Han](https://www.research.manchester.ac.uk/portal/lifeng.han.html)
-- **Publication chair:** [Archna Bhatia](https://www.ihmc.us/groups/abhatia/)
-- **Coordination and communication chair:** [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/)
-- **Publicity chair:** [Kilian Evang](https://kilian.evang.name/)
+| What | Who |
+| ---- | --- |
+| Program chairs | [Marcos Garcia](http://www.grupolys.org/~marcos/), [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/), [Shiva Taslimipoor](https://shivaat.github.io/), [Lifeng Han](https://www.research.manchester.ac.uk/portal/lifeng.han.html) |
+| Publication chair | [Archna Bhatia](https://www.ihmc.us/groups/abhatia/) |
+| Coordination and communication chair | [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/) |
+| Publicity chair | [Kilian Evang](https://kilian.evang.name/) |
 
 -----
 
