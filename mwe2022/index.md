@@ -28,6 +28,15 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **December 21, 2021**: First CFP posted.
 * **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
 
+
+-----
+
+<table>
+<tr><td>
+<a href="img/mwe2022-online-group-picture-small.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2022 online group picture" src="img/mwe2022-online-group-picture-small.jpg"/></a></td>
+<td>
+<a href="img/mwe2022-onsite-group-picture-small.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2022 online group picture" src="img/mwe2022-onsite-group-picture-small.jpg"/></a>
+</td></tr></table>
 -----
 
 <details open markdown="block">
