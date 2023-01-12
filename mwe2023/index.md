@@ -49,7 +49,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Paper submission and templates](#instructions)
 - [Important dates](#dates)
 - [Organizing Committee](#organizers)
-- [Program Committee](#committee)
+- [Program Committee (Preliminary)](#committee)
 - [Anti-harassment policy](#antiharassment)
 - [Contact](#contact)
 </details>
@@ -152,9 +152,56 @@ Papers should be submitted via the workshop's START submission page, available s
 
 -----
 
-### <a name="committee"> Program Committee </a>
+### <a name="committee"> Program Committee (Preliminary) </a>
 
-TBD
+* Margarita Alonso-Ramos, Universidade da Coruña
+* Verginica Barbu Mititelu, Romanian Academy
+* Claire Bonial, U.S. Army Research Laboratory
+* Tiberiu Boroș, Adobe
+* Miriam Butt , University of Konstanz
+* Marie Candito, Paris Diderot University
+* Anastasia Christofidou, Academy of Athens
+* Ken Church, IBM Research
+* Monika Czerepowicka, University of Warmia and Mazury
+* Gaël Dias, University of Caen Basse-Normandie
+* Rafael Ehren, Heinrich Heine University Düsseldorf
+* Ismail El Maarouf, Adarga Ltd
+* Meghdad Farahmand, University of Geneva
+* Joaquim Ferreira da Silva, New University of Lisbon
+* Aggeliki Fotopoulou, ATHENA RC
+* Stefan Th. Gries, University of California
+* Chikara Hashimoto, Yahoo! Japan
+* Laura Kallmeyer, Heinrich Heine University Düsseldorf
+* Elma Kerz, RWTH Aachen
+* Ioannis Korkontzelos, Edge Hill University
+* Cvetana Krstev, University of Belgrade
+* Eric Laporte, University Paris-Est Marne-la-Vallee
+* Timm Lichte, University of Tübingen
+* Irina Lobzhanidze, Ilia State University
+* Teresa Lynn, ADAPT Centre
+* Stella Markantonatou, ATHENA RC
+* Yuji Matsumoto, Nara Institute of Science and Technology
+* Johanna Monti, University of Naples L’Orientale
+* Joakim Nivre, Uppsala University
+* Jan Odijk, University of Utrecht
+* Yannick Parmentier, University of Lorraine
+* Agnieszka Patejuk, University of Oxford and Polish Academy of Sciences
+* Pavel Pecina, Charles University
+* Ted Pedersen, University of Minnesota
+* Miriam R.L Petruck, University of Berkeley
+* Scott Piao, Lancaster University
+* Alain Polguère, Université de Lorraine
+* Alexandre Rademaker, IBM Research Brazil and EMAp/FGV
+* Agata Savary, Université Paris-Saclay
+* Sabine Schulte im Walde, University of Stuttgart
+* Matthew Shardlow, Manchester Metropolitan University
+* Ivelina Stoyanova, Bulgarian Academy of Sciences
+* Beata Trawinski, Institut für Deutsche Sprache Mannheim
+* Marion Weller-Di Marco, LMU Munich
+* Petya Osenova, Bulgarian Academy of Sciences
+* Prisca Piccirilli, University of Stuttgart
+* Carlos Ramisch, Aix Marseille University
+* Yagmur Ozturk, Université de Franche-Comté
 
 -----
 
