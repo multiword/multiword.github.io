@@ -45,6 +45,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Keynote speakers](#keynotes) 
 - [Description](#description)
 - [Shared task](#shared-task)
+- [Special Track on MWEs in Clinical NLP](#special-track)
 - [Submission formats](#submission)
 - [Paper submission and templates](#instructions)
 - [Important dates](#dates)
@@ -111,6 +112,12 @@ Through this workshop, we would like to bring together and encourage researchers
 ### <a name="shared-task">Shared Task</a>
 
 As a new release of the PARSEME corpus of verbal MWEs is currently underway, we encourage submission of research papers that include analyses of the new edition of the PARSEME data and improvements over the results for PARSEME 2020 shared task as well as SemEval 2022 task 2 on idiomaticity prediction.
+
+-----
+
+### <a name="special-track">Special track on MWEs in clinical NLP</a>
+
+Pursuing the MWE Section’s tradition of synergies with other communities, this year, we are organizing a joint session with the Clinical NLP workshop for shared papers/poster presentations. Since clinical texts contain an important amount of multiword expressions (e.g. medical terms or domain-specific collocations), a joint session is deemed beneficial for both communities. The goal is to foster future synergies that could address scientific challenges in the creation of resources, models and applications to deal with multiword expressions and related phenomena in the specialised domain of ClinicalNLP. Submissions describing research on MWEs in the specialized domain of ClinicalNLP, especially introducing new datasets or new tools and resources, are welcome. Papers accepted in this track will have the option to present their work in the Clinical NLP workshop at ACL 2023 as well, after being presented at MWE 2023.
 
 -----
 
