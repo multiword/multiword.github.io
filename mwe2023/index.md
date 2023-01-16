@@ -110,9 +110,9 @@ Through this workshop, we would like to bring together and encourage researchers
 
 -----
 
-### <a name="shared-task">Shared Task</a>
+### <a name="shared-task">Shared task</a>
 
-As a new release of the PARSEME corpus of verbal MWEs is currently underway, we encourage submission of research papers that include analyses of the new edition of the PARSEME data and improvements over the results for PARSEME 2020 shared task as well as SemEval 2022 task 2 on idiomaticity prediction.
+We do not have a shared task this year, but a new release of the PARSEME corpus of verbal MWEs is currently underway. We encourage submission of research papers that include analyses of the new edition of the PARSEME data and improvements over the results for PARSEME 2020 shared task as well as SemEval 2022 task 2 on idiomaticity prediction.
 
 -----
 
