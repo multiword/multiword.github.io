@@ -139,8 +139,9 @@ The workshop invites  two types of submissions:
 
 ### <a name="instructions">Paper submission and templates</a>
 
-
 Papers should be submitted via the workshop's START submission page, available soon. Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL 2023 stylesheet](https://2023.aclweb.org/calls/style_and_formatting/).
+
+Archival papers with existing reviews from ACL Rolling Review will also be considered. A paper may not be simultaneously under review through ARR and MWE. A paper that has or will receive reviews through ARR may not be submitted for review to MWE.
 
 -----
 
@@ -149,6 +150,7 @@ Papers should be submitted via the workshop's START submission page, available s
 | What                       | When             |
 | -------------------------- | ---------------- |
 | Paper submission deadline  | 13 February 2023 |
+| ARR paper commitment       | 6 March 2023     |
 | Notification of acceptance | 13 March 2023    |
 | Camera-ready papers due    | 27 March 2023    |
 | Workshop                   | 2 or 6 May 2023  |
