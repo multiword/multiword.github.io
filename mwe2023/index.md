@@ -30,7 +30,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **December 21, 2021**: First CFP posted.
 * **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
 -->
-* **23 December 2022**: First CFP posted
+* **16 January 2023**: Second CfP posted
+* **23 December 2022**: First CfP posted
 * **9 December 2022**: MWE 2023 proposal accepted to EACL 2023
 * **2 November 2022**: Organising committee formed
 
