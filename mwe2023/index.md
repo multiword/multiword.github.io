@@ -142,7 +142,7 @@ The workshop invites  two types of submissions:
 
 ### <a name="instructions">Paper submission and templates</a>
 
-Papers should be submitted via the workshop's START submission page, available soon. Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL 2023 stylesheet](https://2023.aclweb.org/calls/style_and_formatting/).
+Papers should be submitted via [the workshop's START submission page](https://softconf.com/eacl2023/mwe2023/). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL 2023 stylesheet](https://2023.aclweb.org/calls/style_and_formatting/).
 
 Archival papers with existing reviews from ACL Rolling Review will also be considered. A paper may not be simultaneously under review through ARR and MWE. A paper that has or will receive reviews through ARR may not be submitted for review to MWE.
 
