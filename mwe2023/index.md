@@ -78,8 +78,11 @@ TBD
 
 ### <a name="keynotes">Keynote speakers </a>
 
-* [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324), Universitat Pompeu Fabra
-* TBD
+#### [Leo Wanner](https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324), Universitat Pompeu Fabra
+
+**Bio:** Leo Wanner earned his Diploma in Computer Science from the University of Karlsruhe and his PhD in Computational Linguistics from the University of The Saarland, Germany. Prior to joining ICREA he held positions at the German National Centre for Computer Science (GMD), University of Waterloo, the University of Stuttgart and the Pompeu Fabra University, Barcelona. As visiting researcher, he was affiliated with U of Montreal, U of Sydney, U of Southern California's Institute for Information Sciences, U Paris 7, Columbia University, and U of Augsburg. Throughout his career, Leo has been involved as Principal Investigator in numerous of national and European research projects. He has published 10 volumes and more than 230 peer reviewed papers. He is Associate Editor of the Computational Intelligence and Frontiers in AI, Language and Computation journals and serves as regular reviewer for a number of high profile conferences and journals in the field.
+
+#### TBD
 
 ------
 
