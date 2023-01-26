@@ -72,7 +72,16 @@ TBD
 
 ### <a name="program"> Program </a>
 
-TBD
+Tentative schedule:
+
+| 08:30–09:00 | Registration           |
+| 09:00–10:30 | Session 1              |
+| 10:30–11:15 | Morning coffee break   |
+| 11:15–12:45 | Session 2              |
+| 12:45–14:15 | Lunch break            |
+| 14:15–15:45 | Session 3              |
+| 15:45–16:30 | Afternoon coffee break |
+| 16:30–18:00 | Session 4              |
 
 -----
 
