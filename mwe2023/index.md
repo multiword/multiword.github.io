@@ -8,7 +8,7 @@ layout: default
 
 **Colocated with:** [EACL 2023](https://2023.eacl.org/) (Dubrovnik, Croatia)
 
-**Date of the Workshop:** 2 or 6 May 2023
+**Date of the Workshop:** 5 or 6 May 2023
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
@@ -159,7 +159,7 @@ Archival papers with existing reviews from ACL Rolling Review will also be consi
 | ARR commitment deadline    | 6 March 2023     |
 | Notification of acceptance | 13 March 2023    |
 | Camera-ready papers due    | 27 March 2023    |
-| Workshop                   | 2 or 6 May 2023  |
+| Workshop                   | 5 or 6 May 2023  |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
