@@ -30,6 +30,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **December 21, 2021**: First CFP posted.
 * **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
 -->
+* **2 Feb 2023**: Final CfP posted
 * **19 January 2023**: Invited speaker Leo Wanner confirmed
 * **16 January 2023**: Second CfP posted
 * **23 December 2022**: First CfP posted
