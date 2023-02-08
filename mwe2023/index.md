@@ -30,6 +30,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **December 21, 2021**: First CFP posted.
 * **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
 -->
+* **8 Feb 2023**: Paper submission deadline extended to 20 February 2023
 * **2 Feb 2023**: Final CfP posted
 * **19 January 2023**: Invited speaker Leo Wanner confirmed
 * **16 January 2023**: Second CfP posted
@@ -163,13 +164,13 @@ Archival papers with existing reviews from ACL Rolling Review will also be consi
 
 ### <a name="dates"> Important dates </a>
 
-| What                       | When             |
-| -------------------------- | ---------------- |
-| Paper submission deadline  | 13 February 2023 |
-| ARR commitment deadline    | 6 March 2023     |
-| Notification of acceptance | 13 March 2023    |
-| Camera-ready papers due    | 27 March 2023    |
-| Workshop                   | 5 or 6 May 2023  |
+| What                       | When                       |
+| -------------------------- | ----------------           |
+| Paper submission deadline  | <s>13</s> 20 February 2023 |
+| ARR commitment deadline    | 6 March 2023               |
+| Notification of acceptance | 13 March 2023              |
+| Camera-ready papers due    | 27 March 2023              |
+| Workshop                   | 5 or 6 May 2023            |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
