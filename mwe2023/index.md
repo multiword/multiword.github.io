@@ -236,7 +236,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Petya Osenova, Bulgarian Academy of Sciences
 * Prisca Piccirilli, University of Stuttgart
 * Carlos Ramisch, Aix Marseille University
-* Yagmur Ozturk, Université de Franche-Comté
+* Yagmur Ozturk, Grenoble Alpes University
 
 -----
 
