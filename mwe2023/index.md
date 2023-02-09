@@ -170,6 +170,7 @@ Archival papers with existing reviews from ACL Rolling Review will also be consi
 | ARR commitment deadline    | 6 March 2023               |
 | Notification of acceptance | 13 March 2023              |
 | Camera-ready papers due    | 27 March 2023              |
+| Underline upload deadline  | 11 April 2023              |
 | Workshop                   | 5 or 6 May 2023            |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
