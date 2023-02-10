@@ -21,7 +21,10 @@
 }
 
 .main table {
-	border-spacing: 1em;
+	border-collapse: separate;
+	border-spacing: 1rem 0;
+	margin-left: -1rem;
+	margin-bottom: 1rem;
 }
 
 .footer {
