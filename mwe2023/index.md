@@ -224,7 +224,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Agnieszka Patejuk, University of Oxford and Polish Academy of Sciences
 * Pavel Pecina, Charles University
 * Ted Pedersen, University of Minnesota
-* Miriam R.L Petruck, University of Berkeley
+* Miriam R.L Petruck, International Computer Science Institute
 * Scott Piao, Lancaster University
 * Alain Polguère, Université de Lorraine
 * Alexandre Rademaker, IBM Research Brazil and EMAp/FGV
