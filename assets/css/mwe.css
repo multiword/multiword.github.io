@@ -20,6 +20,10 @@
   text-decoration: none;
 }
 
+.main table {
+	border-spacing: 1em;
+}
+
 .footer {
   position: fixed;
   left: 0;
