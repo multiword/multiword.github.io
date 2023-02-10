@@ -11,7 +11,7 @@
   color: rgb(64,64,64);
 }
 
-.main a {
+.main a:link {
   color: rgb(140,100,50);
   text-decoration: underline;
 }
