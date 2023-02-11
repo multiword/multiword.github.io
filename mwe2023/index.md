@@ -55,7 +55,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Paper submission and templates](#instructions)
 - [Important dates](#dates)
 - [Organizing Committee](#organizers)
-- [Program Committee (Preliminary)](#committee)
+- [Program Committee](#committee)
 - [Anti-harassment policy](#antiharassment)
 - [Contact](#contact)
 </details>
@@ -188,56 +188,144 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 -----
 
-### <a name="committee"> Program Committee (Preliminary) </a>
+### <a name="committee"> Program Committee </a>
 
+* Iñaki Alegria, University of the Basque Country
 * Margarita Alonso-Ramos, Universidade da Coruña
+* Tim Baldwin, University of Melbourne
 * Verginica Barbu Mititelu, Romanian Academy
+* Chris Biemann, Universität Hamburg
+* Alexandra Birch, University of Edinburgh
+* Francis Bond, Nanyang Technological University
 * Claire Bonial, U.S. Army Research Laboratory
 * Tiberiu Boroș, Adobe
-* Miriam Butt , University of Konstanz
+* Jill Burstein, Educational Testing Service
+* Miriam Butt , Universität Konstanz
 * Marie Candito, Paris Diderot University
+* Fabienne Cap, Uppsala University
+* Marine Carpuat, University of Maryland
+* Helena Caseli, Federal University of Sao Carlos
 * Anastasia Christofidou, Academy of Athens
 * Ken Church, IBM Research
+* Simon Clematide, University of Zürich
+* Matthieu Constant, Université de Lorraine
+* Paul Cook, University of New Brunswick
+* Silvio Cordeiro, Bloomin
 * Monika Czerepowicka, University of Warmia and Mazury
+* Béatrice Daille, Nantes University
+* Myriam de Lhonneux, University of Copenhagen
+* Koenraad Desmedt, University of Bergen
+* Mona Diab, George Washington University
 * Gaël Dias, University of Caen Basse-Normandie
 * Rafael Ehren, Heinrich Heine University Düsseldorf
 * Ismail El Maarouf, Adarga Ltd
+* Gülşen Eryiğit, Istanbul Technical University
 * Meghdad Farahmand, University of Geneva
+* Christiane Fellbaum, Princeton University
 * Joaquim Ferreira da Silva, New University of Lisbon
-* Aggeliki Fotopoulou, ATHENA RC
+* Teresa Flera, Uni Warsaw
+* Karën Fort, Sorbonne Université
+* Aggeliki Fotopoulou, Institute for Language & Speech Processing, ATHENA RC
+* Daniela Gierschek, Uni Luxembourg
 * Stefan Th. Gries, University of California
-* Chikara Hashimoto, Yahoo! Japan
+* Bruno Guillaume, Université de Lorraine
+* Dhouha Hadjmed, University of Sfax
+* Chikara Hashimoto, Yahoo!Japan
+* Christopher Hidey, Columbia University
+* Rebecca  Hwa, University of Pittsburgh
+* Uxoa Iñurrieta, University of the Basque Country
 * Laura Kallmeyer, Heinrich Heine University Düsseldorf
+* Diptesh Kanojia, IIT Bombay
 * Elma Kerz, RWTH Aachen
+* Ekaterina Kochmar, University of Cambridge
+* Dimitrios Kokkinakis, University of Gothenburg
 * Ioannis Korkontzelos, Edge Hill University
+* Iztok Kosem, Jožef Stefan” Institute
 * Cvetana Krstev, University of Belgrade
+* Tita Kyriakopoulou, University Paris-Est Marne-la-Vallee
 * Eric Laporte, University Paris-Est Marne-la-Vallee
+* Qinyuan Li , Trinity College Dublin
 * Timm Lichte, University of Tübingen
 * Irina Lobzhanidze, Ilia State University
 * Teresa Lynn, ADAPT Centre
-* Stella Markantonatou, ATHENA RC
+* Gunn Inger Lyse Samdal, University of Bergen
+* Alfredo Maldonado, Trinity College Dublin
+* Stella Markantonatou, Institute for Language & Speech Processing, ATHENA RC
 * Yuji Matsumoto, Nara Institute of Science and Technology
-* Johanna Monti, University of Naples L’Orientale
+* John P. McCrae, National University of Ireland, Galway
+* Nurit Melnik, The Open University of Israel
+* Laura A. Michaelis, University of Colorado Boulder
+* Jelena Mitrović, University of Passau
+* Johanna Monti, "L'Orientale" University of Naples
+* Preslav Nakov, Qatar Computing Research Institute, HBKU
+* Stella Neumann, RWTH Aachen
+* Sanni Nimb, Det Denske Sprog- og Litteraturselskab
+* Malvina Nissim, University of Groningen
 * Joakim Nivre, Uppsala University
+* Diarmuid Ó Séaghdha, University of Cambridge
 * Jan Odijk, University of Utrecht
+* Petya Osenova , Bulgarian Academy of Sciences
+* Yagmur Ozturk, Grenoble Alpes University
+* Martha Palmer, University of Colorado Boulder
+* Pan Pan, School of Foreign Studies, South China Normal University
+* Haris Papageorgiou, Institute for Language and Speech Processing
 * Yannick Parmentier, University of Lorraine
-* Agnieszka Patejuk, University of Oxford and Polish Academy of Sciences
+* Carla Parra Escartín, Iconic Translation Machines
+* Caroline Pasquer, University of Tours
+* Agnieszka Patejuk, University of Oxford and Institute of Computer Science, Polish Academy of Sciences
+* Marie-Sophie Pausé, independent researcher
 * Pavel Pecina, Charles University
 * Ted Pedersen, University of Minnesota
-* Miriam R.L Petruck, International Computer Science Institute
+* Miriam R.L Petruck , International Computer Science Institute
 * Scott Piao, Lancaster University
+* Maciej Piasecki, Wroclaw University of Technology
+* Prisca Piccirilli, Uni. Stuttgart
 * Alain Polguère, Université de Lorraine
+* Vinodkumar Prabhakaran, Google
+* Behrang QuasemiZadeh, University of Duesseldorf
 * Alexandre Rademaker, IBM Research Brazil and EMAp/FGV
-* Agata Savary, Université Paris-Saclay
-* Sabine Schulte im Walde, University of Stuttgart
-* Matthew Shardlow, Manchester Metropolitan University
-* Ivelina Stoyanova, Bulgarian Academy of Sciences
-* Beata Trawinski, Institut für Deutsche Sprache Mannheim
-* Marion Weller-Di Marco, LMU Munich
-* Petya Osenova, Bulgarian Academy of Sciences
-* Prisca Piccirilli, University of Stuttgart
 * Carlos Ramisch, Aix Marseille University
-* Yagmur Ozturk, Grenoble Alpes University
+* Sonia Ramotowska, Uni Amsterdam
+* Livy Real, B2W 
+* Martin Riedl, University of Hamburg
+* Matīss Rikters, University of Tokyo
+* Victoria Rosén, University of Bergen
+* Mike Rosner, University of Malta
+* Fatiha Sadat, Université du Québec à Montréal
+* Manfred Sailer, Goethe-Universität Frankfurt am Main
+* Bahar Salehi, The University of Melbourne
+* Magali Sanches Duran, University of São Paulo
+* Federico Sangati, Independent researcher
+* Agata Savary, Université Paris-Saclay
+* Nathan Schneider, Georgetown University
+* Sabine Schulte im Walde, University of Stuttgart
+* Matthew  Shardlow, Manchester Metropolitan University
+* Vered Shwartz, Allen AI
+* Kiril Simov, Bulgarian Academy of Sciences
+* Noah Smith, University of Washington
+* Gyri Smørdal Losnegaard, University of Bergen
+* Jan Šnajder, University of Zagreb
+* Ranka Stanković, University of Belgrade
+* Ivelina Stoyanova, Bulgarian Academy of Sciences
+* Pavel Straňák, Charles University
+* Stan Szpakowicz, University of Ottawa
+* Harish Tayyar Madabushi, University of Bath
+* Carole Tiberius, Dutch Language Institute
+* Beata Trawinski, Institut für Deutsche Sprache Mannheim
+* Yulia Tsvetkov, Carnegie Mellon University
+* Zdeňka Urešová, Charles University
+* Ruben Urizar, University of the Basque Country
+* Ashwini Vaidya, Indian Institute of Technology
+* Lonneke van der Plas, University of Malta
+* Bertram Vidgen, Alan Turing Institute
+* Aline Villavicencio, Federal University of Rio Grande do Sul
+* Veronika Vincze, Hungarian Academy of Sciences
+* Martin Volk, University of Zürich
+* Zeerak Waseem, University of Sheffield
+* Jakub Waszczuk, University of Duesseldorf
+* Eric Wehrli, University of Geneva
+* Marion Weller-Di Marco, Ludwig Maximilian University of Munich
+* Seid Muhie Yimam, Universität Hamburg
 
 -----
 
