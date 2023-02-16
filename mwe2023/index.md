@@ -150,7 +150,7 @@ All full papers in the workshop will be considered by the program committee for 
 The workshop invites  two types of submissions:
 
 * **archival submissions** that present substantially original research in both **long paper** format (8 pages + references) and **short paper** format (4 pages + references).
-* **non-archival submissions** of abstracts describing relevant research presented/published elsewhere which will not be included in the MWE proceedings.
+* **non-archival submissions** of abstracts/papers describing relevant research presented/published elsewhere (including [Findings](https://aclanthology.org/venues/findings/) papers). These will not be included in the MWE proceedings.
 
 -----
 
