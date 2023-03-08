@@ -3,12 +3,11 @@ title: Multiword Expressions Workshop 2023
 layout: default
 ---
 
-
 <h2>19th Workshop on Multiword Expressions (MWE 2023)</h2>
 
 **Colocated with:** [EACL 2023](https://2023.eacl.org/) (Dubrovnik, Croatia)
 
-**Date of the Workshop:** 5 or 6 May 2023
+**Date of the Workshop:** 6 May 2023
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
@@ -172,7 +171,7 @@ To commit an ARR submission, <a href="#contact">email</a> its OpenReview forum U
 | Notification of acceptance | 13 March 2023              |
 | Camera-ready papers due    | 27 March 2023              |
 | Underline upload deadline  | 11 April 2023              |
-| Workshop                   | 5 or 6 May 2023            |
+| Workshop                   | 6 May 2023            |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
