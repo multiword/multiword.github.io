@@ -247,7 +247,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Qinyuan Li , Trinity College Dublin
 * Timm Lichte, University of Tübingen
 * Irina Lobzhanidze, Ilia State University
-* Teresa Lynn, ADAPT Centre
+* Teresa Lynn, Mohamed bin Zayed University of Artificial Intelligence
 * Gunn Inger Lyse Samdal, University of Bergen
 * Alfredo Maldonado, Trinity College Dublin
 * Stella Markantonatou, Institute for Language & Speech Processing, ATHENA RC
