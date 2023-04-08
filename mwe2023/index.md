@@ -29,6 +29,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **December 21, 2021**: First CFP posted.
 * **December 9, 2021**: MWE-2022 proposal accepted at LREC 2022.
 -->
+* **22 Mar 2023**: Invited speakers Asma Ben Abacha and Goran Nenadic confirmed
 * **8 Feb 2023**: Paper submission deadline extended to 20 February 2023
 * **2 Feb 2023**: Final CfP posted
 * **19 January 2023**: Invited speaker Leo Wanner confirmed
