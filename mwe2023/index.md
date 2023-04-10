@@ -99,7 +99,9 @@ Tentative schedule:
 
 #### [Asma Ben Abacha](https://sites.google.com/site/asmabenabacha/) (Microsoft) and [Goran Nenadic](https://personalpages.manchester.ac.uk/staff/gnenadic/) (University of Manchester)
 
-**Bio:** TBD
+**Bios:** Asma Abacha is a Senior Scientist at Microsoft, with over 80 peer reviewed publications. Her research interests include Natural Language Processing, Machine Learning, Artificial Intelligence and their applications in medicine and healthcare.
+
+Goran Nenadic is a Professor in the Department of Computer Science at University of Manchester and a Turing Fellow at the Alan Turing Institute, with more than 250 peer reviewed publications. His research interests include Natural Language Processing, text mining, and health informatics.
 
 **Title:** MWEs in ClinicalNLP and Healthcare Text Analytics
 
