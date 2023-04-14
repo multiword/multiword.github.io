@@ -113,7 +113,7 @@ Subject to change!
 |    | *Dimitrios Kokkinakis, Ricardo Muñoz Sánchez and Sebastianus Cornelis Jacobus Bruinsma* |
 |   15:15–15:45   | Panel discussion: Multiword Expressions in Knowledge-intensive Domains: Clinical Text as a Case Study |
 |                 | *Asma Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
-| **15:45–16:30** | **Afternoon coffee break**     |
+| **15:45–16:15** | **Afternoon coffee break**     |
 | **16:15–18:00** | **Session 4**                  |
 |                 | *Chair: TBD*                   |
 |   16:15–17:15   | Poster session                 |
