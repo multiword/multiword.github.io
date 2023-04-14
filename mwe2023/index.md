@@ -83,13 +83,13 @@ Subject to change!
 |                 | *Marcos Garcia*                |
 |   09:10–10:30   | Oral short paper presentations |
 |                 | *Chairs: TBD*                  |
-|    | (7) Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
+|    | Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
 |    | *Giulia Rambelli, Emmanuele Chersoni, Marco S. G. Senaldi, Philippe Blache and Alessandro Lenci*                  |
-|    | (17) A Survey of MWE Identification Experiments: The Devil is in the Details (online) |
+|    | A Survey of MWE Identification Experiments: The Devil is in the Details (online) |
 |    | *Carlos Ramisch, Abigail Walsh, Thomas Blanchard and Shiva Taslimipoor*          |
-|    | (18) PARSEME corpus release 1.3 (online)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|    | PARSEME corpus release 1.3 (online)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |    | *Agata Savary, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, najet hadj mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze and Abigail Walsh* |
-|    | (19) Predicting Compositionality of Verbal Multiword Expressions in Persian (online) |
+|    | Predicting Compositionality of Verbal Multiword Expressions in Persian (online) |
 |    | *Mahtab sarlak, Yalda Yarandi and Mehrnoush Shamsfard*                          |
 | **10:30–11:15** | **Morning coffee break**       |
 | **11:15–12:45** | **Session 2**                  |
@@ -97,9 +97,9 @@ Subject to change!
 |   11:15–12:15   | Keynote: Lexical collations: Explored a lot, still a lot more to explore |
 |                 | *Leo Wanner*                                                             |
 |   12:15–12:45   | Oral short paper presentations |
-|    | (1) Romanian Multiword Expression Detection Using Multilingual Adversarial Training and Lateral Inhibition |
+|    | Romanian Multiword Expression Detection Using Multilingual Adversarial Training and Lateral Inhibition |
 |    | *Andrei Avram, Verginica Barbu Mititelu and Dumitru-Clementin Cercel*                                  |
-|    | (14) The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative (non-archival, online) |
+|    | The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative (non-archival, online) |
 |    | *Leonie Weissweiler, Valentin Hofmann, Abdullatif Koksal and Hinrich Schütze*                                                                        |
 | **12:45–14:15** | **Lunch break**                |
 | **14:15–15:45** | **Session 3 (special track)**  |
@@ -107,9 +107,9 @@ Subject to change!
 |   14:15–14:45   | Keynote: MWEs in Clinical NLP and Healthcare Text Analysis |
 |                 | *Asma Abacha and Goran Nenadic*                            |
 |   14:45–15:15   | Oral short paper presentations |
-|    | (10) Detecting Idiomatic Multiword Expressions in Clinical Terminology using Definition-Based Representation Learning |
+|    | Detecting Idiomatic Multiword Expressions in Clinical Terminology using Definition-Based Representation Learning |
 |    | *François Remy, Alfiya Khabibullina and Thomas Demeester*                                                        |
-|    | (12) Investigating the Effects of MWE Identification in Structural Topic Modelling           |
+|    | Investigating the Effects of MWE Identification in Structural Topic Modelling           |
 |    | *Dimitrios Kokkinakis, Ricardo Muñoz Sánchez and Sebastianus Cornelis Jacobus Bruinsma* |
 |   15:15–15:45   | Panel discussion: Multiword Expressions in Knowledge-intensive Domains: Clinical Text as a Case Study |
 |                 | *Asma Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
@@ -117,22 +117,22 @@ Subject to change!
 | **16:15–18:00** | **Session 4**                  |
 |                 | *Chair: TBD*                   |
 |   16:15–17:15   | Poster session                 |
-|    | (6) Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space |
+|    | Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space |
 |    | *Filip Klubička, Vasudevan Nedumpozhimana and John Kelleher*                                      |
-|    | (8) Simple and Effective Multi-Token Completion from Masked Language Models (non-archival) |
+|    | Simple and Effective Multi-Token Completion from Masked Language Models (non-archival) |
 |    | *Oren Kalinsky, Guy Kushilevitz, Alexander Libov and Yoav Goldberg*                    |
-|    | (16) Annotation of lexical bundles with discourse functions in a Spanish academic corpus |
+|    | Annotation of lexical bundles with discourse functions in a Spanish academic corpus |
 |    | *Eleonora Guzzi, Margarita Alonso-Ramos, Marcos Garcia and Marcos García Salido*    |
-|    | (20) Enriching Multiword Terms in Wiktionary with Pronunciation Information |
+|    | Enriching Multiword Terms in Wiktionary with Pronunciation Information |
 |    | *Lenka Bajcetic, Thierry Declerck and Gilles Sérasset*                 |
-|    | (22) Automatic Generation of Vocabulary Lists with Multiword Expressions |
+|    | Automatic Generation of Vocabulary Lists with Multiword Expressions |
 |    | *John Lee and Adilet Uvaliyev*                                      |
-|    | (23) A MWE lexicon formalism optimised for observational adequacy |
+|    | A MWE lexicon formalism optimised for observational adequacy |
 |    | *Adam Lion-Bouton, Agata Savary and Jean-Yves Antoine*       |
 |   17:15—17:45   | Oral short paper presentations |
-|    | (11) Token-level Identification of Multiword Expressions using Pre-trained Multilingual Language Models (online) |
+|    | Token-level Identification of Multiword Expressions using Pre-trained Multilingual Language Models (online) |
 |    | *Raghuraman Swaminathan and Paul Cook*                                                                      |
-|    | (13) Graph-based multi-layer querying in Parseme Corpora (online) | 
+|    | Graph-based multi-layer querying in Parseme Corpora (online) | 
 |    | *Bruno Guillaume*                                            |
 |   17:45–18:00   | Closing                        |
 |                 | *Marcos Garcia*                |
