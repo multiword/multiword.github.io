@@ -110,7 +110,7 @@ Subject to change!
 |   15:15–15:45   | Panel discussion: Multiword Expressions in Knowledge-intensive Domains: Clinical Text as a Case Study |
 |                 | *Asma Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
 | **15:45–16:30** | **Afternoon coffee break**     |
-| **16:30–18:00** | **Session 4**                  |
+| **16:15–18:00** | **Session 4**                  |
 |   16:15–17:15   | Poster session                 |
 |    | (6) Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space |
 |    | *Filip Klubička, Vasudevan Nedumpozhimana and John Kelleher*                                      |
@@ -124,7 +124,7 @@ Subject to change!
 |    | *John Lee and Adilet Uvaliyev*                                      |
 |    | (23) A MWE lexicon formalism optimised for observational adequacy |
 |    | *Adam Lion-Bouton, Agata Savary and Jean-Yves Antoine*       |
-|   17:15—17:30   | Oral short paper presentations |
+|   17:15—17:45   | Oral short paper presentations |
 |    | (11) Token-level Identification of Multiword Expressions using Pre-trained Multilingual Language Models (online) |
 |    | *Raghuraman Swaminathan and Paul Cook*                                                                      |
 |    | (13) Graph-based multi-layer querying in Parseme Corpora (online) | 
