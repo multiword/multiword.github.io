@@ -383,10 +383,10 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Ashwini Vaidya, Indian Institute of Technology
 * Lonneke van der Plas, University of Malta
 * Bertram Vidgen, Alan Turing Institute
-* Aline Villavicencio, Federal University of Rio Grande do Sul
+* Aline Villavicencio, Sheffield University
 * Veronika Vincze, Hungarian Academy of Sciences
 * Martin Volk, University of Zürich
-* Zeerak Waseem, University of Sheffield
+* Zeerak Talat, Simon Fraser University, Canada
 * Jakub Waszczuk, University of Duesseldorf
 * Eric Wehrli, University of Geneva
 * Marion Weller-Di Marco, Ludwig Maximilian University of Munich
