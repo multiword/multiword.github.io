@@ -261,17 +261,17 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Verginica Barbu Mititelu, Romanian Academy
 * Chris Biemann, Universität Hamburg
 * Alexandra Birch, University of Edinburgh
-* Francis Bond, Nanyang Technological University
+* Francis Bond, Palacký University
 * Claire Bonial, U.S. Army Research Laboratory
 * Tiberiu Boroș, Adobe
 * Jill Burstein, Educational Testing Service
 * Miriam Butt , Universität Konstanz
-* Marie Candito, Paris Diderot University
+* Marie Candito, Université Paris Cité
 * Fabienne Cap, Uppsala University
 * Marine Carpuat, University of Maryland
 * Helena Caseli, Federal University of Sao Carlos
 * Anastasia Christofidou, Academy of Athens
-* Ken Church, IBM Research
+* Ken Church, Baidu
 * Simon Clematide, University of Zürich
 * Matthieu Constant, Université de Lorraine
 * Paul Cook, University of New Brunswick
@@ -290,9 +290,9 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Joaquim Ferreira da Silva, New University of Lisbon
 * Teresa Flera, Uni Warsaw
 * Karën Fort, Sorbonne Université
-* Aggeliki Fotopoulou, Institute for Language & Speech Processing, ATHENA RC
+* Aggeliki Fotopoulou, Institute for Language and Speech Processing, ATHENA RC
 * Daniela Gierschek, Uni Luxembourg
-* Stefan Th. Gries, University of California
+* Stefan Th. Gries, UC Santa Barbara & JLU Giessen
 * Bruno Guillaume, Université de Lorraine
 * Dhouha Hadjmed, University of Sfax
 * Chikara Hashimoto, Yahoo!Japan
@@ -300,7 +300,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Rebecca  Hwa, University of Pittsburgh
 * Uxoa Iñurrieta, University of the Basque Country
 * Laura Kallmeyer, Heinrich Heine University Düsseldorf
-* Diptesh Kanojia, IIT Bombay
+* Diptesh Kanojia, Surrey Institute for People-Centred AI, University of Surrey
 * Elma Kerz, RWTH Aachen
 * Ekaterina Kochmar, University of Cambridge
 * Dimitrios Kokkinakis, University of Gothenburg
@@ -308,7 +308,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Iztok Kosem, Jožef Stefan” Institute
 * Cvetana Krstev, University of Belgrade
 * Tita Kyriakopoulou, University Paris-Est Marne-la-Vallee
-* Eric Laporte, University Paris-Est Marne-la-Vallee
+* Eric Laporte, Gustave Eiffel University
 * Qinyuan Li , Trinity College Dublin
 * Timm Lichte, University of Tübingen
 * Irina Lobzhanidze, Ilia State University
@@ -316,7 +316,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Gunn Inger Lyse Samdal, University of Bergen
 * Alfredo Maldonado, Trinity College Dublin
 * Stella Markantonatou, Institute for Language & Speech Processing, ATHENA RC
-* Yuji Matsumoto, Nara Institute of Science and Technology
+* Yuji Matsumoto, RIKEN Center for Advanced Intelligence Project
 * John P. McCrae, National University of Ireland, Galway
 * Nurit Melnik, The Open University of Israel
 * Laura A. Michaelis, University of Colorado Boulder
@@ -351,7 +351,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Alexandre Rademaker, IBM Research Brazil and EMAp/FGV
 * Carlos Ramisch, Aix Marseille University
 * Sonia Ramotowska, Uni Amsterdam
-* Livy Real, B2W 
+* Livy Real, americanas s.a.
 * Martin Riedl, University of Hamburg
 * Matīss Rikters, University of Tokyo
 * Victoria Rosén, University of Bergen
@@ -376,17 +376,17 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 * Stan Szpakowicz, University of Ottawa
 * Harish Tayyar Madabushi, University of Bath
 * Carole Tiberius, Dutch Language Institute
-* Beata Trawinski, Institut für Deutsche Sprache Mannheim
+* Beata Trawinski, Leibniz Institute for the German Language
 * Yulia Tsvetkov, Carnegie Mellon University
 * Zdeňka Urešová, Charles University
 * Ruben Urizar, University of the Basque Country
 * Ashwini Vaidya, Indian Institute of Technology
 * Lonneke van der Plas, University of Malta
 * Bertram Vidgen, Alan Turing Institute
-* Aline Villavicencio, Sheffield University
+* Aline Villavicencio, University of Sheffield
 * Veronika Vincze, Hungarian Academy of Sciences
 * Martin Volk, University of Zürich
-* Zeerak Talat, Simon Fraser University, Canada
+* Zeerak Talat, Simon Fraser University
 * Jakub Waszczuk, University of Duesseldorf
 * Eric Wehrli, University of Geneva
 * Marion Weller-Di Marco, Ludwig Maximilian University of Munich
