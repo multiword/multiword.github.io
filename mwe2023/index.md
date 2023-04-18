@@ -110,7 +110,7 @@ Subject to change!
 |    | Detecting Idiomatic Multiword Expressions in Clinical Terminology using Definition-Based Representation Learning |
 |    | *François Remy, Alfiya Khabibullina and Thomas Demeester*                                                        |
 |    | Investigating the Effects of MWE Identification in Structural Topic Modelling           |
-|    | *Dimitrios Kokkinakis, Ricardo Muñoz Sánchez and Sebastianus Cornelis Jacobus Bruinsma* |
+|    | *Dimitrios Kokkinakis, Ricardo Muñoz Sánchez, Sebastianus Cornelis Jacobus Bruinsma and Mia-Marie Hammarlin* |
 |   15:15–15:45   | Panel discussion: Multiword Expressions in Knowledge-intensive Domains: Clinical Text as a Case Study |
 |                 | *Asma Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
 | **15:45–16:15** | **Afternoon coffee break**     |
