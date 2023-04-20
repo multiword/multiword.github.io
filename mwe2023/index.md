@@ -87,21 +87,22 @@ Subject to change!
 |    | *Giulia Rambelli, Emmanuele Chersoni, Marco S. G. Senaldi, Philippe Blache and Alessandro Lenci*                  |
 |    | A Survey of MWE Identification Experiments: The Devil is in the Details (online) |
 |    | *Carlos Ramisch, Abigail Walsh, Thomas Blanchard and Shiva Taslimipoor*          |
-|    | PARSEME corpus release 1.3 (online)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|    | *Agata Savary, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, najet hadj mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze and Abigail Walsh* |
+|    | The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative (non-archival, online) |
+|    | *Leonie Weissweiler, Valentin Hofmann, Abdullatif Koksal and Hinrich Schütze*                                                                        |
 |    | Predicting Compositionality of Verbal Multiword Expressions in Persian (online) |
 |    | *Mahtab sarlak, Yalda Yarandi and Mehrnoush Shamsfard*                          |
 | **10:30–11:15** | **Morning coffee break**       |
-| **11:15–12:45** | **Session 2**                  |
+| **11:15–12:50** | **Session 2**                  |
 |                 | *Chair: Kilian Evang*          |
 |   11:15–12:15   | Keynote: Lexical collations: Explored a lot, still a lot more to explore |
 |                 | *Leo Wanner*                                                             |
-|   12:15–12:45   | Oral short paper presentations |
+|   12:15–12:30   | Oral short paper presentation |
 |    | Romanian Multiword Expression Detection Using Multilingual Adversarial Training and Lateral Inhibition |
 |    | *Andrei Avram, Verginica Barbu Mititelu and Dumitru-Clementin Cercel*                                  |
-|    | The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative (non-archival, online) |
-|    | *Leonie Weissweiler, Valentin Hofmann, Abdullatif Koksal and Hinrich Schütze*                                                                        |
-| **12:45–14:15** | **Lunch break**                |
+|   12:30–12:50   | Oral long paper presentation |
+|    | PARSEME corpus release 1.3 (online)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|    | *Agata Savary, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, najet hadj mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze and Abigail Walsh* |
+| **12:50–14:15** | **Lunch break**                |
 | **14:15–15:45** | **Session 3 (special track)**  |
 |                 | *Chair: Lifeng Han*            |
 |   14:15–14:45   | Keynote: MWEs in Clinical NLP and Healthcare Text Analysis |
