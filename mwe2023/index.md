@@ -81,7 +81,7 @@ Subject to change!
 | **09:00–10:30** | **Session 1**                  |
 |   09:00–09:10   | Opening                        |
 |                 | *Marcos Garcia*                |
-|   09:10–10:30   | Oral short paper presentations |
+|   09:10–10:30   | Oral long paper presentations  |
 |                 | *Chairs: TBD*                  |
 |    | Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
 |    | *Giulia Rambelli, Emmanuele Chersoni, Marco S. G. Senaldi, Philippe Blache and Alessandro Lenci*                  |
