@@ -82,7 +82,7 @@ Subject to change!
 |   09:00–09:10   | Opening                        |
 |                 | *Onsite chair: Marcos Garcia / Online chair: Archna Bhatia*                |
 |   09:10–10:30   | Oral long paper presentations  |
-|                 | *Onsite chair: TBD; Online chair: Archna Bhatia*                  |
+|                 | *Onsite chair: TBD / Online chair: Archna Bhatia*                  |
 |    | Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
 |    | *Giulia Rambelli, Emmanuele Chersoni, Marco S. G. Senaldi, Philippe Blache and Alessandro Lenci*                  |
 |    | A Survey of MWE Identification Experiments: The Devil is in the Details (online) |
