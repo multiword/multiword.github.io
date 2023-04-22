@@ -80,9 +80,9 @@ Subject to change!
 | **08:30–09:00** | **Registration**               |
 | **09:00–10:30** | **Session 1**                  |
 |   09:00–09:10   | Opening                        |
-|                 | *Marcos Garcia*                |
+|                 | *Onsite chair: Marcos Garcia / Online chair: Archna Bhatia*                |
 |   09:10–10:30   | Oral long paper presentations  |
-|                 | *Chairs: TBD*                  |
+|                 | *Onsite chair: TBD; Online chair: Archna Bhatia*                  |
 |    | Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
 |    | *Giulia Rambelli, Emmanuele Chersoni, Marco S. G. Senaldi, Philippe Blache and Alessandro Lenci*                  |
 |    | A Survey of MWE Identification Experiments: The Devil is in the Details (online) |
@@ -93,7 +93,7 @@ Subject to change!
 |    | *Mahtab sarlak, Yalda Yarandi and Mehrnoush Shamsfard*                          |
 | **10:30–11:15** | **Morning coffee break**       |
 | **11:15–12:50** | **Session 2**                  |
-|                 | *Chair: Kilian Evang*          |
+|                 | *Onsite chair: Kilian Evang / Online chair: Archna Bhatia*          |
 |   11:15–12:15   | Keynote: Lexical collations: Explored a lot, still a lot more to explore |
 |                 | *Leo Wanner*                                                             |
 |   12:15–12:30   | Oral short paper presentation |
@@ -104,7 +104,7 @@ Subject to change!
 |    | *Agata Savary, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, najet hadj mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze and Abigail Walsh* |
 | **12:50–14:15** | **Lunch break**                |
 | **14:15–15:45** | **Session 3 (special track)**  |
-|                 | *Chair: Lifeng Han*            |
+|                 | *Onsite chair: Lifeng Han / Online chair: TBD*            |
 |   14:15–14:45   | Keynote: MWEs in Clinical NLP and Healthcare Text Analysis |
 |                 | *Asma Abacha and Goran Nenadic*                            |
 |   14:45–15:15   | Oral short paper presentations |
@@ -116,7 +116,7 @@ Subject to change!
 |                 | *Asma Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
 | **15:45–16:15** | **Afternoon coffee break**     |
 | **16:15–18:00** | **Session 4**                  |
-|                 | *Chair: TBD*                   |
+|                 | *Onsite chair: TBD / Online chair: Voula Giouli*                   |
 |   16:15–17:15   | Poster session                 |
 |    | Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space |
 |    | *Filip Klubička, Vasudevan Nedumpozhimana and John Kelleher*                                      |
@@ -136,7 +136,7 @@ Subject to change!
 |    | Graph-based multi-layer querying in Parseme Corpora (online) | 
 |    | *Bruno Guillaume*                                            |
 |   17:45–18:00   | Closing                        |
-|                 | *Marcos Garcia*                |
+|                 | *Onsite chair: Marcos Garcia / Online chair: Voula Giouli*                |
 
 -----
 
