@@ -93,7 +93,7 @@ Subject to change!
 |    | *Mahtab sarlak, Yalda Yarandi and Mehrnoush Shamsfard*                          |
 | **10:30–11:15** | **Morning coffee break**       |
 | **11:15–12:50** | **Session 2**                  |
-|                 | *Onsite chair: Kilian Evang / Online chair: Archna Bhatia*          |
+|                 | *Onsite chair: Kilian Evang / Online chair: Shiva Taslimipoor*          |
 |   11:15–12:15   | Keynote: Lexical collations: Explored a lot, still a lot more to explore |
 |                 | *Leo Wanner*                                                             |
 |   12:15–12:30   | Oral short paper presentation |
