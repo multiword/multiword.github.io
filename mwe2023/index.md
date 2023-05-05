@@ -76,20 +76,20 @@ Video Recording: TBD
 
 ### <a name="program"> Program </a>
 
-| <div style="width:290px"> Time </div> |            |
+[comment]: <> | <div style="width:290px"> Time </div> |            |
 | **08:30–09:00**     | **Registration**               |
 | **09:00–10:30**     | **Session 1**                  |
 |   09:00–09:10       | Opening                        |
 |                     | *Onsite chair: Marcos Garcia / Online chair: Archna Bhatia*                |
 |   09:10–10:30   | Oral long paper presentations  |
 |                 | *Onsite chair: Lifeng Han / Online chair: Archna Bhatia*                  |
-|  09:10 09:30    | Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
+|  09:10-09:30    | Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
 |                 | *Giulia Rambelli, Emmanuele Chersoni, Marco S. G. Senaldi, Philippe Blache and Alessandro Lenci*                  |
-|  09:30 09:50    | A Survey of MWE Identification Experiments: The Devil is in the Details (online) |
+|  09:30-09:50    | A Survey of MWE Identification Experiments: The Devil is in the Details (online) |
 |                 | *Carlos Ramisch, Abigail Walsh, Thomas Blanchard and Shiva Taslimipoor*          |
-|  09:50 10:10    | The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative (non-archival, online) |
+|  09:50-10:10    | The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative (non-archival, online) |
 |                 | *Leonie Weissweiler, Valentin Hofmann, Abdullatif Koksal and Hinrich Schütze*                                                                        |
-|  10:10 10:30    | Predicting Compositionality of Verbal Multiword Expressions in Persian (online) |
+|  10:10-10:30    | Predicting Compositionality of Verbal Multiword Expressions in Persian (online) |
 |                 | *Mahtab sarlak, Yalda Yarandi and Mehrnoush Shamsfard*                          |
 | **10:30–11:15** | **Morning coffee break**       |
 | **11:15–12:50** | **Session 2**                  |
