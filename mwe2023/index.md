@@ -76,11 +76,12 @@ Video Recording: TBD
 
 ### <a name="program"> Program </a>
 
-|   ---------------------                  |   ------------         |
-| **08:30–09:00**     | **Registration**               |
-| **09:00–10:30**     | **Session 1**                  |
-|   09:00–09:10       | Opening                        |
-|                     | *Onsite chair: Marcos Garcia / Online chair: Archna Bhatia*                |
+| Time                |                                          |
+|:-------------------|   ---------------------                  |
+| **08:30–09:00**    | **Registration**               |
+| **09:00–10:30**    | **Session 1**                  |
+|   09:00–09:10      | Opening                        |
+|                    | *Onsite chair: Marcos Garcia / Online chair: Archna Bhatia*                |
 |   09:10–10:30   | Oral long paper presentations  |
 |                 | *Onsite chair: Lifeng Han / Online chair: Archna Bhatia*                  |
 |  09:10-09:30    | Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
