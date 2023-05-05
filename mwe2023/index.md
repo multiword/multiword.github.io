@@ -116,7 +116,7 @@ Subject to change!
 |                 | *Asma Ben Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
 | **15:45–16:15** | **Afternoon coffee break**     |
 | **16:15–18:00** | **Session 4**                  |
-|                 | *Onsite chair: TBD / Online chair: Voula Giouli*                   |
+|                 | *Onsite chair: Giulia Rambelli / Online chair: Voula Giouli*                   |
 |   16:15–17:15   | Poster session                 |
 |    | Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space |
 |    | *Filip Klubička, Vasudevan Nedumpozhimana and John Kelleher*                                      |
