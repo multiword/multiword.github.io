@@ -106,7 +106,7 @@ Subject to change!
 | **14:15–15:45** | **Session 3 (special track)**  |
 |                 | *Onsite chair: Lifeng Han / Online chair: TBD*            |
 |   14:15–14:45   | Keynote: MWEs in Clinical NLP and Healthcare Text Analysis |
-|                 | *Asma Abacha and Goran Nenadic*                            |
+|                 | *Asma Ben Abacha and Goran Nenadic*                            |
 |   14:45–15:15   | Oral short paper presentations |
 |    | Detecting Idiomatic Multiword Expressions in Clinical Terminology using Definition-Based Representation Learning |
 |    | *François Remy, Alfiya Khabibullina and Thomas Demeester*                                                        |
