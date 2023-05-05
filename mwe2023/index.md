@@ -69,7 +69,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 ### <a name="proceedings-video"> Proceedings and video recording </a>
 
-TBD
+The <b>proceedings</b> for MWE2023 can be found <b>[here](https://aclanthology.org/volumes/2023.mwe-1/)</b>.<br>
+Video Recording: TBD
 
 -----
 
