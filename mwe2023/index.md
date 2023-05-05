@@ -113,7 +113,7 @@ Subject to change!
 |    | Investigating the Effects of MWE Identification in Structural Topic Modelling           |
 |    | *Dimitrios Kokkinakis, Ricardo Muñoz Sánchez, Sebastianus Cornelis Jacobus Bruinsma and Mia-Marie Hammarlin* |
 |   15:15–15:45   | Panel discussion: Multiword Expressions in Knowledge-intensive Domains: Clinical Text as a Case Study |
-|                 | *Asma Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
+|                 | *Asma Ben Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
 | **15:45–16:15** | **Afternoon coffee break**     |
 | **16:15–18:00** | **Session 4**                  |
 |                 | *Onsite chair: TBD / Online chair: Voula Giouli*                   |
@@ -152,7 +152,7 @@ Subject to change!
 
 #### [Asma Ben Abacha](https://sites.google.com/site/asmabenabacha/) (Microsoft) and [Goran Nenadic](https://personalpages.manchester.ac.uk/staff/gnenadic/) (University of Manchester)
 
-**Bios:** Asma Abacha is a Senior Scientist at Microsoft, with over 80 peer reviewed publications. Her research interests include Natural Language Processing, Machine Learning, Artificial Intelligence and their applications in medicine and healthcare.
+**Bios:** Asma Ben Abacha is a Senior Scientist at Microsoft, with over 80 peer reviewed publications. Her research interests include Natural Language Processing, Machine Learning, Artificial Intelligence and their applications in medicine and healthcare.
 
 Goran Nenadic is a Professor in the Department of Computer Science at University of Manchester and a Turing Fellow at the Alan Turing Institute, with more than 250 peer reviewed publications. His research interests include Natural Language Processing, text mining, and health informatics.
 
