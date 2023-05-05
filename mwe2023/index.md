@@ -76,7 +76,7 @@ Video Recording: TBD
 
 ### <a name="program"> Program </a>
 
-[comment]: <> | <div style="width:290px"> Time </div> |            |
+|                     |            |
 | **08:30–09:00**     | **Registration**               |
 | **09:00–10:30**     | **Session 1**                  |
 |   09:00–09:10       | Opening                        |
