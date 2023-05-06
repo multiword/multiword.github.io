@@ -33,10 +33,11 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 <table>
 <tr><td>
-<a href="img/mwe2022-online-group-picture-small.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2022 online group picture" src="img/mwe2022-online-group-picture-small.jpg"/></a></td>
+<a href="img/mwe2022-online-group-picture.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2022 online group picture" src="img/mwe2022-online-group-picture-small.jpg"/></a></td>
 <td>
-<a href="img/mwe2022-onsite-group-picture-small.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2022 online group picture" src="img/mwe2022-onsite-group-picture-small.jpg"/></a>
+<a href="img/mwe2022-onsite-group-picture.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2022 onsite group picture" src="img/mwe2022-onsite-group-picture-small.jpg"/></a>
 </td></tr></table>
+
 -----
 
 <details open markdown="block">
