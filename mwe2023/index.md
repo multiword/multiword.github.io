@@ -95,7 +95,7 @@ Video Recording: TBD
 | **10:30–11:15** | **Morning coffee break**       |
 | **11:15–12:50** | **Session 2**                  |
 |                 | *Onsite chairs: Marcos Garcia, Giulia Rambelli / Online chair: Shiva Taslimipoor*          |
-|   11:15–12:15   | Keynote: Lexical collations: Explored a lot, still a lot more to explore |
+|   11:15–12:15   | Keynote: Lexical collocations: Explored a lot, still a lot more to explore |
 |                 | *Leo Wanner*                                                             |
 |   12:15–12:30   | Oral short paper presentation |
 |                 | Romanian Multiword Expression Detection Using Multilingual Adversarial Training and Lateral Inhibition |
