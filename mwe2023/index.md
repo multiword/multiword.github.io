@@ -91,7 +91,7 @@ Video Recording: TBD
 |  09:50-10:10    | The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative (non-archival, online) |
 |                 | *Leonie Weissweiler, Valentin Hofmann, Abdullatif Koksal and Hinrich Schütze*                                                                        |
 |  10:10-10:30    | Predicting Compositionality of Verbal Multiword Expressions in Persian (online) |
-|                 | *Mahtab sarlak, Yalda Yarandi and Mehrnoush Shamsfard*                          |
+|                 | *Mahtab Sarlak, Yalda Yarandi and Mehrnoush Shamsfard*                          |
 | **10:30–11:15** | **Morning coffee break**       |
 | **11:15–12:50** | **Session 2**                  |
 |                 | *Onsite chairs: Marcos Garcia, Giulia Rambelli / Online chair: Shiva Taslimipoor*          |
