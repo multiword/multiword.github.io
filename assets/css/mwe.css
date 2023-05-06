@@ -37,3 +37,7 @@
   color: rgb(144,117,66);
   text-align: center;
 }
+
+.nowrap {
+	white-space: nowrap;
+}

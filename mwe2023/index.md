@@ -103,7 +103,7 @@ Video Recording: TBD
 |   12:30–12:50   | Oral long paper presentation |
 |                 | PARSEME corpus release 1.3 (online)              |                                                                                                                                                                                                                                                                                                                                                                                                                                
 |                 | *Agata Savary, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, najet hadj mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze and Abigail Walsh* |
-| **12:50–14:15** | **Lunch break**                |
+| <span class="nowrap">**12:50–14:15**</span> | **Lunch break**                |
 | **14:15–15:45** | **Session 3 (special track)**  |
 |                 | *Onsite chair: Lifeng Han / Online chair: TBD*            |
 |   14:15–14:45   | Keynote: MWEs in Clinical NLP and Healthcare Text Analysis |
