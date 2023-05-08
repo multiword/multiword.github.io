@@ -43,7 +43,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 <table>
 <tr><td>
-<a href="img/mwe2023-online-group-picture.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2023 online group picture" src="img/mwe2023-online-group-picture-small.jpg"/></a></td>
+<a href="img/mwe2023-online-group-picture.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2023 online group picture" src="img/mwe2023-online-group-picture-small.png"/></a></td>
 <td>
 <a href="img/mwe2023-onsite-group-picture.jpg"><img class="img-fluid mx-auto d-block" alt="MWE 2023 online group picture" src="img/mwe2023-onsite-group-picture-small.jpg"/></a>
 </td></tr></table>
