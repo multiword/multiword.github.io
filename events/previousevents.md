@@ -9,6 +9,10 @@ Overview of the workshops dedicated to MWEs (most organised by the SIGLEX-MWE se
 
 Proceedings of most MWE workshops can be found on the [ACL anthology page on MWE workshops](https://www.aclweb.org/anthology/venues/mwe/).
 
+### 2023
+
+* EACL [19th Workshop on Multiword Expressions (MWE 2023)](../mwe2023) - May 6, 2023 - Dubrovnik, Croatia
+
 ### 2022
 
 * LREC [18th Workshop on Multiword Expressions (MWE 2022)](../mwe2022) - June 25, 2022 - Marseille, France
