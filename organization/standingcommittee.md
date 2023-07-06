@@ -9,7 +9,7 @@ The section is coordinated by a standing committee composed of:
 
 - [Archna Bhatia](https://www.ihmc.us/groups/abhatia/) (Florida Institute for Human and Machine Cognition, USA) - nominated officer in 2021-2023
 - [Kilian Evang](https://kilian.evang.name/) (Heinrich Heine University Düsseldorf) - nominated officer in 2022-2024
-- [Marcos Garcia](https://citius.usc.es/equipo/investigadores-postdoutorais/marcos-garcia-gonzalez?language=en) (Universidade de Santiago de Compostela, Spain) - nominated officer in 2021-2023
+- [Marcos Garcia](https://citius.gal/team/marcos-garcia-gonzalez) (Universidade de Santiago de Compostela, Spain) - nominated officer in 2021-2023
 - [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/) (ILSP) - nominated officer in 2022-2024
 - [Lifeng Han](https://www.research.manchester.ac.uk/portal/lifeng.han.html) (The University of Manchester) - nominated officer in 2022-2024
 
