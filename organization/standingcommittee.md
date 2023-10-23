@@ -7,7 +7,7 @@ layout: default
 
 The section is coordinated by a standing committee composed of:
 
-- [A. Seza Doǧruöz](https://research.flw.ugent.be/en/as.dogruoz) (Ghent University) - nominated officer in 2023-2025
+- [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz) (Ghent University) - nominated officer in 2023-2025
 - [Kilian Evang](https://kilian.evang.name/) (Heinrich Heine University Düsseldorf) - nominated officer in 2022-2024
 - [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/) (ILSP) - nominated officer in 2022-2024
 - [Lifeng Han](https://www.research.manchester.ac.uk/portal/lifeng.han.html) (The University of Manchester) - nominated officer in 2022-2024
