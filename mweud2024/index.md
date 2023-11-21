@@ -3,9 +3,9 @@ title: First Joint Workshop on Multiword Expressions and Universal Dependencies 
 layout: default
 ---
 
-<h2>First Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)</h2>
+<h2>Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)</h2>
 
-**Colocated with:** TBD
+**Colocated with:** [LREC-COLING 2024](https://lrec-coling-2024.org)
 
 **Date of the Workshop:** TBD
 
@@ -40,8 +40,6 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Program](#program)
 - [Keynote speakers](#keynotes) 
 - [Description](#description)
-- [Shared task](#shared-task)
-- [Special Track on MWEs in Clinical NLP](#special-track)
 - [Best paper award](#award)
 - [Submission formats](#submission)
 - [Paper submission and templates](#instructions)
