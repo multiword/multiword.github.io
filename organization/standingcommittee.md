@@ -11,7 +11,7 @@ The section is coordinated by a standing committee composed of:
 - [Kilian Evang](https://kilian.evang.name/) (Heinrich Heine University Düsseldorf) - nominated officer in 2022-2024
 - [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/) (ILSP) - nominated officer in 2022-2024
 - [Lifeng Han](https://www.research.manchester.ac.uk/portal/lifeng.han.html) (The University of Manchester) - nominated officer in 2022-2024
-- [Alexandre Rademaker](http://arademaker.github.io/) (IBM Research) - nominated officer in 2023-2025
+- [Alexandre Rademaker](http://arademaker.github.io/) (IBM Research and FGV EMAp) - nominated officer in 2023-2025
 
 See the list of past officers in the [advisory committee](advisorycommittee).
 
