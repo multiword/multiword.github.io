@@ -145,8 +145,7 @@ policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy)
 
 ### <a name="contact"> Contact </a>
 
-For any inquiries regarding the workshop please send an email to the Organizing
-Committee at [mweworkshop2023@googlegroups.com](mailto:mweworkshop2023@googlegroups.com )
+TBD
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
