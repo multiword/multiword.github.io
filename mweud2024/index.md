@@ -1,5 +1,5 @@
 ---
-title: First Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)
+title: Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)
 layout: default
 ---
 
