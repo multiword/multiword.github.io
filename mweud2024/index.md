@@ -104,16 +104,16 @@ TBD
 
 -----
 
-### <a name="dates"> Important dates </a>
+### <a name="dates"> (Tentative) Important dates </a>
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
-| Paper submission deadline  | TBD                        |
-| ARR commitment deadline    | TBD                        |
-| Notification of acceptance | TBD                        |
-| Camera-ready papers due    | TBD                        |
+| Paper submission deadline  | 25 February 2024                        |
+| ARR commitment deadline    | 1 April 2024                        |
+| Notification of acceptance | 1 April 2024                        |
+| Camera-ready papers due    | 15 April 2024                        |
 | Underline upload deadline  | TBD                        |
-| Workshop                   | TBD                        |
+| Workshop                   | 20/24/25 May 2024                        |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
