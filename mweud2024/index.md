@@ -7,7 +7,7 @@ layout: default
 
 **Colocated with:** [LREC-COLING 2024](https://lrec-coling-2024.org) (Torino, Italia)
 
-**Date of the Workshop:** TBD
+**Tentative Date of the Workshop:** May 20/25, 2024 
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
@@ -26,10 +26,10 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **19 January 2023**: Invited speaker Leo Wanner confirmed
 * **16 January 2023**: Second CfP posted
 * **23 December 2022**: First CfP posted
-* **9 December 2022**: MWE 2023 proposal accepted to EACL 2023
-* **2 November 2022**: Organising committee formed
 -->
-
+* **21 November 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
+* **29 August 2023**: Organising committee formed
+  
 -----
 
 <details open markdown="block">
