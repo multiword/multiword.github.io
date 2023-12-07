@@ -128,15 +128,16 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Coordination and communication chair | TBD |
 | Publicity chair | |
 -->
-| Who                       | Affiliation                       |
+
+| Who                        | Affiliation                |
 | -------------------------- | -------------------------- |
-|Archna Bhatia | Institute for Human and Machine Cognition, USA |  
-|Gosse Bouma | Groningen University, NL |
-|Kilian Evang | Heinrich Heine University Düsseldorf, DE |
-|Marcos Garcia | University of Santiago de Compostela, Galiza, Spain |
-|Voula Giouli | Institute for Language & Speech Processing, ATHENA RC, Greece |  
-|Lifeng Han | Univ. of Manchester, UK |  
-|Joakim Nivre | Uppsala University and Research Institutes of Sweden, Sweden |
+|Archna Bhatia               | Institute for Human and Machine Cognition, USA |  
+|Gosse Bouma                 | Groningen University, NL |
+|Kilian Evang                | Heinrich Heine University Düsseldorf, DE |
+|Marcos Garcia               | University of Santiago de Compostela, Galiza, Spain |
+|Voula Giouli                | Institute for Language & Speech Processing, ATHENA RC, Greece |  
+|Lifeng Han                  | Univ. of Manchester, UK |  
+|Joakim Nivre                | Uppsala University and Research Institutes of Sweden, Sweden |
 
 -----
 
