@@ -7,7 +7,7 @@ layout: default
 
 **Colocated with:** [LREC-COLING 2024](https://lrec-coling-2024.org) (Torino, Italia)
 
-**Tentative Date of the Workshop:** May 20/25, 2024 
+**Tentative Date of the Workshop:** May 20/24/25, 2024 
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
