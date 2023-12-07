@@ -27,8 +27,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **16 January 2023**: Second CfP posted
 * **23 December 2022**: First CfP posted
 -->
-* **21 November 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
-* **29 August 2023**: Organising committee formed
+* **November 21, 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
+* **August 29, 2023**: Organising committee formed
   
 -----
 
@@ -108,12 +108,12 @@ TBD
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
-| Paper submission deadline  | 25 February 2024                        |
-| ARR commitment deadline    | 1 April 2024                        |
-| Notification of acceptance | 1 April 2024                        |
-| Camera-ready papers due    | 15 April 2024                        |
+| Paper submission deadline  | February 25, 2024                        |
+| ARR commitment deadline    | April 1, 2024                        |
+| Notification of acceptance | April 1, 2024                        |
+| Camera-ready papers due    | April 15, 2024                        |
 | Underline upload deadline  | TBD                        |
-| Workshop                   | 20/24/25 May 2024                        |
+| Workshop                   | May 20/24/25, 2024                        |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
