@@ -145,7 +145,7 @@ policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy)
 
 ### <a name="contact"> Contact </a>
 
-TBD
+For any inquiries regarding the workshop, please send an email to the Organizing Committee at <mweud2024-organizers@uni-duesseldorf.de>.
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
