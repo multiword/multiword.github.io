@@ -5,7 +5,7 @@ layout: default
 
 <h2>Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)</h2>
 
-**Colocated with:** [LREC-COLING 2024](https://lrec-coling-2024.org)
+**Colocated with:** [LREC-COLING 2024](https://lrec-coling-2024.org) (Torino, Italia)
 
 **Date of the Workshop:** TBD
 
