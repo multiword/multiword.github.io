@@ -37,7 +37,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
     Contents on this page
   </summary>
 <!---[Proceedings and video recording](#proceedings-video)-->
-- [Program](#program)
+<!---[Program](#program)-->
 - [Keynote speakers](#keynotes) 
 - [Description](#description)
 - [Best paper award](#award)
