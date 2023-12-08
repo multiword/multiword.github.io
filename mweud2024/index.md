@@ -39,15 +39,15 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 <!---[Proceedings and video recording](#proceedings-video)-->
 <!---[Program](#program)--> 
 - [Description](#description)
-- [Submission formats](#submission)
-- [Paper submission and templates](#instructions)
-- [Best paper award](#award)
-- [Important dates](#dates)
-- [Keynote speakers](#keynotes)
+- [Submission Formats](#submission)
+- [Paper Submission and Templates](#instructions)
+- [Best Paper Award](#award)
+- [Important Dates](#dates)
+- [Keynote Speakers](#keynotes)
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
-- [Sponsors and support](#sponsors)
-- [Anti-harassment policy](#antiharassment)
+- [Sponsors and Support](#sponsors)
+- [Anti-harassment Policy](#antiharassment)
 - [Contact](#contact)
 </details>
 
@@ -94,7 +94,7 @@ TBD
 
 -----
 
-### <a name="submission">Submission formats</a>
+### <a name="submission">Submission Formats</a>
 
 The workshop invites  two types of submissions: 
 - Archival submissions that present substantially original research in both long paper format (8 pages + references) and short paper format (4 pages + references)
@@ -102,7 +102,7 @@ The workshop invites  two types of submissions: 
 
 -----
 
-### <a name="instructions">Paper submission and templates</a>
+### <a name="instructions">Paper Submission and Templates</a>
 
 Papers should be submitted via the workshop’s START submission page (link will be provided once available). Please choose the appropriate submission format (archival/non-archival). Submissions must follow the LREC-COLING 2024 stylesheet.
 
@@ -113,13 +113,13 @@ Archival papers with existing reviews from ACL Rolling Review (ARR)) will also b
 
 -----
 
-### <a name="award">Best paper award</a>
+### <a name="award">Best Paper Award</a>
 
 TBD
 
 -----
 
-### <a name="dates"> (Tentative) Important dates </a>
+### <a name="dates"> (Tentative) Important Dates </a>
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
@@ -134,7 +134,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 -----
 
-### <a name="keynotes">Keynote speakers </a>
+### <a name="keynotes">Keynote Speakers </a>
 
 TBD
 
@@ -238,7 +238,7 @@ TBD
 
 -----
 
-### <a name="sponsors"> Sponsors and support </a>
+### <a name="sponsors"> Sponsors and Support </a>
 
 ![ACL SIGLEX](siglex.png){:height="15%" width="15%"}
 ![UniDive](unidive_logo.png){:height="12%" width="12%"}
@@ -246,7 +246,7 @@ TBD
 
 -----
 
-### <a name="antiharassment"> Anti-harassment policy </a>
+### <a name="antiharassment"> Anti-harassment Policy </a>
 
 The workshop follows the [ACL anti-harassment
 policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
