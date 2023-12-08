@@ -89,15 +89,10 @@ The workshop invites submissions of original research on MWE, UD, and the interp
 
 -----
 
-### <a name="shared-task">Shared task</a>
+<!--### <a name="shared-task">Shared task</a>
 
 TBD
-
------
-
-### <a name="award">Best paper award</a>
-
-TBD
+-->
 
 -----
 
@@ -108,6 +103,12 @@ TBD
 -----
 
 ### <a name="instructions">Paper submission and templates</a>
+
+TBD
+
+-----
+
+### <a name="award">Best paper award</a>
 
 TBD
 
