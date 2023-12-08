@@ -7,7 +7,7 @@ layout: default
 
 **Colocated with:** [LREC-COLING 2024](https://lrec-coling-2024.org) (Torino, Italia)
 
-**Tentative Date of the Workshop:** May 20/24/25, 2024 
+**Date of the Workshop:** May 25, 2024 
 
 **Organised and sponsored by:**\
 Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
@@ -27,6 +27,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * **16 January 2023**: Second CfP posted
 * **23 December 2022**: First CfP posted
 -->
+* **December 8, 2023**: MWE-UD 2024 workshop date confirmed (Workshop Date: May 25, 2024)
 * **November 21, 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
 * **August 29, 2023**: Organising committee formed
   
@@ -123,16 +124,16 @@ Archival papers with existing reviews from ACL Rolling Review (ARR)) will also b
 
 -----
 
-### <a name="dates"> (Tentative) Important Dates </a>
+### <a name="dates"> Important Dates (Tentative) </a>
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
-| Paper submission deadline  | February 25, 2024                        |
-| ARR commitment deadline    | April 1, 2024                        |
-| Notification of acceptance | April 1, 2024                        |
-| Camera-ready papers due    | April 15, 2024                        |
+| Paper submission deadline  | February 25, 2024          |
+| ARR commitment deadline    | April 1, 2024              |
+| Notification of acceptance | April 1, 2024              |
+| Camera-ready papers due    | April 15, 2024             |
 | Underline upload deadline  | TBD                        |
-| Workshop                   | May 20/24/25, 2024                        |
+| Workshop                   | May 25, 2024               |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
