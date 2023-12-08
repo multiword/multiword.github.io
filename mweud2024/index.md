@@ -55,7 +55,8 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 * TOC
 {:toc}
 
-------->
+-----
+-->
 
 <!--### <a name="proceedings-video"> Proceedings and video recording </a>
 
@@ -66,9 +67,9 @@ TBD
 ### <a name="program"> Program </a>
 
 TBD
--->
 
 ------
+-->
 
 ### <a name="description"> Description </a>
 
