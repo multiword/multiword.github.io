@@ -76,7 +76,15 @@ TBD
 
 ### <a name="description"> Description </a>
 
-TBD
+Multiword expressions (MWEs) are word combinations that exhibit lexical, syntactic, semantic, pragmatic, and/or statistical idiosyncrasies (Baldwin and Kim, 2010), such as by and large, hot dog, pay a visit and pull someone's leg. The notion encompasses closely related phenomena: idioms, compounds, light-verb constructions, phrasal verbs, rhetorical figures, collocations, institutionalized phrases, etc. Their behavior is often unpredictable; for example, their meaning often does not result from the direct combination of the meanings of their parts. Given their irregular nature, MWEs often pose complex problems in linguistic modeling (e.g. annotation), NLP tasks (e.g. parsing), and end-user applications (e.g. natural language understanding and MT), hence still representing an open issue for computational linguistics (Constant et al., 2017).
+
+Universal Dependencies (UD; De Marneffe et al., 2021) is a framework for cross-linguistically consistent treebank annotation that has so far been applied to over 100 languages. The framework aims to capture similarities as well as idiosyncrasies among typologically different languages (e.g., morphologically rich languages, pro-drop languages, and languages featuring clitic doubling). The goal in developing UD was not only to support comparative evaluation and cross-lingual learning but also to facilitate multilingual natural language processing and enable comparative linguistic studies.
+
+After independently running a successful series of workshops, the MWE and UD communities are now joining forces to organize a joint workshop. This is a timely collaboration because the two communities clearly have overlapping interests. For instance, while UD has several dependency relations that can be used to annotate MWEs, both annotation guidelines (i.e. is syntactic irregularity and inflexibility or semantic non-compositionality the leading criterion?) and annotation practice (both across treebanks for a single language and across languages) for these relations can be improved (Schneider and Zeldes, 2021). The PARSEME MWE-annotated corpora for 26 languages build on UD annotated corpora (Savary et al., 2023). Both communities share an interest in developing guidelines, data-sets, and tools that can be applied to a wide range of typologically diverse languages, raising fundamental questions about tokenization, lemmatization, and morphological decomposition of tokens. Proposals for harmonizing annotation practice between what has been achieved in PARSEME and UD and expanding PARSEME MWE annotation to non-verbal MWEs are also central to the recently started UniDive COST action (CA21167). 
+
+The workshop invites submissions of original research on MWE, UD, and the interplay of both. In particular, the following topics are especially relevant: 
+
+- Sensitivity of LLMs to MWE and syntactic dependencies. Studies along the lines of Manning et al. (2020) (UD), Nedumpozhimana and Kelleher (2021), Garcia et al. (2021), Fakharian and Cook (2021), Moreau et al. (2018) (MWE), and others on the question to what extent LLMs make use of syntactic dependencies or are capable of detecting MWEs and capturing their semantics. 
 
 -----
 
@@ -148,6 +156,72 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Jean-Yves Antoine          | University of Tours        |
 | Verginica Barbu Mititelu   | Romanian Academy           |
 | Cherifa Ben Kehlil         | University of Tours        |
+| Francis Bond               | Palacký University         |
+| Claire Bonial              | U.S. Army Research Laboratory |
+| Tiberiu Boroș              | Adobe                      |
+| Miriam Butt                | Universität Konstanz       |
+| Marie Candito              | Université Paris Cité      |
+| Çağrı Çöltekin             | Tübingen                   |
+| Paul Cook                  | University of New Brunswick |
+| Monika Czerepowicka        | University of Warmia and Mazury |
+| Daniel Dakota              | Indiana University         |
+| Marie-Catherine de Marneffe | UCLouvain                 |
+| Valeria de Paiva           | Nuannce                    | 
+| Kaja Dobrovoljc            | University of Ljubljana    |
+| Rafael Ehren               | Heinrich Heine University Düsseldorf |
+| Christiane Fellbaum        | Princeton University       |
+| Jennifer Foster            | Dublin City University     |
+| Aggeliki Fotopoulou        | Institute for Language and Speech Processing, ATHENA RC |
+| Stefan Th. Gries           | UC Santa Barbara & JLU Giessen | 
+| Bruno Guillaume            | Université de Lorraine     |
+| Tunga Gungor               | Bogaziçi University        |
+| Eleonora Guzzi             | Universidade da Coruña     |
+| Cvetana Krstev             | University of Belgrade     |
+| Timm Lichte                | University of Tübingen     |
+| Irina Lobzhanidze          | Ilia State University      |
+| Teresa Lynn                | ADAPT Centre               |
+| Stella Markantonatou       | Institute for Language & Speech Processing, ATHENA RC |
+| John P. McCrae             | National University of Ireland, Galway |
+| Nurit Melnik               | The Open University of Israel |
+| Laura A. Michaelis         | University of Colorado Boulder |
+| Johanna Monti              | "L'Orientale" University of Naples |
+| Jan Odijk                  | University of Utrecht      |
+| Petya Osenova              | Bulgarian Academy of Sciences |
+| Yannick Parmentier         | University of Lorraine     |
+| Agnieszka Patejuk          | University of Oxford and Institute of Computer Science, Polish Academy of Sciences |
+| Pavel Pecina               | Charles University |
+| Ted Pedersen               | University of Minnesota |
+| Scott Piao                 | Lancaster University |
+| Martin Popel               | Charles University |
+| Prokopis Prokopidis        | Institute for Language and Speech Processing, ATHENA RC |
+| Carlos Ramisch             | Aix Marseille University | 
+| Manfred Sailer             | Goethe-Universität Frankfurt am Main |
+| Tanja Samardžić            | University of Zurich |
+| Agata Savary               | Université Paris-Saclay |
+| Nathan Schneider           | Georgetown University |
+| Sabine Schulte im Walde    | University of Stuttgart |
+| Sebastian Schuster         | Saarland University |
+| Maria Simi                 | Università di Pisa |
+| Kiril Simov                | Bulgarian Academy of Sciences |
+| Ivelina Stoyanova          | Bulgarian Academy of Sciences |
+| Stan Szpakowicz            | University of Ottawa |
+| Zeerak Talat               | Simon Fraser University |
+| Shiva Taslimipoor          | University of Cambridge |
+| Harish Tayyar Madabushi    | University of Bath |
+| Beata Trawinski            | Leibniz Institute for the German Language |
+| Ashwini Vaidya             | Indian Institute of Technology |
+| Amir Zeldes                | Georgetown University |
+| Daniel Zeman               | Charles University |
+| Marion Di Marco            | Uni Muenchen |
+| Matt Shardlow              | Manchester Metropolitan Uni |
+| Sadat.                     | Université du Québec à Montréal |
+| Pavel Stranak              | Uni Karlova |
+| Pierre André               | Centre de recherche informatique de Montréal |
+| Farahmand Meghdad          | Uni Geneva |
+| Gaël Dias                  | University of Caen Basse-Normandie |
+| Giuseppe G. A. Celano      | Leipzig Uni |
+| Philippe Blache            | Aix-Marseille Uni |
+| Julia R. Bonn              | Uni Colorado Boulder | 
 
 -----
 
