@@ -67,11 +67,6 @@ TBD
 
 TBD
 -->
------
-
-### <a name="keynotes">Keynote speakers </a>
-
-TBD
 
 ------
 
@@ -130,6 +125,12 @@ TBD
 | Workshop                   | May 20/24/25, 2024                        |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
+
+-----
+
+### <a name="keynotes">Keynote speakers </a>
+
+TBD
 
 -----
 
