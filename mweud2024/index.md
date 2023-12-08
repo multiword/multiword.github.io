@@ -235,7 +235,7 @@ TBD
 
 ### <a name="sponsors"> Sponsors and support </a>
 
-![ACL SIGLEX](siglex.png){:height="25%" width="25%"}
+![ACL SIGLEX](siglex.png)
 ![UniDive](unidive_logo.png){:height="12%" width="12%"}
 ![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png){:height="25%" width="25%"}
 
