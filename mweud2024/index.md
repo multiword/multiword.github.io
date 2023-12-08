@@ -53,9 +53,9 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 <!-- Does not work...
 * TOC
-{:toc}-->
+{:toc}
 
------
+------->
 
 <!--### <a name="proceedings-video"> Proceedings and video recording </a>
 
