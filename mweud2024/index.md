@@ -231,7 +231,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 ### <a name="sponsors"> Sponsors </a>
 
-![UniDive] (unidive_logo.png)
+![UniDive](unidive_logo.png)
 
 -----
 
