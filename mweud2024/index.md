@@ -85,8 +85,6 @@ The workshop invites submissions of original research on MWE, UD, and the interp
 - MWE and UD processing to enhance end-user applications. MWEs have gained particular attention in end-user applications, including MT (Zaninello and Birch, 2020; Han et al., 2021), simplification (Kochmar et al., 2020), language learning and assessment (Paquot et al., 2019; Christiansen and Arnon, 2017), social media mining (Maisto et al., 2017), and abusive language detection (Zampieri et al., 2020; Caselli et al., 2020). We believe that it is crucial to extend and deepen these first attempts to integrate and evaluate MWE technology in these and further end-user applications.
 - Testing developed systems on the latest dataset versions. Authors are encouraged to use the recently released UD 2.13 release and PARSEME 1.3 release to test their systems.
 
-
-
 -----
 
 <!--### <a name="shared-task">Shared task</a>
@@ -98,13 +96,20 @@ TBD
 
 ### <a name="submission">Submission formats</a>
 
-TBD
+The workshop invites  two types of submissions: 
+- Archival submissions that present substantially original research in both long paper format (8 pages + references) and short paper format (4 pages + references)
+- Non-archival submissions of abstracts describing relevant research presented/published elsewhere which will not be included in the MWE-UD proceedings.
 
 -----
 
 ### <a name="instructions">Paper submission and templates</a>
 
-TBD
+Papers should be submitted via the workshop’s START submission page (link will be provided once available). Please choose the appropriate submission format (archival/non-archival). Submissions must follow the LREC-COLING 2024 stylesheet.
+
+When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e. also technologies, standards, evaluation kits, etc.) that have been used for the research described in the paper or are a new result of the research. Moreover, ELRA encourages all LREC-COLING authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones)
+
+Archival papers with existing reviews from ACL Rolling Review (ARR)) will also be considered. A paper may not be under review through ARR and MWE-UD simultaneously. A paper that has or will receive reviews through ARR may not be submitted for review to MWE-UD.
+
 
 -----
 
