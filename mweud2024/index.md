@@ -124,14 +124,14 @@ Archival papers with existing reviews from ACL Rolling Review (ARR)) will also b
 
 -----
 
-### <a name="dates"> Important Dates (Tentative) </a>
+### <a name="dates"> Important Dates </a>
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
 | Paper submission deadline  | February 25, 2024          |
-| ARR commitment deadline    | April 1, 2024              |
+| ARR commitment deadline    | March 25, 2024             |
 | Notification of acceptance | April 1, 2024              |
-| Camera-ready papers due    | April 15, 2024             |
+| Camera-ready papers due    | April 8, 2024              |
 | Underline upload deadline  | TBD                        |
 | Workshop                   | May 25, 2024               |
 
