@@ -57,7 +57,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 
 -----
 
-### <a name="proceedings-video"> Proceedings and video recording </a>
+<!--### <a name="proceedings-video"> Proceedings and video recording </a>
 
 TBD
 
@@ -66,7 +66,7 @@ TBD
 ### <a name="program"> Program </a>
 
 TBD
-
+-->
 -----
 
 ### <a name="keynotes">Keynote speakers </a>
