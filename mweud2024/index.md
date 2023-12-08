@@ -37,13 +37,13 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
     Contents on this page
   </summary>
 <!---[Proceedings and video recording](#proceedings-video)-->
-<!---[Program](#program)-->
-- [Keynote speakers](#keynotes) 
+<!---[Program](#program)--> 
 - [Description](#description)
-- [Best paper award](#award)
 - [Submission formats](#submission)
 - [Paper submission and templates](#instructions)
+- [Best paper award](#award)
 - [Important dates](#dates)
+- [Keynote speakers](#keynotes)
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
 - [Sponsors](#sponsors)
