@@ -41,7 +41,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Description](#description)
 - [Submission Formats](#submission)
 - [Paper Submission and Templates](#instructions)
-- [Best Paper Award](#award)
+- [Best Paper Award and Travel Grants](#award)
 - [Important Dates](#dates)
 - [Keynote Speakers](#keynotes)
 - [Organizing Committee](#organizers)
@@ -113,9 +113,12 @@ Archival papers with existing reviews from ACL Rolling Review (ARR)) will also b
 
 -----
 
-### <a name="award">Best Paper Award</a>
+### <a name="award">Best Paper Award and Travel Grants</a>
 
-TBD
+- Best paper award criteria TBD
+- UniDive members with accepted papers may be eligible for travel reimbursement via UniDive.
+- Accepted authors from underrepresented groups (e.g., an underrepresented counry) or accepted authors of work on low-resource languages may be eligible to apply for an ACL-SIGLEX travel grant of upto 500 USD.
+
 
 -----
 
