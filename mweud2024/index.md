@@ -91,9 +91,9 @@ The workshop invites submissions of original research on MWE, UD, and the interp
 <!--### <a name="shared-task">Shared task</a>
 
 TBD
--->
 
 -----
+-->
 
 ### <a name="submission">Submission Formats</a>
 
