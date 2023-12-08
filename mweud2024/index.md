@@ -46,7 +46,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Important dates](#dates)
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
-- [Sponsors]
+- [Sponsors](#sponsors)
 - [Anti-harassment policy](#antiharassment)
 - [Contact](#contact)
 </details>
