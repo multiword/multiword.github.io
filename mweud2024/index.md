@@ -235,7 +235,7 @@ TBD
 ### <a name="sponsors"> Sponsors </a>
 
 ![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png){:height="25%" width="25%"}
-![UniDive](unidive_logo.png){:height="15%" width="15%"}
+![UniDive](unidive_logo.png){:height="12%" width="12%"}
 
 -----
 
