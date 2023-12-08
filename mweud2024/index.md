@@ -46,7 +46,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Keynote speakers](#keynotes)
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
-- [Sponsors](#sponsors)
+- [Sponsors and support](#sponsors)
 - [Anti-harassment policy](#antiharassment)
 - [Contact](#contact)
 </details>
@@ -233,7 +233,7 @@ TBD
 
 -----
 
-### <a name="sponsors"> Sponsors </a>
+### <a name="sponsors"> Sponsors and support </a>
 
 ![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png){:height="25%" width="25%"}
 ![UniDive](unidive_logo.png){:height="12%" width="12%"}
