@@ -46,6 +46,7 @@ Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the 
 - [Important dates](#dates)
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
+- [Sponsors]
 - [Anti-harassment policy](#antiharassment)
 - [Contact](#contact)
 </details>
@@ -225,6 +226,12 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Giuseppe G. A. Celano      | Leipzig Uni |
 | Philippe Blache            | Aix-Marseille Uni |
 | Julia R. Bonn              | Uni Colorado Boulder | 
+
+-----
+
+### <a name="sponsors"> Sponsors </a>
+
+
 
 -----
 
