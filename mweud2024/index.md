@@ -234,6 +234,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 ### <a name="sponsors"> Sponsors </a>
 
 ![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png)
+
 ![UniDive](unidive_logo.png)
 
 -----
