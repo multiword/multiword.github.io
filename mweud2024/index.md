@@ -247,9 +247,9 @@ TBD
 
 ![ACL SIGLEX](siglex.png){:height="15%" width="15%"}
 ![UniDive](unidive_logo.png){:height="20%" width="20%"}
-![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png){:height="35%" width="35%"}
+![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png){:height="40%" width="40%"}
 ![Cost Action](COST_LOGO_rgb_highresolution-1200x563.png){:height="25%" width="25%"}
-![EU](en-funded_by_the_eu-pos.png){:height="30%" width="30%"}
+![EU](en-funded_by_the_eu-pos.png){:height="35%" width="35%"}
 
 -----
 
