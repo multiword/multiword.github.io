@@ -10,7 +10,7 @@ layout: default
 **Date of the Workshop:** May 25, 2024 
 
 **Organised and sponsored by:**\
-Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/))
+The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)), Universal Dependencies ([UD](https://universaldependencies.org)) and [UniDive](https://unidive.lisn.upsaclay.fr) Cost Action CA21167.
 
 <a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -124,16 +124,16 @@ Archival papers with existing reviews from ACL Rolling Review (ARR)) will also b
 
 -----
 
-### <a name="dates"> Important Dates </a>
+### <a name="dates"> (Tentative) Important Dates </a>
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
-| Paper submission deadline  | February 25, 2024          |
-| ARR commitment deadline    | March 25, 2024             |
-| Notification of acceptance | April 1, 2024              |
-| Camera-ready papers due    | April 8, 2024              |
+| Paper submission deadline  | February 25, 2024                        |
+| ARR commitment deadline    | March 25, 2024                        |
+| Notification of acceptance | April 1, 2024                        |
+| Camera-ready papers due    | April 8, 2024                        |
 | Underline upload deadline  | TBD                        |
-| Workshop                   | May 25, 2024               |
+| Workshop                   | May 25, 2024                        |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
@@ -248,6 +248,8 @@ TBD
 ![ACL SIGLEX](siglex.png){:height="15%" width="15%"}
 ![UniDive](unidive_logo.png){:height="12%" width="12%"}
 ![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png){:height="25%" width="25%"}
+![Cost Action](COST_LOGO_rgb_highresolution-1200x563.png){:height="25%" width="25%"}
+![EU](en-funded_by_the_eu-pos.png){:height="12%" width="12%"}
 
 -----
 
@@ -264,3 +266,4 @@ For any inquiries regarding the workshop, please send an email to the Organizing
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
+
