@@ -246,8 +246,8 @@ TBD
 ### <a name="sponsors"> Sponsors and Support </a>
 
 ![ACL SIGLEX](siglex.png){:height="15%" width="15%"}
-![UniDive](unidive_logo.png){:height="20%" width="20%"}
-![UD](logo-ud.png){:height="20%" width="20%"}
+![UniDive](unidive_logo.png){:height="22%" width="20%"}
+![UD](logo-ud.png){:height="18%" width="18%"}
 ![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png){:height="45%" width="45%"}
 ![Cost Action](COST_LOGO_rgb_highresolution-1200x563.png){:height="25%" width="25%"}
 ![EU](en-funded_by_the_eu-pos.png){:height="42%" width="42%"}
