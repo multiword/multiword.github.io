@@ -245,12 +245,26 @@ TBD
 
 ### <a name="sponsors"> Sponsors and Support </a>
 
-![ACL SIGLEX](siglex.png){:height="15%" width="15%"}
-![UniDive](unidive_logo.png){:height="22%" width="20%"}
-![UD](logo-ud.png){:height="18%" width="18%"}
-![LREC-COLING 2024](LOGO-LREC-COLING-2024-BASIC.png){:height="45%" width="45%"}
-![Cost Action](COST_LOGO_rgb_highresolution-1200x563.png){:height="25%" width="25%"}
-![EU](en-funded_by_the_eu-pos.png){:height="42%" width="42%"}
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <div style="width: 45%; margin: 1%;">
+        <img src="siglex.png" alt="ACL SIGLEX" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 45%; margin: 1%;">
+        <img src="unidive_logo.png" alt="UniDive" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 45%; margin: 1%;">
+        <img src="logo-ud.png" alt="UD" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 45%; margin: 1%;">
+        <img src="LOGO-LREC-COLING-2024-BASIC.png" alt="LREC-COLING 2024" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 45%; margin: 1%;">
+        <img src="COST_LOGO_rgb_highresolution-1200x563.png" alt="Cost Action" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 45%; margin: 1%;">
+        <img src="en-funded_by_the_eu-pos.png" alt="EU" style="width: 100%; height: auto;">
+    </div>
+</div>
 
 -----
 
