@@ -246,22 +246,22 @@ TBD
 ### <a name="sponsors"> Sponsors and Support </a>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="width: 45%; margin: 1%;">
+    <div style="width: 30%; margin: 1%;">
         <img src="siglex.png" alt="ACL SIGLEX" style="width: 100%; height: auto;">
     </div>
-    <div style="width: 45%; margin: 1%;">
+    <div style="width: 30%; margin: 1%;">
         <img src="unidive_logo.png" alt="UniDive" style="width: 100%; height: auto;">
     </div>
-    <div style="width: 45%; margin: 1%;">
+    <div style="width: 30%; margin: 1%;">
         <img src="logo-ud.png" alt="UD" style="width: 100%; height: auto;">
     </div>
-    <div style="width: 45%; margin: 1%;">
+    <div style="width: 30%; margin: 1%;">
         <img src="LOGO-LREC-COLING-2024-BASIC.png" alt="LREC-COLING 2024" style="width: 100%; height: auto;">
     </div>
-    <div style="width: 45%; margin: 1%;">
+    <div style="width: 30%; margin: 1%;">
         <img src="COST_LOGO_rgb_highresolution-1200x563.png" alt="Cost Action" style="width: 100%; height: auto;">
     </div>
-    <div style="width: 45%; margin: 1%;">
+    <div style="width: 30%; margin: 1%;">
         <img src="en-funded_by_the_eu-pos.png" alt="EU" style="width: 100%; height: auto;">
     </div>
 </div>
