@@ -172,8 +172,6 @@ TBD
 
 ### <a name="committee"> Program Committee </a>
 
-| Who                        | Affiliation                |
-| -------------------------- | -------------------------- |
 | Jean-Yves Antoine          | University of Tours        |
 | Verginica Barbu Mititelu   | Romanian Academy           |
 | Cherifa Ben Kehlil         | University of Tours        |
