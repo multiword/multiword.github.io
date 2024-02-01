@@ -154,20 +154,18 @@ TBD
 | Coordination and communication chair | TBD |
 | Publicity chair | |
 -->
-**Core Organizers**   
-| Archna Bhatia              | Institute for Human and Machine Cognition, USA                |  
-| Gosse Bouma                | Groningen University, NL                                      |
-| Kilian Evang               | Heinrich Heine University Düsseldorf, DE                      |
-| Marcos Garcia              | University of Santiago de Compostela, Galiza, Spain           |
-| Voula Giouli               | Institute for Language & Speech Processing, ATHENA RC, Greece |  
-| Lifeng Han                 | Univ. of Manchester, UK                                       |  
-| Joakim Nivre               | Uppsala University and Research Institutes of Sweden, Sweden  |
+<b>Core Organizers</b>
+<table>
+<tr><td>Archna Bhatia </td><td style="padding-left: 20px;">Institute for Human and Machine Cognition, USA</td></tr>
+<tr><td>Gosse Bouma </td><td style="padding-left: 20px;">Groningen University, NL</td></tr>
+<tr><td>Kilian Evang </td><td style="padding-left: 20px;">Heinrich Heine University Düsseldorf, DE</td></tr>
+<tr><td>Marcos Garcia </td><td style="padding-left: 20px;">University of Santiago de Compostela, Galiza, Spain</td></tr>
+<tr><td>Voula Giouli </td><td style="padding-left: 20px;">Institute for Language & Speech Processing, ATHENA RC, Greece</td></tr>
+<tr><td>Lifeng Han </td><td style="padding-left: 20px;">Univ. of Manchester, UK</td></tr>
+<tr><td>Joakim Nivre </td><td style="padding-left: 20px;">Uppsala University and Research Institutes of Sweden, Sweden</td></tr>
+</table>
 
-**Organizers-At-Large**   
-| A. Seza Dogruöz            | Ghent University, Belgium |
-| Alexandre Rademaker        | IBM Research, Brazil      |
-
-<b>Organizers-at-Large</b><br>
+<b>Organizers-at-Large</b>
 <table>
 <tr><td>A. Seza Dogruöz </td><td style="padding-left: 20px;">Ghent University, Belgium</td></tr>
 <tr><td>Alexandre Rademaker </td><td style="padding-left: 20px;">IBM Research, Brazil</td></tr>
