@@ -163,7 +163,7 @@ TBD
 | Lifeng Han                 | Univ. of Manchester, UK                                       |  
 | Joakim Nivre               | Uppsala University and Research Institutes of Sweden, Sweden  |
 
-**Organizers At Large**  
+**Organizers-At-Large**  
 | A. Seza Dogruöz            | Ghent University, Belgium |
 | Alexandre Rademaker        | IBM Research, Brazil      |
 
