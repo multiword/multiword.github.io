@@ -140,8 +140,10 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 -----
 
 ### <a name="keynotes">Keynote Speakers </a>
-
-TBD
+<table>
+<tr><td>Natalia Levshina </td><td style="padding-left: 20px;">Radboud University</td></tr>
+<tr><td>Harish Tayyar Madabushi </td><td style="padding-left: 20px;">University of Bath</td></tr>
+</table>
 
 -----
 
@@ -154,7 +156,7 @@ TBD
 | Coordination and communication chair | TBD |
 | Publicity chair | |
 -->
-<b>Core Organizers</b><table>
+<b>Core Organizers</b>  <table>
 <tr><td>Archna Bhatia </td><td style="padding-left: 20px;">Institute for Human and Machine Cognition, USA</td></tr>
 <tr><td>Gosse Bouma </td><td style="padding-left: 20px;">Groningen University, NL</td></tr>
 <tr><td>Kilian Evang </td><td style="padding-left: 20px;">Heinrich Heine University Düsseldorf, DE</td></tr>
@@ -164,7 +166,7 @@ TBD
 <tr><td>Joakim Nivre </td><td style="padding-left: 20px;">Uppsala University and Research Institutes of Sweden, Sweden</td></tr>
 </table>
 
-<b>Organizers-at-Large</b><table>
+<b>Organizers-at-Large</b>  <table>
 <tr><td>A. Seza Dogruöz </td><td style="padding-left: 20px;">Ghent University, Belgium</td></tr>
 <tr><td>Alexandre Rademaker </td><td style="padding-left: 20px;">IBM Research, Brazil</td></tr>
 </table>
