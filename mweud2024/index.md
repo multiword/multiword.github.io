@@ -154,14 +154,19 @@ TBD
 | Coordination and communication chair | TBD |
 | Publicity chair | |
 -->
-
-| Archna Bhatia              | Institute for Human and Machine Cognition, USA |  
-| Gosse Bouma                | Groningen University, NL |
-| Kilian Evang               | Heinrich Heine University Düsseldorf, DE |
-| Marcos Garcia              | University of Santiago de Compostela, Galiza, Spain |
+**Core Organizers**
+| Archna Bhatia              | Institute for Human and Machine Cognition, USA                |  
+| Gosse Bouma                | Groningen University, NL                                      |
+| Kilian Evang               | Heinrich Heine University Düsseldorf, DE                      |
+| Marcos Garcia              | University of Santiago de Compostela, Galiza, Spain           |
 | Voula Giouli               | Institute for Language & Speech Processing, ATHENA RC, Greece |  
-| Lifeng Han                 | Univ. of Manchester, UK |  
-| Joakim Nivre               | Uppsala University and Research Institutes of Sweden, Sweden |
+| Lifeng Han                 | Univ. of Manchester, UK                                       |  
+| Joakim Nivre               | Uppsala University and Research Institutes of Sweden, Sweden  |
+
+**Organizers At Large**
+| A. Seza Dogruöz            | Ghent University, Belgium |
+| Alexandre Rademaker        | IBM Research, Brazil      |
+
 
 -----
 
