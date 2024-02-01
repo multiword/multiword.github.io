@@ -155,8 +155,6 @@ TBD
 | Publicity chair | |
 -->
 
-| Who                        | Affiliation                |
-| -------------------------- | -------------------------- |
 | Archna Bhatia              | Institute for Human and Machine Cognition, USA |  
 | Gosse Bouma                | Groningen University, NL |
 | Kilian Evang               | Heinrich Heine University Düsseldorf, DE |
