@@ -106,7 +106,7 @@ The workshop invites  two types of submissions: 
 
 ### <a name="instructions">Paper Submission and Templates</a>
 
-Papers should be submitted via the workshop’s START submission page (link will be provided once available). Please choose the appropriate submission format (archival/non-archival). Submissions must follow the LREC-COLING 2024 stylesheet.
+Papers should be submitted via the workshop’s [START submission page](https://softconf.com/lrec-coling2024/mwe-ud2024/). Please choose the appropriate submission format (archival/non-archival). Submissions must follow the LREC-COLING 2024 stylesheet.
 
 When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e. also technologies, standards, evaluation kits, etc.) that have been used for the research described in the paper or are a new result of the research. Moreover, ELRA encourages all LREC-COLING authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones)
 
