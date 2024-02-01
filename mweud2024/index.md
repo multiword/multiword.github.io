@@ -182,74 +182,113 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 ### <a name="committee"> Program Committee </a>
 
 | Jean-Yves Antoine          | University of Tours        |
+| Timothy Baldwin            | MBZUAI and The University of Melbourne |
 | Verginica Barbu Mititelu   | Romanian Academy           |
 | Cherifa Ben Kehlil         | University of Tours        |
+| Philippe Blache            | Aix-Marseille Uni |
 | Francis Bond               | Palacký University         |
 | Claire Bonial              | U.S. Army Research Laboratory |
+| Julia Bonn                 | University of Colorado Boulder |
 | Tiberiu Boroș              | Adobe                      |
 | Miriam Butt                | Universität Konstanz       |
 | Marie Candito              | Université Paris Cité      |
+| Fabienne Cap               | Technische Universität München |
+| Kenneth Church             | Northeastern University |
 | Çağrı Çöltekin             | Tübingen                   |
+| Mathieu Constant           | Université de Lorraine     |
 | Paul Cook                  | University of New Brunswick |
+| Silvio Cordeiro            | LLF, Université Paris Diderot |
 | Monika Czerepowicka        | University of Warmia and Mazury |
+| Béatrice Daille            | Université de Nantes       |
 | Daniel Dakota              | Indiana University         |
-| Marie-Catherine de Marneffe | UCLouvain                 |
-| Valeria de Paiva           | Nuannce                    | 
+| Miryam de Lhoneux          | KU Leuven                  |
+| Marie-Catherine de Marneffe | UC Louvain                 |
+| Valeria de Paiva           | Nuannce                    |
+| Gaël Dias                  | University of Caen Basse-Normandie |
 | Kaja Dobrovoljc            | University of Ljubljana    |
 | Rafael Ehren               | Heinrich Heine University Düsseldorf |
+| Gülşen Eryiğit             | Istanbul Technical University |
+| Meghdad Farahmand          | Berlin, Germany            |
 | Christiane Fellbaum        | Princeton University       |
+| Joaquim Ferreira da Silva  | Universidade Nova de Lisboa |
 | Jennifer Foster            | Dublin City University     |
 | Aggeliki Fotopoulou        | Institute for Language and Speech Processing, ATHENA RC |
 | Stefan Th. Gries           | UC Santa Barbara & JLU Giessen | 
 | Bruno Guillaume            | Université de Lorraine     |
 | Tunga Gungor               | Bogaziçi University        |
 | Eleonora Guzzi             | Universidade da Coruña     |
+| Chikara Hashimoto          | Rakuten                    |
+| Uxoa Iñurrieta             | University of the Basque Country |
+| Laura Kallmeyer            | Duesseldorf University     |
+| Diptesh Kanojia            | University of Surrey       |
+| Elma Kerz                  | RWTH Aachen University     |
 | Cvetana Krstev             | University of Belgrade     |
+| Tita Kyriakopoulou         | Gustave Ei el University   |
+| Eric Laporte               |                            |
 | Timm Lichte                | University of Tübingen     |
 | Irina Lobzhanidze          | Ilia State University      |
 | Teresa Lynn                | ADAPT Centre               |
+| Gunn Lyse                  |                            |
 | Stella Markantonatou       | Institute for Language & Speech Processing, ATHENA RC |
 | John P. McCrae             | National University of Ireland, Galway |
 | Nurit Melnik               | The Open University of Israel |
 | Laura A. Michaelis         | University of Colorado Boulder |
+| Jelena Mitrović            |                                |
 | Johanna Monti              | "L'Orientale" University of Naples |
+| Preslav Nakov              |  |
+| Sanni Nimb                 | |
+| Malvina Nissim             | |
 | Jan Odijk                  | University of Utrecht      |
 | Petya Osenova              | Bulgarian Academy of Sciences |
 | Yannick Parmentier         | University of Lorraine     |
 | Agnieszka Patejuk          | University of Oxford and Institute of Computer Science, Polish Academy of Sciences |
+| Marie-Sophie Pausé         | |
 | Pavel Pecina               | Charles University |
 | Ted Pedersen               | University of Minnesota |
 | Scott Piao                 | Lancaster University |
+| Maciej Piasecki            | |
+| Prisca Piccirilli          | |
+| Alain Polguère             | |
 | Martin Popel               | Charles University |
 | Prokopis Prokopidis        | Institute for Language and Speech Processing, ATHENA RC |
 | Carlos Ramisch             | Aix Marseille University | 
+| Livy Real                  | |
+| Matiss Rikters             | |
+| Michael Rosner             | |
+| Fatiha Sadat               | Université du Québec à Montréal |
 | Manfred Sailer             | Goethe-Universität Frankfurt am Main |
 | Tanja Samardžić            | University of Zurich |
+| Magali Duran               | |
+| Federico Sangati           | |
 | Agata Savary               | Université Paris-Saclay |
 | Nathan Schneider           | Georgetown University |
 | Sabine Schulte im Walde    | University of Stuttgart |
 | Sebastian Schuster         | Saarland University |
+| Matt Shardlow              | Manchester Metropolitan Uni |
 | Maria Simi                 | Università di Pisa |
 | Kiril Simov                | Bulgarian Academy of Sciences |
+| Jan Snajder                | |
+| Ranka Stanković            | |
 | Ivelina Stoyanova          | Bulgarian Academy of Sciences |
+| Pavel Straňák              | Uni Karlova |
 | Stan Szpakowicz            | University of Ottawa |
 | Zeerak Talat               | Simon Fraser University |
 | Shiva Taslimipoor          | University of Cambridge |
 | Harish Tayyar Madabushi    | University of Bath |
 | Beata Trawinski            | Leibniz Institute for the German Language |
+| Zdeňka Urešová             | |
+| Ruben Urizar               | |
 | Ashwini Vaidya             | Indian Institute of Technology |
+| Lonneke van der Plas       | |
+| Eric Wehrli                | |
+| Marion Weller-Di Marco     | |
+| Seid Muhie Yimam           | |
 | Amir Zeldes                | Georgetown University |
 | Daniel Zeman               | Charles University |
 | Marion Di Marco            | Uni Muenchen |
-| Matt Shardlow              | Manchester Metropolitan Uni |
-| Sadat.                     | Université du Québec à Montréal |
-| Pavel Stranak              | Uni Karlova |
 | Pierre André               | Centre de recherche informatique de Montréal |
 | Farahmand Meghdad          | Uni Geneva |
-| Gaël Dias                  | University of Caen Basse-Normandie |
-| Giuseppe G. A. Celano      | Leipzig Uni |
-| Philippe Blache            | Aix-Marseille Uni |
-| Julia R. Bonn              | Uni Colorado Boulder | 
+| Giuseppe G. A. Celano      | Leipzig Uni | 
 
 -----
 
