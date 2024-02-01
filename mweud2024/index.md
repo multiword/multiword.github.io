@@ -319,8 +319,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 ### <a name="antiharassment"> Anti-harassment Policy </a>
 
-The workshop follows the [ACL anti-harassment
-policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
+The workshop follows the [LREC/COLING’s anti-harassment policy](https://coling2022.org/policy).
 
 -----
 
