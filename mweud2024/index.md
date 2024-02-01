@@ -155,6 +155,7 @@ TBD
 | Publicity chair | |
 -->
 **Core Organizers**
+
 | Archna Bhatia              | Institute for Human and Machine Cognition, USA                |  
 | Gosse Bouma                | Groningen University, NL                                      |
 | Kilian Evang               | Heinrich Heine University Düsseldorf, DE                      |
@@ -164,6 +165,7 @@ TBD
 | Joakim Nivre               | Uppsala University and Research Institutes of Sweden, Sweden  |
 
 **Organizers At Large**
+
 | A. Seza Dogruöz            | Ghent University, Belgium |
 | Alexandre Rademaker        | IBM Research, Brazil      |
 
