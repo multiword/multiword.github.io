@@ -94,15 +94,16 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |                 | *Onsite chair: Lifeng Han / Online chair: Archna Bhatia*                  |
 |  09:10-09:30    | Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models |
 |                 | *Giulia Rambelli, Emmanuele Chersoni, Marco S. G. Senaldi, Philippe Blache and Alessandro Lenci*                  |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.13/)][[video](https://aclanthology.org/2023.mwe-1.13.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.13/)] [[slides](slides/c956414fdf19ed43708b526a8cf2607c.pdf)] [[video](https://aclanthology.org/2023.mwe-1.13.mp4)] |
 |  09:30-09:50    | A Survey of MWE Identification Experiments: The Devil is in the Details (online) |
 |                 | *Carlos Ramisch, Abigail Walsh, Thomas Blanchard and Shiva Taslimipoor*          |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.15/)][[video](https://aclanthology.org/2023.mwe-1.15.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.15/)] [[slides](slides/4e2d94ebc91598763a380064462293eb.pdf)] [[video](https://aclanthology.org/2023.mwe-1.15.mp4)] |
 |  09:50-10:10    | The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative (non-archival, online) |
 |                 | *Leonie Weissweiler, Valentin Hofmann, Abdullatif Koksal and Hinrich Schütze*                                                                        |
+|                 | [[slides](slides/170b074de898be63ae30d7cb2164e482.pdf)] [[video](https://doi.org/10.48448/r6h8-jb32)] |
 |  10:10-10:30    | Predicting Compositionality of Verbal Multiword Expressions in Persian (online) |
 |                 | *Mahtab Sarlak, Yalda Yarandi and Mehrnoush Shamsfard*                          |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.5/)][[video](https://aclanthology.org/2023.mwe-1.5.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.5/)] [[slides](slides/0e9441557f829cc564b8fd6db3298303.pdf)] [[video](https://aclanthology.org/2023.mwe-1.5.mp4)] |
 | **10:30–11:15** | **Morning coffee break**       |
 | **11:15–12:50** | **Session 2**                  |
 |                 | *Onsite chairs: Marcos Garcia, Giulia Rambelli / Online chair: Shiva Taslimipoor*          |
@@ -111,10 +112,10 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |   12:15–12:30   | Oral short paper presentation |
 |                 | Romanian Multiword Expression Detection Using Multilingual Adversarial Training and Lateral Inhibition |
 |                 | *Andrei Avram, Verginica Barbu Mititelu and Dumitru-Clementin Cercel*                                  |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.4/)][[video](https://aclanthology.org/2023.mwe-1.4.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.4/)] [[slides](slides/MWE 2023 presentation - Andrei Marius Avram.pptx)] [[video](https://aclanthology.org/2023.mwe-1.4.mp4)] |
 |   12:30–12:50   | Oral long paper presentation |
 |                 | PARSEME corpus release 1.3 (online)              |                                                                                                                                                                                                                                                                                                                                                                                                                                
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.6/)][[video](https://aclanthology.org/2023.mwe-1.6.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.6/)] [[slides](slides/67fade48caaf6af969180d7e55c50b59.pdf)] [[video](https://aclanthology.org/2023.mwe-1.6.mp4)] |
 |                 | *Agata Savary, Cherifa Ben Khelil, Carlos Ramisch, Voula Giouli, Verginica Barbu Mititelu, Najet Hadj Mohamed, Cvetana Krstev, Chaya Liebeskind, Hongzhi Xu, Sara Stymne, Tunga Güngör, Thomas Pickard, Bruno Guillaume, Eduard Bejček, Archna Bhatia, Marie Candito, Polona Gantar, Uxoa Iñurrieta, Albert Gatt, Jolanta Kovalevskaite, Timm Lichte, Nikola Ljubešić, Johanna Monti, Carla Parra Escartín, Mehrnoush Shamsfard, Ivelina Stoyanova, Veronika Vincze and Abigail Walsh* |
 | <span class="nowrap">**12:50–14:15**</span> | **Lunch break**                |
 | **14:15–15:45** | **Session 3 (special track)**  |
@@ -124,10 +125,10 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |   14:45–15:15   | Oral short paper presentations |
 |                 | Detecting Idiomatic Multiword Expressions in Clinical Terminology using Definition-Based Representation Learning |
 |                 | *François Remy, Alfiya Khabibullina and Thomas Demeester*                                                        |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.11/)][[video](https://aclanthology.org/2023.mwe-1.11.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.11/)] [[slides](slides/Slides paper 16.pdf)] [[video](https://aclanthology.org/2023.mwe-1.11.mp4)] |
 |                 | Investigating the Effects of MWE Identification in Structural Topic Modelling           |
 |                 | *Dimitrios Kokkinakis, Ricardo Muñoz Sánchez, Sebastianus Cornelis Jacobus Bruinsma and Mia-Marie Hammarlin* |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.7/)][[video](https://aclanthology.org/2023.mwe-1.7.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.7/)] [[video](https://aclanthology.org/2023.mwe-1.7.mp4)] |
 |   15:15–15:45   | Panel discussion: Multiword Expressions in Knowledge-intensive Domains: Clinical Text as a Case Study |
 |                 | *Asma Ben Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
 |                 | [[slides](https://drive.google.com/drive/folders/1I3lpw0gNsMpQNLFcS5zydnCuS5dUupjF)] |
@@ -137,28 +138,29 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |   16:15–17:15   | Poster session                 |
 |                 | Idioms, Probing and Dangerous Things: Towards Structural Probing for Idiomaticity in Vector Space |
 |                 | *Filip Klubička, Vasudevan Nedumpozhimana and John Kelleher*                                      |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.8/)][[video](https://aclanthology.org/2023.mwe-1.8.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.8/)] [[slides](slides/da826ded5b37040a56a26dd8fd89f113.pdf)] [[video](https://aclanthology.org/2023.mwe-1.8.mp4)] |
 |                 | Simple and Effective Multi-Token Completion from Masked Language Models (non-archival) |
 |                 | *Oren Kalinsky, Guy Kushilevitz, Alexander Libov and Yoav Goldberg*                    |
+|                 | [[slides](slides/MTC_eacl_without_vid.pptx)] [[video](https://doi.org/10.48448/dyvj-y439)] |
 |                 | Annotation of lexical bundles with discourse functions in a Spanish academic corpus |
 |                 | *Eleonora Guzzi, Margarita Alonso-Ramos, Marcos Garcia and Marcos García Salido*    |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.14/)][[video](https://aclanthology.org/2023.mwe-1.14.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.14/)] [[slides](slides/Slides paper 16.pdf)] [[video](https://aclanthology.org/2023.mwe-1.14.mp4)] |
 |                 | Enriching Multiword Terms in Wiktionary with Pronunciation Information |
 |                 | *Lenka Bajcetic, Thierry Declerck and Gilles Sérasset*                 |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.10.mp4)][[video](https://aclanthology.org/2023.mwe-1.10.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.10.mp4)] [[slides](slides/mwe_slides.pdf)] [[video](https://aclanthology.org/2023.mwe-1.10.mp4)] |
 |                 | Automatic Generation of Vocabulary Lists with Multiword Expressions |
 |                 | *John Lee and Adilet Uvaliyev*                                      |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.12/)][[video](https://aclanthology.org/2023.mwe-1.12.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.12/)] [[poster](slides/eacl2023-mwe-poster.pdf)] [[video](https://aclanthology.org/2023.mwe-1.12.mp4)] |
 |                 | A MWE lexicon formalism optimised for observational adequacy |
 |                 | *Adam Lion-Bouton, Agata Savary and Jean-Yves Antoine*       |
 |                 | [[paper](https://aclanthology.org/2023.mwe-1.16/)] |
 |   17:15—17:45   | Oral short paper presentations |
 |                 | Token-level Identification of Multiword Expressions using Pre-trained Multilingual Language Models (online) |
 |                 | *Raghuraman Swaminathan and Paul Cook*                                                                      |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.1/)][[video](https://aclanthology.org/2023.mwe-1.1.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.1/)] [[slides](slides/MWE_conference_presentation_final 1.pptx)] [[video](https://aclanthology.org/2023.mwe-1.1.mp4)] |
 |                 | Graph-based multi-layer querying in Parseme Corpora (online) | 
 |                 | *Bruno Guillaume*                                            |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.9/)][[video](https://aclanthology.org/2023.mwe-1.9.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.9/)] [[slides](slides/MWE_workshop_2023.pdf)] [[video](https://aclanthology.org/2023.mwe-1.9.mp4)] |
 |   17:45–18:00   | Closing                        |
 |                 | *Onsite chair: Marcos Garcia / Online chair: Voula Giouli*                |
 
