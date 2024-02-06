@@ -145,7 +145,7 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |                 | [[paper](https://aclanthology.org/2023.mwe-1.14/)][[video](https://aclanthology.org/2023.mwe-1.14.mp4)] |
 |                 | Enriching Multiword Terms in Wiktionary with Pronunciation Information |
 |                 | *Lenka Bajcetic, Thierry Declerck and Gilles Sérasset*                 |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.14.mp4)][[video](https://aclanthology.org/2023.mwe-1.10.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.10.mp4)][[video](https://aclanthology.org/2023.mwe-1.10.mp4)] |
 |                 | Automatic Generation of Vocabulary Lists with Multiword Expressions |
 |                 | *John Lee and Adilet Uvaliyev*                                      |
 |                 | [[paper](https://aclanthology.org/2023.mwe-1.12/)][[video](https://aclanthology.org/2023.mwe-1.12.mp4)] |
