@@ -131,7 +131,7 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |                 | [[paper](https://aclanthology.org/2023.mwe-1.7/)] [[video](https://aclanthology.org/2023.mwe-1.7.mp4)] |
 |   15:15–15:45   | Panel discussion: Multiword Expressions in Knowledge-intensive Domains: Clinical Text as a Case Study |
 |                 | *Asma Ben Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
-|                 | [[slides](https://drive.google.com/drive/folders/1I3lpw0gNsMpQNLFcS5zydnCuS5dUupjF)] |
+|                 | [[slides](slides/MWE_2023_Community_Discussion.pdf)] |
 | **15:45–16:15** | **Afternoon coffee break**     |
 | **16:15–18:00** | **Session 4**                  |
 |                 | *Onsite chair: Eleonora Guzzi / Online chair: Voula Giouli*                   |
