@@ -41,3 +41,7 @@
 .nowrap {
 	white-space: nowrap;
 }
+
+td, th {
+	vertical-align: top;
+}
