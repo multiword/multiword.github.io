@@ -125,7 +125,7 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |   14:45–15:15   | Oral short paper presentations |
 |                 | Detecting Idiomatic Multiword Expressions in Clinical Terminology using Definition-Based Representation Learning |
 |                 | *François Remy, Alfiya Khabibullina and Thomas Demeester*                                                        |
-|                 | [[paper](https://aclanthology.org/2023.mwe-1.11/)] [[slides](slides/Slides paper 16.pdf)] [[video](https://aclanthology.org/2023.mwe-1.11.mp4)] |
+|                 | [[paper](https://aclanthology.org/2023.mwe-1.11/)] [[slides](slides/BioLORD - Presentation EACL 2023.pdf)] [[video](https://aclanthology.org/2023.mwe-1.11.mp4)] |
 |                 | Investigating the Effects of MWE Identification in Structural Topic Modelling           |
 |                 | *Dimitrios Kokkinakis, Ricardo Muñoz Sánchez, Sebastianus Cornelis Jacobus Bruinsma and Mia-Marie Hammarlin* |
 |                 | [[paper](https://aclanthology.org/2023.mwe-1.7/)] [[video](https://aclanthology.org/2023.mwe-1.7.mp4)] |
