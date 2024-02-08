@@ -131,7 +131,6 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |                 | [[paper](https://aclanthology.org/2023.mwe-1.7/)] [[video](https://aclanthology.org/2023.mwe-1.7.mp4)] |
 |   15:15–15:45   | Panel discussion: Multiword Expressions in Knowledge-intensive Domains: Clinical Text as a Case Study |
 |                 | *Asma Ben Abacha, Goran Nenadic, Stefan Schulz and Kirk Roberts*                                          |
-|                 | [[slides](slides/MWE_2023_Community_Discussion.pdf)] |
 | **15:45–16:15** | **Afternoon coffee break**     |
 | **16:15–18:00** | **Session 4**                  |
 |                 | *Onsite chair: Eleonora Guzzi / Online chair: Voula Giouli*                   |
@@ -161,8 +160,9 @@ The <b>proceedings</b> and <b>video recordings</b> for MWE2023 can be found <b>[
 |                 | Graph-based multi-layer querying in Parseme Corpora (online) | 
 |                 | *Bruno Guillaume*                                            |
 |                 | [[paper](https://aclanthology.org/2023.mwe-1.9/)] [[slides](slides/MWE_workshop_2023.pdf)] [[video](https://aclanthology.org/2023.mwe-1.9.mp4)] |
-|   17:45–18:00   | Closing                        |
+|   17:45–18:00   | Closing and community discussion |
 |                 | *Onsite chair: Marcos Garcia / Online chair: Voula Giouli*                |
+|                 | [[slides](slides/MWE_2023_Community_Discussion.pdf)] |
 
 -----
 
