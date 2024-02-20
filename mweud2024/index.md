@@ -27,6 +27,8 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 * **16 January 2023**: Second CfP posted
 * **23 December 2022**: First CfP posted
 -->
+* **February 19, 2024**: MWE-UD 2024 workshop extended deadline (New Submission Date: March 3, 2024)
+* **February 19, 2024**: MWE-UD 2024 workshop ARR commitment date set (ARR Commitment Date: March 25, 2024)
 * **December 8, 2023**: MWE-UD 2024 workshop date confirmed (Workshop Date: May 25, 2024)
 * **November 21, 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
 * **August 29, 2023**: Organising committee formed
