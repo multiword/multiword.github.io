@@ -218,6 +218,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Stella Markantonatou       | Institute for Language & Speech Processing, ATHENA RC |
 | John P. McCrae             | National University of Ireland, Galway |
 | Nurit Melnik               | The Open University of Israel |
+| Pierre André Ménard        | Centre de Recherche Informatique de Montréal |
 | Laura A. Michaelis         | University of Colorado Boulder |
 | Johanna Monti              | "L'Orientale" University of Naples |
 | Jan Odijk                  | University of Utrecht      |
