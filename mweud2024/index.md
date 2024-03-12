@@ -183,7 +183,6 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 ### <a name="committee"> Program Committee </a>
 
-| Jean-Yves Antoine          | University of Tours        |
 | Verginica Barbu Mititelu   | Romanian Academy           |
 | Cherifa Ben Kehlil         | University of Tours        |
 | Philippe Blache            | Aix-Marseille Uni |
@@ -195,7 +194,6 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Marie Candito              | Université Paris Cité      |
 | Giuseppe G. A. Celano      | Leipzig Uni | 
 | Çağrı Çöltekin             | Tübingen                   |
-| Paul Cook                  | University of New Brunswick |
 | Monika Czerepowicka        | University of Warmia and Mazury |
 | Daniel Dakota              | Indiana University         |
 | Marie-Catherine de Marneffe | UC Louvain                 |
@@ -203,6 +201,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Gaël Dias                  | University of Caen Basse-Normandie |
 | Kaja Dobrovoljc            | University of Ljubljana    |
 | Rafael Ehren               | Heinrich Heine University Düsseldorf |
+| Gülşen Eryiğit             | Istanbul Technical University |
 | Meghdad Farahmand          | Berlin, Germany            |
 | Christiane Fellbaum        | Princeton University       |
 | Jennifer Foster            | Dublin City University     |
@@ -211,6 +210,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Bruno Guillaume            | Université de Lorraine     |
 | Tunga Gungor               | Bogaziçi University        |
 | Eleonora Guzzi             | Universidade da Coruña     |
+| Laura Kallmeyer            | Heinrich Heine University Düsseldorf |
 | Cvetana Krstev             | University of Belgrade     |
 | Timm Lichte                | University of Tübingen     |
 | Irina Lobzhanidze          | Ilia State University      |
@@ -218,9 +218,9 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Stella Markantonatou       | Institute for Language & Speech Processing, ATHENA RC |
 | John P. McCrae             | National University of Ireland, Galway |
 | Nurit Melnik               | The Open University of Israel |
-| Pierre André Ménard        | Centre de Recherche Informatique de Montréal |
 | Laura A. Michaelis         | University of Colorado Boulder |
 | Johanna Monti              | "L'Orientale" University of Naples |
+| Preslav Nakov              | Mohamed bin Zayed University of Artificial Intelligence |
 | Jan Odijk                  | University of Utrecht      |
 | Petya Osenova              | Bulgarian Academy of Sciences |
 | Yannick Parmentier         | University of Lorraine     |
@@ -244,10 +244,9 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Stan Szpakowicz            | University of Ottawa |
 | Zeerak Talat               | Simon Fraser University |
 | Shiva Taslimipoor          | University of Cambridge |
-| Harish Tayyar Madabushi    | University of Bath |
 | Beata Trawinski            | Leibniz Institute for the German Language |
 | Ashwini Vaidya             | Indian Institute of Technology |
-| Marion Di Marco     | Ludwig Maximilian University of Munich |
+| Marion Di Marco            | Ludwig Maximilian University of Munich |
 | Amir Zeldes                | Georgetown University |
 | Daniel Zeman               | Charles University |
 
