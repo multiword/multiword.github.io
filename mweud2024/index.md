@@ -193,7 +193,9 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Miriam Butt                | Universität Konstanz       |
 | Marie Candito              | Université Paris Cité      |
 | Giuseppe G. A. Celano      | Leipzig Uni | 
-| Çağrı Çöltekin             | Tübingen                   |
+| Kenneth Church             | Baidu                      |
+| Çağrı Çöltekin             | University of Tübingen     |
+| Mathieu Constant           | Université de Lorraine     |
 | Monika Czerepowicka        | University of Warmia and Mazury |
 | Daniel Dakota              | Indiana University         |
 | Marie-Catherine de Marneffe | UC Louvain                 |
@@ -212,6 +214,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Eleonora Guzzi             | Universidade da Coruña     |
 | Laura Kallmeyer            | Heinrich Heine University Düsseldorf |
 | Cvetana Krstev             | University of Belgrade     |
+| Miryam de Lhoneux          | KU Leuven                  |
 | Timm Lichte                | University of Tübingen     |
 | Irina Lobzhanidze          | Ilia State University      |
 | Teresa Lynn                | ADAPT Centre               |
@@ -221,6 +224,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Laura A. Michaelis         | University of Colorado Boulder |
 | Johanna Monti              | "L'Orientale" University of Naples |
 | Preslav Nakov              | Mohamed bin Zayed University of Artificial Intelligence |
+| Dmitry Nikolaev            | University of Manchester |
 | Jan Odijk                  | University of Utrecht      |
 | Petya Osenova              | Bulgarian Academy of Sciences |
 | Yannick Parmentier         | University of Lorraine     |
@@ -237,6 +241,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Nathan Schneider           | Georgetown University |
 | Sabine Schulte im Walde    | University of Stuttgart |
 | Sebastian Schuster         | Saarland University |
+| Joaquim Silva              | Universidade NOVA de Lisboa |
 | Maria Simi                 | Università di Pisa |
 | Kiril Simov                | Bulgarian Academy of Sciences |
 | Ivelina Stoyanova          | Bulgarian Academy of Sciences |
