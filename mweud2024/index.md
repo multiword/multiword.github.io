@@ -190,7 +190,6 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Claire Bonial              | U.S. Army Research Laboratory |
 | Julia Bonn                 | University of Colorado Boulder |
 | Tiberiu Boroș              | Adobe                      |
-| Miriam Butt                | Universität Konstanz       |
 | Marie Candito              | Université Paris Cité      |
 | Giuseppe G. A. Celano      | Leipzig Uni | 
 | Kenneth Church             | Baidu                      |
@@ -198,6 +197,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Mathieu Constant           | Université de Lorraine     |
 | Monika Czerepowicka        | University of Warmia and Mazury |
 | Daniel Dakota              | Indiana University         |
+| Miryam de Lhoneux          | KU Leuven                  |
 | Marie-Catherine de Marneffe | UC Louvain                 |
 | Valeria de Paiva           | Nuance                    |
 | Gaël Dias                  | University of Caen Basse-Normandie |
@@ -214,16 +214,13 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Eleonora Guzzi             | Universidade da Coruña     |
 | Laura Kallmeyer            | Heinrich Heine University Düsseldorf |
 | Cvetana Krstev             | University of Belgrade     |
-| Miryam de Lhoneux          | KU Leuven                  |
 | Timm Lichte                | University of Tübingen     |
 | Irina Lobzhanidze          | Ilia State University      |
 | Teresa Lynn                | ADAPT Centre               |
 | Stella Markantonatou       | Institute for Language & Speech Processing, ATHENA RC |
 | John P. McCrae             | National University of Ireland, Galway |
 | Nurit Melnik               | The Open University of Israel |
-| Laura A. Michaelis         | University of Colorado Boulder |
 | Johanna Monti              | "L'Orientale" University of Naples |
-| Preslav Nakov              | Mohamed bin Zayed University of Artificial Intelligence |
 | Dmitry Nikolaev            | University of Manchester |
 | Jan Odijk                  | University of Utrecht      |
 | Petya Osenova              | Bulgarian Academy of Sciences |
@@ -231,10 +228,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Agnieszka Patejuk          | University of Oxford and Institute of Computer Science, Polish Academy of Sciences |
 | Pavel Pecina               | Charles University |
 | Ted Pedersen               | University of Minnesota |
-| Scott Piao                 | Lancaster University |
-| Martin Popel               | Charles University |
 | Prokopis Prokopidis        | Institute for Language and Speech Processing, ATHENA RC |
-| Carlos Ramisch             | Aix Marseille University | 
 | Manfred Sailer             | Goethe-Universität Frankfurt am Main |
 | Tanja Samardžić            | University of Zurich |
 | Agata Savary               | Université Paris-Saclay |
@@ -244,11 +238,9 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Matthew Shardlow           | University of Manchester |
 | Joaquim Silva              | Universidade NOVA de Lisboa |
 | Maria Simi                 | Università di Pisa |
-| Kiril Simov                | Bulgarian Academy of Sciences |
+| Ranka Stanković            | University of Belgrade |
 | Ivelina Stoyanova          | Bulgarian Academy of Sciences |
-| Pavel Straňák              | Uni Karlova |
 | Stan Szpakowicz            | University of Ottawa |
-| Zeerak Talat               | Simon Fraser University |
 | Shiva Taslimipoor          | University of Cambridge |
 | Beata Trawinski            | Leibniz Institute for the German Language |
 | Ashwini Vaidya             | Indian Institute of Technology |
