@@ -241,6 +241,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Nathan Schneider           | Georgetown University |
 | Sabine Schulte im Walde    | University of Stuttgart |
 | Sebastian Schuster         | Saarland University |
+| Matthew Shardlow           | University of Manchester |
 | Joaquim Silva              | Universidade NOVA de Lisboa |
 | Maria Simi                 | Università di Pisa |
 | Kiril Simov                | Bulgarian Academy of Sciences |
