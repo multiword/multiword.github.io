@@ -160,14 +160,14 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 -->
 <table>
   <tr><td>Archna Bhatia </td><td style="padding-left: 20px;">Institute for Human and Machine Cognition, USA</td></tr>
-<tr><td>Gosse Bouma </td><td style="padding-left: 20px;">Groningen University, NL</td></tr>
-<tr><td>A. Seza Dogruöz </td><td style="padding-left: 20px;">Ghent University, Belgium</td></tr>
-<tr><td>Kilian Evang </td><td style="padding-left: 20px;">Heinrich Heine University Düsseldorf, DE</td></tr>
-<tr><td>Marcos Garcia </td><td style="padding-left: 20px;">University of Santiago de Compostela, Galiza, Spain</td></tr>
-<tr><td>Voula Giouli </td><td style="padding-left: 20px;">Institute for Language & Speech Processing, ATHENA RC, Greece</td></tr>
-<tr><td>Lifeng Han </td><td style="padding-left: 20px;">Univ. of Manchester, UK</td></tr>
-<tr><td>Joakim Nivre </td><td style="padding-left: 20px;">Uppsala University and Research Institutes of Sweden, Sweden</td></tr>
-<tr><td>Alexandre Rademaker </td><td style="padding-left: 20px;">IBM Research, Brazil</td></tr>
+  <tr><td>Gosse Bouma </td><td style="padding-left: 20px;">Groningen University, NL</td></tr>
+  <tr><td>A. Seza Dogruöz </td><td style="padding-left: 20px;">Ghent University, Belgium</td></tr>
+  <tr><td>Kilian Evang </td><td style="padding-left: 20px;">Heinrich Heine University Düsseldorf, DE</td></tr>
+  <tr><td>Marcos Garcia </td><td style="padding-left: 20px;">University of Santiago de Compostela, Galiza, Spain</td></tr>
+  <tr><td>Voula Giouli </td><td style="padding-left: 20px;">Institute for Language & Speech Processing, ATHENA RC, Greece</td></tr>
+  <tr><td>Lifeng Han </td><td style="padding-left: 20px;">Univ. of Manchester, UK</td></tr>
+  <tr><td>Joakim Nivre </td><td style="padding-left: 20px;">Uppsala University and Research Institutes of Sweden, Sweden</td></tr>
+  <tr><td>Alexandre Rademaker </td><td style="padding-left: 20px;">IBM Research, Brazil</td></tr>
 </table>
 
 -----
