@@ -20,15 +20,13 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 <!--
 * **13 Apr 2023**: Detailed tentative schedule online
-* **22 Mar 2023**: Invited speakers Asma Ben Abacha and Goran Nenadic confirmed
-* **8 Feb 2023**: Paper submission deadline extended to 20 February 2023
-* **2 Feb 2023**: Final CfP posted
-* **19 January 2023**: Invited speaker Leo Wanner confirmed
-* **16 January 2023**: Second CfP posted
-* **23 December 2022**: First CfP posted
 -->
-* **February 19, 2024**: MWE-UD 2024 workshop extended deadline (New Submission Date: March 3, 2024)
+* **February 19, 2024**: MWE-UD 2024 workshop final CfP posted with extended deadline (new submission date: March 3, 2024)
 * **February 19, 2024**: MWE-UD 2024 workshop ARR commitment date set (ARR Commitment Date: March 25, 2024)
+* **January 31, 2024**: Second CfP posted
+* **January 16, 2024**: Invited speaker Natalia Levshina confirmed
+* **January 18, 2024**: Invited speaker Harish Tayyar Madabushi confirmed
+* **December 8, 2023**: First CfP posted
 * **December 8, 2023**: MWE-UD 2024 workshop date confirmed (Workshop Date: May 25, 2024)
 * **November 21, 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
 * **August 29, 2023**: Organising committee formed
