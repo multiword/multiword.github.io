@@ -39,6 +39,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
   </summary>
 <!---[Proceedings and video recording](#proceedings-video)-->
 <!---[Program](#program)--> 
+- [Accepted Papers](#accepted)
 - [Description](#description)
 - [Submission Formats](#submission)
 - [Paper Submission and Templates](#instructions)
@@ -69,6 +70,158 @@ TBD
 
 TBD
 -->
+
+------
+
+### <a name="accepted"> Accepted papers</a>
+
+#### Long Papers
+
+##### MWE
+
+**Assessing BERT's sensitivity to idiomaticity**<br>
+Li Liu and Francois Lareau
+
+**Identification and Annotation of Body Part Multiword Expressions in Old Egyptian**<br>
+Roberto Díaz Hernández
+
+**Lexicons Gain the Upper Hand in Arabic MWE Identification**<br>
+Najet Hadj Mohamed, Agata Savary, Cherifa Ben Khelil, Jean-Yves Antoine, Iskandar keskes and Lamia Hadrich-Belguith
+
+**Revisiting VMWEs in Hindi: Annotating Layers of Predication**<br>
+Kanishka Jain and Ashwini Vaidya
+
+**Towards the semantic annotation of SR-ELEXIS corpus: Insights into Multiword Expressions and Named Entities**<br>
+Cvetana Krstev, Ranka Stanković, Aleksandra M. Marković and Teodora Sofija Mihajlov
+
+**To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank**<br>
+Rafael Ehren, Kilian Evang and Laura Kallmeyer
+
+**Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection**<br>
+Dylan Phelps, Thomas M. R. Pickard, Maggie Mi, Edward Gow-Smith and Aline Villavicencio
+
+**BERT-based Idiom Identification using Language Translation and Word Cohesion**<br>
+Arnav Yayavaram, Siddharth Yayavaram, Prajna Devi Upadhyay and Apurba Das
+
+##### UD
+
+**Automatic Manipulation of Training Corpora to Make Parsers Accept Real-world Text**<br>
+Hiroshi Kanayama, Ran Iwamoto, Masayasu Muraoka, Takuya Ohko and Kohtaroh Miyamoto
+
+**Universal Feature-based Morphological Trees**<br>
+Federica Gamba, Abishek Stephen and Zdeněk Žabokrtský
+
+**Universal Dependencies for Saraiki**<br>
+Meesum Alam, Francis Tyers, Emily Hanink and Sandra Kübler
+
+**Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks**<br>
+Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan and Chihiro Taguchi
+
+##### MWE+UD
+
+**Fitting Fixed Expressions into the UD Mould: Swedish as a Use Case**<br>
+Lars Ahrenberg
+
+**Part-of-Speech Tagging for Northern Kurdish**<br>
+Peshmerge Morad, Sina Ahmadi and Lorenzo Gatti
+
+**Combining Grammatical and Relational Approaches. A Hybrid Method for the Identification of Candidate Collocations from Corpora**<br>
+Damiano Perri, Irene Fioravanti, Osvaldo Gervasi and Stefania Spina
+
+**Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps**<br>
+Jaka Čibej, Polona Gantar and Mija Bon
+
+**Light Verb Constructions in Universal Dependencies for South Asian Languages**<br>
+Abishek Stephen and Daniel Zeman
+
+**Ad Hoc Compounds for Stance Detection**<br>
+Qi Yu, Fabian Schlotterbeck, Henning Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt
+
+### Short Papers
+
+##### MWE
+
+**A demonstration of MWE-Finder and MWE-Annotator**<br>
+Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel
+
+**Annotating Compositionality Scores for Irish Noun Compounds is Hard Work**<br>
+Abigail Walsh, Teresa Clifford, Emma Daly, Jane Dunne, Brian Davis and Gearóid Ó Cleircín
+
+##### UD
+
+**Synthetic-Error Augmented Parsing of Swedish as a Second Language: Experiments with Word Order**<br>
+Arianna Masciolini, Emilie Francis and Maria Irena Szawerna
+
+**A Universal Dependencies Treebank for Gujarati**<br>
+Mayank Jobanputra, Maitrey Mehta and Çağrı Çöltekin
+
+**Overcoming Early Saturation on Low-Resource Languages in Multilingual Dependency Parsing**<br>
+Jiannan Mao, Chenchen Ding, Hour Kaing, Hideki Tanaka, Masao Utiyama and Tadahiro Matsumoto.
+
+**Domain-Weighted Batch Sampling for Neural Dependency Parsing**<br>
+Jacob Striebel, Daniel Dakota and Sandra Kübler
+
+**Redefining Syntactic and Morphological Tasks for Typologically Diverse Languages**<br>
+Omer Goldman, Leonie Weissweiler and Reut Tsarfaty
+
+##### MWE+UD
+
+**The Vedic Compound Dataset**<br>
+Sven Sellmer and Oliver Hellwig
+
+**Diachronic Analysis of Multi-word Expression Functional Categories in Scientific English**<br>
+Diego Alves, Stefania Degaetano-Ortlieb, Elena Schmidt and Elke Teich
+
+**Multiword Expressions between the Corpus and the Lexicon: Universality, Idiosyncrasy, and the Lexicon-Corpus Interface**<br>
+Verginica Barbu Mititelu, Voula Giouli, Kilian Evang, Daniel Zeman, Petya Osenova, Carole Tiberius, Simon Krek, Stella Markantonatou, Ivelina Stoyanova, Ranka Stanković and Christian Chiarcos
+
+### Nonarchival Presentations
+
+These papers are either already published elsewhere or work in progress. They
+have not undergone MWE-UD 2024’s formal peer review progress and are not
+included in the proceedings, only listed in the programme. Some nonarchival
+presentations were included in the programme after the proceedings were
+completed, and are thus not listed in the version of the programme that is
+included in the proceedings.
+
+##### MWE
+
+**MultiMWE: Building a Multi-lingual Multi-Word Expression (MWE) Parallel Corpora**<br>
+Lifeng Han
+
+**AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations**<br>
+Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic
+
+**A demonstration of MWE-Finder and MWE-Annotator**<br>
+Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel
+
+**Is Less More? Quality, Quantity and Context in Idiom Processing with Natural Language Models**<br>
+Agne Knietaite, Adam Allsebrook, Anton Minkov, Adam Tomaszewski, Norbert Slinko, Richard Johnson, Thomas M. R. Pickard and Aline Villavicencio
+
+**Annotating Compositionality Scores for Irish Noun Compounds is Hard Work**<br>
+Abigail Walsh, Teresa Clifford, Emma Daly, Jane Dunne, Brian Davis and Gearóid Ó Cleircín
+
+##### UD
+
+**MaiBaam: A Multi-Dialectal Bavarian Universal Dependency Treebank**<br>
+Verena Blaschke, Barbara Kovačić, Siyao Peng, Hinrich Schütze and Barbara Plank
+
+**Redefining Syntactic and Morphological Tasks for Typologically Diverse Languages**<br>
+Omer Goldman, Leonie Weissweiler and Reut Tsarfaty
+
+**Sparse Logistic Regression with High-order Features for Automatic Grammar Rule Extraction from Treebanks**<br>
+Santiago Herrera, Caio Corro and Sylvain Kahane
+
+**Joint Annotation of Morphology and Syntax in Dependency Treebanks**
+Bruno Guillaume, Kim Gerdes, Kirian Guiller, Sylvain Kahane and Yixuan Li
+
+##### MWE+UD
+
+**A Corpus of Persian Sentences Annotated with Verbal Multiword Expressions: Development and Guidelines**<br>
+Vahide Tajalli, Yaldasadat Yarandi, Mahtab sarlak, Mehrnoush Shamsfard and Arezoo Haghbin
+
+**UCxn: Typologically Informed Annotation of Constructions Atop Universal Dependencies**<br>
+Leonie Weissweiler, Nina Böbel, Kirian Guiller, Santiago Herrera, Wesley Scivetti, Arthur Lorenzi, Nurit Melnik, Archna Bhatia, Hinrich Schütze, Lori Levin, Amir Zeldes, Joakim Nivre, William Croft and Nathan Schneider
 
 ------
 
