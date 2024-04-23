@@ -24,8 +24,8 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 * **February 19, 2024**: MWE-UD 2024 workshop final CfP posted with extended deadline (new submission date: March 3, 2024)
 * **February 19, 2024**: MWE-UD 2024 workshop ARR commitment date set (ARR Commitment Date: March 25, 2024)
 * **January 31, 2024**: Second CfP posted
-* **January 16, 2024**: Invited speaker Natalia Levshina confirmed
-* **January 18, 2024**: Invited speaker Harish Tayyar Madabushi confirmed
+* **January 16, 2024**: Keynote speaker Natalia Levshina confirmed
+* **January 18, 2024**: Keynote speaker Harish Tayyar Madabushi confirmed
 * **December 8, 2023**: First CfP posted
 * **December 8, 2023**: MWE-UD 2024 workshop date confirmed (Workshop Date: May 25, 2024)
 * **November 21, 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
@@ -39,13 +39,13 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
   </summary>
 <!---[Proceedings and video recording](#proceedings-video)-->
 <!---[Program](#program)--> 
+- [Keynote Speakers](#keynotes)
 - [Accepted Papers](#accepted)
 - [Description](#description)
 - [Submission Formats](#submission)
 - [Paper Submission and Templates](#instructions)
 - [Best Paper Award and Travel Grants](#award)
 - [Important Dates](#dates)
-- [Keynote Speakers](#keynotes)
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
 - [Sponsors and Support](#sponsors)
@@ -70,6 +70,112 @@ TBD
 
 TBD
 -->
+
+-----
+
+### <a name="keynotes">Keynote Speakers </a>
+
+#### Natalia Levshina: Using Universal Dependencies for testing hypotheses about communicative efficiency
+
+**Abstract:** There is abundant evidence that language structure and use are
+influenced by language users’ tendency to be efficient, trying to minimize the
+cost-to-benefit ratio of communication (e.g., Hawkins, 2004; Gibson et al.,
+2019; Levshina, 2022). In my talk I will show how data from corpora annotated
+with Universal Dependencies can be used for testing hypotheses about the role
+of communicative efficiency in shaping up language structure and use. The
+hypotheses are as follows:
+
+1. As discussed by typologists (Sapir, 1921; Sinnemäki, 2008), rigid word order can
+compensate for lack of formal marking of core arguments. The hypothesis is then that
+there are positive correlations between the entropy of subject and object in a transitive
+clause in a corpus and the relative frequency of disambiguating case forms or verb
+forms. These correlations are expected to minimize the articulation effort involved in
+the use of argument flags or indices.
+
+2. There is a positive correlation between semantic tightness (Hawkins, 1986),
+operationalized as Mutual Information between lexemes and syntactic roles, and the
+relative frequency of verb-final clauses in a corpus. Strong associations between
+lexemes and roles help to avoid the costs of reanalysis in verb-final languages.
+
+3. There is a negative correlation between the relative frequency of verb-final clauses in
+the clause and the average number of overt core arguments, which helps to save
+processing costs required for keeping longer dependencies in mind (cf. Ueno &amp;
+Polinsky, 2009).
+
+These hypotheses will be tested on corpus data annotated with Universal Dependencies, with
+the help of mixed-effects models with genealogical and geographic information as random
+effects.
+
+##### References
+
+<div style="font-size: small;">
+Gibson, Edward, Richard Futrell, Steven P. Piantadosi, Isabelle Dautriche, Kyle Mahowald,
+Leon Bergen &amp; Roger Levy. 2019. How efficiency shapes human language. *Trends in
+Cognitive Science* 23(5): 389-407. https://doi.org/10.1016/j.tics.2019.02.003
+
+Hawkins, John A. 1986. *A Comparative Typology of English and German: Unifying the
+Contrasts*. London: Croom-Helm.
+
+Hawkins, John A. 2004. *Efficiency and Complexity in Grammars*. Oxford: Oxford University
+Press.
+
+Levshina, Natalia. 2022. *Communicative Efficiency: Language Structure and Use*.
+Cambridge: Cambridge University Press.
+
+Sapir, Edward. 1921. *Language: An Introduction to the Study of Speech*. New York: Harcourt.
+
+Sinnemäki, Kaius. 2008. Complexity trade-offs in core argument marking. In: Matti
+Miestamo, Kaius Sinnemäki and Fred Karlsson (eds.), *Language Complexity: Typology,
+Contact, Change*, 67–88. Amsterdam: John Benjamins.
+
+Ueno, Mieko &amp; Maria Polinsky. 2009. Does headedness affect processing? A new look at the
+VO-OV contrast. *Journal of Linguistics* 45: 675–710.
+</div>
+
+
+**Bio:**
+
+#### Harish Tayyar Madabushi: Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up
+
+**Abstract:** Pre-Trained Language Models (PLMs), trained on the cloze-like
+task of masked language modelling, have demonstrated access to a broad range of
+linguistic information, including both syntax and semantics. Given their access
+to both syntax and semantics, coupled with their data-driven foundations, which
+align with usage-based theories, it is valuable and interesting to examine the
+constructional information they encode. Early work confirmed that these models
+have access to a substantial amount of constructional information. However,
+more recent research focusing on the types of constructions PLMs can accurately
+interpret, and those they find challenging, suggests that an increase in
+schematicity correlates with a decline in model proficiency. Crucially,
+schematicity—the extent to which constructional slots are fixed or allow for a
+range of elements that satisfy a particular semantic role associated with the
+slot—correlates to the extent of “reasoning” needed to interpret constructions,
+a task that poses significant challenges for language models. In this talk, I
+will begin by reviewing the constructional information encoded in both earlier
+models and more recent large language models. I will explore how these aspects
+are intertwined with the models' reasoning abilities and introduce promising
+new approaches that could integrate theoretical insights from linguistics with
+practical, data-driven approaches of PLMs.
+
+**Bio:** [Dr. Tayyar
+Madabushi](https://researchportal.bath.ac.uk/en/persons/harish-tayyar-madabushi)'s
+research focuses on understanding the fundamental mechanisms that underpin the
+performance and functioning of Large Language Models. His work on LLMs was
+included in the discussion paper on the Capabilities and Risks of Frontier AI,
+which was used as one of the foundational research works for discussions at the
+UK AI Safety Summit held at Bletchley Park. His research on the constructional
+information encoded in language models has been influential in bringing
+together the fields of construction grammar and pre-trained language models. In
+addition, his work on language models includes collaborative industrial
+research aimed at rectifying biases in speech-to-text systems widely utilised
+across the UK. Before starting his PhD in automated question answering at the
+University of Birmingham, Dr. Tayyar Madabushi founded and headed a social
+media data analytics company based in Singapore.
+
+<table>
+<tr><td>Natalia Levshina </td><td style="padding-left: 20px;">Radboud University</td></tr>
+<tr><td>Harish Tayyar Madabushi </td><td style="padding-left: 20px;">University of Bath</td></tr>
+</table>
 
 ------
 
@@ -289,14 +395,6 @@ Archival papers with existing reviews from ACL Rolling Review (ARR)) will also b
 | Workshop                   | May 25, 2024                        |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
-
------
-
-### <a name="keynotes">Keynote Speakers </a>
-<table>
-<tr><td>Natalia Levshina </td><td style="padding-left: 20px;">Radboud University</td></tr>
-<tr><td>Harish Tayyar Madabushi </td><td style="padding-left: 20px;">University of Bath</td></tr>
-</table>
 
 -----
 
