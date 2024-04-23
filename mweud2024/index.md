@@ -212,7 +212,7 @@ Omer Goldman, Leonie Weissweiler and Reut Tsarfaty
 **Sparse Logistic Regression with High-order Features for Automatic Grammar Rule Extraction from Treebanks**<br>
 Santiago Herrera, Caio Corro and Sylvain Kahane
 
-**Joint Annotation of Morphology and Syntax in Dependency Treebanks**
+**Joint Annotation of Morphology and Syntax in Dependency Treebanks**<br>
 Bruno Guillaume, Kim Gerdes, Kirian Guiller, Sylvain Kahane and Yixuan Li
 
 ##### MWE+UD
