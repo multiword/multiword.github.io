@@ -132,7 +132,6 @@ Contact, Change*, 67–88. Amsterdam: John Benjamins.</p>
 VO-OV contrast. *Journal of Linguistics* 45: 675–710.</p>
 </div>
 
-
 **Bio:**
 
 #### Harish Tayyar Madabushi: Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up
@@ -171,11 +170,6 @@ research aimed at rectifying biases in speech-to-text systems widely utilised
 across the UK. Before starting his PhD in automated question answering at the
 University of Birmingham, Dr. Tayyar Madabushi founded and headed a social
 media data analytics company based in Singapore.
-
-<table>
-<tr><td>Natalia Levshina </td><td style="padding-left: 20px;">Radboud University</td></tr>
-<tr><td>Harish Tayyar Madabushi </td><td style="padding-left: 20px;">University of Bath</td></tr>
-</table>
 
 ------
 
