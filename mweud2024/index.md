@@ -109,27 +109,27 @@ effects.
 ##### References
 
 <div style="font-size: small;">
-Gibson, Edward, Richard Futrell, Steven P. Piantadosi, Isabelle Dautriche, Kyle Mahowald,
+<p>Gibson, Edward, Richard Futrell, Steven P. Piantadosi, Isabelle Dautriche, Kyle Mahowald,
 Leon Bergen &amp; Roger Levy. 2019. How efficiency shapes human language. *Trends in
-Cognitive Science* 23(5): 389-407. https://doi.org/10.1016/j.tics.2019.02.003
+Cognitive Science* 23(5): 389-407. https://doi.org/10.1016/j.tics.2019.02.003</p>
 
-Hawkins, John A. 1986. *A Comparative Typology of English and German: Unifying the
-Contrasts*. London: Croom-Helm.
+<p>Hawkins, John A. 1986. *A Comparative Typology of English and German: Unifying the
+Contrasts*. London: Croom-Helm.</p>
 
-Hawkins, John A. 2004. *Efficiency and Complexity in Grammars*. Oxford: Oxford University
-Press.
+<p>Hawkins, John A. 2004. *Efficiency and Complexity in Grammars*. Oxford: Oxford University
+Press.</p>
 
-Levshina, Natalia. 2022. *Communicative Efficiency: Language Structure and Use*.
-Cambridge: Cambridge University Press.
+<p>Levshina, Natalia. 2022. *Communicative Efficiency: Language Structure and Use*.
+Cambridge: Cambridge University Press.</p>
 
-Sapir, Edward. 1921. *Language: An Introduction to the Study of Speech*. New York: Harcourt.
+<p>Sapir, Edward. 1921. *Language: An Introduction to the Study of Speech*. New York: Harcourt.</p>
 
-Sinnemäki, Kaius. 2008. Complexity trade-offs in core argument marking. In: Matti
+<p>Sinnemäki, Kaius. 2008. Complexity trade-offs in core argument marking. In: Matti
 Miestamo, Kaius Sinnemäki and Fred Karlsson (eds.), *Language Complexity: Typology,
-Contact, Change*, 67–88. Amsterdam: John Benjamins.
+Contact, Change*, 67–88. Amsterdam: John Benjamins.</p>
 
-Ueno, Mieko &amp; Maria Polinsky. 2009. Does headedness affect processing? A new look at the
-VO-OV contrast. *Journal of Linguistics* 45: 675–710.
+<p>Ueno, Mieko &amp; Maria Polinsky. 2009. Does headedness affect processing? A new look at the
+VO-OV contrast. *Journal of Linguistics* 45: 675–710.</p>
 </div>
 
 
