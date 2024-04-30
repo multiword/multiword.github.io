@@ -102,6 +102,30 @@ TBD
         <th>Oral session 1</th>
     </tr>
     <tr>
+        <td></td>
+        <td><i>Assessing BERT’s sensitivity to idiomaticity</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Li Liu and Francois Lareau</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><i><Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection/i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Dylan Phelps, Thomas M. R. Pickard, Maggie Mi, Edward Gow-Smith and Aline Villavicencio</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <th>10:30–11:00</th>
         <th>Coffee break</th>
     </tr>
@@ -112,6 +136,42 @@ TBD
     <tr>
         <th>12:00–13:00</th>
         <th>Oral session 2</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td><i>Universal Feature-based Morphological Trees</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Federica Gamba, Abishek Stephen and Zdeněk Žabokrtský</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Abishek Stephen and Daniel Zeman</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan and Chihiro Taguchi</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>13:00–14:00</th>
@@ -134,8 +194,48 @@ TBD
         <td>[<a href="#levshina">abstract</a>]</td>
     </tr>
     <tr>
+        <th>14:45–15:00</th>
+        <th>Booster session: virtual presentations</th>
+    </tr>
+    <tr>
         <th>14:45–16:00</th>
         <th>Oral session 3</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td><i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Rafael Ehren, Kilian Evang and Laura Kallmeyer</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Jaka Čibej, Polona Gantar and Mija Bon</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><i>Ad Hoc Compounds for Stance Detection</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Qi Yu, Fabian Schlotterbeck, Henning Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th>16:00–16:30</th>
