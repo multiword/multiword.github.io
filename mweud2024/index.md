@@ -87,7 +87,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i></td>
+        <td>
+            <i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -103,7 +105,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Assessing BERT’s sensitivity to idiomaticity</i></td>
+        <td>
+            <i>Assessing BERT’s sensitivity to idiomaticity</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -115,7 +119,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i></td>
+        <td>
+            <i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -139,7 +145,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Universal Feature-based Morphological Trees</i></td>
+        <td>
+            <i>Universal Feature-based Morphological Trees</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -151,7 +159,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i></td>
+        <td>
+            <i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -163,7 +173,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i></td>
+        <td>
+            <i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -183,7 +195,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i></td>
+        <td>
+            <i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -203,7 +217,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i></td>
+        <td>
+            <i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -215,7 +231,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i></td>
+        <td>
+            <i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i>
+        </td>
     </tr>
     <tr>
         <td></td>
@@ -227,7 +245,9 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i>Ad Hoc Compounds for Stance Detection</i></td>
+        <td>
+            <i>Ad Hoc Compounds for Stance Detection</i>
+        </td>
     </tr>
     <tr>
         <td></td>
