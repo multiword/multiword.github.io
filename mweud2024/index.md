@@ -72,7 +72,7 @@ TBD
 
 #### Saturday, 25 May 2024, Turin
 
-<table>
+<table class="program">
     <tr>
         <th>Time</th>
         <th>Session</th>

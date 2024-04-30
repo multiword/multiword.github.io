@@ -46,6 +46,10 @@ td, th {
 	vertical-align: top;
 }
 
-th {
+table.program th {
 	white-space: nowrap;
+}
+
+table.program td, table.program th {
+	margin-bottom: 1rem;
 }
