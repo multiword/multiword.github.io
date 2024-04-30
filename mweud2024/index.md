@@ -83,11 +83,15 @@ TBD
     </tr>
     <tr>
         <th>09:05–09:50</th>
-        <th>Keynote Speaker: Harish Tayyar Madabushi</th>
+        <th>Keynote 1</th>
     </tr>
     <tr>
         <td></td>
-        <td>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</td>
+        <td><i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Harish Tayyar Madabushi</td>
     </tr>
     <tr>
         <td></td>
@@ -119,7 +123,11 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td>Using Universal Dependencies for testing hypotheses about communicative efficiency</td>
+        <td><i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Natalia Levshina</td>
     </tr>
     <tr>
         <td></td>
