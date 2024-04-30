@@ -115,7 +115,7 @@ TBD
     </tr>
     <tr>
         <td></td>
-        <td><i><Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection/i></td>
+        <td><i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i></td>
     </tr>
     <tr>
         <td></td>
