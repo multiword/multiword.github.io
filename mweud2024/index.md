@@ -18,9 +18,9 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 ### News
 
-<!--
-* **13 Apr 2023**: Detailed tentative schedule online
--->
+* **April 30, 2024**: Detailed tentative schedule online
+* **April 5, 2024**: Acceptance notifications for nonarchival presentations sent
+* **April 2, 2024**: Acceptance notifications for archival papers sent
 * **February 19, 2024**: MWE-UD 2024 workshop final CfP posted with extended deadline (new submission date: March 3, 2024)
 * **February 19, 2024**: MWE-UD 2024 workshop ARR commitment date set (ARR Commitment Date: March 25, 2024)
 * **January 31, 2024**: Second CfP posted
