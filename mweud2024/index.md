@@ -60,7 +60,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 -----
 -->
 
-<!--### <a name="proceedings-video"> Proceedings and video recording </a>
+### <a name="proceedings-video"> Proceedings and video recording </a>
 
 TBD
 
@@ -68,10 +68,68 @@ TBD
 
 ### <a name="program"> Program </a>
 
-TBD
--->
+#### Saturday, 25 May 2024, Turin
 
------
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Session</th>
+    </tr>
+    <tr>
+        <th>09:00–09:05</th>
+        <th>Welcome</th>
+    </tr>
+    <tr>
+        <th>09:05–09:50</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>09:50–10:30</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>10:30–11:00</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>11:00–12:00</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>12:00–13:00</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>13:00–14:00</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>14:00–14:45</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>14:45–16:00</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>16:00–16:30</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>16:30–17:20</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>17:20–17:50</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>17:50–18:00</th>
+        <th></th>
+    </tr>
+</table>
+
+-->
 
 ### <a name="keynotes">Keynote Speakers </a>
 
