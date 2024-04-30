@@ -89,17 +89,9 @@ TBD
         <td></td>
         <td>
             <i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i>
-            <br>
-            <br>
+            Harish Tayyar Madabushi<br>
+            [<a href="#madabushi">abstract</a>]<br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Harish Tayyar Madabushi</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>[<a href="#madabushi">abstract</a>]</td>
     </tr>
     <tr>
         <th>09:50–10:30</th>
@@ -109,33 +101,17 @@ TBD
         <td></td>
         <td>
             <i>Assessing BERT’s sensitivity to idiomaticity</i>
-            <br>
+            Li Liu and Francois Lareau<br>
             <br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Li Liu and Francois Lareau</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
         <td>
             <i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i>
-            <br>
+            Dylan Phelps, Thomas M. R. Pickard, Maggie Mi, Edward Gow-Smith and Aline Villavicencio<br>
             <br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Dylan Phelps, Thomas M. R. Pickard, Maggie Mi, Edward Gow-Smith and Aline Villavicencio</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <th>10:30–11:00</th>
@@ -153,49 +129,25 @@ TBD
         <td></td>
         <td>
             <i>Universal Feature-based Morphological Trees</i>
-            <br>
+            Federica Gamba, Abishek Stephen and Zdeněk Žabokrtský<br>
             <br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Federica Gamba, Abishek Stephen and Zdeněk Žabokrtský</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
         <td>
             <i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i>
-            <br>
+            Abishek Stephen and Daniel Zeman<br>
             <br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Abishek Stephen and Daniel Zeman</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
         <td>
             <i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i>
-            <br>
+            Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan and Chihiro Taguchi<br>
             <br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan and Chihiro Taguchi</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <th>13:00–14:00</th>
@@ -209,17 +161,9 @@ TBD
         <td></td>
         <td>
             <i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i>
-            <br>
-            <br>
+            Natalia Levshina<br>
+            [<a href="#levshina">abstract</a>]<br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Natalia Levshina</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>[<a href="#levshina">abstract</a>]</td>
     </tr>
     <tr>
         <th>14:45–15:00</th>
@@ -233,49 +177,25 @@ TBD
         <td></td>
         <td>
             <i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i>
-            <br>
+            Rafael Ehren, Kilian Evang and Laura Kallmeyer<br>
             <br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Rafael Ehren, Kilian Evang and Laura Kallmeyer</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
         <td>
             <i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i>
-            <br>
+            Jaka Čibej, Polona Gantar and Mija Bon<br>
             <br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Jaka Čibej, Polona Gantar and Mija Bon</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
         <td>
             <i>Ad Hoc Compounds for Stance Detection</i>
-            <br>
+            Qi Yu, Fabian Schlotterbeck, Henning Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt<br>
             <br>
         </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Qi Yu, Fabian Schlotterbeck, Henning Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <th>16:00–16:30</th>
