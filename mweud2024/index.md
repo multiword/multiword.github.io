@@ -88,7 +88,7 @@ TBD
     <tr>
         <td></td>
         <td>
-            <i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i>
+            <i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i><br>
             Harish Tayyar Madabushi<br>
             [<a href="#madabushi">abstract</a>]<br>
         </td>
