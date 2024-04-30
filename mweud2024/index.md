@@ -89,6 +89,8 @@ TBD
         <td></td>
         <td>
             <i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -107,6 +109,8 @@ TBD
         <td></td>
         <td>
             <i>Assessing BERT’s sensitivity to idiomaticity</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -121,6 +125,8 @@ TBD
         <td></td>
         <td>
             <i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -147,6 +153,8 @@ TBD
         <td></td>
         <td>
             <i>Universal Feature-based Morphological Trees</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -161,6 +169,8 @@ TBD
         <td></td>
         <td>
             <i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -175,6 +185,8 @@ TBD
         <td></td>
         <td>
             <i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -197,6 +209,8 @@ TBD
         <td></td>
         <td>
             <i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -219,6 +233,8 @@ TBD
         <td></td>
         <td>
             <i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -233,6 +249,8 @@ TBD
         <td></td>
         <td>
             <i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
@@ -247,6 +265,8 @@ TBD
         <td></td>
         <td>
             <i>Ad Hoc Compounds for Stance Detection</i>
+            <br>
+            <br>
         </td>
     </tr>
     <tr>
