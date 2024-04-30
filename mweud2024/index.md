@@ -151,7 +151,7 @@ TBD
 
 ### <a name="keynotes">Keynote Speakers </a>
 
-#### Natalia Levshina: Using Universal Dependencies for testing hypotheses about communicative efficiency
+#### <a name="levshina">Natalia Levshina: Using Universal Dependencies for testing hypotheses about communicative efficiency</a>
 
 **Abstract:** There is abundant evidence that language structure and use are
 influenced by language users’ tendency to be efficient, trying to minimize the
@@ -210,7 +210,7 @@ VO-OV contrast. *Journal of Linguistics* 45: 675–710.</p>
 
 **Bio:**
 
-#### Harish Tayyar Madabushi: Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up
+#### <a name="madabushi">Harish Tayyar Madabushi: Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</a>
 
 **Abstract:** Pre-Trained Language Models (PLMs), trained on the cloze-like
 task of masked language modelling, have demonstrated access to a broad range of
