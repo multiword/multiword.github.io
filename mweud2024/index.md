@@ -83,7 +83,15 @@ TBD
     </tr>
     <tr>
         <th>09:05–09:50</th>
-        <th>Keynote 1</th>
+        <th>Keynote Speaker: Harish Tayyar Madabushi</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>[<a href="#madabushi">abstract</a>]</td>
     </tr>
     <tr>
         <th>09:50–10:30</th>
@@ -107,7 +115,15 @@ TBD
     </tr>
     <tr>
         <th>14:00–14:45</th>
-        <th>Keynote 2</th>
+        <th>Keynote Speaker: Natalia Levshina</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Using Universal Dependencies for testing hypotheses about communicative efficiency</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>[<a href="#levshina">abstract</a>]</td>
     </tr>
     <tr>
         <th>14:45–16:00</th>
