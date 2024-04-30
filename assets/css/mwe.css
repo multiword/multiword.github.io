@@ -45,3 +45,7 @@
 td, th {
 	vertical-align: top;
 }
+
+th {
+	white-space: nowrap;
+}
