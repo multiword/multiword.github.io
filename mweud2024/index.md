@@ -53,6 +53,8 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 - [Contact](#contact)
 </details>
 
+------
+
 <!-- Does not work...
 * TOC
 {:toc}
@@ -128,6 +130,8 @@ TBD
         <th>Closing, best paper awards, photos</th>
     </tr>
 </table>
+
+------
 
 ### <a name="keynotes">Keynote Speakers </a>
 
