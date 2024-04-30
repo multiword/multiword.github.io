@@ -102,15 +102,13 @@ TBD
         <td>
             <i>Assessing BERT’s sensitivity to idiomaticity</i>
             Li Liu and Francois Lareau<br>
-            <br>
         </td>
     </tr>
     <tr>
         <td></td>
         <td>
-            <i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i>
+            <i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i><br>
             Dylan Phelps, Thomas M. R. Pickard, Maggie Mi, Edward Gow-Smith and Aline Villavicencio<br>
-            <br>
         </td>
     </tr>
     <tr>
@@ -128,25 +126,22 @@ TBD
     <tr>
         <td></td>
         <td>
-            <i>Universal Feature-based Morphological Trees</i>
+            <i>Universal Feature-based Morphological Trees</i><br>
             Federica Gamba, Abishek Stephen and Zdeněk Žabokrtský<br>
-            <br>
         </td>
     </tr>
     <tr>
         <td></td>
         <td>
-            <i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i>
+            <i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i><br>
             Abishek Stephen and Daniel Zeman<br>
-            <br>
         </td>
     </tr>
     <tr>
         <td></td>
         <td>
-            <i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i>
+            <i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i><br>
             Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan and Chihiro Taguchi<br>
-            <br>
         </td>
     </tr>
     <tr>
@@ -155,14 +150,14 @@ TBD
     </tr>
     <tr>
         <th>14:00–14:45</th>
-        <th>Keynote Speaker: Natalia Levshina</th>
+        <th>Keynote 2</th>
     </tr>
     <tr>
         <td></td>
         <td>
-            <i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i>
+            <i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i><br>
             Natalia Levshina<br>
-            [<a href="#levshina">abstract</a>]<br>
+            [<a href="#levshina">abstract</a>]
         </td>
     </tr>
     <tr>
@@ -176,25 +171,22 @@ TBD
     <tr>
         <td></td>
         <td>
-            <i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i>
+            <i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i><br>
             Rafael Ehren, Kilian Evang and Laura Kallmeyer<br>
-            <br>
         </td>
     </tr>
     <tr>
         <td></td>
         <td>
-            <i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i>
+            <i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i><br>
             Jaka Čibej, Polona Gantar and Mija Bon<br>
-            <br>
         </td>
     </tr>
     <tr>
         <td></td>
         <td>
-            <i>Ad Hoc Compounds for Stance Detection</i>
+            <i>Ad Hoc Compounds for Stance Detection</i><br>
             Qi Yu, Fabian Schlotterbeck, Henning Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt<br>
-            <br>
         </td>
     </tr>
     <tr>
