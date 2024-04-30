@@ -100,7 +100,7 @@ TBD
     <tr>
         <td></td>
         <td>
-            <i>Assessing BERT’s sensitivity to idiomaticity</i>
+            <i>Assessing BERT’s sensitivity to idiomaticity</i><br>
             Li Liu and Francois Lareau<br>
         </td>
     </tr>
