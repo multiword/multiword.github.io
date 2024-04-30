@@ -81,55 +81,53 @@ TBD
     </tr>
     <tr>
         <th>09:05–09:50</th>
-        <th></th>
+        <th>Keynote 1</th>
     </tr>
     <tr>
         <th>09:50–10:30</th>
-        <th></th>
+        <th>Oral session 1</th>
     </tr>
     <tr>
         <th>10:30–11:00</th>
-        <th></th>
+        <th>Coffee break</th>
     </tr>
     <tr>
         <th>11:00–12:00</th>
-        <th></th>
+        <th>Poster session 1</th>
     </tr>
     <tr>
         <th>12:00–13:00</th>
-        <th></th>
+        <th>Oral session 2</th>
     </tr>
     <tr>
         <th>13:00–14:00</th>
-        <th></th>
+        <th>Lunch</th>
     </tr>
     <tr>
         <th>14:00–14:45</th>
-        <th></th>
+        <th>Keynote 2</th>
     </tr>
     <tr>
         <th>14:45–16:00</th>
-        <th></th>
+        <th>Oral session 3</th>
     </tr>
     <tr>
         <th>16:00–16:30</th>
-        <th></th>
+        <th>Coffee break</th>
     </tr>
     <tr>
         <th>16:30–17:20</th>
-        <th></th>
+        <th>Poster session 2</th>
     </tr>
     <tr>
         <th>17:20–17:50</th>
-        <th></th>
+        <th>Community discussion</th>
     </tr>
     <tr>
         <th>17:50–18:00</th>
-        <th></th>
+        <th>Closing, best paper awards, photos</th>
     </tr>
 </table>
-
--->
 
 ### <a name="keynotes">Keynote Speakers </a>
 
