@@ -268,7 +268,19 @@ Contact, Change*, 67–88. Amsterdam: John Benjamins.</p>
 VO-OV contrast. *Journal of Linguistics* 45: 675–710.</p>
 </div>
 
-**Bio:**
+**Bio:**  [Dr. Natalia Levshina](https://www.ru.nl/personen/levshina-n) is an
+assistant professor of communication and computational methods at Radboud
+University in Nijmegen, Netherlands. Her main research interests are linguistic
+typology, corpora, AI, cognitive and functional linguistics. After obtaining
+her PhD at the University of Leuven in 2011, she has worked in Jena, Marburg,
+Louvain-la-Neuve and Leipzig, where she got her habilitation qualification in
+2019, followed by a research position at the Max Planck Institute for
+Psycholinguistics in Nijmegen. She has published a book “Communicative
+Efficiency: Language structure and use” (Cambridge University Press, 2022), in
+which she formulates the main principles of communicatively efficient
+linguistic behaviour and shows how these principles can explain why human
+languages are the way they are. Natalia is also the author of a best-selling
+statistical manual “How to Do Linguistics with R” (Benjamins, 2015).
 
 #### <a name="madabushi">Harish Tayyar Madabushi: Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</a>
 
