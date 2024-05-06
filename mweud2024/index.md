@@ -375,14 +375,6 @@ Qi Yu, Fabian Schlotterbeck, Henning Wang, Naomi Reichmann, Britta Stolterfoht, 
 
 ### Short Papers
 
-##### MWE
-
-**A demonstration of MWE-Finder and MWE-Annotator**<br>
-Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel
-
-**Annotating Compositionality Scores for Irish Noun Compounds is Hard Work**<br>
-Abigail Walsh, Teresa Clifford, Emma Daly, Jane Dunne, Brian Davis and Gearóid Ó Cleircín
-
 ##### UD
 
 **Synthetic-Error Augmented Parsing of Swedish as a Second Language: Experiments with Word Order**<br>
@@ -396,9 +388,6 @@ Jiannan Mao, Chenchen Ding, Hour Kaing, Hideki Tanaka, Masao Utiyama and Tadahir
 
 **Domain-Weighted Batch Sampling for Neural Dependency Parsing**<br>
 Jacob Striebel, Daniel Dakota and Sandra Kübler
-
-**Redefining Syntactic and Morphological Tasks for Typologically Diverse Languages**<br>
-Omer Goldman, Leonie Weissweiler and Reut Tsarfaty
 
 ##### MWE+UD
 
