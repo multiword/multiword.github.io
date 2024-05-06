@@ -412,7 +412,7 @@ included in the proceedings.
 ##### MWE
 
 **MultiMWE: Building a Multi-lingual Multi-Word Expression (MWE) Parallel Corpora**<br>
-Lifeng Han
+Lifeng Han, Gareth Jones and Alan Smeaton
 
 **AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations**<br>
 Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic
