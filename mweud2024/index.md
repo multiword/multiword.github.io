@@ -430,7 +430,8 @@ Lifeng Han, Gareth Jones and Alan Smeaton
 Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic
 
 **A demonstration of MWE-Finder and MWE-Annotator**<br>
-Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel
+Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel<br>
+[<a href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>]
 
 **Is Less More? Quality, Quantity and Context in Idiom Processing with Natural Language Models**<br>
 Agne Knietaite, Adam Allsebrook, Anton Minkov, Adam Tomaszewski, Norbert Slinko, Richard Johnson, Thomas M. R. Pickard and Aline Villavicencio
