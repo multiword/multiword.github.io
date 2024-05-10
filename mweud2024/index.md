@@ -187,15 +187,15 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>Multilingual Semi-Automated Identification and Annotation of Multiword Expressions</i><br>
-            Ilan Kernerman<br>
+            <i>Combining Grammatical and Relational Approaches. A Hybrid Method for the Identification of Candidate Collocations from Corpora</i><br>
+            Damiano Perri, Irene Fioravanti, Osvaldo Gervasi and Stefania Spina<br>
         </td>
     </tr>
     <tr>
         <td></td>
         <td>
-            <i>Combining Grammatical and Relational Approaches. A Hybrid Method for the Identification of Candidate Collocations from Corpora</i><br>
-            Damiano Perri, Irene Fioravanti, Osvaldo Gervasi and Stefania Spina<br>
+            <i>Multiword Expressions between the Corpus and the Lexicon: Universality, Idiosyncrasy, and the Lexicon-Corpus Interface. A position paper</i><br>
+            Verginica Barbu Mititelu, Voula Giouli, Stella Markantonatou, Ivelina Stoyanova, Petya Osenova, Kilian Evang, Daniel Zeman, Simon Krek, Carole Tiberius, Christian Chiarcos and Ranka Stanković<br>
         </td>
     </tr>
     <tr>
