@@ -194,6 +194,13 @@ proceedings.
     <tr>
         <td></td>
         <td>
+            <i>Combining Grammatical and Relational Approaches. A Hybrid Method for the Identification of Candidate Collocations from Corpora</i><br>
+            Damiano Perri, Irene Fioravanti, Osvaldo Gervasi and Stefania Spina<br>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
             <s><i>A Corpus of Persian Sentences Annotated with Verbal Multiword Expressions: Development and Guidelines</i></s> (non-archival, withdrawn)<br>
             Vahide Tajalli, Yaldasadat Yarandi, Mahtab sarlak, Mehrnoush Shamsfard and Arezoo Haghbin<br>
         </td>
@@ -358,13 +365,6 @@ proceedings.
         <td>
             <i>Part-of-Speech Tagging for Northern Kurdish</i><br>
             Peshmerge Morad, Sina Ahmadi and Lorenzo Gatti<br>
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
-            <i>Combining Grammatical and Relational Approaches. A Hybrid Method for the Identification of Candidate Collocations from Corpora</i><br>
-            Damiano Perri, Irene Fioravanti, Osvaldo Gervasi and Stefania Spina<br>
         </td>
     </tr>
     <tr>
