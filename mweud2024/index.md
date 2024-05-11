@@ -267,7 +267,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>A Construction Grammar Perspective on Fixed Expressions in UD</i><br>
+            <i>Fitting Fixed Expressions into the UD Mould: Swedish as a Use Case</i><br>
             Lars Ahrenberg<br>
         </td>
     </tr>
