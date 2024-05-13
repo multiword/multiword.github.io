@@ -99,7 +99,7 @@ proceedings.
         <td>
             <i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i><br>
             Harish Tayyar Madabushi<br>
-            [<a href="#madabushi">abstract</a>]<br>
+            [<a href="#madabushi">abstract</a>]
         </td>
     </tr>
     <tr>
@@ -147,6 +147,7 @@ proceedings.
         <td>
             <i>Identification and Annotation of Body Part Multiword Expressions in Old Egyptian</i><br>
             Roberto Díaz Hernández<br>
+            [<a href="posters/diaz-hernandez-2024-identification-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -154,6 +155,7 @@ proceedings.
         <td>
             <i>A demonstration of MWE-Finder and MWE-Annotator</i> (non-archival)<br>
             Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel<br>
+            [<a href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -342,8 +344,9 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>Can Synthetic Word Order Errors Improve Dependency Parsing for L2 Swedish Essays?</i><br>
+            <i>Synthetic-Error Augmented Parsing of Swedish as a Second Language: Experiments with Word Order</i><br>
             Arianna Masciolini, Emilie Francis and Maria Irena Szawerna<br>
+            [<a href="posters/masciolini-etal-2024-synthetic-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -372,6 +375,7 @@ proceedings.
         <td>
             <i>Domain-Weighted Batch Sampling for Neural Dependency Parsing</i><br>
             Jacob Striebel, Daniel Dakota and Sandra Kübler<br>
+            [<a href="posters/striebel-etal-2024-domain-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -385,7 +389,7 @@ proceedings.
         <td></td>
         <td>
             <i>UCxn: Typologically Informed Annotation of Constructions Atop Universal Dependencies</i> (non-archival)<br>
-            Omer Goldman, Leonie Weissweiler and Reut Tsarfaty<br>
+            Leonie Weissweiler, Nina Böbel, Kirian Guiller, Santiago Herrera, Wesley Scivetti, Arthur Lorenzi, Nurit Melnik, Archna Bhatia, Hinrich Schütze, Lori Levin, Amir Zeldes, Joakim Nivre, William Croft and Nathan Schneider<br>
         </td>
     </tr>
     <tr>
