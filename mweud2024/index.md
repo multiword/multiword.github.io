@@ -40,7 +40,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 - [Proceedings and video recording](#proceedings-video)
 - [Program](#program)
 - [Keynote Speakers](#keynotes)
-- [Accepted Papers](#accepted)
+- [Registration](#registration)
 - [Description](#description)
 - [Submission Formats](#submission)
 - [Paper Submission and Templates](#instructions)
@@ -528,6 +528,16 @@ research aimed at rectifying biases in speech-to-text systems widely utilised
 across the UK. Before starting his PhD in automated question answering at the
 University of Birmingham, Dr. Tayyar Madabushi founded and headed a social
 media data analytics company based in Singapore.
+
+------
+
+### <a name="registration"> Registration </a>
+
+To attend the workshop (either in person or virtually), please register through
+[LREC-COLING 2024's registration
+system](https://lrec-coling-2024.org/registration-2/). Note that to attend
+MWE-UD 2024, it is sufficient to select this workshop during registration; you
+do not have to register for the main conference.
 
 ------
 
