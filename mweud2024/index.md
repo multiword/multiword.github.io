@@ -534,7 +534,7 @@ media data analytics company based in Singapore.
 ### <a name="registration"> Registration </a>
 
 To attend the workshop (either in person or virtually), please register through
-[LREC-COLING 2024's registration
+[LREC-COLING 2024’s registration
 system](https://lrec-coling-2024.org/registration-2/). Note that to attend
 MWE-UD 2024, it is sufficient to select this workshop during registration; you
 do not have to register for the main conference.
