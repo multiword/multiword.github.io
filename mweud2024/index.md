@@ -163,6 +163,7 @@ proceedings.
         <td>
             <i>Is Less More? Quality, Quantity and Context in Idiom Processing with Natural Language Models</i> (non-archival)<br>
             Agne Knietaite, Adam Allsebrook, Anton Minkov, Adam Tomaszewski, Norbert Slinko, Richard Johnson, Thomas Pickard and Aline Villavicencio<br>
+            [<a href="posters/knietaite-etal-2024-less-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
