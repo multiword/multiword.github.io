@@ -99,7 +99,7 @@ proceedings.
         <td>
             <i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i><br>
             Harish Tayyar Madabushi<br>
-            <a class="btn btn-small btn-secondary" href="#madabushi">abstract</a>
+            [<a href="#madabushi">abstract</a>]
         </td>
     </tr>
     <tr>
@@ -147,7 +147,7 @@ proceedings.
         <td>
             <i>Identification and Annotation of Body Part Multiword Expressions in Old Egyptian</i><br>
             Roberto Díaz Hernández<br>
-            <a class="btn btn-small btn-secondary" href="posters/diaz-hernandez-2024-identification-poster.pdf">poster</a>
+            [<a href="posters/diaz-hernandez-2024-identification-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -155,7 +155,7 @@ proceedings.
         <td>
             <i>A demonstration of MWE-Finder and MWE-Annotator</i> <span class="badge badge-secondary">non-archival</span><br>
             Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel<br>
-            <a class="btn btn-small btn-secondary" href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>
+            [<a href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@ proceedings.
         <td>
             <i>Is Less More? Quality, Quantity and Context in Idiom Processing with Natural Language Models</i> <span class="badge badge-secondary">non-archival</span><br>
             Agne Knietaite, Adam Allsebrook, Anton Minkov, Adam Tomaszewski, Norbert Slinko, Richard Johnson, Thomas Pickard and Aline Villavicencio<br>
-            <a class="btn btn-small btn-secondary" href="posters/knietaite-etal-2024-less-poster.pdf">poster</a>
+            [<a href="posters/knietaite-etal-2024-less-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -253,7 +253,7 @@ proceedings.
         <td>
             <i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i><br>
             Natalia Levshina<br>
-            <a class="btn btn-small btn-secondary" href="#levshina">abstract</a>
+            [<a href="#levshina">abstract</a>]
         </td>
     </tr>
     <tr>
@@ -347,7 +347,7 @@ proceedings.
         <td>
             <i>Synthetic-Error Augmented Parsing of Swedish as a Second Language: Experiments with Word Order</i><br>
             Arianna Masciolini, Emilie Francis and Maria Irena Szawerna<br>
-            <a class="btn btn-small btn-secondary" href="posters/masciolini-etal-2024-synthetic-poster.pdf">poster</a>
+            [<a href="posters/masciolini-etal-2024-synthetic-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -376,7 +376,7 @@ proceedings.
         <td>
             <i>Domain-Weighted Batch Sampling for Neural Dependency Parsing</i><br>
             Jacob Striebel, Daniel Dakota and Sandra Kübler<br>
-            <a class="btn btn-small btn-secondary" href="posters/striebel-etal-2024-domain-poster.pdf">poster</a>
+            [<a href="posters/striebel-etal-2024-domain-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
