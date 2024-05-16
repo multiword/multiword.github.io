@@ -204,7 +204,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <s><i>A Corpus of Persian Sentences Annotated with Verbal Multiword Expressions: Development and Guidelines</i></s> <span class="badge badge-secondary">non-archival</span> <span class="badge badge-danger">withdrawn</span><br>
+            <s><i>A Corpus of Persian Sentences Annotated with Verbal Multiword Expressions: Development and Guidelines</i></s> (non-archival, withdrawn)<br>
             Vahide Tajalli, Yaldasadat Yarandi, Mahtab sarlak, Mehrnoush Shamsfard and Arezoo Haghbin<br>
         </td>
     </tr>
