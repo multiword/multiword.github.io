@@ -197,7 +197,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>Multiword Expressions between the Corpus and the Lexicon: Universality, Idiosyncrasy, and the Lexicon-Corpus Interface. A position paper</i><br>
+            <i>Multiword Expressions between the Corpus and the Lexicon: Universality, Idiosyncrasy, and the Lexicon-Corpus Interface</i><br>
             Verginica Barbu Mititelu, Voula Giouli, Stella Markantonatou, Ivelina Stoyanova, Petya Osenova, Kilian Evang, Daniel Zeman, Simon Krek, Carole Tiberius, Christian Chiarcos and Ranka Stanković<br>
         </td>
     </tr>
