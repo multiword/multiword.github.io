@@ -224,6 +224,7 @@ proceedings.
         <td>
             <i>Universal Feature-based Morphological Trees</i><br>
             Federica Gamba, Abishek Stephen and Zdeněk Žabokrtský<br>
+            [<a href="slides/gamba-etal-2024-universal-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
