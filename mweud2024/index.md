@@ -272,6 +272,9 @@ proceedings.
         <td>
             <i>Fitting Fixed Expressions into the UD Mould: Swedish as a Use Case</i><br>
             Lars Ahrenberg<br>
+            [<a href="slides/ahrenberg-2024-fitting-slides.pdf">slides</a>]
+            [<a href="https://www.ida.liu.se/~larah03/Videos/boostervideo-ahrenberg-may25.mp4">booster video</a>]
+            [<a href="https://www.ida.liu.se/~larah03/Videos/presentation-ahrenberg-may25.mp4">presentation video</a>]
         </td>
     </tr>
     <tr>
