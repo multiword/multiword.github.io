@@ -359,6 +359,7 @@ proceedings.
         <td>
             <i>MaiBaam: A Multi-Dialectal Bavarian Universal Dependency Treebank</i> (non-archival)<br>
             Verena Blaschke, Barbara Kovačić, Siyao Peng, Hinrich Schütze and Barbara Plank<br>
+            [<a href="posters/blaschke-etal-2024-maibaam-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
