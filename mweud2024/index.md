@@ -192,6 +192,7 @@ proceedings.
         <td>
             <i>Combining Grammatical and Relational Approaches. A Hybrid Method for the Identification of Candidate Collocations from Corpora</i><br>
             Damiano Perri, Irene Fioravanti, Osvaldo Gervasi and Stefania Spina<br>
+            [<a href="posters/perri-etal-2024-combining-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
