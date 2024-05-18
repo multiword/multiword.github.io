@@ -405,6 +405,7 @@ proceedings.
         <td>
             <i>Sparse Logistic Regression with High-order Features for Automatic Grammar Rule Extraction from Treebanks</i> (non-archival)<br>
             Santiago Herrera, Caio Corro and Sylvain Kahane<br>
+            [<a href="posters/herrera-etal-2024-sparse-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
