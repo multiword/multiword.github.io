@@ -133,6 +133,7 @@ proceedings.
         <td>
             <i>MultiMWE: Building a Multi-lingual Multi-Word Expression (MWE) Parallel Corpora</i> (non-archival)<br>
             Lifeng Han, Gareth Jones and Alan Smeaton<br>
+            [<a href="posters/han-etal-2024-multimwe-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -140,6 +141,7 @@ proceedings.
         <td>
             <i>AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations</i> (non-archival)<br>
             Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic<br>
+            [<a href="posters/hadj-mohamed-etal-2024-alphamwe-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
