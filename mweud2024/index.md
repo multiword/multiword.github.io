@@ -315,7 +315,7 @@ proceedings.
         </td>
     </tr>
     <tr>
-        <th>14:45–16:00</th>
+        <th>15:00–16:00</th>
         <th>Oral session 3</th>
     </tr>
     <tr>
