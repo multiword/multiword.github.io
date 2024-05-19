@@ -173,6 +173,7 @@ proceedings.
         <td>
             <i>Diachronic Analysis of Multi-word Expression Functional Categories in Scientific English</i><br>
             Diego Alves, Stefania Degaetano-Ortlieb, Elena Schmidt and Elke Teich<br>
+            [<a href="posters/alves-etal-2024-diachronic-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
