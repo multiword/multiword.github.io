@@ -328,6 +328,7 @@ proceedings.
         <td>
             <i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i><br>
             Rafael Ehren, Kilian Evang and Laura Kallmeyer<br>
+            [<a href="slides/ehren-etal-2024-leave-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
