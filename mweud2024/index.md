@@ -204,6 +204,7 @@ proceedings.
         <td>
             <i>Multiword Expressions between the Corpus and the Lexicon: Universality, Idiosyncrasy, and the Lexicon-Corpus Interface</i><br>
             Verginica Barbu Mititelu, Voula Giouli, Stella Markantonatou, Ivelina Stoyanova, Petya Osenova, Kilian Evang, Daniel Zeman, Simon Krek, Carole Tiberius, Christian Chiarcos and Ranka Stanković<br>
+            [<a href="posters/barbu-mititelu-etal-2024-multiword-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -344,6 +345,7 @@ proceedings.
         <td>
             <i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i><br>
             Jaka Čibej, Polona Gantar and Mija Bon<br>
+            [<a href="slides/cibej-etal-2024-annoation-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
