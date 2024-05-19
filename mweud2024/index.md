@@ -424,6 +424,7 @@ proceedings.
         <td>
             <i>Joint Annotation of Morphology and Syntax in Dependency Treebanks</i> (non-archival)<br>
             Bruno Guillaume, Kim Gerdes, Kirian Guiller, Sylvain Kahane and Yixuan Li<br>
+            [<a href="posters/guillaume-etal-2024-joint-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
