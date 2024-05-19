@@ -287,6 +287,9 @@ proceedings.
         <td>
             <i>The Vedic Compound Database</i><br>
             Sven Sellmer and Oliver Hellwig<br>
+            [<a href="slides/sellmer-hellwig-2024-vedic-slides.pdf">slides</a>]
+            [<a href="https://drive.google.com/file/d/1x7u7MY3HFWpgq3tsKrwckKKevw6883GJ/view">booster video</a>]
+            [<a href="https://drive.google.com/file/d/1PQ5Na_hbUvxfh-uVJVSuPqZ5QeL42vLt/view">presentation video</a>]
         </td>
     </tr>
     <tr>
