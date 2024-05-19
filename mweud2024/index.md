@@ -187,6 +187,7 @@ proceedings.
         <td>
             <i>Revisiting VMWEs in Hindi: Annotating Layers of Predication</i><br>
             Kanishka Jain and Ashwini Vaidya<br>
+            [<a href="posters/jain-vaidya-2024-revisiting-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
