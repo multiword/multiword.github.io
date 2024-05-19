@@ -308,6 +308,9 @@ proceedings.
         <td>
             <i>Towards the semantic annotation of SR-ELEXIS corpus: Insights into Multiword Expressions and Named Entities</i><br>
             Cvetana Krstev, Ranka Stanković, Aleksandra Marković and Teodora Mihajlov<br>
+            [<a href="slides/krstev-etal-2024-towards-slides.pdf">slides</a>]
+            [<a href="https://drive.google.com/file/d/1LNFuSxW3ysn0E3vnHTtF40Zy56PlLgd-/view">booster video</a>]
+            [<a href="https://drive.google.com/file/d/1Y7mkcAtyDYWNTVfaIoICH3QmFy5oxKpX/view">presentation video</a>]
         </td>
     </tr>
     <tr>
