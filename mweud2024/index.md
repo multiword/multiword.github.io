@@ -111,6 +111,7 @@ proceedings.
         <td>
             <i>Assessing BERT’s sensitivity to idiomaticity</i><br>
             Li Liu and Francois Lareau<br>
+            [<a href="slides/liu-lareau-2024-assessing-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
@@ -392,6 +393,7 @@ proceedings.
         <td>
             <i>Part-of-Speech Tagging for Northern Kurdish</i><br>
             Peshmerge Morad, Sina Ahmadi and Lorenzo Gatti<br>
+            [<a href="posters/morad-etal-2024-part-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
