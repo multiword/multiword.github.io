@@ -293,6 +293,9 @@ proceedings.
         <td>
             <i>Overcoming Early Saturation on Low-Resource Languages in Multilingual Dependency Parsing</i><br>
             Jiannan Mao, Chenchen Ding, Hour Kaing, Hideki Tanaka, Masao Utiyama and Tadahiro Matsumoto.<br>
+            [<a href="slides/mao-etal-2024-overcoming-slides.pdf">slides</a>]
+            [<a href="https://drive.google.com/file/d/1PmDB0KHaxfEQkZpQm88tDx1O-1aymt83/view?usp=sharing">booster video</a>]
+            [<a href="https://drive.google.com/file/d/1KBR4sNAroI414CGGpiJaTwXMUwKcm0BI/view?usp=sharing">presentation video</a>]
         </td>
     </tr>
     <tr>
