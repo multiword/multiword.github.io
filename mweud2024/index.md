@@ -333,6 +333,9 @@ proceedings.
         <td>
             <i>BERT-based Idiom Identification using Language Translation and Word Cohesion</i><br>
             Arnav Yayavaram, Siddharth Yayavaram, Prajna Devi Upadhyay and Apurba Das<br>
+            [<a href="slides/yayavaram-etal-2024-bert-slides.pdf">slides</a>]
+            [<a href="https://drive.google.com/file/d/1NGeVGK1STP9OtoVT9lDV9inruDsU8ksS/view?usp=drive_web">booster video</a>]
+            [<a href="https://drive.google.com/file/d/1jIkj1Dmfj9WJhk4AZvHm16GS_yaUPRe8/view?usp=drive_web">presentation video</a>]
         </td>
     </tr>
     <tr>
