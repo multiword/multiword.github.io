@@ -79,7 +79,9 @@ the programme. Due to last-minute changes in the lineup of non-archival
 presentations, the version here differs slightly from the one in the
 proceedings.
 
-#### Saturday, 25 May 2024, Turin
+**Date:** Saturday, 25 May 2024<br>
+**Location:** Room “Madrid”, Lingotto Conference Centre, Turin, Italy<br>
+**Zoom link:** see Catalyst conference app
 
 <table class="program">
     <tr>
