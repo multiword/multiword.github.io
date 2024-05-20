@@ -184,6 +184,7 @@ proceedings.
         <td>
             <i>Lexicons Gain the Upper Hand in Arabic MWE Identification</i><br>
             Najet Hadj Mohamed, Agata Savary, Cherifa Ben Khelil, Jean-Yves Antoine, Iskandar keskes and Lamia Hadrich-Belguith<br>
+            [<a href="posters/hadj-mohamed-etal-2024-lexicons-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -241,6 +242,7 @@ proceedings.
         <td>
             <i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i><br>
             Abishek Stephen and Daniel Zeman<br>
+            [<a href="slides/stephen-zeman-2024-light-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
@@ -322,6 +324,8 @@ proceedings.
         <td>
             <i>Universal Dependencies for Saraiki</i><br>
             Meesum Alam, Francis Tyers, Emily Hanink and Sandra Kübler<br>
+            [<a href="https://indiana-my.sharepoint.com/:f:/g/personal/meealam_iu_edu/EnJ7GV9zgoVFkgwkYFAWVXYBh-jqwHkLrkjcP2k8c1-PCg?e=U9Y3cm">booster video</a>]
+            [<a href="https://indiana-my.sharepoint.com/:f:/g/personal/meealam_iu_edu/EnJ7GV9zgoVFkgwkYFAWVXYBh-jqwHkLrkjcP2k8c1-PCg?e=U9Y3cm">presentation video</a>]
         </td>
     </tr>
     <tr>
