@@ -277,6 +277,9 @@ proceedings.
         <td>
             <i>Automatic Manipulation of Training Corpora to Make Parsers Accept Real-world Text</i><br>
             Hiroshi Kanayama, Ran Iwamoto, Masayasu Muraoka, Takuya Ohko and Kohtaroh Miyamoto<br>
+            [<a href="slides/kanayama-etal-2024-automatic-slides.pdf">slides</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/yaghCBY7G06iDXQ">booster video</a>]
+            [<a href="https://collon.ivory.ne.jp/MWEUD2024_Paper5_kanayama.mp4">presentation video</a>]
         </td>
     </tr>
     <tr>
@@ -324,6 +327,7 @@ proceedings.
         <td>
             <i>Universal Dependencies for Saraiki</i><br>
             Meesum Alam, Francis Tyers, Emily Hanink and Sandra Kübler<br>
+            [<a href="slides/messum-etal-2024-universal-slides.pdf">slides</a>]
             [<a href="https://indiana-my.sharepoint.com/:f:/g/personal/meealam_iu_edu/EnJ7GV9zgoVFkgwkYFAWVXYBh-jqwHkLrkjcP2k8c1-PCg?e=U9Y3cm">booster video</a>]
             [<a href="https://indiana-my.sharepoint.com/:f:/g/personal/meealam_iu_edu/EnJ7GV9zgoVFkgwkYFAWVXYBh-jqwHkLrkjcP2k8c1-PCg?e=U9Y3cm">presentation video</a>]
         </td>
