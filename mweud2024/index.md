@@ -121,6 +121,7 @@ proceedings.
         <td>
             <i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i><br>
             Dylan Phelps, Thomas M. R. Pickard, Maggie Mi, Edward Gow-Smith and Aline Villavicencio<br>
+            [<a href="slides/phelps-etal-2024-sign-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
