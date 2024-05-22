@@ -251,6 +251,7 @@ proceedings.
         <td>
             <i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i><br>
             Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan and Chihiro Taguchi<br>
+            [<a href="slides/washington-etal-2024-strategies-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
