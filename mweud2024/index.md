@@ -224,6 +224,7 @@ proceedings.
         <td>
             <i>Annotating Compositionality Scores for Irish Noun Compounds is Hard Work</i> (non-archival)<br>
             Abigail Walsh, Teresa Clifford, Emma Daly, Jane Dunne, Brian Davis and Gearóid Ó Cleircín<br>
+            [<a href="posters/walsh-etal-2024-annotating-poster.pdf">slides</a>]
         </td>
     </tr>
     <tr>
@@ -401,6 +402,7 @@ proceedings.
         <td>
             <i>A Universal Dependencies Treebank for Gujarati</i><br>
             Mayank Jobanputra, Maitrey Mehta and Çağrı Çöltekin<br>
+            [<a href="posters/jobanputra-etal-2024-universal-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -424,6 +426,7 @@ proceedings.
         <td>
             <i>Redefining Syntactic and Morphological Tasks for Typologically Diverse Languages</i> (non-archival)<br>
             Omer Goldman, Leonie Weissweiler and Reut Tsarfaty<br>
+            [<a href="posters/goldman-etal-2024-redefining-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -431,6 +434,7 @@ proceedings.
         <td>
             <i>UCxn: Typologically Informed Annotation of Constructions Atop Universal Dependencies</i> (non-archival)<br>
             Leonie Weissweiler, Nina Böbel, Kirian Guiller, Santiago Herrera, Wesley Scivetti, Arthur Lorenzi, Nurit Melnik, Archna Bhatia, Hinrich Schütze, Lori Levin, Amir Zeldes, Joakim Nivre, William Croft and Nathan Schneider<br>
+            [<a href="posters/weissweiler-etal-2024-ucxn-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
