@@ -204,7 +204,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>MultiMWE: Building a Multi-lingual Multi-Word Expression (MWE) Parallel Corpora</i> (non-archival)<br>
+            <i>MultiMWE: Building a Multi-lingual Multi-Word Expression (MWE) Parallel Corpora</i> [non-archival]<br>
             Lifeng Han, Gareth Jones and Alan Smeaton<br>
             [<a href="posters/han-etal-2024-multimwe-poster.pdf">poster</a>]
         </td>
@@ -212,7 +212,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations</i> (non-archival)<br>
+            <i>AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations</i> [non-archival]<br>
             Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic<br>
             [<a href="posters/hadj-mohamed-etal-2024-alphamwe-poster.pdf">poster</a>]
         </td>
@@ -220,7 +220,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>A demonstration of MWE-Finder and MWE-Annotator</i> (non-archival)<br>
+            <i>A demonstration of MWE-Finder and MWE-Annotator</i> [non-archival]<br>
             Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel<br>
             [<a href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>]
         </td>
@@ -228,7 +228,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>Is Less More? Quality, Quantity and Context in Idiom Processing with Natural Language Models</i> (non-archival)<br>
+            <i>Is Less More? Quality, Quantity and Context in Idiom Processing with Natural Language Models</i> [non-archival]<br>
             Agne Knietaite, Adam Allsebrook, Anton Minkov, Adam Tomaszewski, Norbert Slinko, Richard Johnson, Thomas Pickard and Aline Villavicencio<br>
             [<a href="posters/knietaite-etal-2024-less-poster.pdf">poster</a>]
         </td>
@@ -236,7 +236,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>Annotating Compositionality Scores for Irish Noun Compounds is Hard Work</i> (non-archival)<br>
+            <i>Annotating Compositionality Scores for Irish Noun Compounds is Hard Work</i> [non-archival]<br>
             Abigail Walsh, Teresa Clifford, Emma Daly, Jane Dunne, Brian Davis and Gearóid Ó Cleircín<br>
             [<a href="posters/walsh-etal-2024-annotating-poster.pdf">poster</a>]
         </td>
@@ -463,7 +463,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>MaiBaam: A Multi-Dialectal Bavarian Universal Dependency Treebank</i> (non-archival)<br>
+            <i>MaiBaam: A Multi-Dialectal Bavarian Universal Dependency Treebank</i> [non-archival]<br>
             Verena Blaschke, Barbara Kovačić, Siyao Peng, Hinrich Schütze and Barbara Plank<br>
             [<a href="posters/blaschke-etal-2024-maibaam-poster.pdf">poster</a>]
         </td>
@@ -471,7 +471,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>Redefining Syntactic and Morphological Tasks for Typologically Diverse Languages</i> (non-archival)<br>
+            <i>Redefining Syntactic and Morphological Tasks for Typologically Diverse Languages</i> [non-archival]<br>
             Omer Goldman, Leonie Weissweiler and Reut Tsarfaty<br>
             [<a href="posters/goldman-etal-2024-redefining-poster.pdf">poster</a>]
         </td>
@@ -479,7 +479,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>UCxn: Typologically Informed Annotation of Constructions Atop Universal Dependencies</i> (non-archival)<br>
+            <i>UCxn: Typologically Informed Annotation of Constructions Atop Universal Dependencies</i> [non-archival]<br>
             Leonie Weissweiler, Nina Böbel, Kirian Guiller, Santiago Herrera, Wesley Scivetti, Arthur Lorenzi, Nurit Melnik, Archna Bhatia, Hinrich Schütze, Lori Levin, Amir Zeldes, Joakim Nivre, William Croft and Nathan Schneider<br>
             [<a href="posters/weissweiler-etal-2024-ucxn-poster.pdf">poster</a>]
         </td>
@@ -487,7 +487,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>Sparse Logistic Regression with High-order Features for Automatic Grammar Rule Extraction from Treebanks</i> (non-archival)<br>
+            <i>Sparse Logistic Regression with High-order Features for Automatic Grammar Rule Extraction from Treebanks</i> [non-archival]<br>
             Santiago Herrera, Caio Corro and Sylvain Kahane<br>
             [<a href="posters/herrera-etal-2024-sparse-poster.pdf">poster</a>]
         </td>
@@ -495,7 +495,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>Joint Annotation of Morphology and Syntax in Dependency Treebanks</i> (non-archival)<br>
+            <i>Joint Annotation of Morphology and Syntax in Dependency Treebanks</i> [non-archival]<br>
             Bruno Guillaume, Kim Gerdes, Kirian Guiller, Sylvain Kahane and Yixuan Li<br>
             [<a href="posters/guillaume-etal-2024-joint-poster.pdf">poster</a>]
         </td>
