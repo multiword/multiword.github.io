@@ -215,13 +215,6 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <s><i>A Corpus of Persian Sentences Annotated with Verbal Multiword Expressions: Development and Guidelines</i></s> (non-archival, withdrawn)<br>
-            Vahide Tajalli, Yaldasadat Yarandi, Mahtab sarlak, Mehrnoush Shamsfard and Arezoo Haghbin<br>
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
             <i>Annotating Compositionality Scores for Irish Noun Compounds is Hard Work</i> (non-archival)<br>
             Abigail Walsh, Teresa Clifford, Emma Daly, Jane Dunne, Brian Davis and Gearóid Ó Cleircín<br>
             [<a href="posters/walsh-etal-2024-annotating-poster.pdf">poster</a>]
