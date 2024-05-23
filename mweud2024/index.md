@@ -330,7 +330,7 @@ proceedings.
         <td>
             <i>Universal Dependencies for Saraiki</i><br>
             Meesum Alam, Francis Tyers, Emily Hanink and Sandra Kübler<br>
-            [<a href="slides/messum-etal-2024-universal-slides.pdf">slides</a>]
+            [<a href="slides/alam-etal-2024-universal-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/PROUgul1T0GSTdb">booster video</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/AabHS3vqfI7UkvD">presentation video</a>]
         </td>
