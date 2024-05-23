@@ -247,7 +247,7 @@ proceedings.
     </tr>
     <tr>
         <td></td>
-        <td>Session chair: TBD</td>
+        <td>Session chair: Joakim Nivre</td>
     </tr>
     <tr>
         <td></td>
