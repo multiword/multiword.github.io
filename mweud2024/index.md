@@ -224,7 +224,7 @@ proceedings.
         <td>
             <i>Annotating Compositionality Scores for Irish Noun Compounds is Hard Work</i> (non-archival)<br>
             Abigail Walsh, Teresa Clifford, Emma Daly, Jane Dunne, Brian Davis and Gearóid Ó Cleircín<br>
-            [<a href="posters/walsh-etal-2024-annotating-poster.pdf">slides</a>]
+            [<a href="posters/walsh-etal-2024-annotating-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
