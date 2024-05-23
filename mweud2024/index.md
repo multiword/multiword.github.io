@@ -156,14 +156,6 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>A demonstration of MWE-Finder and MWE-Annotator</i> (non-archival)<br>
-            Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel<br>
-            [<a href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>]
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
             <i>Diachronic Analysis of Multi-word Expression Functional Categories in Scientific English</i><br>
             Diego Alves, Stefania Degaetano-Ortlieb, Elena Schmidt and Elke Teich<br>
             [<a href="posters/alves-etal-2024-diachronic-poster.pdf">poster</a>]
@@ -199,6 +191,14 @@ proceedings.
             <i>Multiword Expressions between the Corpus and the Lexicon: Universality, Idiosyncrasy, and the Lexicon-Corpus Interface</i><br>
             Verginica Barbu Mititelu, Voula Giouli, Stella Markantonatou, Ivelina Stoyanova, Petya Osenova, Kilian Evang, Daniel Zeman, Simon Krek, Carole Tiberius, Christian Chiarcos and Ranka Stanković<br>
             [<a href="posters/barbu-mititelu-etal-2024-multiword-poster.pdf">poster</a>]
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <i>A demonstration of MWE-Finder and MWE-Annotator</i> (non-archival)<br>
+            Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel<br>
+            [<a href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
