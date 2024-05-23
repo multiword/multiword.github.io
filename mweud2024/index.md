@@ -298,7 +298,7 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>The Vedic Compound Database</i><br>
+            <i>The Vedic Compound Dataset</i><br>
             Sven Sellmer and Oliver Hellwig<br>
             [<a href="slides/sellmer-hellwig-2024-vedic-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/kvtWeonYg8Jfap0">booster video</a>]
