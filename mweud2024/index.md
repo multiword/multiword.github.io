@@ -282,7 +282,7 @@ proceedings.
             Hiroshi Kanayama, Ran Iwamoto, Masayasu Muraoka, Takuya Ohko and Kohtaroh Miyamoto<br>
             [<a href="slides/kanayama-etal-2024-automatic-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/yaghCBY7G06iDXQ">booster video</a>]
-            [<a href="https://collon.ivory.ne.jp/MWEUD2024_Paper5_kanayama.mp4">presentation video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/ZLurxPhmTIZxypw">presentation video</a>]
         </td>
     </tr>
     <tr>
@@ -291,8 +291,8 @@ proceedings.
             <i>Fitting Fixed Expressions into the UD Mould: Swedish as a Use Case</i><br>
             Lars Ahrenberg<br>
             [<a href="slides/ahrenberg-2024-fitting-slides.pdf">slides</a>]
-            [<a href="https://www.ida.liu.se/~larah03/Videos/boostervideo-ahrenberg-may25.mp4">booster video</a>]
-            [<a href="https://www.ida.liu.se/~larah03/Videos/presentation-ahrenberg-may25.mp4">presentation video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/eIUpmzpu7ofKcM1">booster video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/UxEdsdxFVpA6nls">presentation video</a>]
         </td>
     </tr>
     <tr>
@@ -301,8 +301,8 @@ proceedings.
             <i>The Vedic Compound Database</i><br>
             Sven Sellmer and Oliver Hellwig<br>
             [<a href="slides/sellmer-hellwig-2024-vedic-slides.pdf">slides</a>]
-            [<a href="https://drive.google.com/file/d/1x7u7MY3HFWpgq3tsKrwckKKevw6883GJ/view">booster video</a>]
-            [<a href="https://drive.google.com/file/d/1PQ5Na_hbUvxfh-uVJVSuPqZ5QeL42vLt/view">presentation video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/kvtWeonYg8Jfap0">booster video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/KTVUW2HgghX2u30">presentation video</a>]
         </td>
     </tr>
     <tr>
@@ -311,8 +311,8 @@ proceedings.
             <i>Overcoming Early Saturation on Low-Resource Languages in Multilingual Dependency Parsing</i><br>
             Jiannan Mao, Chenchen Ding, Hour Kaing, Hideki Tanaka, Masao Utiyama and Tadahiro Matsumoto.<br>
             [<a href="slides/mao-etal-2024-overcoming-slides.pdf">slides</a>]
-            [<a href="https://drive.google.com/file/d/1PmDB0KHaxfEQkZpQm88tDx1O-1aymt83/view?usp=sharing">booster video</a>]
-            [<a href="https://drive.google.com/file/d/1KBR4sNAroI414CGGpiJaTwXMUwKcm0BI/view?usp=sharing">presentation video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/NXkE2l13VAB4nMD">booster video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/hWJqZlgn1YpbJwz">presentation video</a>]
         </td>
     </tr>
     <tr>
@@ -321,8 +321,8 @@ proceedings.
             <i>Towards the semantic annotation of SR-ELEXIS corpus: Insights into Multiword Expressions and Named Entities</i><br>
             Cvetana Krstev, Ranka Stanković, Aleksandra Marković and Teodora Mihajlov<br>
             [<a href="slides/krstev-etal-2024-towards-slides.pdf">slides</a>]
-            [<a href="https://drive.google.com/file/d/1LNFuSxW3ysn0E3vnHTtF40Zy56PlLgd-/view">booster video</a>]
-            [<a href="https://drive.google.com/file/d/1Y7mkcAtyDYWNTVfaIoICH3QmFy5oxKpX/view">presentation video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/ldJuapRxN9TrFwa">booster video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/rTadfDyy4nRimOc">presentation video</a>]
         </td>
     </tr>
     <tr>
@@ -331,8 +331,8 @@ proceedings.
             <i>Universal Dependencies for Saraiki</i><br>
             Meesum Alam, Francis Tyers, Emily Hanink and Sandra Kübler<br>
             [<a href="slides/messum-etal-2024-universal-slides.pdf">slides</a>]
-            [<a href="https://indiana-my.sharepoint.com/:f:/g/personal/meealam_iu_edu/EnJ7GV9zgoVFkgwkYFAWVXYBh-jqwHkLrkjcP2k8c1-PCg?e=U9Y3cm">booster video</a>]
-            [<a href="https://indiana-my.sharepoint.com/:f:/g/personal/meealam_iu_edu/EnJ7GV9zgoVFkgwkYFAWVXYBh-jqwHkLrkjcP2k8c1-PCg?e=U9Y3cm">presentation video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/PROUgul1T0GSTdb">booster video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/AabHS3vqfI7UkvD">presentation video</a>]
         </td>
     </tr>
     <tr>
@@ -341,8 +341,8 @@ proceedings.
             <i>BERT-based Idiom Identification using Language Translation and Word Cohesion</i><br>
             Arnav Yayavaram, Siddharth Yayavaram, Prajna Devi Upadhyay and Apurba Das<br>
             [<a href="slides/yayavaram-etal-2024-bert-slides.pdf">slides</a>]
-            [<a href="https://drive.google.com/file/d/1NGeVGK1STP9OtoVT9lDV9inruDsU8ksS/view?usp=drive_web">booster video</a>]
-            [<a href="https://drive.google.com/file/d/1jIkj1Dmfj9WJhk4AZvHm16GS_yaUPRe8/view?usp=drive_web">presentation video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/9VzrUJRxuy1kd66">booster video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/rTadfDyy4nRimOc">presentation video</a>]
         </td>
     </tr>
     <tr>
