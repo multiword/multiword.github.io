@@ -93,8 +93,16 @@ proceedings.
         <th>Welcome</th>
     </tr>
     <tr>
+        <td></td>
+        <td>Session chair: Voula Giouli</td>
+    </tr>
+    <tr>
         <th>09:05–09:50</th>
         <th>Keynote 1</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Session chair: Voula Giouli</td>
     </tr>
     <tr>
         <td></td>
@@ -107,6 +115,10 @@ proceedings.
     <tr>
         <th>09:50–10:30</th>
         <th>Oral session 1</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Session chair: Lifeng Han</td>
     </tr>
     <tr>
         <td></td>
@@ -226,6 +238,10 @@ proceedings.
     </tr>
     <tr>
         <td></td>
+        <td>Session chair: TBD</td>
+    </tr>
+    <tr>
+        <td></td>
         <td>
             <i>Universal Feature-based Morphological Trees</i><br>
             Federica Gamba, Abishek Stephen and Zdeněk Žabokrtský<br>
@@ -258,6 +274,10 @@ proceedings.
     </tr>
     <tr>
         <td></td>
+        <td>Session chair: Gosse Bouma</td>
+    </tr>
+    <tr>
+        <td></td>
         <td>
             <i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i><br>
             Natalia Levshina<br>
@@ -267,6 +287,10 @@ proceedings.
     <tr>
         <th>14:45–15:00</th>
         <th>Booster session: virtual presentations</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Session chair: Kilian Evang</td>
     </tr>
     <tr>
         <td></td>
@@ -341,6 +365,10 @@ proceedings.
     <tr>
         <th>15:00–16:00</th>
         <th>Oral session 3</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Session chair: TBD</td>
     </tr>
     <tr>
         <td></td>
@@ -451,8 +479,16 @@ proceedings.
         <th>Community discussion</th>
     </tr>
     <tr>
+        <td></td>
+        <td>Session chair: Voula Giouli</td>
+    </tr>
+    <tr>
         <th>17:50–18:00</th>
         <th>Closing, best paper awards, photos</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Session chair: Voula Giouli</td>
     </tr>
 </table>
 
