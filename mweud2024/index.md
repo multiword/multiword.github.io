@@ -18,6 +18,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 ### News
 
+* **May 30, 2024**: Proceedings available
 * **April 30, 2024**: Detailed tentative schedule online
 * **April 5, 2024**: Acceptance notifications for nonarchival presentations sent
 * **April 2, 2024**: Acceptance notifications for archival papers sent
@@ -64,7 +65,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 ### <a name="proceedings-video"> Proceedings and video recording </a>
 
-TBD
+The [proceedings](https://aclanthology.org/volumes/2024.mwe-1/) are available in the ACL Anthology.
 
 -----
 
