@@ -135,22 +135,6 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>MultiMWE: Building a Multi-lingual Multi-Word Expression (MWE) Parallel Corpora</i> (non-archival)<br>
-            Lifeng Han, Gareth Jones and Alan Smeaton<br>
-            [<a href="posters/han-etal-2024-multimwe-poster.pdf">poster</a>]
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
-            <i>AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations</i> (non-archival)<br>
-            Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic<br>
-            [<a href="posters/hadj-mohamed-etal-2024-alphamwe-poster.pdf">poster</a>]
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
             <i>Identification and Annotation of Body Part Multiword Expressions in Old Egyptian</i><br>
             Roberto Díaz Hernández<br>
             [<a href="posters/diaz-hernandez-2024-identification-poster.pdf">poster</a>]
@@ -162,14 +146,6 @@ proceedings.
             <i>A demonstration of MWE-Finder and MWE-Annotator</i> (non-archival)<br>
             Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel<br>
             [<a href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>]
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
-            <i>Is Less More? Quality, Quantity and Context in Idiom Processing with Natural Language Models</i> (non-archival)<br>
-            Agne Knietaite, Adam Allsebrook, Anton Minkov, Adam Tomaszewski, Norbert Slinko, Richard Johnson, Thomas Pickard and Aline Villavicencio<br>
-            [<a href="posters/knietaite-etal-2024-less-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -210,6 +186,30 @@ proceedings.
             <i>Multiword Expressions between the Corpus and the Lexicon: Universality, Idiosyncrasy, and the Lexicon-Corpus Interface</i><br>
             Verginica Barbu Mititelu, Voula Giouli, Stella Markantonatou, Ivelina Stoyanova, Petya Osenova, Kilian Evang, Daniel Zeman, Simon Krek, Carole Tiberius, Christian Chiarcos and Ranka Stanković<br>
             [<a href="posters/barbu-mititelu-etal-2024-multiword-poster.pdf">poster</a>]
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <i>MultiMWE: Building a Multi-lingual Multi-Word Expression (MWE) Parallel Corpora</i> (non-archival)<br>
+            Lifeng Han, Gareth Jones and Alan Smeaton<br>
+            [<a href="posters/han-etal-2024-multimwe-poster.pdf">poster</a>]
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <i>AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations</i> (non-archival)<br>
+            Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic<br>
+            [<a href="posters/hadj-mohamed-etal-2024-alphamwe-poster.pdf">poster</a>]
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <i>Is Less More? Quality, Quantity and Context in Idiom Processing with Natural Language Models</i> (non-archival)<br>
+            Agne Knietaite, Adam Allsebrook, Anton Minkov, Adam Tomaszewski, Norbert Slinko, Richard Johnson, Thomas Pickard and Aline Villavicencio<br>
+            [<a href="posters/knietaite-etal-2024-less-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
@@ -385,14 +385,6 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>MaiBaam: A Multi-Dialectal Bavarian Universal Dependency Treebank</i> (non-archival)<br>
-            Verena Blaschke, Barbara Kovačić, Siyao Peng, Hinrich Schütze and Barbara Plank<br>
-            [<a href="posters/blaschke-etal-2024-maibaam-poster.pdf">poster</a>]
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
             <i>A Universal Dependencies Treebank for Gujarati</i><br>
             Mayank Jobanputra, Maitrey Mehta and Çağrı Çöltekin<br>
             [<a href="posters/jobanputra-etal-2024-universal-poster.pdf">poster</a>]
@@ -412,6 +404,14 @@ proceedings.
             <i>Domain-Weighted Batch Sampling for Neural Dependency Parsing</i><br>
             Jacob Striebel, Daniel Dakota and Sandra Kübler<br>
             [<a href="posters/striebel-etal-2024-domain-poster.pdf">poster</a>]
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <i>MaiBaam: A Multi-Dialectal Bavarian Universal Dependency Treebank</i> (non-archival)<br>
+            Verena Blaschke, Barbara Kovačić, Siyao Peng, Hinrich Schütze and Barbara Plank<br>
+            [<a href="posters/blaschke-etal-2024-maibaam-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
