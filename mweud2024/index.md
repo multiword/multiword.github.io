@@ -342,7 +342,7 @@ proceedings.
             Arnav Yayavaram, Siddharth Yayavaram, Prajna Devi Upadhyay and Apurba Das<br>
             [<a href="slides/yayavaram-etal-2024-bert-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/9VzrUJRxuy1kd66">booster video</a>]
-            [<a href="https://uni-duesseldorf.sciebo.de/s/rTadfDyy4nRimOc">presentation video</a>]
+            [<a href="https://uni-duesseldorf.sciebo.de/s/TPP9XJ9WDhLO3J1">presentation video</a>]
         </td>
     </tr>
     <tr>
