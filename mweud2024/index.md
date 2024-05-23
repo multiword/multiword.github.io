@@ -126,6 +126,7 @@ proceedings.
         <td>
             <i>Assessing BERT’s sensitivity to idiomaticity</i><br>
             Li Liu and Francois Lareau<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.4/">paper</a>]<br>
             [<a href="slides/liu-lareau-2024-assessing-slides.pdf">slides</a>]
         </td>
     </tr>
@@ -134,6 +135,7 @@ proceedings.
         <td>
             <i>Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection</i><br>
             Dylan Phelps, Thomas M. R. Pickard, Maggie Mi, Edward Gow-Smith and Aline Villavicencio<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.22/">paper</a>]<br>
             [<a href="slides/phelps-etal-2024-sign-slides.pdf">slides</a>]
         </td>
     </tr>
@@ -150,6 +152,7 @@ proceedings.
         <td>
             <i>Identification and Annotation of Body Part Multiword Expressions in Old Egyptian</i><br>
             Roberto Díaz Hernández<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.5/">paper</a>]<br>
             [<a href="posters/diaz-hernandez-2024-identification-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -158,6 +161,7 @@ proceedings.
         <td>
             <i>Diachronic Analysis of Multi-word Expression Functional Categories in Scientific English</i><br>
             Diego Alves, Stefania Degaetano-Ortlieb, Elena Schmidt and Elke Teich<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.12/">paper</a>]<br>
             [<a href="posters/alves-etal-2024-diachronic-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -166,6 +170,7 @@ proceedings.
         <td>
             <i>Lexicons Gain the Upper Hand in Arabic MWE Identification</i><br>
             Najet Hadj Mohamed, Agata Savary, Cherifa Ben Khelil, Jean-Yves Antoine, Iskandar keskes and Lamia Hadrich-Belguith<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.13/">paper</a>]<br>
             [<a href="posters/hadj-mohamed-etal-2024-lexicons-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -174,6 +179,7 @@ proceedings.
         <td>
             <i>Revisiting VMWEs in Hindi: Annotating Layers of Predication</i><br>
             Kanishka Jain and Ashwini Vaidya<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.14/">paper</a>]<br>
             [<a href="posters/jain-vaidya-2024-revisiting-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -182,6 +188,7 @@ proceedings.
         <td>
             <i>Combining Grammatical and Relational Approaches. A Hybrid Method for the Identification of Candidate Collocations from Corpora</i><br>
             Damiano Perri, Irene Fioravanti, Osvaldo Gervasi and Stefania Spina<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.18/">paper</a>]<br>
             [<a href="posters/perri-etal-2024-combining-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -190,6 +197,7 @@ proceedings.
         <td>
             <i>Multiword Expressions between the Corpus and the Lexicon: Universality, Idiosyncrasy, and the Lexicon-Corpus Interface</i><br>
             Verginica Barbu Mititelu, Voula Giouli, Stella Markantonatou, Ivelina Stoyanova, Petya Osenova, Kilian Evang, Daniel Zeman, Simon Krek, Carole Tiberius, Christian Chiarcos and Ranka Stanković<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.19/">paper</a>]<br>
             [<a href="posters/barbu-mititelu-etal-2024-multiword-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -246,6 +254,7 @@ proceedings.
         <td>
             <i>Universal Feature-based Morphological Trees</i><br>
             Federica Gamba, Abishek Stephen and Zdeněk Žabokrtský<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.17/">paper</a>]<br>
             [<a href="slides/gamba-etal-2024-universal-slides.pdf">slides</a>]
         </td>
     </tr>
@@ -254,6 +263,7 @@ proceedings.
         <td>
             <i>Light Verb Constructions in Universal Dependencies for South Asian Languages</i><br>
             Abishek Stephen and Daniel Zeman<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.21/">paper</a>]<br>
             [<a href="slides/stephen-zeman-2024-light-slides.pdf">slides</a>]
         </td>
     </tr>
@@ -262,6 +272,7 @@ proceedings.
         <td>
             <i>Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks</i><br>
             Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan and Chihiro Taguchi<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.25/">paper</a>]<br>
             [<a href="slides/washington-etal-2024-strategies-slides.pdf">slides</a>]
         </td>
     </tr>
@@ -298,6 +309,7 @@ proceedings.
         <td>
             <i>Automatic Manipulation of Training Corpora to Make Parsers Accept Real-world Text</i><br>
             Hiroshi Kanayama, Ran Iwamoto, Masayasu Muraoka, Takuya Ohko and Kohtaroh Miyamoto<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.3/">paper</a>]<br>
             [<a href="slides/kanayama-etal-2024-automatic-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/yaghCBY7G06iDXQ">booster video</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/ZLurxPhmTIZxypw">presentation video</a>]
@@ -308,6 +320,7 @@ proceedings.
         <td>
             <i>Fitting Fixed Expressions into the UD Mould: Swedish as a Use Case</i><br>
             Lars Ahrenberg<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.6/">paper</a>]<br>
             [<a href="slides/ahrenberg-2024-fitting-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/eIUpmzpu7ofKcM1">booster video</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/UxEdsdxFVpA6nls">presentation video</a>]
@@ -318,6 +331,7 @@ proceedings.
         <td>
             <i>The Vedic Compound Dataset</i><br>
             Sven Sellmer and Oliver Hellwig<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.8/">paper</a>]<br>
             [<a href="slides/sellmer-hellwig-2024-vedic-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/kvtWeonYg8Jfap0">booster video</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/KTVUW2HgghX2u30">presentation video</a>]
@@ -328,6 +342,7 @@ proceedings.
         <td>
             <i>Overcoming Early Saturation on Low-Resource Languages in Multilingual Dependency Parsing</i><br>
             Jiannan Mao, Chenchen Ding, Hour Kaing, Hideki Tanaka, Masao Utiyama and Tadahiro Matsumoto.<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.10/">paper</a>]<br>
             [<a href="slides/mao-etal-2024-overcoming-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/NXkE2l13VAB4nMD">booster video</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/hWJqZlgn1YpbJwz">presentation video</a>]
@@ -338,6 +353,7 @@ proceedings.
         <td>
             <i>Towards the semantic annotation of SR-ELEXIS corpus: Insights into Multiword Expressions and Named Entities</i><br>
             Cvetana Krstev, Ranka Stanković, Aleksandra Marković and Teodora Mihajlov<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.15/">paper</a>]<br>
             [<a href="slides/krstev-etal-2024-towards-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/ldJuapRxN9TrFwa">booster video</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/rTadfDyy4nRimOc">presentation video</a>]
@@ -348,6 +364,7 @@ proceedings.
         <td>
             <i>Universal Dependencies for Saraiki</i><br>
             Meesum Alam, Francis Tyers, Emily Hanink and Sandra Kübler<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.23/">paper</a>]<br>
             [<a href="slides/alam-etal-2024-universal-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/PROUgul1T0GSTdb">booster video</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/AabHS3vqfI7UkvD">presentation video</a>]
@@ -358,6 +375,7 @@ proceedings.
         <td>
             <i>BERT-based Idiom Identification using Language Translation and Word Cohesion</i><br>
             Arnav Yayavaram, Siddharth Yayavaram, Prajna Devi Upadhyay and Apurba Das<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.26/">paper</a>]<br>
             [<a href="slides/yayavaram-etal-2024-bert-slides.pdf">slides</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/9VzrUJRxuy1kd66">booster video</a>]
             [<a href="https://uni-duesseldorf.sciebo.de/s/TPP9XJ9WDhLO3J1">presentation video</a>]
@@ -376,6 +394,7 @@ proceedings.
         <td>
             <i>To Leave No Stone Unturned: Annotating Verbal Idioms in the Parallel Meaning Bank</i><br>
             Rafael Ehren, Kilian Evang and Laura Kallmeyer<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.16/">paper</a>]<br>
             [<a href="slides/ehren-etal-2024-leave-slides.pdf">slides</a>]
         </td>
     </tr>
@@ -384,6 +403,7 @@ proceedings.
         <td>
             <i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i><br>
             Jaka Čibej, Polona Gantar and Mija Bon<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.20/">paper</a>]<br>
             [<a href="slides/cibej-etal-2024-annoation-slides.pdf">slides</a>]
         </td>
     </tr>
@@ -392,6 +412,7 @@ proceedings.
         <td>
             <i>Ad Hoc Compounds for Stance Detection</i><br>
             Qi Yu, Fabian Schlotterbeck, Henning Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.27/">paper</a>]<br>
             [<a href="slides/yu-etal-2024-ad-slides.pdf">slides</a>]
         </td>
     </tr>
@@ -408,6 +429,7 @@ proceedings.
         <td>
             <i>Synthetic-Error Augmented Parsing of Swedish as a Second Language: Experiments with Word Order</i><br>
             Arianna Masciolini, Emilie Francis and Maria Irena Szawerna<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.7/">paper</a>]<br>
             [<a href="posters/masciolini-etal-2024-synthetic-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -416,6 +438,7 @@ proceedings.
         <td>
             <i>A Universal Dependencies Treebank for Gujarati</i><br>
             Mayank Jobanputra, Maitrey Mehta and Çağrı Çöltekin<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.9/">paper</a>]<br>
             [<a href="posters/jobanputra-etal-2024-universal-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -424,6 +447,7 @@ proceedings.
         <td>
             <i>Part-of-Speech Tagging for Northern Kurdish</i><br>
             Peshmerge Morad, Sina Ahmadi and Lorenzo Gatti<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.11/">paper</a>]<br>
             [<a href="posters/morad-etal-2024-part-poster.pdf">poster</a>]
         </td>
     </tr>
@@ -432,6 +456,7 @@ proceedings.
         <td>
             <i>Domain-Weighted Batch Sampling for Neural Dependency Parsing</i><br>
             Jacob Striebel, Daniel Dakota and Sandra Kübler<br>
+            [<a href="https://aclanthology.org/2024.mwe-1.24/">paper</a>]<br>
             [<a href="posters/striebel-etal-2024-domain-poster.pdf">poster</a>]
         </td>
     </tr>
