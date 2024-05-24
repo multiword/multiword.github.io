@@ -398,7 +398,7 @@ proceedings.
             <i>Annotation of Multiword Expressions in the SUK 1.0 Training Corpus of Slovene: Lessons Learned and Future Steps</i><br>
             Jaka Čibej, Polona Gantar and Mija Bon<br>
             [<a href="https://aclanthology.org/2024.mwe-1.20/">paper</a>]
-            [<a href="slides/cibej-etal-2024-annoation-slides.pdf">slides</a>]
+            [<a href="slides/cibej-etal-2024-annotation-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
