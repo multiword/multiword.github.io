@@ -110,7 +110,8 @@ proceedings.
         <td>
             <i>Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</i><br>
             Harish Tayyar Madabushi<br>
-            [<a href="#madabushi">abstract</a>]
+            [<a href="#tayyar-madabushi">abstract</a>]
+            [<a href="slides/tayyar-madabushi-2024-every-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
@@ -286,6 +287,7 @@ proceedings.
             <i>Using Universal Dependencies for testing hypotheses about communicative efficiency</i><br>
             Natalia Levshina<br>
             [<a href="#levshina">abstract</a>]
+            [<a href="slides/levshina-2024-using-slides.pdf">slides</a>]
         </td>
     </tr>
     <tr>
@@ -593,7 +595,7 @@ linguistic behaviour and shows how these principles can explain why human
 languages are the way they are. Natalia is also the author of a best-selling
 statistical manual “How to Do Linguistics with R” (Benjamins, 2015).
 
-#### <a name="madabushi">Harish Tayyar Madabushi: Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</a>
+#### <a name="tayyar-madabushi">Harish Tayyar Madabushi: Every Time We Hire an LLM, the Reasoning Performance of the Linguists Goes Up</a>
 
 **Abstract:** Pre-Trained Language Models (PLMs), trained on the cloze-like
 task of masked language modelling, have demonstrated access to a broad range of
