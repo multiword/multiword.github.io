@@ -212,14 +212,6 @@ proceedings.
     <tr>
         <td></td>
         <td>
-            <i>AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations</i> [non-archival]<br>
-            Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic<br>
-            [<a href="posters/hadj-mohamed-etal-2024-alphamwe-poster.pdf">poster</a>]
-        </td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
             <i>A demonstration of MWE-Finder and MWE-Annotator</i> [non-archival]<br>
             Jan Odijk, Martin Kroon, Tijmen Baarda, Ben Bonfil and Sheean Spoel<br>
             [<a href="posters/odijk-etal-2024-demonstration-poster.pdf">poster</a>]
@@ -458,6 +450,14 @@ proceedings.
             Jacob Striebel, Daniel Dakota and Sandra Kübler<br>
             [<a href="https://aclanthology.org/2024.mwe-1.24/">paper</a>]
             [<a href="posters/striebel-etal-2024-domain-poster.pdf">poster</a>]
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <i>AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations</i> [non-archival]<br>
+            Najet Hadj Mohamed, Malak Rassem, Lifeng Han and Goran Nenadic<br>
+            [<a href="posters/hadj-mohamed-etal-2024-alphamwe-poster.pdf">poster</a>]
         </td>
     </tr>
     <tr>
