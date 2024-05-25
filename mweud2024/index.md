@@ -503,16 +503,8 @@ proceedings.
         </td>
     </tr>
     <tr>
-        <th>17:20–17:50</th>
-        <th>Community discussion</th>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Session chair: Voula Giouli</td>
-    </tr>
-    <tr>
-        <th>17:50–18:00</th>
-        <th>Closing, best paper awards, photos</th>
+        <th>17:20–18:00</th>
+        <th>Best paper award, announcements, community discussion</th>
     </tr>
     <tr>
         <td></td>
