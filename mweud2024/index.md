@@ -405,7 +405,7 @@ proceedings.
         <td></td>
         <td>
             <i>Ad Hoc Compounds for Stance Detection</i><br>
-            Qi Yu, Fabian Schlotterbeck, Henning Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt<br>
+            Qi Yu, Fabian Schlotterbeck, Hening Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt<br>
             [<a href="https://aclanthology.org/2024.mwe-1.27/">paper</a>]
             [<a href="slides/yu-etal-2024-ad-slides.pdf">slides</a>]
         </td>
