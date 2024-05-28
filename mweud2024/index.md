@@ -98,6 +98,12 @@ proceedings.
         <td>Session chair: Voula Giouli</td>
     </tr>
     <tr>
+        <td></td>
+        <td>
+            [<a href="slides/mweud-2024-opening-slides.pdf">slides</a>]
+        </td>
+    </tr>
+    <tr>
         <th>09:05–09:50</th>
         <th>Keynote 1</th>
     </tr>
@@ -509,6 +515,12 @@ proceedings.
     <tr>
         <td></td>
         <td>Session chair: Voula Giouli</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            [<a href="slides/mweud-2024-closing-slides.pdf">slides</a>]
+        </td>
     </tr>
 </table>
 
