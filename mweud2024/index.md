@@ -18,7 +18,8 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 ### News
 
-* **May 30, 2024**: Proceedings available
+* **May 25, 2024**: MWE-UD 2024 workshop
+* **May 23, 2024**: Proceedings available
 * **April 30, 2024**: Detailed tentative schedule online
 * **April 5, 2024**: Acceptance notifications for nonarchival presentations sent
 * **April 2, 2024**: Acceptance notifications for archival papers sent
@@ -31,6 +32,15 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 * **December 8, 2023**: MWE-UD 2024 workshop date confirmed (Workshop Date: May 25, 2024)
 * **November 21, 2023**: MWE-UD 2024 proposal accepted to LREC-COLING 2024
 * **August 29, 2023**: Organising committee formed
+
+-----
+
+<table>
+<tr><td>
+<a href="img/mweud2024-online-group-picture.jpg"><img class="img-fluid mx-auto d-block" alt="MWE-UD 2024 online group picture" src="img/mweud2024-online-group-picture-small.jpg"/></a></td>
+<td>
+<a href="img/mweud2024-onsite-group-picture.jpg"><img class="img-fluid mx-auto d-block" alt="MWE-UD 2024 online group picture" src="img/mweud2024-onsite-group-picture-small.jpg"/></a>
+</td></tr></table>
   
 -----
 
