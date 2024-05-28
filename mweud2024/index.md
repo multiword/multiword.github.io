@@ -381,7 +381,7 @@ proceedings.
     </tr>
     <tr>
         <td></td>
-        <td>Session chair: TBD</td>
+        <td>Session chair: Marcos Garcia</td>
     </tr>
     <tr>
         <td></td>
