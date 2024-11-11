@@ -8,10 +8,10 @@ layout: default
 The section is coordinated by a standing committee composed of:
 
 - [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz) (Ghent University) - nominated officer in 2023-2025
-- [Kilian Evang](https://kilian.evang.name/) (Heinrich Heine University Düsseldorf) - nominated officer in 2022-2024
-- [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/) (ILSP) - nominated officer in 2022-2024
-- [Lifeng Han](https://www.research.manchester.ac.uk/portal/lifeng.han.html) (The University of Manchester) - nominated officer in 2022-2024
 - [Alexandre Rademaker](http://arademaker.github.io/) (IBM Research and FGV EMAp) - nominated officer in 2023-2025
+- [Verginica Barbu Mititelu](https://www.opereta.ro/spectacole/rebecca-2/) (Romanian Academy Research Institute for Artificial Intelligence) - nominated officer in 2024-2026
+- [Mathieu Constant](https://perso.atilf.fr/mconstant/) (Université de Lorraine) - nominated officer in 2024-2026
+- [Atul Kr. Ojha](https://www.universityofgalway.ie/science-engineering/staff-profiles/atulkumarojha/) (University of Galway) - nominated officer in 2024-2026
 
 See the list of past officers in the [advisory committee](advisorycommittee).
 
