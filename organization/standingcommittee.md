@@ -9,7 +9,7 @@ The section is coordinated by a standing committee composed of:
 
 - [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz) (Ghent University) - nominated officer in 2023-2025
 - [Alexandre Rademaker](http://arademaker.github.io/) (IBM Research and FGV EMAp) - nominated officer in 2023-2025
-- [Verginica Barbu Mititelu](https://www.opereta.ro/spectacole/rebecca-2/) (Romanian Academy Research Institute for Artificial Intelligence) - nominated officer in 2024-2026, section's representative
+- [Verginica Barbu Mititelu](https://www.opereta.ro/spectacole/rebecca-2/) (Romanian Academy Research Institute for Artificial Intelligence) - elected section representative 2024-2026
 - [Mathieu Constant](https://perso.atilf.fr/mconstant/) (Université de Lorraine) - nominated officer in 2024-2026
 - [Atul Kr. Ojha](https://www.universityofgalway.ie/science-engineering/staff-profiles/atulkumarojha/) (University of Galway) - nominated officer in 2024-2026
 
