@@ -168,7 +168,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 <table>
   <tr><td>A. Seza Dogruöz </td><td style="padding-left: 20px;">Ghent University, Belgium</td></tr>
   <tr><td>Alexandre Rademaker </td><td style="padding-left: 20px;">IBM Research, Brazil</td></tr>
-  <tr><td>Atul Kr. Ojha </td><td style="padding-left: 20px;">Insight Research Centre for Data Analyatics, University of Galway</td></tr>
+  <tr><td>Atul Kr. Ojha </td><td style="padding-left: 20px;">Insight Research Ireland Centre for Data Analytics, University of Galway</td></tr>
   <tr><td>Gražina Korvel </td><td style="padding-left: 20px;">VU Institute of Data Science and Digital Technologies</td></tr>    
   <tr><td>Mathieu Constant </td><td style="padding-left: 20px;">Université de Lorraine</td></tr>
   <tr><td>Verginica Barbu Mititelu  </td><td style="padding-left: 20px;">Romanian Academy</td></tr>
