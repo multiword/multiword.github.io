@@ -142,7 +142,7 @@ Papers should be submitted via the workshop's submission page (TBD). Please choo
 
 -------
 
-### <a name="award">Best Paper Award and Travel Grants</a>
+### <a name="award">Best Paper Award</a>
 
 TBD
 
