@@ -5,7 +5,7 @@ layout: default
 
 <h2>21<sup>st</sup> Workshop on Multiword Expressions (MWE 2025)</h2>
 
-**Colocated with:** [NAACL-2025](https://2025.naacl.org/.com)
+**Colocated with:** [NAACL-2025](https://2025.naacl.org/.com), Albuquerque, New Mexico, U.S.A.
 
 **Date of the Workshop:** May 3/4, 2025 
 
