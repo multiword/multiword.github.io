@@ -3,7 +3,7 @@ title: 21st Workshop on Multiword Expressions (MWE 2025)
 layout: default
 ---
 
-<h2>21st Workshop on Multiword Expressions (MWE 2025)</h2>
+<h2>21<sup>st</sup> Workshop on Multiword Expressions (MWE 2025)</h2>
 
 **Colocated with:** [NAACL-2025](https://2025.naacl.org/.com)
 
@@ -98,7 +98,7 @@ To attend the workshop (either in person or virtually), please register through 
 Multiword expressions (MWEs), i.e., word combinations that exhibit lexical, syntactic, semantic, pragmatic, and/or statistical idiosyncrasies (Baldwin and Kim, 2010), such as “by and large”, “hot dog”, “make a decision” and “break one's leg” are still a pain in the neck for Natural Language Processing (NLP). The notion encompasses closely related phenomena: idioms, compounds, light-verb constructions, phrasal verbs, rhetorical figures, collocations, institutionalized phrases, etc. Given their irregular nature, MWEs often pose complex problems in linguistic modeling (e.g. annotation), NLP tasks (e.g. parsing), and end-user applications (e.g. natural language understanding and Machine Translation), hence still representing an open issue for computational linguistics (Constant et al., 2017). 
 
 
-For more than two decades, modelling and processing MWEs for NLP has been the topic of the MWE workshop organised by the MWE section of SIGLEX in conjunction with major NLP conferences since 2003. Impressive progress has been made in the field, but our understanding of MWEs still requires much research considering their need and usefulness in NLP applications. This is also relevant to domain-specific NLP pipelines that need to tackle terminologies most often realised as MWEs. Following previous years, for this 19th edition of the workshop, we identified the following topics on which contributions are particularly encouraged:
+For more than two decades, modelling and processing MWEs for NLP has been the topic of the MWE workshop organised by the MWE section of SIGLEX in conjunction with major NLP conferences since 2003. Impressive progress has been made in the field, but our understanding of MWEs still requires much research considering their need and usefulness in NLP applications. This is also relevant to domain-specific NLP pipelines that need to tackle terminologies most often realised as MWEs. Following previous years, for this 21<sup>st</sup> edition of the workshop, we identified the following topics on which contributions are particularly encouraged:
 
 - **MWE processing to enhance end-user applications:** MWEs have gained particular attention in end-user applications, including Machine Translation (MT) (Zaninello and Birch, 2020), simplification (Kochmar et al., 2020), language learning and assessment (Paquot et al., 2020), social media mining (Pelosi et al., 2017), and abusive language detection (Zampieri et al. 2020). We believe that it is crucial to extend and deepen these first attempts to integrate and evaluate MWE technology in these and further end-user applications.
 - **MWE processing and identification in the general language, as well as in specialized languages and domains:** Multiword terminology extraction from domain-specific corpora (Lossio-Ventura et al, 2014) is of particular importance to various applications, such as MT (Semmar and Laib, 2017), or for the identification and monitoring of neologisms and technical jargon (Chatzitheodorou and Kappatos, 2021).
