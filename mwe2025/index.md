@@ -136,7 +136,7 @@ The workshop invites  two types of submissions: 
 
 ### <a name="instructions">Paper Submission and Templates</a>
 
-Papers should be submitted via the workshop's submission page (TBD). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files). For further information on this initiative, please refer to [NAACL 2025](https://2025.naacl.org/calls/papers/#paper-submission-details)
+Papers should be submitted via the [OpenReview submission page](https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/MWE). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files). For further information on this initiative, please refer to [NAACL 2025](https://2025.naacl.org/calls/papers/#paper-submission-details)
 
 
 
