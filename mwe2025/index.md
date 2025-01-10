@@ -171,7 +171,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
   <tr><td>Atul Kr. Ojha </td><td style="padding-left: 20px;">Insight Research Ireland Centre for Data Analytics, University of Galway</td></tr>
   <tr><td>Gražina Korvel </td><td style="padding-left: 20px;">VU Institute of Data Science and Digital Technologies</td></tr>    
   <tr><td>Mathieu Constant </td><td style="padding-left: 20px;">Université de Lorraine</td></tr>
-  <tr><td>Verginica Barbu Mititelu  </td><td style="padding-left: 20px;">Romanian Academy</td></tr>
+  <tr><td>Verginica Barbu Mititelu  </td><td style="padding-left: 20px;">Romanian Academy Research Institute for Artificial Intelligence</td></tr>
   <tr><td>Voula Giouli </td><td style="padding-left: 20px;">Institute for Language & Speech Processing, ATHENA RC, Greece</td></tr>
 
 </table>
@@ -180,7 +180,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 ### <a name="committee"> Program Committee </a>
 
-| Verginica Barbu Mititelu   | Romanian Academy           |
+| Verginica Barbu Mititelu   | Romanian Academy Research Institute for Artificial Intelligence           |
 | Cherifa Ben Kehlil         | University of Tours        |
 | Philippe Blache            | Aix-Marseille Uni |
 | Francis Bond               | Palacký University         |
