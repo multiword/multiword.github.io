@@ -265,7 +265,7 @@ The workshop follows the [ACL anti-harassment policy](https://www.aclweb.org/adm
 
 ### <a name="contact"> Contact </a>
 
-For any inquiries regarding the workshop, please send an email to the Organizing Committee at [mweworkshop2023@googlegroups.com](mailto:mweworkshop2023@googlegroups.com ).
+For any inquiries regarding the workshop, please send an email to the Organizing Committee at [mwe2025workshop@gmail.com](mailto:mwe2025workshop@gmail.com).
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
