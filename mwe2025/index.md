@@ -178,7 +178,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 -----
 
-### <a name="committee"> Program Committee </a>
+### <a name="committee"> Program Committee (to be updated) </a>
 
 | Verginica Barbu Mititelu   | Romanian Academy Research Institute for Artificial Intelligence           |
 | Cherifa Ben Kehlil         | University of Tours        |
