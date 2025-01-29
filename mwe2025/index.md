@@ -152,10 +152,10 @@ TBD
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
-| Paper submission deadline  | January 30, 2025           |
+| Paper submission deadline  | February 13, 2025           |
 | ARR commitment deadline    | February 20, 2025          |
-| Notification of acceptance | March 1, 2025              |
-| Camera-ready papers due    | March 10, 2025             |
+| Notification of acceptance | March 8, 2025              |
+| Camera-ready papers due    | March 17, 2025             |
 | Underline upload deadline  | April 8, 2025              |
 | Workshop                   | May 03 or 04, 2025         |
 
