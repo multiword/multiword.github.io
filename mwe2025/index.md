@@ -7,7 +7,7 @@ layout: default
 
 **Colocated with:** [NAACL-2025](https://2025.naacl.org/.com), Albuquerque, New Mexico, U.S.A.
 
-**Date of the Workshop:** May 3/4, 2025 
+**Date of the Workshop:** May 4, 2025 
 
 **Organised and sponsored by:**\
 The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)).
@@ -157,7 +157,7 @@ TBD
 | Notification of acceptance | March 8, 2025              |
 | Camera-ready papers due    | March 17, 2025             |
 | Underline upload deadline  | April 8, 2025              |
-| Workshop                   | May 03 or 04, 2025         |
+| Workshop                   | May 04, 2025         |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
