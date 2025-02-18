@@ -8,7 +8,7 @@ layout: default
 The section's past officers (not currently serving in the standing committee) compose the section's advisory committee.
 
 - [Kilian Evang](https://kilian.evang.name/) (Heinrich Heine University Düsseldorf) - nominated officer in 2022-2024
-- [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/) (ILSP) - nominated officer in 2022-2024
+- [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/) (Aristotle University of Thessaloniki and Institute for Language and Speech Processing, ATHENA RC) - elected section representative in 2022-2024
 - [Lifeng Han](https://www.research.manchester.ac.uk/portal/lifeng.han.html) (The University of Manchester) - nominated officer in 2022-2024
 - [Archna Bhatia](https://www.ihmc.us/groups/abhatia/) (Florida Institute for Human and Machine Cognition, USA) - nominated officer in 2021-2023
 - [Marcos Garcia](https://citius.gal/team/marcos-garcia-gonzalez) (Universidade de Santiago de Compostela, Spain) - nominated officer in 2021-2023
