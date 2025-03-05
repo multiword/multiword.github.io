@@ -84,7 +84,14 @@ TBD
 
 ### <a name="keynotes">Keynote speakers </a>
 
-TBD
+#### [Nathan Schneider]([https://www.icrea.cat/Web/ScientificStaff/leo-wanner-324](https://people.cs.georgetown.edu/nschneid/)) (Georgetown University)
+
+**Bio:** TBA 
+
+**Title:** TBA
+
+**Abstract:** TBA
+
 
 -----
 ### <a name="registration"> Registration </a>
