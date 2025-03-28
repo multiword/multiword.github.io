@@ -187,72 +187,38 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 -----
 
-### <a name="committee"> Program Committee (to be updated) </a>
+### <a name="committee"> Program Committee </a>
 
-| Verginica Barbu Mititelu   | Romanian Academy Research Institute for Artificial Intelligence           |
-| Cherifa Ben Kehlil         | University of Tours        |
-| Philippe Blache            | Aix-Marseille Uni |
-| Francis Bond               | Palacký University         |
-| Claire Bonial              | U.S. Army Research Laboratory |
-| Julia Bonn                 | University of Colorado Boulder |
-| Tiberiu Boroș              | Adobe                      |
-| Marie Candito              | Université Paris Cité      |
-| Giuseppe G. A. Celano      | Leipzig Uni | 
-| Kenneth Church             | Baidu                      |
-| Çağrı Çöltekin             | University of Tübingen     |
-| Mathieu Constant           | Université de Lorraine     |
-| Monika Czerepowicka        | University of Warmia and Mazury |
-| Daniel Dakota              | Indiana University         |
-| Miryam de Lhoneux          | KU Leuven                  |
-| Marie-Catherine de Marneffe | UC Louvain                 |
-| Valeria de Paiva           | Nuance                    |
-| Gaël Dias                  | University of Caen Basse-Normandie |
-| Kaja Dobrovoljc            | University of Ljubljana    |
-| Rafael Ehren               | Heinrich Heine University Düsseldorf |
-| Gülşen Eryiğit             | Istanbul Technical University |
-| Meghdad Farahmand          | Berlin, Germany            |
-| Christiane Fellbaum        | Princeton University       |
-| Jennifer Foster            | Dublin City University     |
-| Aggeliki Fotopoulou        | Institute for Language and Speech Processing, ATHENA RC |
-| Stefan Th. Gries           | UC Santa Barbara & JLU Giessen | 
-| Bruno Guillaume            | Université de Lorraine     |
-| Tunga Gungor               | Bogaziçi University        |
-| Eleonora Guzzi             | Universidade da Coruña     |
-| Laura Kallmeyer            | Heinrich Heine University Düsseldorf |
-| Cvetana Krstev             | University of Belgrade     |
-| Timm Lichte                | University of Tübingen     |
-| Irina Lobzhanidze          | Ilia State University      |
-| Teresa Lynn                | ADAPT Centre               |
-| Stella Markantonatou       | Institute for Language & Speech Processing, ATHENA RC |
-| John P. McCrae             | National University of Ireland, Galway |
-| Nurit Melnik               | The Open University of Israel |
-| Johanna Monti              | "L'Orientale" University of Naples |
-| Dmitry Nikolaev            | University of Manchester |
-| Jan Odijk                  | University of Utrecht      |
-| Petya Osenova              | Bulgarian Academy of Sciences |
-| Yannick Parmentier         | University of Lorraine     |
-| Agnieszka Patejuk          | University of Oxford and Institute of Computer Science, Polish Academy of Sciences |
-| Pavel Pecina               | Charles University |
-| Ted Pedersen               | University of Minnesota |
-| Prokopis Prokopidis        | Institute for Language and Speech Processing, ATHENA RC |
-| Manfred Sailer             | Goethe-Universität Frankfurt am Main |
-| Tanja Samardžić            | University of Zurich |
-| Agata Savary               | Université Paris-Saclay |
-| Nathan Schneider           | Georgetown University |
-| Sabine Schulte im Walde    | University of Stuttgart |
-| Sebastian Schuster         | Saarland University |
-| Matthew Shardlow           | University of Manchester |
-| Joaquim Silva              | Universidade NOVA de Lisboa |
-| Maria Simi                 | Università di Pisa |
-| Ranka Stanković            | University of Belgrade |
-| Ivelina Stoyanova          | Bulgarian Academy of Sciences |
-| Stan Szpakowicz            | University of Ottawa |
-| Shiva Taslimipoor          | University of Cambridge |
-| Beata Trawinski            | Leibniz Institute for the German Language |
-| Ashwini Vaidya             | Indian Institute of Technology |
-| Marion Di Marco            | Ludwig Maximilian University of Munich |
-| Amir Zeldes                | Georgetown University |
-| Daniel Zeman               | Charles University |
+|	Agata Savary	|	Université Paris-Saclay	|
+|	Beata Trawinski	|	Leibniz Institute for the German Language	|
+|	Carlos Ramisch	|	LIS - Laboratoire d'Informatique et Systèmes	|
+|	Chikara Hashimoto	|	Rakuten Institute of Technology	|
+|	Cvetana Krstev	|	University of Belgrade, Faculty of Philology	|
+|	Eric G C Laporte	|	Université Gustave Eiffel	|
+|	Francis Bond	|	Palacký University Olomouc	|
+|	Gaël Dias	|	University of Caen Normandy	|
+|	Gražina Korvel	|	Vilnius University	|
+|	Irina Lobzhanidze	|	Ilia Chavchavadze State University	|
+|	Ismail El Maarouf	|	Imprevicible	|
+|	Ivelina Stoyanova	|	Deaf Studies Institute	|
+|	Jan Odijk	|	Utrecht University	|
+|	John Philip McCrae	|	National University of Ireland Galway	|
+|	Kenneth Church	|	Northeastern University	|
+|	Manfred Sailer	|	Johann Wolfgang Goethe Universität Frankfurt am Main	|
+|	Mathieu Constant	|	Université de Lorraine, CNRS, ATILF	|
+|	Matthew Shardlow	|	The Manchester Metropolitan University	|
+|	Meghdad Farahmand	|	University of Genoa	|
+|	Miriam Butt	|	Universität Konstanz	|
+|	Paul Cook	|	University of New Brunswick	|
+|	Pavel Pecina	|	Charles University	|
+|	Petya Osenova	|	Sofia University "St. Kliment Ohridski"	|
+|	Ranka Stanković	|	University of Belgrade	|
+|	Sabine Schulte im Walde	|	University of Stuttgart	|
+|	Shiva Taslimipoor	|	University of Cambridge	|
+|	Stan Szpakowicz	|	University of Ottawa	|
+|	Stella Markantonatou	|	ATHENA RIC	|
+|	Tiberiu Boros	|	Adobe Systems	|
+|	Tunga Gungor	|	Bogazici University	|
 
 -----
 
