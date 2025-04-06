@@ -77,9 +77,28 @@ TBD
 ### <a name="program"> Program </a>
 
 
-TBD
-
-------
+| Time                |                                          |
+|:-------------------|   ---------------------                  |
+| **09:15–09:30**    | **Welcome**               |
+| **09:30–10:30**    | **Invited talk**                  |
+|  **10:30–11:00**      | **Coffee break**                       |
+|   **11:00–12:30**  | **Oral Session-I**  |
+|      | Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP <br/> *Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova* |
+|      | Named Entity Recognition for the Irish Language <br/> *Jane Adkins, Hugo Collins, Joachim Wagner, Abigail Walsh and Brian Davis*          |
+|      | Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician <br/> *Laura Castro and Marcos Garcia*          |
+|      | VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek) <br/> *Stella Markantonatou, Vivian Stamou, Stavros Bompolas, Katerina Anastasopoulou, Irianna Linardaki Vasileiadi, Konstantinos Diamantopoulos, Yannis Kazos and Antonios Anastasopoulos*   |
+|  **12:30–14:00**      | **Lunch**                       |
+|  **14:00–15:00**      | **Oral Session-II**                       |
+|      |A European Portuguese corpus annotated for verbal idioms <br/> *David Antunes, Jorge Baptista and Nuno J. Mamede*   |
+|      |MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation <br/> *Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet*   |
+|      |Probing Internal Representations of Multi-Word Verbs in Large Language Models <br/> *Hassane Kissane, Achim Schilling and Patrick Krauss*   |
+|      |Syntagmatic Productivity of MWEs in Scientific English <br/> *Diego Alves, Stefan Fischer and Elke Teich*    |
+  |**15:30 - 16:00**  | **Coffee Break**  |
+  | **16:00 - 18:00**    | **Oral Session III, panel and community discussion**   |
+  |                 |Using LLMs to Advance Idiom Corpus Construction <br/> *Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre* |
+ |16:20 - 17:20   |  Panel: Tokenization in the era of LLMs   |
+ |17:20 - 17:50   | Community discussion   |
+| 17:50 - 18:00   | Best Paper Awards and Concluding Remarks   |
 
 
 ### <a name="keynotes">Keynote speaker </a>
