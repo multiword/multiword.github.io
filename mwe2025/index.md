@@ -101,7 +101,7 @@ TBD
 |      |Syntagmatic Productivity of MWEs in Scientific English <br/> *Diego Alves, Stefan Fischer and Elke Teich*    |
  |17:00 - 17:30   | Community discussion   |
 | 17:30 - 17:40   | Best Paper Awards and Concluding Remarks   | --->
-<table border="1" cellspacing="2" cellpadding="6">
+<table>
   <thead>
     <tr>
       <th>Time</th>
