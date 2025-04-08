@@ -108,9 +108,9 @@ TBD
     <th>Session</th>
   </tr>
 
-  <tr><th>09:15–09:30</th><th>Welcome</th></tr>
+  <tr><th>09:15–09:30</th><th>Welcome by <i>Workshop Chairs</i>i</th></tr>
 
-  <tr><th>09:30–10:30</th><th>Invited talk</th></tr>
+  <tr><th>09:30–10:30</th><th>Invited talk: Meaning Construction at the Syntax-Lexis Nexus by <i> Nathan Schneider </i>, Georgetown University </th> </tr>
 
   <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
 
