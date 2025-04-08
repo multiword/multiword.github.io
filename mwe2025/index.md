@@ -100,8 +100,8 @@ TBD
 |      |Probing Internal Representations of Multi-Word Verbs in Large Language Models <br/> *Hassane Kissane, Achim Schilling and Patrick Krauss*   |
 |      |Syntagmatic Productivity of MWEs in Scientific English <br/> *Diego Alves, Stefan Fischer and Elke Teich*    |
  |17:00 - 17:30   | Community discussion   |
-| 17:30 - 17:40   | Best Paper Awards and Concluding Remarks   | --->
-<table>
+| 17:30 - 17:40   | Best Paper Awards and Concluding Remarks   | 
+<table class="program">
   <thead>
     <tr>
       <th>Time</th>
@@ -166,7 +166,82 @@ TBD
     <tr><td>17:00 - 17:30</td><td>Community discussion</td></tr>
     <tr><td>17:30 - 17:40</td><td>Best Paper Awards and Concluding Remarks</td></tr>
   </tbody>
+</table> --->
+
+<table class="program">
+  <tr>
+    <th>Time</th>
+    <th>Session</th>
+  </tr>
+
+  <tr><th>09:15–09:30</th><th>Welcome</th></tr>
+
+  <tr><th>09:30–10:30</th><th>Invited talk</th></tr>
+
+  <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
+
+  <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
+  <tr><td></td><td>
+    <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
+    Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
+  </td></tr>
+  <tr><td></td><td>
+    <i>Named Entity Recognition for the Irish Language</i><br/>
+    Jane Adkins, Hugo Collins, Joachim Wagner, Abigail Walsh and Brian Davis
+  </td></tr>
+  <tr><td></td><td>
+    <i>Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician</i><br/>
+    Laura Castro and Marcos Garcia
+  </td></tr>
+  <tr><td></td><td>
+    <i>VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)</i><br/>
+    Stella Markantonatou, Vivian Stamou, Stavros Bompolas, Katerina Anastasopoulou, Irianna Linardaki Vasileiadi, Konstantinos Diamantopoulos, Yannis Kazos and Antonios Anastasopoulos
+  </td></tr>
+
+  <tr><th>12:30–14:00</th><th>Lunch</th></tr>
+
+  <tr><th>14:00–15:00</th><th>Panel Discussion</th></tr>
+  <tr><td></td><td>
+    Panel Topic: Tokenization in the era of LLMs
+  </td></tr>
+  <tr><td></td><td>
+    Panelists: Elizabeth Salesky (Google DeepMind), Yuval Pinter (Ben-Gurion University), Jindrich Libovicky (UFAL, Charles University), John P. McCrae (University of Galway)
+  </td></tr>
+  <tr><td></td><td>
+    Panel Coordinator: Agata Savary (Université Paris-Saclay)
+  </td></tr>
+
+  <tr><th>15:00–15:15</th><th>Oral Session II</th></tr>
+  <tr><td></td><td>
+    <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
+    Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre
+  </td></tr>
+
+  <tr><th>15:15–16:00</th><th>Coffee Break</th></tr>
+
+  <tr><th>16:00–17:00</th><th>Oral Session III</th></tr>
+  <tr><td></td><td>
+    <i>A European Portuguese corpus annotated for verbal idioms</i><br/>
+    David Antunes, Jorge Baptista and Nuno J. Mamede
+  </td></tr>
+  <tr><td></td><td>
+    <i>MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</i><br/>
+    Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet
+  </td></tr>
+  <tr><td></td><td>
+    <i>Probing Internal Representations of Multi-Word Verbs in Large Language Models</i><br/>
+    Hassane Kissane, Achim Schilling and Patrick Krauss
+  </td></tr>
+  <tr><td></td><td>
+    <i>Syntagmatic Productivity of MWEs in Scientific English</i><br/>
+    Diego Alves, Stefan Fischer and Elke Teich
+  </td></tr>
+
+  <tr><th>17:00–17:30</th><th>Community discussion</th></tr>
+
+  <tr><th>17:30–17:40</th><th>Best Paper Awards and Concluding Remarks</th></tr>
 </table>
+
 
 ### <a name="keynotes">Keynote speaker </a>
 
