@@ -119,7 +119,6 @@ TBD
         <td>
             <i>Meaning Construction at the Syntax-Lexis Nexus</i><br>
             [Nathan Schneider](http://nathan.cl/)<br>
-            [<a href="#keynotes">abstract</a>]
         </td>
     </tr>
     <tr>
