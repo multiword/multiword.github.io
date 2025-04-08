@@ -142,7 +142,7 @@ TBD
     Panelists: <a href="https://esalesky.github.io/">Elizabeth Salesky</a> (Google DeepMind), <a href="https://ufal.mff.cuni.cz/jindrich-libovicky"> Jindřich Libovický </a> (UFAL, Charles University), <a href="https://john.mccr.ae/">John P. McCrae</a> (University of Galway), <a href="https://scholar.google.com/citations?user=aYAcXccAAAAJ&hl=en">Yuval Pinter</a> (Ben-Gurion University)
   </td></tr>
   <tr><td></td><td>
-    Panel Coordinator: Agata Savary (Université Paris-Saclay)
+    Panel Coordinator: <a href="https://perso.limsi.fr/savary/">Agata Savary</a>, (Université Paris-Saclay)
   </td></tr>
 
   <tr><th>15:00–15:30</th><th>Oral Session II</th></tr>
