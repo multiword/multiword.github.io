@@ -145,19 +145,18 @@ TBD
     Panel Coordinator: Agata Savary (Université Paris-Saclay)
   </td></tr>
 
-  <tr><th>15:00–15:15</th><th>Oral Session II</th></tr>
+  <tr><th>15:00–15:30</th><th>Oral Session II</th></tr>
   <tr><td></td><td>
     <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
     Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre
   </td></tr>
-
-  <tr><th>15:15–16:00</th><th>Coffee Break</th></tr>
-
-  <tr><th>16:00–17:00</th><th>Oral Session III</th></tr>
   <tr><td></td><td>
     <i>A European Portuguese corpus annotated for verbal idioms</i><br/>
     David Antunes, Jorge Baptista and Nuno J. Mamede
   </td></tr>
+  <tr><th>15:30–16:00</th><th>Coffee Break</th></tr>
+
+  <tr><th>16:00–17:00</th><th>Oral Session III</th></tr>
   <tr><td></td><td>
     <i>MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</i><br/>
     Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet
