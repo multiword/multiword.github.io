@@ -136,10 +136,10 @@ TBD
 
   <tr><th>14:00–15:00</th><th>Panel Discussion</th></tr>
   <tr><td></td><td>
-    Panel Topic: Tokenization in the era of LLMs
+    Panel Topic: <strong><i>Tokenization in the era of LLMs</i></strong>
   </td></tr>
   <tr><td></td><td>
-    Panelists: Elizabeth Salesky (Google DeepMind), Yuval Pinter (Ben-Gurion University), Jindrich Libovicky (UFAL, Charles University), John P. McCrae (University of Galway)
+    Panelists: <a href="https://esalesky.github.io/">Elizabeth Salesky</a> (Google DeepMind), <a href="https://ufal.mff.cuni.cz/jindrich-libovicky"> Jindřich Libovický </a> (UFAL, Charles University), <a href="https://john.mccr.ae/">John P. McCrae</a> (University of Galway), <a href="https://scholar.google.com/citations?user=aYAcXccAAAAJ&hl=en">Yuval Pinter</a> (Ben-Gurion University)
   </td></tr>
   <tr><td></td><td>
     Panel Coordinator: Agata Savary (Université Paris-Saclay)
