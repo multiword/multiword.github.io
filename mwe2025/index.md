@@ -120,7 +120,6 @@ TBD
             <i>Meaning Construction at the Syntax-Lexis Nexus</i><br>
             [Nathan Schneider](http://nathan.cl/)<br>
             [<a href="#keynotes">abstract</a>]
-            <!--[<a href="slides/www.pdf">slides</a>]--->
         </td>
     </tr>
     <tr>
