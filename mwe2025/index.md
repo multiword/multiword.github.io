@@ -117,8 +117,8 @@ TBD
     <tr>
         <td></td>
         <td>
-            <i>Meaning Construction at the Syntax-Lexis Nexus</i><br>
-            [Nathan Schneider](http://nathan.cl/)<br>
+            <i>Meaning Construction at the Syntax-Lexis Nexus</i><be>
+            Nathan Schneider <be>
         </td>
     </tr>
     <tr>
