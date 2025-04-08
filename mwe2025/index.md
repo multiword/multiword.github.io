@@ -140,7 +140,7 @@ TBD
     <tr><td></td><td>
       Panel Coordinator: Agata Savary (Université Paris-Saclay, France)
     </td></tr>
-    <tr><td><strong>15:00 - 15:15</strong></td><td><strong>Oral Session II, panel and community discussion</strong></td></tr>
+    <tr><td><strong>15:00 - 15:15</strong></td><td><strong>Oral Session II</strong></td></tr>
     <tr><td></td><td>
       Using LLMs to Advance Idiom Corpus Construction<br/>
       <em>Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre</em>
