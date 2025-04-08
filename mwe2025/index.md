@@ -76,11 +76,10 @@ TBD
 
 ### <a name="program"> Program </a>
 
-
-| Time                |                                          |
-|:-------------------|   ---------------------                  |
-| **09:15–09:30**    | **Welcome**               |
-| **09:30–10:30**    | **Invited talk**                  |
+<!---| Time                 |                                          |
+|:-------------------  |   ---------------------                  |
+| **09:15–09:30**      | **Welcome**               |
+| **09:30–10:30**      | **Invited talk**                  |
 |  **10:30–11:00**      | **Coffee break**                       |
 |   **11:00–12:30**  | **Oral Session-I**  |
 |      | Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP <br/> *Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova* |
@@ -88,18 +87,86 @@ TBD
 |      | Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician <br/> *Laura Castro and Marcos Garcia*          |
 |      | VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek) <br/> *Stella Markantonatou, Vivian Stamou, Stavros Bompolas, Katerina Anastasopoulou, Irianna Linardaki Vasileiadi, Konstantinos Diamantopoulos, Yannis Kazos and Antonios Anastasopoulos*   |
 |  **12:30–14:00**      | **Lunch**                       |
-|  **14:00–15:00**      | **Oral Session-II**                       |
+| **14:00 - 15:00**    |  **Panel Discussion**   |
+ |                     |  Panel Topic: Tokenization in the era of LLMs   |
+ |                     |  Panelists: Elizabeth Salesky (Google DeepMind), Yuval Pinter (Ben-Gurion University), Jindrich Libovicky (UFAL, Charles University, Czech Republic), John P. McCrae (University of Galway, Ireland)| 
+|                     |  Panel Coordinator: Agata Savary (Université Paris-Saclay, France)   |
+| **15:00 - 15:15**    | **Oral Session II, panel and community discussion**   |
+|                 |Using LLMs to Advance Idiom Corpus Construction <br/> *Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre* |
+  |**15:15 - 16:00**  | **Coffee Break**  |
+|  **16:00–17:00**      | **Oral Session-III**             |
 |      |A European Portuguese corpus annotated for verbal idioms <br/> *David Antunes, Jorge Baptista and Nuno J. Mamede*   |
 |      |MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation <br/> *Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet*   |
 |      |Probing Internal Representations of Multi-Word Verbs in Large Language Models <br/> *Hassane Kissane, Achim Schilling and Patrick Krauss*   |
 |      |Syntagmatic Productivity of MWEs in Scientific English <br/> *Diego Alves, Stefan Fischer and Elke Teich*    |
-  |**15:30 - 16:00**  | **Coffee Break**  |
-  | **16:00 - 18:00**    | **Oral Session III, panel and community discussion**   |
-  |                 |Using LLMs to Advance Idiom Corpus Construction <br/> *Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre* |
- |16:20 - 17:20   |  Panel: Tokenization in the era of LLMs   |
- |17:20 - 17:50   | Community discussion   |
-| 17:50 - 18:00   | Best Paper Awards and Concluding Remarks   |
-
+ |17:00 - 17:30   | Community discussion   |
+| 17:30 - 17:40   | Best Paper Awards and Concluding Remarks   | --->
+<table border="1" cellspacing="2" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>09:15–09:30</strong></td><td><strong>Welcome</strong></td></tr>
+    <tr><td><strong>09:30–10:30</strong></td><td><strong>Invited talk</strong></td></tr>
+    <tr><td><strong>10:30–11:00</strong></td><td><strong>Coffee break</strong></td></tr>
+    <tr><td><strong>11:00–12:30</strong></td><td><strong>Oral Session-I</strong></td></tr>
+    <tr><td></td><td>
+      Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP<br/>
+      <em>Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova</em>
+    </td></tr>
+    <tr><td></td><td>
+      Named Entity Recognition for the Irish Language<br/>
+      <em>Jane Adkins, Hugo Collins, Joachim Wagner, Abigail Walsh and Brian Davis</em>
+    </td></tr>
+    <tr><td></td><td>
+      Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician<br/>
+      <em>Laura Castro and Marcos Garcia</em>
+    </td></tr>
+    <tr><td></td><td>
+      VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)<br/>
+      <em>Stella Markantonatou, Vivian Stamou, Stavros Bompolas, Katerina Anastasopoulou, Irianna Linardaki Vasileiadi, Konstantinos Diamantopoulos, Yannis Kazos and Antonios Anastasopoulos</em>
+    </td></tr>
+    <tr><td><strong>12:30–14:00</strong></td><td><strong>Lunch</strong></td></tr>
+    <tr><td><strong>14:00 - 15:00</strong></td><td><strong>Panel Discussion</strong></td></tr>
+    <tr><td></td><td>
+      Panel Topic: Tokenization in the era of LLMs
+    </td></tr>
+    <tr><td></td><td>
+      Panelists: Elizabeth Salesky (Google DeepMind), Yuval Pinter (Ben-Gurion University), Jindrich Libovicky (UFAL, Charles University, Czech Republic), John P. McCrae (University of Galway, Ireland)
+    </td></tr>
+    <tr><td></td><td>
+      Panel Coordinator: Agata Savary (Université Paris-Saclay, France)
+    </td></tr>
+    <tr><td><strong>15:00 - 15:15</strong></td><td><strong>Oral Session II, panel and community discussion</strong></td></tr>
+    <tr><td></td><td>
+      Using LLMs to Advance Idiom Corpus Construction<br/>
+      <em>Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre</em>
+    </td></tr>
+    <tr><td><strong>15:15 - 16:00</strong></td><td><strong>Coffee Break</strong></td></tr>
+    <tr><td><strong>16:00–17:00</strong></td><td><strong>Oral Session-III</strong></td></tr>
+    <tr><td></td><td>
+      A European Portuguese corpus annotated for verbal idioms<br/>
+      <em>David Antunes, Jorge Baptista and Nuno J. Mamede</em>
+    </td></tr>
+    <tr><td></td><td>
+      MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation<br/>
+      <em>Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet</em>
+    </td></tr>
+    <tr><td></td><td>
+      Probing Internal Representations of Multi-Word Verbs in Large Language Models<br/>
+      <em>Hassane Kissane, Achim Schilling and Patrick Krauss</em>
+    </td></tr>
+    <tr><td></td><td>
+      Syntagmatic Productivity of MWEs in Scientific English<br/>
+      <em>Diego Alves, Stefan Fischer and Elke Teich</em>
+    </td></tr>
+    <tr><td>17:00 - 17:30</td><td>Community discussion</td></tr>
+    <tr><td>17:30 - 17:40</td><td>Best Paper Awards and Concluding Remarks</td></tr>
+  </tbody>
+</table>
 
 ### <a name="keynotes">Keynote speaker </a>
 
