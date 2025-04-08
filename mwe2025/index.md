@@ -108,20 +108,9 @@ TBD
     <th>Session</th>
   </tr>
 
-  <tr><th>09:15–09:30</th><th>Welcome by <i>Workshop Chairs </i> </th></tr>
+  <tr><th>09:15–09:30</th><th>Welcome</th></tr>
 
   <tr><th>09:30–10:30</th><th>Invited talk</th></tr>
-      <tr> <td></td>
-      <td>Session chair: TBD</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>
-            <i>Meaning Construction at the Syntax-Lexis Nexus</i><be>
-            Nathan Schneider <be>
-        </td>
-    </tr>
-    <tr>
 
   <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
 
@@ -186,6 +175,7 @@ TBD
 
   <tr><th>17:30–17:40</th><th>Best Paper Awards and Concluding Remarks</th></tr>
 </table>
+
 
 
 ### <a name="keynotes">Keynote speaker </a>
