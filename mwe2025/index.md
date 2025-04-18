@@ -5,7 +5,7 @@ layout: default
 
 <h2>21<sup>st</sup> Workshop on Multiword Expressions (MWE 2025)</h2>
 
-**Colocated with:** [NAACL-2025](https://2025.naacl.org/.com), Albuquerque, New Mexico, U.S.A.
+**Colocated with:** [NAACL-2025](https://2025.naacl.org/), Albuquerque, New Mexico, U.S.A.
 
 **Date of the Workshop:** May 4, 2025 
 
@@ -191,7 +191,7 @@ TBD
 -----
 ### <a name="registration"> Registration </a>
 
-To attend the workshop (either in person or virtually), please register through [NAACL 2025’s registration system](tbd.com). Note that to attend MWE 2025, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
+To attend the workshop (either in person or virtually), please register through [NAACL 2025’s registration system](https://acl.swoogo.com/naacl2025). Note that to attend MWE 2025, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
 
 ------
 
