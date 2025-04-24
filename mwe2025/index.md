@@ -134,7 +134,7 @@ TBD
 
   <tr><th>12:30–14:00</th><th>Lunch</th></tr>
 
-  <tr><th>14:00–15:00</th><th>Panel Discussion</th></tr>
+  <tr><th>14:00–14:50</th><th>Panel Discussion</th></tr>
   <tr><td></td><td>
     Panel Topic: <strong><i>Tokenization in the era of LLMs</i></strong>
   </td></tr>
@@ -145,7 +145,7 @@ TBD
     Panel Coordinator: TBD
   </td></tr>
 
-  <tr><th>15:00–15:30</th><th>Oral Session II</th></tr>
+  <tr><th>14:50–15:30</th><th>Oral Session II</th></tr>
   <tr><td></td><td>
     <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
     Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre
@@ -156,7 +156,7 @@ TBD
   </td></tr>
   <tr><th>15:30–16:00</th><th>Coffee Break</th></tr>
 
-  <tr><th>16:00–17:00</th><th>Oral Session III</th></tr>
+  <tr><th>16:00–17:25</th><th>Oral Session III</th></tr>
   <tr><td></td><td>
     <i>MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</i><br/>
     Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet
@@ -170,9 +170,9 @@ TBD
     Diego Alves, Stefan Fischer and Elke Teich
   </td></tr>
 
-  <tr><th>17:00–17:30</th><th>Community discussion</th></tr>
-
-  <tr><th>17:30–17:40</th><th>Best Paper Awards and Concluding Remarks</th></tr>
+  <tr><th>17:25–17:45</th><th>Community discussion, Best Paper Awards and Concluding Remarks</th></tr>
+<!---
+  <tr><th>17:30–17:40</th><th>Best Paper Awards and Concluding Remarks</th></tr> --->
 </table>
 
 
