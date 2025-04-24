@@ -116,15 +116,15 @@ TBD
 
   <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
   <tr><td></td><td>
-    <tr><td>11:00-11:25</td> <td><i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
+    <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
     Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
   </td></tr>
   <tr><td></td><td>
-    <tr><td>11:25-11:50</td> <td><i>Named Entity Recognition for the Irish Language</i><br/>
+    <i>Named Entity Recognition for the Irish Language</i><br/>
     Jane Adkins, Hugo Collins, Joachim Wagner, Abigail Walsh and Brian Davis
   </td></tr>
   <tr><td></td><td>
-    <tr><td>11:50-12:10</td> <td><i>Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician</i><br/>
+    <i>Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician</i><br/>
     Laura Castro and Marcos Garcia
   </td></tr>
   <tr><td></td><td>
