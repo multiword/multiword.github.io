@@ -116,7 +116,7 @@ TBD
 
   <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
   <tr><td></td><td>
-    <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
+    11:00-11:20 <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
     Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
   </td></tr>
   <tr><td></td><td>
