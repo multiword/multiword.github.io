@@ -162,7 +162,6 @@ TBD
     Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet
   </td></tr>
   <tr><td></td><td>
-  <tr><td></td><td>
     <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
     Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre
   </td></tr>
