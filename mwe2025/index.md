@@ -115,19 +115,19 @@ TBD
   <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
 
   <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
-  <tr><td>11:00-11:20</td><td>
+  <tr><td>11:00-11:25</td><td>
      <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
     Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>11:25-11:50</td><td>
     <i>Named Entity Recognition for the Irish Language</i><br/>
     Jane Adkins, Hugo Collins, Joachim Wagner, Abigail Walsh and Brian Davis
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>11:50-12:10</td><td>
     <i>Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician</i><br/>
     Laura Castro and Marcos Garcia
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>12:10-12:30</td><td>
     <i>VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)</i><br/>
     Stella Markantonatou, Vivian Stamou, Stavros Bompolas, Katerina Anastasopoulou, Irianna Linardaki Vasileiadi, Konstantinos Diamantopoulos, Yannis Kazos and Antonios Anastasopoulos
   </td></tr>
@@ -146,31 +146,31 @@ TBD
   </td></tr>
 
   <tr><th>14:50–15:30</th><th>Oral Session II</th></tr>
-  <tr><td></td><td>
+  <tr><td>14:50-15:10</td><td>
     <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
     Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>15:10-15:30</td><td>
     <i>A European Portuguese corpus annotated for verbal idioms</i><br/>
     David Antunes, Jorge Baptista and Nuno J. Mamede
   </td></tr>
   <tr><th>15:30–16:00</th><th>Coffee Break</th></tr>
 
   <tr><th>16:00–17:25</th><th>Oral Session III</th></tr>
-  <tr><td></td><td>
+  <tr><td>16:00-16:25</td><td>
     <i>MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</i><br/>
     Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>16:25-16:50</td><td>
     <i>Probing Internal Representations of Multi-Word Verbs in Large Language Models</i><br/>
     Hassane Kissane, Achim Schilling and Patrick Krauss
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>16:50-17:15</td><td>
     <i>Syntagmatic Productivity of MWEs in Scientific English</i><br/>
     Diego Alves, Stefan Fischer and Elke Teich
   </td></tr>
 
-  <tr><th>17:25–17:45</th><th>Community discussion, Best Paper Awards and Concluding Remarks</th></tr>
+  <tr><th>17:15–17:40</th><th>Community discussion, Best Paper Awards and Concluding Remarks</th></tr>
 <!---
   <tr><th>17:30–17:40</th><th>Best Paper Awards and Concluding Remarks</th></tr> --->
 </table>
