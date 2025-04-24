@@ -115,8 +115,8 @@ TBD
   <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
 
   <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
-  <tr><td></td><td>
-    11:00-11:20 <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
+  <tr><td>11:00-11:20</td><td>
+     <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
     Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
   </td></tr>
   <tr><td></td><td>
