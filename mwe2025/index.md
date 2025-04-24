@@ -116,19 +116,19 @@ TBD
 
   <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
   <tr><td></td><td>
-    11:00-11:20 <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
+    <tr><td>11:00-11:25</td> <td><i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
     Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
   </td></tr>
   <tr><td></td><td>
-    <i>Named Entity Recognition for the Irish Language</i><br/>
+    <tr><td>11:25-11:50</td> <td><i>Named Entity Recognition for the Irish Language</i><br/>
     Jane Adkins, Hugo Collins, Joachim Wagner, Abigail Walsh and Brian Davis
   </td></tr>
   <tr><td></td><td>
-    <i>Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician</i><br/>
+    <tr><td>11:50-12:10</td> <td><i>Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician</i><br/>
     Laura Castro and Marcos Garcia
   </td></tr>
   <tr><td></td><td>
-    <i>VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)</i><br/>
+   <tr><td>12:10-12:30</td> <td> <i>VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)</i><br/>
     Stella Markantonatou, Vivian Stamou, Stavros Bompolas, Katerina Anastasopoulou, Irianna Linardaki Vasileiadi, Konstantinos Diamantopoulos, Yannis Kazos and Antonios Anastasopoulos
   </td></tr>
 
