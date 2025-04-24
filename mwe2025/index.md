@@ -116,7 +116,7 @@ TBD
 
   <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
   <tr><td></td><td>
-    <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
+    11:00-11:20 <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
     Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
   </td></tr>
   <tr><td></td><td>
@@ -128,7 +128,7 @@ TBD
     Laura Castro and Marcos Garcia
   </td></tr>
   <tr><td></td><td>
-   <i>VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)</i><br/>
+    <i>VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)</i><br/>
     Stella Markantonatou, Vivian Stamou, Stavros Bompolas, Katerina Anastasopoulou, Irianna Linardaki Vasileiadi, Konstantinos Diamantopoulos, Yannis Kazos and Antonios Anastasopoulos
   </td></tr>
 
@@ -147,7 +147,7 @@ TBD
 
   <tr><th>14:50–15:30</th><th>Oral Session II</th></tr>
   <tr><td></td><td>
- <tr><td>14:50-15:15</td> <td>   <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
+    <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
     Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre
   </td></tr>
   <tr><td></td><td>
