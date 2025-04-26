@@ -110,7 +110,7 @@ TBD
 
   <tr><th>09:15–09:30</th><th>Welcome by <i>Workshop Chairs</i></th></tr>
 
-  <tr><th>09:30–10:30</th><th>Invited talk: <a href= "https://multiword.org/mweud2025/#keynotes"> Meaning Construction at the Syntax-Lexis Nexus </a> by <i> <a href="http://nathan.cl/"> Nathan Schneider</a> </i>, Georgetown University </th> </tr>
+  <tr><th>09:30–10:30</th><th>Invited talk: <a href= "https://multiword.org/mwe2025/#keynotes"> Meaning Construction at the Syntax-Lexis Nexus </a> by <i> <a href="http://nathan.cl/"> Nathan Schneider</a> </i>, Georgetown University </th> </tr>
 
   <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
 
