@@ -145,6 +145,7 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
     Panel Coordinator: <a href="http://nathan.cl/"> Nathan Schneider</a>, Georgetown University
   </td></tr>
 
+  <tr><th></th><th>Group photo</th></tr> 
   <tr><th>14:50–15:30</th><th>Oral Session II</th></tr>
   <tr><td>14:50-15:10</td><td>
     <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
