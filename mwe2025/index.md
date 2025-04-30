@@ -70,7 +70,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 ### <a name="proceedings-video"> Proceedings and video recording </a>
 
 
-TBD
+The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings </a> are available in the ACL Anthology.
 
 -----
 
