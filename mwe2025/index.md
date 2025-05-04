@@ -188,7 +188,7 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
   </td></tr>
 
   <tr><th>17:15–17:40</th><th>Community discussion, Best Paper Awards and Concluding Remarks</th></tr>
-  <tr> <td></td> <tr><td> Session Chair: Verginica Mititelu </td><tr>
+  <tr> <td></td> <td> Session Chair: Verginica Mititelu </td></tr>
 <!---
   <tr><th>17:30–17:40</th><th>Best Paper Awards and Concluding Remarks</th></tr> --->
 </table>
