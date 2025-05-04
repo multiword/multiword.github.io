@@ -119,6 +119,10 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
   <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
 
   <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
+  <tr>
+        <td></td>
+<td>Session chair: Verginica Mititelu</td>
+</tr>
   <tr><td>11:00-11:25</td><td>
      <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
     Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
@@ -151,6 +155,10 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
 
   <tr><th></th><th>Group photo</th></tr> 
   <tr><th>14:50–15:30</th><th>Oral Session II</th></tr>
+    <tr>
+        <td></td>
+<td>Session chair: Agata Savary</td>
+</tr>
   <tr><td>14:50-15:10</td><td>
     <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
     Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre
@@ -162,6 +170,10 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
   <tr><th>15:30–16:00</th><th>Coffee Break</th></tr>
 
   <tr><th>16:00–17:25</th><th>Oral Session III</th></tr>
+      <tr>
+        <td></td>
+<td>Session chair:Rusudan Makhachashvili</td>
+</tr>
   <tr><td>16:00-16:25</td><td>
     <i>MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</i><br/>
     Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet
