@@ -121,7 +121,7 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
   <tr><th>11:00–12:30</th><th>Oral Session I</th></tr>
   <tr>
         <td></td>
-<td>Session chair: Verginica Mititelu</td>
+<td>Session chair: Gražina Korvel</td>
 </tr>
   <tr><td>11:00-11:25</td><td>
      <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
