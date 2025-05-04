@@ -172,7 +172,7 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
   <tr><th>16:00–17:25</th><th>Oral Session III</th></tr>
       <tr>
         <td></td>
-<td>Session chair:Rusudan Makhachashvili</td>
+<td>Session chair: Rusudan Makhachashvili</td>
 </tr>
   <tr><td>16:00-16:25</td><td>
     <i>MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</i><br/>
