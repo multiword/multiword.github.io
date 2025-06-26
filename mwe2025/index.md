@@ -270,7 +270,7 @@ The ARR (pre-reviewed)'s paper can be committed [here](https://forms.gle/4XG1Myd
 
 ### <a name="award">Best Paper Award</a>
 
-TBD
+Uliana Sentsova, Debora Ciminari, Josef van Genabith, Cristina España-Bonet - <i><a href= "https://aclanthology.org/2025.mwe-1.8/">MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</a></i>
 
 -----
 
