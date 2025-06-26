@@ -124,19 +124,19 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
 <td>Session chair: Gražina Korvel</td>
 </tr>
   <tr><td>11:00-11:25</td><td>
-     <i>Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</i><br/>
+     <i><a href= "https://aclanthology.org/2025.mwe-1.6/">Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of NLP</a></i><br/>
     Verginica Mititelu, Voula Giouli, Gražina Korvel, Chaya Liebeskind, Irina Lobzhanidze, Rusudan Makhachashvili, Stella Markantonatou, Aleksandra Markovic and Ivelina Stoyanova
   </td></tr>
   <tr><td>11:25-11:50</td><td>
-    <i>Named Entity Recognition for the Irish Language</i><br/>
+    <i><a href= "https://aclanthology.org/2025.mwe-1.9/">Named Entity Recognition for the Irish Language</a></i><br/>
     Jane Adkins, Hugo Collins, Joachim Wagner, Abigail Walsh and Brian Davis
   </td></tr>
   <tr><td>11:50-12:10</td><td>
-    <i>Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician</i><br/>
+    <i><a href= "https://aclanthology.org/2025.mwe-1.5/">Gathering Compositionality Ratings of Ambiguous Noun-Adjective Multiword Expressions in Galician</a></i><br/>
     Laura Castro and Marcos Garcia
   </td></tr>
   <tr><td>12:10-12:30</td><td>
-    <i>VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)</i><br/>
+    <i><a href= "https://aclanthology.org/2025.mwe-1.3/">VMWE identification with models trained on GUD (a UDv.2 treebank of Standard Modern Greek)</a></i><br/>
     Stella Markantonatou, Vivian Stamou, Stavros Bompolas, Katerina Anastasopoulou, Irianna Linardaki Vasileiadi, Konstantinos Diamantopoulos, Yannis Kazos and Antonios Anastasopoulos
   </td></tr>
 
@@ -160,11 +160,11 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
 <td>Session chair: Agata Savary</td>
 </tr>
   <tr><td>14:50-15:10</td><td>
-    <i>Using LLMs to Advance Idiom Corpus Construction</i><br/>
+    <i><a href= "https://aclanthology.org/2025.mwe-1.4/">Using LLMs to Advance Idiom Corpus Construction</a></i><br/>
     Dogukan Arslan, Hüseyin Anıl Çakmak, Gulsen Eryigit and Joakim Nivre
   </td></tr>
   <tr><td>15:10-15:30</td><td>
-    <i>A European Portuguese corpus annotated for verbal idioms</i><br/>
+    <i><a href= "https://aclanthology.org/2025.mwe-1.7/">A European Portuguese corpus annotated for verbal idioms</a></i><br/>
     David Antunes, Jorge Baptista and Nuno J. Mamede
   </td></tr>
   <tr><th>15:30–16:00</th><th>Coffee Break</th></tr>
@@ -175,15 +175,15 @@ The <a href="https://aclanthology.org/events/naacl-2025/#2025mwe-1"> proceedings
 <td>Session chair: Rusudan Makhachashvili</td>
 </tr>
   <tr><td>16:00-16:25</td><td>
-    <i>MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</i><br/>
+    <i><a href= "https://aclanthology.org/2025.mwe-1.8/">MultiCoPIE: A Multilingual Corpus of Potentially Idiomatic Expressions for Cross-lingual PIE Disambiguation</a></i><br/>
     Uliana Sentsova, Debora Ciminari, Josef Van Genabith and Cristina España-Bonet
   </td></tr>
   <tr><td>16:25-16:50</td><td>
-    <i>Probing Internal Representations of Multi-Word Verbs in Large Language Models</i><br/>
+    <i><a href= "https://aclanthology.org/2025.mwe-1.2/">Probing Internal Representations of Multi-Word Verbs in Large Language Models</a></i><br/>
     Hassane Kissane, Achim Schilling and Patrick Krauss
   </td></tr>
   <tr><td>16:50-17:15</td><td>
-    <i>Syntagmatic Productivity of MWEs in Scientific English</i><br/>
+    <i><a href= "https://aclanthology.org/2025.mwe-1.1/">Syntagmatic Productivity of MWEs in Scientific English</a></i><br/>
     Diego Alves, Stefan Fischer and Elke Teich
   </td></tr>
 
