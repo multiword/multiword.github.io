@@ -3,7 +3,7 @@ title: 22nd Workshop on Multiword Expressions (MWE 2026)
 layout: default
 ---
 
-<h2>21<sup>st</sup> Workshop on Multiword Expressions (MWE 2026)</h2>
+<h2>22<sup>nd</sup> Workshop on Multiword Expressions (MWE 2026)</h2>
 
 **Colocated with:** [EACL-2026](https://2026.eacl.org), Rabat, Marocco
 
@@ -69,19 +69,19 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 ### <a name="proceedings-video"> Proceedings and video recording </a>
 
-
+TBA
 
 -----
 
 ### <a name="program"> Program </a>
 
 
-
+TBA
 
 
 ### <a name="keynotes">Keynote speaker </a>
 
-To be announced
+TBA
 
 -----
 ### <a name="registration"> Registration </a>
@@ -135,7 +135,7 @@ The workshop invites  two types of submissions: 
 
 ### <a name="instructions">Paper Submission and Templates</a>
 
-To be annouced
+TBA
 
 <!--
 Papers should be submitted via the [OpenReview submission page](https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/MWE). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files). For further information on this initiative, please refer to [NAACL 2025](https://2025.naacl.org/calls/papers/#paper-submission-details)
@@ -147,7 +147,7 @@ The ARR (pre-reviewed)'s paper can be committed [here](https://forms.gle/4XG1Myd
 -------
 
 ### <a name="award">Best Paper Award</a>
-To be announced
+TBA
 
 -----
 
@@ -159,7 +159,7 @@ To be announced
 | Pre-reviewed (ARR) submission deadline    |  January 2, 2026         |
 | Notification of acceptance | January 23, 2026              |
 | Camera-ready papers due    | February 3, 2026             |
-| Workshop                   | March 24-29, 202         |
+| Workshop                   | March 24-29, 2026         |
 
 
 
@@ -241,7 +241,7 @@ The workshop follows the [ACL anti-harassment policy](https://www.aclweb.org/adm
 
 ### <a name="contact"> Contact </a>
 
-For any inquiries regarding the workshop, please send an email to the Organizing Committee at [XXXX](mailto:XXXX).
+For any inquiries regarding the workshop, please send an email to the Organizing Committee at [mwe2026workshop@gmail.com](mailto:mwe2026workshop@gmail.com).
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
