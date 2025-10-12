@@ -187,7 +187,9 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 ### <a name="committee"> Program Committee </a>
 
 TBA
-<!--
+
+<!---
+
 |	Agata Savary	|	Université Paris-Saclay	|
 |	Beata Trawinski	|	Leibniz Institute for the German Language	|
 |	Carlos Ramisch	|	LIS - Laboratoire d'Informatique et Systèmes	|
@@ -219,7 +221,7 @@ TBA
 |	Tiberiu Boros	|	Adobe Systems	|
 |	Tunga Gungor	|	Bogazici University	|
 
--->
+--->
 
 -----
 
