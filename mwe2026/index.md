@@ -94,9 +94,9 @@ To attend the workshop (either in person or virtually), please register through 
 
 Multiword expressions (MWEs), i.e., word combinations that exhibit lexical, syntactic, semantic, pragmatic, and/or statistical idiosyncrasies (Baldwin and Kim, 2010), such as “by and large”, “hot dog”, “make a decision” and “break one's leg” are still a pain in the neck for Natural Language Processing (NLP). The notion of MWE encompasses closely related phenomena: idioms, compounds, light-verb constructions, phrasal verbs, rhetorical figures, collocations, institutionalized phrases, etc. Given their irregular nature, MWEs often pose complex problems in linguistic modeling (e.g., annotation), NLP tasks (e.g., parsing), and end-user applications (e.g., natural language understanding and Machine Translation), hence still representing an open issue for computational linguistics (Miletić and Schulte im Walde, 2024; Ramisch et al., 2023; Phelps et al., 2024; Mahajan et al., 2024).
 
-For more than two decades, the topic of modeling and processing MWEs for NLP has been the focus of the MWE workshop, organized by the MWE section of ACL-SIGLEX in conjunction with major NLP conferences since 2003. Impressive progress has been made in the field, but our understanding of MWEs still requires much research, considering their need and usefulness in NLP applications. This is also relevant to domain-specific NLP pipelines that need to tackle terminologies most often realized as MWEs. 
+For more than two decades, the topic of modeling and processing MWEs for NLP has been the focus of the MWE workshop, organized by the [MWE section](https://multiword.org/) of [ACL-SIGLEX](http://www.siglex.org/) in conjunction with major NLP conferences since 2003. Impressive progress has been made in the field, but our understanding of MWEs still requires much research, considering their need and usefulness in NLP applications. This is also relevant to domain-specific NLP pipelines that need to tackle terminologies most often realized as MWEs. 
 
-Topics of interest include, but are not limited to:
+**Topics of interest** include, but are not limited to:
 * Computationally-applicable theoretical work in psycholinguistics and corpus linguistics;
 * Annotation (expert, crowdsourcing, automatic) and representation in resources such as corpora, treebanks, e-lexicons, WordNets, constructions (also for low-resource languages);
 * Processing in syntactic and semantic frameworks (e.g. CCG, CxG, HPSG, LFG, TAG, UD, etc.);
@@ -115,7 +115,7 @@ Topics of interest include, but are not limited to:
 ### <a name="sharedtasks"> Co-located Shared tasks</a>
 
 
-The workshop MWE 2026 will host two shared tasks:
+The workshop MWE 2026 will host [two shared tasks](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:parseme-admire-st-call#call_for_participation):
 * PARSEME 2.0, whose objective is to identify and paraphrase MWEs in written text, and
 * AdMIRe 2 (Advancing Multimodal Idiomaticity Representation), which explores the comprehension ability of multimodal models for MWEs in a variety of languages.
 
@@ -135,7 +135,10 @@ The workshop invites  two types of submissions: 
 
 ### <a name="instructions">Paper Submission and Templates</a>
 
-TBA
+Papers should be submitted via the [workshop's submission page](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files).
+
+Authors are encouraged, wherever relevant, to adopt the [conventions on citing, glossing and translating multilingual examples of MWEs](https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf) promoted by the editors of the [Phraseology and Multiword Expressions book series](https://langsci-press.org/catalog/series/pmwe) published by Language Science Press. 
+
 
 <!--
 Papers should be submitted via the [OpenReview submission page](https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/MWE). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files). For further information on this initiative, please refer to [NAACL 2025](https://2025.naacl.org/calls/papers/#paper-submission-details)
@@ -170,15 +173,13 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 ### <a name="organizers"> Organizing Committee (Listed alphabetically)</a>
 
 <table>
+  <tr><td>Verginica Barbu Mititelu  </td><td style="padding-left: 20px;">Romanian Academy Research Institute for Artificial Intelligence</td></tr>
   <tr><td>A. Seza Doğruöz </td><td style="padding-left: 20px;">Ghent University, Belgium</td></tr>
   <tr><td>Alexandre Rademaker </td><td style="padding-left: 20px;">FGV/EMA, Brazil</td></tr>
   <tr><td>Atul Kr. Ojha </td><td style="padding-left: 20px;">Insight Research Ireland Centre for Data Analytics, University of Galway</td></tr>
-  
   <tr><td>Ivelina Stoyanova  </td><td style="padding-left: 20px;">Institute for Bulgarian Language</td></tr>
   <tr><td>Mathieu Constant </td><td style="padding-left: 20px;">Université de Lorraine</td></tr>
-  <tr><td>Verginica Barbu Mititelu  </td><td style="padding-left: 20px;">Romanian Academy Research Institute for Artificial Intelligence</td></tr>
-
-
+  
 
 </table>
 
