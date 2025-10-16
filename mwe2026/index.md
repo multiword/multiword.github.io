@@ -135,7 +135,7 @@ The workshop invites  two types of submissions: 
 
 ### <a name="instructions">Paper Submission and Templates</a>
 
-Papers should be submitted via the [workshop's submission page](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files).
+Papers should be submitted via the [workshop's submission page](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/MWE). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files).
 
 Authors are encouraged, wherever relevant, to adopt the [conventions on citing, glossing and translating multilingual examples of MWEs](https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf) promoted by the editors of the [Phraseology and Multiword Expressions book series](https://langsci-press.org/catalog/series/pmwe) published by Language Science Press. 
 
