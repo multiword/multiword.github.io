@@ -10,7 +10,7 @@ layout: default
 **Date of the Workshop:** 28 March, 9:00-12:30
 
 **Organised and sponsored by:**\
-The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)), [UniDive COST Action CA21167](https://unidive.lisn.upsaclay.fr/).
+The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html))<br/> [UniDive COST Action CA21167](https://unidive.lisn.upsaclay.fr/).
 
 <a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -232,6 +232,9 @@ TBA
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div style="width: 30%; margin: 1%;">
         <img src="siglex.png" alt="ACL SIGLEX" style="width: 100%; height: auto;">
+    </div>
+  <div style="width: 30%; margin: 1%;">
+        <img src="unidive_logo.png" alt="Unidive" style="width: 100%; height: auto;">
     </div>
 </div>
 
