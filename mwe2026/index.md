@@ -53,6 +53,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 - [Keynote Speakers](#keynotes)
 - [Registration](#registration)
 - [Description](#description)
+- [Shared tasks](#sharedtasks)
 - [Submission Formats](#submission)
 - [Paper Submission and Templates](#instructions)
 - [Best Paper Award](#award)
@@ -129,7 +130,7 @@ The workshop MWE 2026 will host [two shared tasks](https://unidive.lisn.upsaclay
 
 The workshop invites  two types of submissions: 
 - **Archival submissions** that present substantially original research in both long paper format (8 pages + references) and short paper format (4 pages + references)
-- **Non-archival submissions** of abstracts describing relevant research presented/published elsewhere which will not be included in the MWE proceedings.
+- **Non-archival submissions** of abstracts describing relevant research presented/published elsewhere which will not be included in the MWE proceedings (8 pages + references).
 
 -----
 
