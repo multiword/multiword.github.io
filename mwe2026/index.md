@@ -7,10 +7,10 @@ layout: default
 
 **Colocated with:** [EACL-2026](https://2026.eacl.org), Rabat, Marocco
 
-**Date of the Workshop:** to be announced (half-a-day between March 24-29, 2026)
+**Date of the Workshop:** 28 March, 9:00-12:30
 
 **Organised and sponsored by:**\
-The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)).
+The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)), SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)), [UniDive COST Action CA21167](https://unidive.lisn.upsaclay.fr/).
 
 <a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
