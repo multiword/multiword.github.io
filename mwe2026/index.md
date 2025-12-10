@@ -231,10 +231,13 @@ TBA
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div style="width: 30%; margin: 1%;">
-        <img src="siglex.png" alt="ACL SIGLEX" style="width: 100%; height: auto;">
+        <a href="https://siglex.org/"><img src="siglex.png" alt="ACL SIGLEX" style="width: 100%; height: auto;"></a>
     </div>
   <div style="width: 30%; margin: 1%;">
-        <img src="unidive_logo.png" alt="Unidive" style="width: 100%; height: auto;">
+        <a href="https://unidive.lisn.upsaclay.fr/"><img src="unidive_logo.png" alt="Unidive" style="width: 100%; height: auto;"></a>
+    </div>
+  <div style="width: 30%; margin: 1%;">
+        <a href="https://www.cost.eu/"><img src="cost_logo.jpeg" alt="COST" style="width: 100%; height: auto;"></a>
     </div>
 </div>
 
