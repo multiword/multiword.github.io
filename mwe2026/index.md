@@ -236,8 +236,11 @@ TBA
   <div style="width: 30%; margin: 1%;">
         <a href="https://unidive.lisn.upsaclay.fr/"><img src="unidive_logo.png" alt="Unidive" style="width: 100%; height: auto;"></a>
     </div>
-  <div style="width: 30%; margin: 1%;">
+  <div style="width: 15%; margin: 1%;">
         <a href="https://www.cost.eu/"><img src="cost_logo.jpeg" alt="COST" style="width: 100%; height: auto;"></a>
+    </div>
+  <div style="width: 15%; margin: 1%;">
+        <a href="https://www.cost.eu/"><img src="en-funded_by_the_eu-pos.png" alt="EU Funded" style="width: 100%; height: auto;"></a>
     </div>
 </div>
 
