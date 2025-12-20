@@ -159,11 +159,11 @@ TBA
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
-| Direct Submission deadline  | December 19, 2025           |
+| Direct Submission deadline  | December <s>19</s> 27, 2025           |
 | Pre-reviewed (ARR) submission deadline    |  January 5, 2026         |
 | Notification of acceptance | January 23, 2026              |
 | Camera-ready papers due    | February 3, 2026             |
-| Workshop                   | March 24-29, 2026         |
+| Workshop                   | March 28, 2026         |
 
 
 
