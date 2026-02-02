@@ -56,6 +56,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 - [Shared tasks](#sharedtasks)
 - [Submission Formats](#submission)
 - [Paper Submission and Templates](#instructions)
+- [In memoriam](#inmemoriam)
 - [Best Paper Award](#award)
 - [Important Dates](#dates)
 - [Organizing Committee](#organizers)
@@ -146,6 +147,14 @@ Papers should be submitted via the [OpenReview submission page](https://openrevi
 
 The ARR (pre-reviewed)'s paper can be committed [here](https://forms.gle/4XG1Myd3FSdPLkoL6).
 -->
+------
+
+### <a name="inmemoriam">In Memoriam</a>
+
+The PARSEME community wishes to pay tribute to two of our colleagues who died in 2025: Federico Sangati and Silvio Ricardo Cordeiro, two wonderful people who greatly contributed to our assets.
+
+[Read the full tribute here](https://gitlab.com/parseme/corpora/-/wikis/Federico-and-Silvio)
+
 
 
 -------
