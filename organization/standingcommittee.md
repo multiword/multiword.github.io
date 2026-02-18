@@ -13,7 +13,6 @@ The section is coordinated by a standing committee composed of:
 - [Adriana Silvina Pagano](https://orcid.org/0000-0002-3150-3503) (Federal University of Minas Gerais, Brazil) - nominated officer in 2025-2027
 - [Ivelina Stoyanova](https://orcid.org/0000-0003-3771-435X) (Institute for Bulgarian Language) - nominated officer in 2025-2027
 
-
 See the list of past officers in the [advisory committee](advisorycommittee).
 
 New officers are welcome every year, as defined in the [constitution](constitution). If you are a section [member](members), you have published research on MWEs, and you wish to serve the MWE community, please, contact us. Calls for candidates are published yearly around July/August on the MWE [mailing list](../mailinglist).
