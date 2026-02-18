@@ -7,7 +7,7 @@ layout: default
 
 The section's past officers (not currently serving in the standing committee) compose the section's advisory committee.
 
-- [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz) (Ghent University) - nominated officer in 2023-2025
+- [A. Seza Doğruöz](http://www.asezadogruoz.com/) (Universiteit Gent) - nominated officer in 2023-2025
 - [Alexandre Rademaker](http://arademaker.github.io/) (IBM Research and FGV EMAp) - nominated officer in 2023-2025
 - [Kilian Evang](https://kilian.evang.name/) (Heinrich Heine University Düsseldorf) - nominated officer in 2022-2024
 - [Voula Giouli](https://www.ilsp.gr/en/members/giouli-voula-2/) (Aristotle University of Thessaloniki and Institute for Language and Speech Processing, ATHENA RC) - elected section representative in 2022-2024
