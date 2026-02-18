@@ -7,6 +7,7 @@ layout: default
 
 According to the SIGLEX-MWE Section's [constitution](constitution), the standing committee reports yearly on the section's activities to its members.
 
+  * [2025 yearly report](yearlyreports/2025-SIGLEX-MWE-yearly-report.pdf)
   * [2024 yearly report](yearlyreports/2024-SIGLEX-MWE-yearly-report.pdf)
   * [2023 yearly report](yearlyreports/2023-SIGLEX-MWE-yearly-report.pdf)
   * [2022 yearly report](yearlyreports/2022-SIGLEX-MWE-yearly-report.pdf)
