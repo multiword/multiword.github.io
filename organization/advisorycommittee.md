@@ -25,4 +25,5 @@ The section's past officers (not currently serving in the standing committee) co
 - [Francis Bond](https://www3.ntu.edu.sg/home/fcbond/) (Nanyang Technological University, Singapore) - nominated officer in 2017-2019  
 - [Johanna Monti](https://www.linkedin.com/in/johanna-monti-03553310/) ("L'Orientale" University of Naples, Italy) - nominated officer in 2016-2018  
 - [Carlos Ramisch](https://pageperso.lis-lab.fr/carlos.ramisch/) (Aix Marseille University, France) - nominated officer in 2016-2018 and elected section representative at the [SIGLEX board](https://siglex.org/board/2020.html) in 2020-2022
+
 <!-- - [Valia Kordoni](https://www.angl.hu-berlin.de/department/staff-faculty/academic/kordoni) (Humboldt University of Berlin, Germany) - section representative at the [SIGLEX board](https://siglex.org/board/2013.html) in 2013-2016 -- Removed upon request on Jan 12, 2021 -->
