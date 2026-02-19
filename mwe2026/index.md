@@ -50,14 +50,12 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
   </summary>
 - [Proceedings and video recording](#proceedings-video)
 - [Program](#program)
-- [Keynote Speakers](#keynotes)
 - [Registration](#registration)
 - [Description](#description)
 - [Shared tasks](#sharedtasks)
 - [Submission Formats](#submission)
 - [Paper Submission and Templates](#instructions)
 - [In Memoriam](#inmemoriam)
-- [Best Paper Award](#award)
 - [Important Dates](#dates)
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
@@ -80,10 +78,6 @@ TBA
 
 TBA
 
-
-### <a name="keynotes">Keynote speaker </a>
-
-TBA
 
 -----
 ### <a name="registration"> Registration </a>
@@ -157,10 +151,6 @@ The PARSEME community wishes to pay tribute to two of our colleagues who passed 
 
 
 
--------
-
-### <a name="award">Best Paper Award</a>
-TBA
 
 -----
 
