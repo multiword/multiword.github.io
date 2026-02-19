@@ -76,8 +76,200 @@ TBA
 ### <a name="program"> Program </a>
 
 
-TBA
+<table class="program">
+  <tr>
+    <th>Time</th>
+    <th>Session</th>
+  </tr>
 
+  <tr><th>09:00–09:15</th><th><i>Welcome and Introduction to 22nd MWE Workshop</I></th></tr>
+
+  <tr><th>09:15–10:45</th><th><i>Findings of the MWE 2026 Shared Tasks</I></th> </tr>
+<tr>
+        <td></td>
+<td>Edition 2.0 of the PARSEME shared task on multilingual identification and paraphrasing of multiword expressions<br/>
+Manon Scholivet, Agata Savary, Carlos Ramisch, Eric Bilinski, Takuya Nakamura, Maria Mitrofan and Vasile Pais</td>
+</tr>
+
+<tr>
+        <td></td>
+<td><I>MWE-2026 Shared Task: AdMIRe 2 Advancing Multimodal Idiomaticity Representation</I><br/>Doğukan Arslan, Rodrigo Wilkens, Wei He, Dilara Torunoglu Selamet, Thomas
+Pickard, Aline Villavicencio, Adriana Silvina Pagano and Gülşen Eryiğit</td>
+</tr>
+
+
+  <tr><th>09:45–10:30</th><th>Oral session</th></tr>
+
+  <tr>
+        <td></td>
+<td>Session chair: TBA</td>
+</tr>
+  <tr><td></td><td>
+     <i>Swedish Multiword Expression Corpora in PARSEME</I><br/>
+Sara Stymne, Astrid Berntsson Ingelstam and Eva Pettersson
+  </td></tr>
+  <tr><td></td><td><I>Cognitive Signatures of Multi-Word Expressions: Reading-Time and Surprisal</I><br/>
+Diego Alves, Sergei Bagdasarov and Elke Teich
+  </td></tr>
+  <tr><td></td><td><I>Diversity patterns run deep: Impact of diversity intake on multiword expression identification</I><br/>
+Mathilde Deletombe, Manon Scholivet, Louis Estève, Thomas Lavergne and Agata Savary
+  </td></tr>
+
+  <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
+
+  <tr><th>11:00–12:00</th><th>Poster session</th></tr>
+  <tr><td></td><td>
+    <I>Large Language Models Put to the Test on Chinese Noun Compounds: Experiments on Natural Language Inference and Compound Semantics</I><br/>
+Le Qiu, Emmanuele Chersoni, He Zhou and Yu-Yin Hsu
+  </td></tr>
+
+  <tr><td></td><td>
+    <I>SinFoS: A Parallel Dataset for Translating Sinhala Figures of Speech</i><br/>
+Johan Nevin Sofalas, Dilushri Pavithra, Nevidu Jayatilleke and Ruvan Weerasinghe
+  </td></tr>
+
+  <tr><td></td><td>
+   <I>Ukrainian Multiword Expressions Corpus: Creation, Annotation, and Linguistic Analysis</i><br/>
+Hanna Sytar, Maria Shvedova and Olha Kanishcheva
+  </td></tr>
+
+<tr><td></td><td>
+   <I>Cheese it up: CamemBERT Outperforms Large Language Models for Identification of French Multi-word Expressions</I><br/>
+Sergei Bagdasarov, Diego Alves and Elke Teich
+  </td></tr>
+
+<tr><td></td><td>
+   <I>Extracting Multi-Word Expressions Representing Technical Terms and Proper Nouns in Log Messages</I><br/>
+Kilian Dangendorf, Sven-Ove Hänsel, Jannik Rosendahl, Felix Heine, Carsten Kleiner and Christian Wartena
+  </td></tr>
+
+<tr><td></td><td>
+   <I>Two Birds with One Stone: Annotating Romanian Multiword Expressions with an Eye to the PARSEME 2.0 Guidelines Applicability</I><br/>
+Verginica Mititelu, Mihaela Cristescu, Elena Irimia and Carmen Mîrzea Vasile
+  </td></tr>
+
+<tr><td></td><td>
+   <I>Incorporating Multiword Expressions in Galician Neural Machine Translation: Compositionality, Efficiency, and Performance</I><br/>
+Daniel Solla, Paula Pinto-Ferro, Laura Castro, Pablo Gamallo and Marcos Garcia
+  </td></tr>
+
+<tr><td></td><td>
+  <I>Beyond Single Words: MWE Identification in Bioinformatics Research Articles and Dispersion Profiling Across IMRaD</I><br/>
+Jurgi Giraud and Andrew Gargett
+  </td></tr>
+
+<tr><td></td><td>
+   <I>The Lock, Stock, and Barrel of Marathi Multiwords</I><br/>
+Aakanksha Padhye and Ashwini Vaidya
+  </td></tr>
+
+<tr><td></td><td>
+  <I>An Idiom Benchmark for Turkish</I><br/>
+Ebru Çavuşoğlu and Cagri Coltekin
+  </td></tr>
+
+<tr><td></td><td>
+   <I>A Curious Class of Adpositional Multiword Expressions in Korean</I><br/>
+Junghyun Min, Na-Rae Han, Jena D. Hwang and Nathan Schneider
+  </td></tr>
+
+<tr><td></td><td>
+  <I>PolyFrame at MWE-2026 AdMIRe 2: When Words Are Not Enough: Multimodal Idiom Disambiguation</I><br/>
+Nina Hosseini-Kivanani
+  </td></tr>
+
+<tr><td></td><td>
+   <I>IdiomRanker-X at MWE-2026 AdMIRe 2: Multilingual Idiom-Image Alignment via Low-Rank Adaptation of Cross-Encoders</I><br/>
+Mehmet Utku Colak
+  </td></tr>
+
+<tr><td></td><td>
+  <I>alexandru412 at MWE-2026 AdMIRe 2.0: Advancing Multimodal Idiomaticity Representation</I><br/>
+Cristea Alexandru-Marian
+  </td></tr>
+
+<tr><td></td><td>
+   <I>BeeParser at MWE-2026 PARSEME 2.0 Subtask 1: Can Cross-Lingual Interactions Improve MWE Identification?</I><br/>
+Ahmet Erdem and Oguzhan Karaarslan
+  </td></tr>
+
+<tr><td></td><td>
+  <I>VisAffect at MWE-2026 AdMIRe 2: IMMCAN Idiom Multimodal Cross-Attention Network</I><br/>
+Barış Bilen, Ali Azmoudeh, Hazım Kemal Ekenel and Hatice Kose
+  </td></tr>
+
+
+<tr><td></td><td>
+  <I>Sahara Tokenizers at PARSEME 2.0 Subtask 1: Combining Contextual Embeddings with Structural Decoding for Multi-Word Expression Detection</I><br/>
+Yunus Karatepe, Mert Sülük, Zeynep Tuğçe Kırımlı and Begüm Özbay
+  </td></tr>
+
+<tr><td></td><td>
+  <I>3K2T at MWE-2026 AdMIRe 2: CARIM– Category-Aware Reasoning for Idiomatic Multimodality</I><br/>
+Kubilay Kağan Kömürcü and Tugce Temel
+  </td></tr>
+<tr><td></td><td>
+  <I>PMI MWE Scorer at PARSEME 2.0 Subtask 1: identifying multi-word expressions using pointwise mutual information and universal dependencies</I><br/>
+Anna Bogdanova and Ileana Bucur
+  </td></tr>
+
+<tr><td></td><td>
+ <I>tiberiucarp at MWE-2026 AdMIRe 2: GLIMMER-Gloss-based Image Multiword Meaning Expression Ranker</I><br/>
+Andrei Tiberiu Carp
+  </td></tr>
+
+
+<tr><td></td><td>
+  <I>IPN at MWE-2026 PARSEME 2.0 Subtask 1: MWE Identification via Related Languages and Harnessing Thinking Mode</I><br/>
+Anna Hülsing, Noah-Manuel Michael, Daniel Mora Melanchthon and Andrea
+Horbach
+  </td></tr>
+
+<tr><td></td><td>
+  <I>Semantic Stars at MWE-2026 PARSEME 2.0 Subtask 2: Alternative Approaches for MWE Paraphrasing</I><br/>
+Elif Bayraktar, Vedat Doğancan, Muhammed Abdullah Gümüş and Nusret Ali Kızılaslan
+  </td></tr>
+
+<tr><td></td><td>
+  <I>MorphoFiltered-Gemini at MWE-2026 PARSEME 2.0 Subtask 1: Tackling LLM Overgeneration via Universal POS-based Constraints</I><BR/>
+Irina Moise and Sergiu Nisioi
+  </td></tr>
+
+<tr><td></td><td>
+  <I>LST at MWE-2026 AdMIRe 2: Advancing Multimodal Idiomaticity Representation</I><BR/>
+Le Qiu, Yu-Yin Hsu and Emmanuele Chersoni
+  </td></tr>
+
+<tr><td></td><td>
+<i>UniBO at MWE-2026 PARSEME 2.0 Subtask 2: A Cross-lingual Approach to Multiword Expression Paraphrasing</I><br/>Debora Ciminari and Alberto Barrón-Cedeño  
+  </td></tr>
+
+<tr><td></td><td>
+<I>DCSN-NLP at MWE-2026 AdMIRe 2: Bridging Literal and Figurative Meaning Through Hierarchical Multimodal Reasoning</I><br/>
+David Cotiga and Sergiu Nisioi  
+  </td></tr>
+
+<tr><td></td><td>
+  <i>ITUNLP at MWE-2026 AdMIRe 2: A Zero-Shot LLM Pipeline for Multimodal Idiom Understanding and Ranking</I><br/>
+Atakan Site, Oğuz Ali Arslan and Gülşen Eryiğit
+  </td></tr>
+
+<tr><td></td><td>
+  <I>Archaeology at WE-2026 PARSEME 2.0 Subtask 1 and 2: Parsing is for Encoders, Paraphrasing is for LLMs</I><br/>
+Rares-Alexandru Roscan and Sergiu Nisioi
+  </td></tr>
+
+
+<tr><td></td><td>
+  <I>ITUNLP2 at MWE-2026 AdMIRe 2: Modular Zero-Shot Pipelines for Multimodal Idiom Grounding and Ranking</I><br/>
+Özge Umut and Bora Şenceylan
+  </td></tr>
+
+
+  <tr><th>12:00–12:20</th><th>Community discussion</th></tr>
+  <tr><th>12:20–12:30</th><th>Concluding remarks</th></tr>
+    
+</table>
 
 -----
 ### <a name="registration"> Registration </a>
