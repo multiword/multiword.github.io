@@ -379,9 +379,6 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 ### <a name="committee"> Program Committee </a>
 
-TBA
-
-<!---
 
 |	Abigail Walsh |	 Dublin City University|	
 |	Agata Savary |	 Université Paris-Saclay|	
@@ -389,68 +386,65 @@ TBA
 |	Alberto Barrón-Cedeño|	 Università di Bologna|	
 |	Ali Azmoudeh |	Istanbul Technical University |	
 |	Andrea Horbach |	Leibniz Institute for Science and Mathematics Education |	
-|	Andrei Tiberiu Carp |	 Tomorrow University of Applied Sciences
-|	Anna Hülsing |	 Christian-Albrechts-Universität Kiel
-|	Atakan Site |	 Istanbul Technical University
-|	Barış Bilen |	 Istanbul Technical University
-|	Beata Trawinski |	 Leibniz Institute for the German Language
-|	Bora Şenceylan |	 Istanbul Technical University
-|	Carlos Ramisch |	 LIS - Laboratoire d’Informatique et Systèmes
-|	Chikara Hashimoto |	 Rakuten Institute of Technology
-|	Cristea Alexandru-Marian |	 University of Bucharest
-|	Cvetana Krstev |	 University of Belgrade, Faculty of Philology
-|	David Cotigă |	 University of Bucharest
-|	Debora Ciminari | University of Bologna
-|	Doğukan Arslan |	 Istanbul Technical University
-|	Elif Bayraktar |	 Istanbul Technical University
-|	Emmanuele Chersoni |	The Hong Kong Polytechnic University
-|	Eric G C Laporte |	Université Gustave Eiffel
-|	Gaël Dias | University of Caen Normandy
-|	Gražina Korvel | Vilnius University
-|	Gülşen Eryiğit | Istanbul Technical University
-|	Irina Lobzhanidze |	Ilia Chavchavadze State University
-|	Irina Moise | University of Bucharest
-|	Ismail El Maarouf |	Imprevicible
-|	Ivelina Stoyanova |	Deaf Studies Institute
-|	Jan Odijk | Utrecht University
-|	John Philip McCrae | University of Galway
-|	Kenneth Church | Northeastern University
-|	Kubilay Kağan Kömürcü |	Istanbul Technical University
-|	Laura A. Michaelis | University of Colorado at Boulder
-|	Le Qiu | The Hong Kong Polytechnic University
-|	Manfred Sailer | Johann Wolfgang Goethe Universität Frankfurt am Main
-|	Manon Scholivet |	 Université Paris-Saclay
-|	Maria Mitrofan|	 Research Institute for Artificial Intelligence
-|	Mathieu Constant|	 Université de Lorraine, CNRS, ATILF
-|	Matthew Shardlow |	 The Manchester Metropolitan University
-|	Meghdad Farahmand |	 University of Genoa
-|	Mehmet Utku Colak |	 Istanbul Technical University
-|	Miriam Butt |	 Universität Konstanz
-|	Monika Czerepowicka |	 University of Wamia and Masuria
-|	Muhammed Abdullah Gümüş |	 International Technological University
-|	Nina Hosseini-Kivanani |	 RTL
-|	Oğuz Ali Arslan |	 Istanbul Technical University
-|	Özge Umut |	 Istanbul Technical University
-|	Oguzhan Karaarslan |	 Istanbul Technical University
-|	Paul Cook |	 University of New Brunswick
-|	Petya Osenova |	 Sofia University St. Kliment Ohridski
-|	Ranka Stanković Stanković |	 University of Belgrade
-|	Rares-Alexandru Roscan |	 University of Bucharest
-|	Sabine Schulte im Walde |	 University of Stuttgart
-|	Sergiu Nisioi |	 University of Bucharest
-|	Shiva Taslimipoor |	 University of Cambridge
-|	Stan Szpakowicz |	 University of Ottawa
-|	Stella Markantonatou, ATHENA RIC
-|	Tugce Temel, Istanbul Technical University
-|	Tiberiu Boros, Adobe Systems
-|	Tunga Gungor, Bogazici University
-|	Veronika Vincze, University of Szeged
-|	Yu-Yin Hsu, The Hong Kong Polytechnic University
-|	Yunus Karatepe, International Technological University
+|	Andrei Tiberiu Carp |	 Tomorrow University of Applied Sciences |
+|	Anna Hülsing |	 Christian-Albrechts-Universität Kiel |
+|	Atakan Site |	 Istanbul Technical University |
+|	Barış Bilen |	 Istanbul Technical University |
+|	Beata Trawinski |	 Leibniz Institute for the German Language |
+|	Bora Şenceylan |	 Istanbul Technical University |
+|	Carlos Ramisch |	 LIS - Laboratoire d’Informatique et Systèmes |
+|	Chikara Hashimoto |	 Rakuten Institute of Technology |
+|	Cristea Alexandru-Marian |	 University of Bucharest |
+|	Cvetana Krstev |	 University of Belgrade, Faculty of Philology |
+|	David Cotigă |	 University of Bucharest |
+|	Debora Ciminari | University of Bologna |
+|	Doğukan Arslan |	 Istanbul Technical University |
+|	Elif Bayraktar |	 Istanbul Technical University |
+|	Emmanuele Chersoni |	The Hong Kong Polytechnic University |
+|	Eric G C Laporte |	Université Gustave Eiffel |
+|	Gaël Dias | University of Caen Normandy |
+|	Gražina Korvel | Vilnius University |
+|	Gülşen Eryiğit | Istanbul Technical University |
+|	Irina Lobzhanidze |	Ilia Chavchavadze State University |
+|	Irina Moise | University of Bucharest |
+|	Ismail El Maarouf |	Imprevicible |
+|	Ivelina Stoyanova |	Deaf Studies Institute |
+|	Jan Odijk | Utrecht University |
+|	John Philip McCrae | University of Galway |
+|	Kenneth Church | Northeastern University |
+|	Kubilay Kağan Kömürcü |	Istanbul Technical University |
+|	Laura A. Michaelis | University of Colorado at Boulder |
+|	Le Qiu | The Hong Kong Polytechnic University |
+|	Manfred Sailer | Johann Wolfgang Goethe Universität Frankfurt am Main |
+|	Manon Scholivet |	 Université Paris-Saclay |
+|	Maria Mitrofan|	 Research Institute for Artificial Intelligence |
+|	Mathieu Constant|	 Université de Lorraine, CNRS, ATILF |
+|	Matthew Shardlow |	 The Manchester Metropolitan University |
+|	Meghdad Farahmand |	 University of Genoa |
+|	Mehmet Utku Colak |	 Istanbul Technical University |
+|	Miriam Butt |	 Universität Konstanz |
+|	Monika Czerepowicka |	 University of Wamia and Masuria |
+|	Muhammed Abdullah Gümüş |	 International Technological University |
+|	Nina Hosseini-Kivanani |	 RTL |
+|	Oğuz Ali Arslan |	 Istanbul Technical University |
+|	Özge Umut |	 Istanbul Technical University |
+|	Oguzhan Karaarslan |	 Istanbul Technical University |
+|	Paul Cook |	 University of New Brunswick |
+|	Petya Osenova |	 Sofia University St. Kliment Ohridski |
+|	Ranka Stanković Stanković |	 University of Belgrade |
+|	Rares-Alexandru Roscan |	 University of Bucharest |
+|	Sabine Schulte im Walde |	 University of Stuttgart |
+|	Sergiu Nisioi |	 University of Bucharest |
+|	Shiva Taslimipoor |	 University of Cambridge |
+|	Stan Szpakowicz |	 University of Ottawa |
+|	Stella Markantonatou | ATHENA RIC |
+|	Tugce Temel  | Istanbul Technical University |
+|	Tiberiu Boros  | Adobe Systems |
+|	Tunga Gungor | Bogazici University |
+|	Veronika Vincze | University of Szeged |
+|	Yu-Yin Hsu | The Hong Kong Polytechnic University |
+|	Yunus Karatepe | International Technological University |
 
-
-
---->
 
 -----
 
