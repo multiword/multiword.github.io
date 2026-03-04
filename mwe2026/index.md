@@ -84,7 +84,7 @@ TBA
 
   <tr><th>09:00–09:15</th><th><i>Welcome and Introduction to 22nd MWE Workshop</I></th></tr>
 
-  <tr><th>09:15–10:45</th><th><i>Findings of the MWE 2026 Shared Tasks</I></th> </tr>
+  <tr><th>09:15–09:45</th><th><i>Findings of the MWE 2026 Shared Tasks</I></th> </tr>
 <tr>
         <td></td>
 <td>Edition 2.0 of the PARSEME shared task on multilingual identification and paraphrasing of multiword expressions<br/>
@@ -97,27 +97,9 @@ Manon Scholivet, Agata Savary, Carlos Ramisch, Eric Bilinski, Takuya Nakamura, M
 Pickard, Aline Villavicencio, Adriana Silvina Pagano and Gülşen Eryiğit</td>
 </tr>
 
+ 
 
-  <tr><th>09:45–10:30</th><th>Oral session</th></tr>
-
-  <tr>
-        <td></td>
-<td>Session chair: TBA</td>
-</tr>
-  <tr><td></td><td>
-     <i>Swedish Multiword Expression Corpora in PARSEME</I><br/>
-Sara Stymne, Astrid Berntsson Ingelstam and Eva Pettersson
-  </td></tr>
-  <tr><td></td><td><I>Cognitive Signatures of Multi-Word Expressions: Reading-Time and Surprisal</I><br/>
-Diego Alves, Sergei Bagdasarov and Elke Teich
-  </td></tr>
-  <tr><td></td><td><I>Diversity patterns run deep: Impact of diversity intake on multiword expression identification</I><br/>
-Mathilde Deletombe, Manon Scholivet, Louis Estève, Thomas Lavergne and Agata Savary
-  </td></tr>
-
-  <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
-
-  <tr><th>11:00–12:00</th><th>Poster session</th></tr>
+  <tr><th>09:45–10:30</th><th>Poster session</th></tr>
   <tr><td></td><td>
     <I>Large Language Models Put to the Test on Chinese Noun Compounds: Experiments on Natural Language Inference and Compound Semantics</I><br/>
 Le Qiu, Emmanuele Chersoni, He Zhou and Yu-Yin Hsu
@@ -265,9 +247,27 @@ Rares-Alexandru Roscan and Sergiu Nisioi
 Özge Umut and Bora Şenceylan
   </td></tr>
 
+ <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
 
-  <tr><th>12:00–12:20</th><th>Community discussion</th></tr>
-  <tr><th>12:20–12:30</th><th>Concluding remarks</th></tr>
+  <tr><th>11:00–11:45</th><th>Oral session</th></tr>
+
+  <tr>
+        <td></td>
+<td>Session chair: TBA</td>
+</tr>
+  <tr><td></td><td>
+     <i>Swedish Multiword Expression Corpora in PARSEME</I><br/>
+Sara Stymne, Astrid Berntsson Ingelstam and Eva Pettersson
+  </td></tr>
+  <tr><td></td><td><I>Cognitive Signatures of Multi-Word Expressions: Reading-Time and Surprisal</I><br/>
+Diego Alves, Sergei Bagdasarov and Elke Teich
+  </td></tr>
+  <tr><td></td><td><I>Diversity patterns run deep: Impact of diversity intake on multiword expression identification</I><br/>
+Mathilde Deletombe, Manon Scholivet, Louis Estève, Thomas Lavergne and Agata Savary
+  </td></tr>
+
+  <tr><th>11:45–12:05</th><th>Community discussion</th></tr>
+  <tr><th>12:05–12:15</th><th>Concluding remarks</th></tr>
     
 </table>
 
@@ -382,6 +382,72 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 TBA
 
 <!---
+
+|	Abigail Walsh |	 Dublin City University|	
+|	Agata Savary |	 Université Paris-Saclay|	
+|	Ahmet Erdem |	 Istanbul Technical University|	
+|	Alberto Barrón-Cedeño|	 Università di Bologna|	
+|	Ali Azmoudeh |	Istanbul Technical University |	
+|	Andrea Horbach |	Leibniz Institute for Science and Mathematics Education |	
+Andrei Tiberiu Carp, Tomorrow University of Applied Sciences
+Anna Hülsing, Christian-Albrechts-Universität Kiel
+Atakan Site, Istanbul Technical University
+Barış Bilen, Istanbul Technical University
+Beata Trawinski, Leibniz Institute for the German Language
+Bora Şenceylan, Istanbul Technical University
+Carlos Ramisch, LIS - Laboratoire d’Informatique et Systèmes
+Chikara Hashimoto, Rakuten Institute of Technology
+Cristea Alexandru-Marian, University of Bucharest
+Cvetana Krstev, University of Belgrade, Faculty of Philology
+David Cotigă, University of Bucharest
+Debora Ciminari, University of Bologna
+Doğukan Arslan, Istanbul Technical University
+Elif Bayraktar, Istanbul Technical University
+Emmanuele Chersoni, The Hong Kong Polytechnic University
+Eric G C Laporte, Université Gustave Eiffel
+Gaël Dias, University of Caen Normandy
+Gražina Korvel, Vilnius University
+Gülşen Eryiğit, Istanbul Technical University
+Irina Lobzhanidze, Ilia Chavchavadze State University
+Irina Moise, University of Bucharest
+Ismail El Maarouf, Imprevicible
+Ivelina Stoyanova, Deaf Studies Institute
+Jan Odijk, Utrecht University
+John Philip McCrae, University of Galway
+Kenneth Church, Northeastern University
+Kubilay Kağan Kömürcü, Istanbul Technical University
+Laura A. Michaelis, University of Colorado at Boulder
+Le Qiu, The Hong Kong Polytechnic University
+Manfred Sailer, Johann Wolfgang Goethe Universität Frankfurt am Main
+Manon Scholivet, Université Paris-Saclay
+Maria Mitrofan, Research Institute for Artificial Intelligence
+Mathieu Constant, Université de Lorraine, CNRS, ATILF
+Matthew Shardlow, The Manchester Metropolitan University
+Meghdad Farahmand, University of Genoa
+Mehmet Utku Colak, Istanbul Technical University
+Miriam Butt, Universität Konstanz
+Monika Czerepowicka, University of Wamia and Masuria
+Muhammed Abdullah Gümüş, International Technological University
+Nina Hosseini-Kivanani, RTL
+Oğuz Ali Arslan, Istanbul Technical University
+Özge Umut, Istanbul Technical University
+Oguzhan Karaarslan, Istanbul Technical University
+Paul Cook, University of New Brunswick
+Petya Osenova, Sofia University St. Kliment Ohridski
+Ranka Stanković Stanković, University of Belgrade
+Rares-Alexandru Roscan, University of Bucharest
+Sabine Schulte im Walde, University of Stuttgart
+Sergiu Nisioi, University of Bucharest
+Shiva Taslimipoor, University of Cambridge
+Stan Szpakowicz, University of Ottawa
+Stella Markantonatou, ATHENA RIC
+Tugce Temel, Istanbul Technical University
+Tiberiu Boros, Adobe Systems
+Tunga Gungor, Bogazici University
+Veronika Vincze, University of Szeged
+Yu-Yin Hsu, The Hong Kong Polytechnic University
+Yunus Karatepe, International Technological University
+
 
 |	Agata Savary	|	Université Paris-Saclay	|
 |	Beata Trawinski	|	Leibniz Institute for the German Language	|
