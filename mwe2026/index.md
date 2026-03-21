@@ -69,7 +69,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 ### <a name="proceedings-video"> Proceedings and video recording </a>
 
-TBA
+The [proceedings](https://aclanthology.org/volumes/2026.mwe-1/) are available in the ACL Anthology.
 
 -----
 
