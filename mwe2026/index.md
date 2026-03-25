@@ -83,10 +83,10 @@ The [proceedings](https://aclanthology.org/volumes/2026.mwe-1/) are available in
   </tr>
 
   <tr><th>09:00–09:15</th><th><i>Welcome and Introduction to 22nd MWE Workshop</I></th></tr>
-  <tr><th></th><th><i>Session chair: Agata Savary</I></th></tr>
+  <tr><td></td><td>Session chair: Agata Savary</td></tr>
 
   <tr><th>09:15–09:45</th><th><i>Findings of the MWE 2026 Shared Tasks</I></th> </tr>
-  <tr><th></th><th><i>Session chair: Dilara Torunoğlu</I></th></tr>
+  <tr><td></td><td>Session chair: Dilara Torunoğlu</td></tr>
 <tr>
         <td></td>
 <td>Edition 2.0 of the PARSEME shared task on multilingual identification and paraphrasing of multiword expressions<br/>
@@ -102,7 +102,7 @@ Pickard, Aline Villavicencio, Adriana Silvina Pagano and Gülşen Eryiğit</td>
  
 
   <tr><th>09:45–10:30</th><th>Poster session</th></tr>
-  <tr><th></th><th><i>Session chair: Sara Stymne</I></th></tr>
+  <tr><td></td><td>Session chair: Sara Stymne</td></tr>
   <tr><td></td><td>
     <I>Large Language Models Put to the Test on Chinese Noun Compounds: Experiments on Natural Language Inference and Compound Semantics</I><br/>
 Le Qiu, Emmanuele Chersoni, He Zhou and Yu-Yin Hsu
