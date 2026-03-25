@@ -83,8 +83,10 @@ The [proceedings](https://aclanthology.org/volumes/2026.mwe-1/) are available in
   </tr>
 
   <tr><th>09:00–09:15</th><th><i>Welcome and Introduction to 22nd MWE Workshop</I></th></tr>
+  <tr><th></th><th><i>Session chair: Agata Savary</I></th></tr>
 
   <tr><th>09:15–09:45</th><th><i>Findings of the MWE 2026 Shared Tasks</I></th> </tr>
+  <tr><th></th><th><i>Session chair: Dilara Torunoğlu</I></th></tr>
 <tr>
         <td></td>
 <td>Edition 2.0 of the PARSEME shared task on multilingual identification and paraphrasing of multiword expressions<br/>
@@ -100,6 +102,7 @@ Pickard, Aline Villavicencio, Adriana Silvina Pagano and Gülşen Eryiğit</td>
  
 
   <tr><th>09:45–10:30</th><th>Poster session</th></tr>
+  <tr><th></th><th><i>Session chair: Sara Stymne</I></th></tr>
   <tr><td></td><td>
     <I>Large Language Models Put to the Test on Chinese Noun Compounds: Experiments on Natural Language Inference and Compound Semantics</I><br/>
 Le Qiu, Emmanuele Chersoni, He Zhou and Yu-Yin Hsu
@@ -250,8 +253,6 @@ Rares-Alexandru Roscan and Sergiu Nisioi
  <tr><th>10:30–11:00</th><th>Coffee break</th></tr>
 
   <tr><th>11:00–11:45</th><th>Oral session</th></tr>
-
-  <tr>
         <td></td>
 <td>Session chair: TBA</td>
 </tr>
@@ -267,6 +268,7 @@ Mathilde Deletombe, Manon Scholivet, Louis Estève, Thomas Lavergne and Agata Sa
   </td></tr>
 
   <tr><th>11:45–12:05</th><th>Community discussion</th></tr>
+  <tr><td></td><td>Session chair: Atul K. Ojha</td></tr>
   <tr><th>12:05–12:15</th><th>Concluding remarks</th></tr>
     
 </table>
