@@ -254,7 +254,7 @@ Rares-Alexandru Roscan and Sergiu Nisioi
 
   <tr><th>11:00–11:45</th><th>Oral session</th></tr>
         <td></td>
-<td>Session chair: TBA</td>
+<td>Session chair: Atul Kr. Ojha</td>
 </tr>
   <tr><td></td><td>
      <i>Swedish Multiword Expression Corpora in PARSEME</I><br/>
