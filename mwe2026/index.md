@@ -71,6 +71,8 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 The [proceedings](https://aclanthology.org/volumes/2026.mwe-1/) are available in the ACL Anthology.
 
+The recordings are available [here](https://drive.google.com/file/d/1PokEhDF2wWdGrnwJ_OmpQGPP2bNXzspn/view?usp=drive_link).
+
 -----
 
 ### <a name="program"> Program </a>
