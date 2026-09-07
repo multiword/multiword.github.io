@@ -7,6 +7,9 @@ layout: default
 
 The section's past officers (not currently serving in the standing committee) compose the section's advisory committee.
 
+- [Verginica Barbu Mititel](https://www.racai.ro/en/about-us/racai-staff/verginica-barbu-mititelu/) (Romanian Academy Research Institute for Artificial Intelligence) - elected section representative 2024-2026
+- [Mathieu Constant](https://perso.atilf.fr/mconstant/) (Université de Lorraine) - nominated officer in 2024-2026
+- [Atul Kr. Ojha](https://www.universityofgalway.ie/science-engineering/staff-profiles/atulkumarojha/) (University of Galway) - nominated officer in 2024-2026
 - [A. Seza Doğruöz](http://www.asezadogruoz.com/) (Universiteit Gent, Belgium) - nominated officer in 2023-2025
 - [Alexandre Rademaker](http://arademaker.github.io/) (School of Applied Mathematics, FGV, Brazil) - nominated officer in 2023-2025
 - [Kilian Evang](https://kilian.evang.name/) (Heinrich Heine University Düsseldorf) - nominated officer in 2022-2024
