@@ -7,9 +7,9 @@ layout: default
 
 The section is coordinated by a standing committee composed of:
 
-- [Verginica Barbu Mititelu](https://www.racai.ro/en/about-us/racai-staff/verginica-barbu-mititelu/) (Romanian Academy Research Institute for Artificial Intelligence) - elected section representative 2024-2026
-- [Mathieu Constant](https://perso.atilf.fr/mconstant/) (Université de Lorraine) - nominated officer in 2024-2026
-- [Atul Kr. Ojha](https://www.universityofgalway.ie/science-engineering/staff-profiles/atulkumarojha/) (University of Galway) - nominated officer in 2024-2026
+- [Sara Stymne](https://www2.lingfil.uu.se/cl/sara/) (Uppsala University, Sweden) - elected section representative 2026-2028
+- [Patricia Chiril]() (Télécom Paris, Institut Polytechnique de Paris, France) - nominated officer in 2026-2028
+- [Jaka Čibej](https://jakacibej.github.io/) (Centre for Language Resources and Technologies, University of Ljubljana and the Jožef Stefan Institute, Slovenia) - nominated officer in 2026-2028
 - [Adriana Silvina Pagano](https://orcid.org/0000-0002-3150-3503) (Federal University of Minas Gerais, Brazil) - nominated officer in 2025-2027
 - [Ivelina Stoyanova](https://orcid.org/0000-0003-3771-435X) (Institute for Bulgarian Language) - nominated officer in 2025-2027
 
