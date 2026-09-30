@@ -55,7 +55,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
     Contents on this page
   </summary>
 <!-- - [Proceedings and video recording](#proceedings-video) -->
-- [Program](#program)
+<!-- - [Program](#program) -->
 - [Registration](#registration)
 - [Description](#description)
 <!-- - [Shared tasks](#sharedtasks) -->
@@ -379,13 +379,21 @@ The PARSEME community wishes to pay tribute to one of our colleagues who passed 
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
+| Direct Submission deadline  | TBA           |
+| Pre-reviewed (ARR) submission deadline    |  TBA         |
+| Notification of acceptance | TBA              |
+| Camera-ready papers due    | TBA             |
+| Workshop                   | TBA        |
+
+<!--
+| What                       | When                       |
+| -------------------------- | -------------------------- |
 | Direct Submission deadline  | December 1, 2026           |
 | Pre-reviewed (ARR) submission deadline    |  December 22, 2026         |
 | Notification of acceptance | January 12, 2027              |
 | Camera-ready papers due    | January 19, 2027             |
 | Workshop                   | Full/half-day, one day between March 9–14, 2027         |
-
-
+-->
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
@@ -537,7 +545,7 @@ The workshop follows the [ACL anti-harassment policy](https://www.aclweb.org/adm
 
 ### <a name="contact"> Contact </a>
 
-<!--For any inquiries regarding the workshop, please send an email to the Organizing Committee at [XXX@XXX.XXX](mailto:XXX@XXX.XXX).-->
+<!--For any inquiries regarding the workshop, please send an email to the Organizing Committee at [siglex-mwe-board@googlegroups.com](mailto: siglex-mwe-board@googlegroups.com).-->
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
