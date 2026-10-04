@@ -5,9 +5,9 @@ layout: default
 
 <h2>23<sup>rd</sup> Workshop on Multiword Expressions (MWE 2027)</h2>
 
-**Colocated with:** TBA <!--[EACL-2027](https://2027.eacl.org), Athens, Greece -->
+**Colocated with:** [EACL-2027](https://2027.eacl.org), Athens, Greece
 
-**Date of the Workshop:** TBA <!--XX March, XX:XX-XX:XX-->
+**Date of the Workshop:** one full day between March 9–14, 2027 (Exact date TBA) <!--XX March, XX:XX-XX:XX-->
 
 **Organised and sponsored by:**\
 The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)) and SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)).
@@ -20,7 +20,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 
 <!--* **December 8, 2023**: First Call for Participation posted -->
 <!--* **December 8, 2026**: MWE-UD 2027 workshop date confirmed (Workshop Date: March XX, 2027)-->
-<!--* **October 2, 2026**: MWE-UD 2027 proposal accepted to EACL 2027-->
+* **October 3, 2026**: MWE-UD 2027 proposal accepted to EACL 2027
 * **September 16, 2026**: Organising committee formed
 
 <!---
@@ -284,12 +284,12 @@ Mathilde Deletombe, Manon Scholivet, Louis Estève, Thomas Lavergne and Agata Sa
     
 </table>
 -->
-<!--
+
 -----
 ### <a name="registration"> Registration </a>
 
 To attend the workshop (either in person or virtually), please register through [EACL 2027’s registration system](https://2027.eacl.org). Note that to attend MWE 2027, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
--->
+
 
 ------
 
