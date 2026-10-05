@@ -61,7 +61,7 @@ The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of 
 <!-- - [Shared tasks](#sharedtasks) -->
 - [Submission Formats](#submission)
 - [Paper Submission and Templates](#instructions)
-<!-- - [In Memoriam](#inmemoriam) -->
+- [In Memoriam](#inmemoriam)
 - [Important Dates](#dates)
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
@@ -288,7 +288,7 @@ Mathilde Deletombe, Manon Scholivet, Louis Estève, Thomas Lavergne and Agata Sa
 -----
 ### <a name="registration"> Registration </a>
 
-To attend the workshop (either in person or virtually), please register through [EACL 2027’s registration system](https://2027.eacl.org). Note that to attend MWE 2027, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
+To attend the workshop <!--(either in person or virtually)-->, please register through [EACL 2027’s registration system](https://2027.eacl.org). Note that to attend MWE 2027, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
 
 
 ------
@@ -339,10 +339,10 @@ The workshop MWE 2026 will host [two shared tasks](https://unidive.lisn.upsaclay
 
 ### <a name="submission">Submission Formats</a>
 
-The workshop invites  two types of submissions:
+The workshop invites two types of submissions:
 - **Archival submissions** that present substantially original research in both long paper format (8 pages + references) and short paper format (4 pages + references)
 - **System and resource demonstrations** that present tools and datasets related to MWEs and MWE processing, which could be demoed during the workshop. System/resource description papers should be up to 4 pages + references, and do not need to be anonymized.
-- **Non-archival submissions** of abstracts describing relevant research presented/published elsewhere which will not be included in the MWE proceedings (8 pages + references).
+- **Non-archival submissions** describing relevant research presented/published elsewhere; non-archival submissions will not be included in the MWE proceedings and do not need to be anonymized (they will not undergo reviews); they should contain a short abstract of the paper (1-2 pages) with a link to the already published paper.
 
 -----
 
@@ -351,7 +351,7 @@ The workshop invites  two types of submissions:
 <!--Papers should be submitted via the [workshop's submission page](https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/MWE).-->
 
 
-Papers should be submitted via the workshop's submission page (stay tuned for the link). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files).
+Papers should be submitted via the workshop's submission page (link TBA). Please choose the appropriate submission format (archival/system/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files).
 
 Authors are encouraged, wherever relevant, to adopt the [conventions on citing, glossing and translating multilingual examples of MWEs](https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf) promoted by the editors of the [Phraseology and Multiword Expressions book series](https://langsci-press.org/catalog/series/pmwe) published by Language Science Press. 
 
@@ -359,19 +359,17 @@ Authors are encouraged, wherever relevant, to adopt the [conventions on citing, 
 <!--
 Papers should be submitted via the [OpenReview submission page](https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/MWE). Please choose the appropriate submission format (archival/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files). For further information on this initiative, please refer to [NAACL 2025](https://2025.naacl.org/calls/papers/#paper-submission-details)
 
+
 The ARR (pre-reviewed)'s paper can be committed [here](https://forms.gle/4XG1Myd3FSdPLkoL6).
 -->
 
-<!--
+
 ------
 ### <a name="inmemoriam">In Memoriam</a>
 
-The PARSEME community wishes to pay tribute to one of our colleagues who passed away in 2025: Federico Sangati and Silvio Ricardo Cordeiro, two wonderful people who greatly contributed to our assets.
+The PARSEME/UniDive community wishes to pay tribute to one of our colleagues who passed away in 2026: Gosse Bouma, who was an active member of WG1 and WG3 in UniDive, and in its two underlying communities: Universal Dependencies and PARSEME. He acted towards improving annotation consistency across treebanks and languages, maintained the Dutch UD treebanks, and participated in the construction of the Dutch PARSEME corpus. He was the representative of the Netherlands at the UniDive Management Committee, co-chaired the MWE/UD workshop at LREC-COLING 2024, and served as a reviewer in the UniDive workshops. We lost an excellent expert, a wonderful person and a friend.
 
-[Read the full tribute here](https://gitlab.com/parseme/corpora/-/wikis/Federico-and-Silvio)
-
--->
-
+We encourage people to contribute memories about Gosse to <a href="https://www.condoleance.nl/19800" target="_blank">this online registry</a>.
 
 -----
 
@@ -379,21 +377,11 @@ The PARSEME community wishes to pay tribute to one of our colleagues who passed 
 
 | What                       | When                       |
 | -------------------------- | -------------------------- |
-| Direct Submission deadline  | TBA           |
-| Pre-reviewed (ARR) submission deadline    |  TBA         |
-| Notification of acceptance | TBA              |
-| Camera-ready papers due    | TBA             |
-| Workshop                   | TBA        |
-
-<!--
-| What                       | When                       |
-| -------------------------- | -------------------------- |
-| Direct Submission deadline  | December 1, 2026           |
-| Pre-reviewed (ARR) submission deadline    |  December 22, 2026         |
-| Notification of acceptance | January 12, 2027              |
-| Camera-ready papers due    | January 19, 2027             |
-| Workshop                   | Full/half-day, one day between March 9–14, 2027         |
--->
+| Direct Submission deadline  | 1 December 2026 <!--Can be extended to 8 December 2027-->           |
+| Pre-reviewed (ARR) submission deadline    |  22 December 2026         |
+| Notification of acceptance | TBA (January 2027)  <!--12 January 2027?-->            |
+| Camera-ready papers due    | 19 January 2027             |
+| Workshop                   | one full day between 9–14 March 2027 (Exact date TBA)        |
 
 All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
@@ -442,11 +430,13 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Tunga Güngör | Boğaziçi University |
 | Voula Giouli | Aristotle University of Thessaloniki |
 | Veronika Vincze | University of Szeged |
-| Yannick PARMENTIER | Université de Lorraine |
+| Yannick Parmentier | Université de Lorraine |
 | Shiva Taslimipoor | University of Cambridge |	
 | Carlos Ramisch | Aix Marseille University |
 | Kiril Simov | Bulgarian Academy of Sciences |
 | Teresa Lynn | MBZUAI |
+| Gaël Dias | Université de Caen Normandie |
+
 
 
 <!--
@@ -545,7 +535,7 @@ The workshop follows the [ACL anti-harassment policy](https://www.aclweb.org/adm
 
 ### <a name="contact"> Contact </a>
 
-<!--For any inquiries regarding the workshop, please send an email to the Organizing Committee at [siglex-mwe-board@googlegroups.com](mailto: siglex-mwe-board@googlegroups.com).-->
+For any inquiries regarding the workshop, please send an email to the Organizing Committee at [siglex-mwe-board@googlegroups.com](mailto: siglex-mwe-board@googlegroups.com).
 
 Please register to [SIGLEX](../organization/members) and check the "MWE
 Section" box to be registered to our [mailing list](../mailinglist).
