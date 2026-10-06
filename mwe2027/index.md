@@ -5,12 +5,12 @@ layout: default
 
 <h2>23<sup>rd</sup> Workshop on Multiword Expressions (MWE 2027)</h2>
 
-**Colocated with:** [EACL-2027](https://2027.eacl.org), Athens, Greece
+**Colocated with:** <a href="https://2027.eacl.org" target="_blank">EACL-2027</a>, Athens, Greece
 
 **Date of the Workshop:** one full day between March 9–14, 2027 (Exact date TBA) <!--XX March, XX:XX-XX:XX-->
 
 **Organised and sponsored by:**\
-The Special Interest Group on the Lexicon ([SIGLEX](http://www.siglex.org/)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)) and SIGLEX's Multiword Expressions Section ([SIGLEX-MWE](https://multiword.org/organization/constitution.html)).
+The Special Interest Group on the Lexicon (<a href="http://www.siglex.org/" target="_blank">SIGLEX</a>) of the Association for Computational Linguistics (<a href="https://www.aclweb.org/portal/" target="_blank">ACL</a>) and SIGLEX's Multiword Expressions Section (<a href="https://multiword.org/organization/constitution.html" target="_blank">SIGLEX-MWE</a>).
 
 <a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -288,7 +288,7 @@ Mathilde Deletombe, Manon Scholivet, Louis Estève, Thomas Lavergne and Agata Sa
 -----
 ### <a name="registration"> Registration </a>
 
-To attend the workshop <!--(either in person or virtually)-->, please register through [EACL 2027’s registration system](https://2027.eacl.org). Note that to attend MWE 2027, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
+To attend the workshop <!--(either in person or virtually)-->, please register through <a href="https://2027.eacl.org" target="_blank">EACL 2027’s registration system</a>]. Note that to attend MWE 2027, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
 
 
 ------
@@ -351,9 +351,9 @@ The workshop invites two types of submissions:
 <!--Papers should be submitted via the [workshop's submission page](https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/MWE).-->
 
 
-Papers should be submitted via the workshop's submission page (link TBA). Please choose the appropriate submission format (archival/system/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the [ACL stylesheet](https://github.com/acl-org/acl-style-files).
+Papers should be submitted via the workshop's submission page (link TBA). Please choose the appropriate submission format (archival/system/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the <a href="https://github.com/acl-org/acl-style-files" target="_blank">ACL stylesheet</a>.
 
-Authors are encouraged, wherever relevant, to adopt the [conventions on citing, glossing and translating multilingual examples of MWEs](https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf) promoted by the editors of the [Phraseology and Multiword Expressions book series](https://langsci-press.org/catalog/series/pmwe) published by Language Science Press. 
+Authors are encouraged, wherever relevant, to adopt the <a href="https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf" target="_blank">conventions on citing, glossing and translating multilingual examples of MWEs</a> promoted by the editors of the <a href="https://langsci-press.org/catalog/series/pmwe" target="_blank">Phraseology and Multiword Expressions book series</a> published by Language Science Press.
 
 
 <!--
@@ -436,7 +436,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Kiril Simov | Bulgarian Academy of Sciences |
 | Teresa Lynn | MBZUAI |
 | Gaël Dias | Université de Caen Normandie |
-
+| Verginica Barbu Mititelu | Romanian Academy Research Institute for Artificial Intelligence |
 
 
 <!--
@@ -529,7 +529,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 ### <a name="antiharassment"> Anti-harassment Policy </a>
 
-The workshop follows the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
+The workshop follows the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy" target="_blank">[ACL anti-harassment policy]</a>.
 
 -----
 
