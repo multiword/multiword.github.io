@@ -19,8 +19,8 @@ The Special Interest Group on the Lexicon (<a href="http://www.siglex.org/" targ
 ### News
 
 <!--* **December 8, 2023**: First Call for Participation posted -->
-<!--* **December 8, 2026**: MWE-UD 2027 workshop date confirmed (Workshop Date: March XX, 2027)-->
-* **October 3, 2026**: MWE-UD 2027 proposal accepted to EACL 2027
+<!--* **December 8, 2026**: MWE 2027 workshop date confirmed (Workshop Date: March XX, 2027)-->
+* **October 3, 2026**: MWE 2027 proposal accepted to EACL 2027
 * **September 16, 2026**: Organising committee formed
 
 <!---
@@ -288,7 +288,7 @@ Mathilde Deletombe, Manon Scholivet, Louis Estève, Thomas Lavergne and Agata Sa
 -----
 ### <a name="registration"> Registration </a>
 
-To attend the workshop <!--(either in person or virtually)-->, please register through <a href="https://2027.eacl.org" target="_blank">EACL 2027’s registration system</a>]. Note that to attend MWE 2027, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
+To attend the workshop <!--(either in person or virtually)-->, please register through <a href="https://2027.eacl.org" target="_blank">EACL 2027’s registration system</a>. Note that to attend MWE 2027, it is sufficient to select this workshop during registration; you do not have to register for the main conference.
 
 
 ------
@@ -297,7 +297,7 @@ To attend the workshop <!--(either in person or virtually)-->, please register t
 
 Multiword expressions (MWEs), i.e., word combinations that exhibit lexical, syntactic, semantic, pragmatic, and/or statistical idiosyncrasies (Baldwin and Kim, 2010), such as “by and large”, “hot dog”, “make a decision” and “break one's leg” are still a pain in the neck for Natural Language Processing (NLP). The notion of MWE encompasses closely related phenomena: idioms, compounds, light-verb constructions, phrasal verbs, rhetorical figures, collocations, institutionalized phrases, etc. Given their irregular nature, MWEs often pose complex problems in linguistic modeling (e.g., annotation), NLP tasks (e.g., parsing), and end-user applications (e.g., natural language understanding and Machine Translation), hence still representing an open issue for computational linguistics (Miletić and Schulte im Walde, 2024; Ramisch et al., 2023; Phelps et al., 2024; Mahajan et al., 2024).
 
-For more than two decades, the topic of modeling and processing MWEs for NLP has been the focus of the MWE workshop, organized by the [MWE section](https://multiword.org/) of [ACL-SIGLEX](http://www.siglex.org/) in conjunction with major NLP conferences since 2003. Impressive progress has been made in the field, but our understanding of MWEs still requires much research, considering their need and usefulness in NLP applications. This is also relevant to domain-specific NLP pipelines that need to tackle terminologies most often realized as MWEs. 
+For more than two decades, the topic of modeling and processing MWEs for NLP has been the focus of the MWE workshop, organized by the <a href="https://multiword.org" target="_blank">MWE section</a> of <a href="http://www.siglex.org" target="_blank">ACL-SIGLEX</a> in conjunction with major NLP conferences since 2003. Impressive progress has been made in the field, but our understanding of MWEs still requires much research, considering their need and usefulness in NLP applications. This is also relevant to domain-specific NLP pipelines that need to tackle terminologies most often realized as MWEs.
 
 **Topics of interest** include, but are not limited to:
 * Linguistic aspects of MWE: criteria for their classification, morpho-syntactic and semantic idiosyncrasies, contrastive studies of MWEs in various languages;
@@ -529,7 +529,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 
 ### <a name="antiharassment"> Anti-harassment Policy </a>
 
-The workshop follows the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy" target="_blank">[ACL anti-harassment policy]</a>.
+The workshop follows the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy" target="_blank">ACL anti-harassment policy</a>.
 
 -----
 
@@ -537,5 +537,5 @@ The workshop follows the <a href="https://www.aclweb.org/adminwiki/index.php?tit
 
 For any inquiries regarding the workshop, please send an email to the Organizing Committee at [siglex-mwe-board@googlegroups.com](mailto: siglex-mwe-board@googlegroups.com).
 
-Please register to [SIGLEX](../organization/members) and check the "MWE
-Section" box to be registered to our [mailing list](../mailinglist).
+Please register to <a href="https://multiword.org/organization/members" "_blank">SIGLEX</a> and check the "MWE
+Section" box to be registered to our <a href="https://multiword.org/mailinglist" target="_blank">mailing list</a>.
