@@ -537,5 +537,5 @@ The workshop follows the <a href="https://www.aclweb.org/adminwiki/index.php?tit
 
 For any inquiries regarding the workshop, please send an email to the Organizing Committee at [siglex-mwe-board@googlegroups.com](mailto: siglex-mwe-board@googlegroups.com).
 
-Please register to <a href="https://multiword.org/organization/members" "_blank">SIGLEX</a> and check the "MWE
+Please register to <a href="https://multiword.org/organization/members" target="_blank">SIGLEX</a> and check the "MWE
 Section" box to be registered to our <a href="https://multiword.org/mailinglist" target="_blank">mailing list</a>.
