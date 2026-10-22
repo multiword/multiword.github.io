@@ -14,12 +14,24 @@ The Special Interest Group on the Lexicon (<a href="http://www.siglex.org/" targ
 
 <a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!--
+<a href="https://bsky.app/profile/multiword.bsky.social"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="display: inline-block; background-color: #0085ff; color: white;
+          padding: 8px 16px; border-radius: 4px; text-decoration: none;
+          font-family: sans-serif; font-size: 16px;">
+  🦋 Follow @multiword on Bluesky
+</a>
+-->
+
 -----
 
 ### News
 
-<!--* **December 8, 2023**: First Call for Participation posted -->
+
 <!--* **December 8, 2026**: MWE 2027 workshop date confirmed (Workshop Date: March XX, 2027)-->
+* **October 6, 2026**: First Call for Participation posted
 * **October 3, 2026**: MWE 2027 proposal accepted to EACL 2027
 * **September 16, 2026**: Organising committee formed
 
@@ -66,6 +78,7 @@ The Special Interest Group on the Lexicon (<a href="http://www.siglex.org/" targ
 - [Organizing Committee](#organizers)
 - [Program Committee](#committee)
 - [Sponsors and Support](#sponsors)
+- [ACL Year-Round Mentorship](#aclyearroundmentorship)
 - [Anti-harassment Policy](#antiharassment)
 - [Contact](#contact)
 </details>
@@ -437,6 +450,7 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
 | Teresa Lynn | MBZUAI |
 | Gaël Dias | Université de Caen Normandie |
 | Verginica Barbu Mititelu | Romanian Academy Research Institute for Artificial Intelligence |
+| Mehrdad Farahmand | Calibrion AI |
 
 
 <!--
@@ -524,6 +538,15 @@ All deadlines are at 23:59 UTC-12 (Anywhere on Earth).
         <a href="https://www.cost.eu/"><img src="en-funded_by_the_eu-pos.png" alt="EU Funded" style="width: 100%; height: auto;"></a>
     </div> -->
 </div>
+
+-----
+### <a name="aclyearroundmentorship"> ACL Year-Round Mentorship </a>
+
+**Year-Round Mentorship** is an initiative of the *Association for Computational Linguistics* (ACL), created to provide mentorship opportunities for students entering the field of NLP. The initiative hosts virtual mentorship meetings throughout the year with mentors from both academia and industry who bring significant expertise and successful career experience.
+
+Mentorship sessions are free and open to everyone. The initiative offers time zone–friendly Zoom meetings to welcome participants worldwide. Whether you’re seeking guidance as a mentee or looking to contribute as a mentor, there’s a place for you in the community.
+
+For more information, please refer to the initiative's <a href="https://mentorship.aclweb.org/" target="_blank">official website</a>.
 
 -----
 
