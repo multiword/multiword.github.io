@@ -31,6 +31,7 @@ The Special Interest Group on the Lexicon (<a href="http://www.siglex.org/" targ
 
 
 <!--* **December 8, 2026**: MWE 2027 workshop date confirmed (Workshop Date: March XX, 2027)-->
+* **November 2, 2026**: Link to OpenReview posted
 * **October 6, 2026**: First Call for Participation posted
 * **October 3, 2026**: MWE 2027 proposal accepted to EACL 2027
 * **September 16, 2026**: Organising committee formed
@@ -364,7 +365,7 @@ The workshop invites two types of submissions:
 <!--Papers should be submitted via the [workshop's submission page](https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/MWE).-->
 
 
-Papers should be submitted via the workshop's submission page (link TBA). Please choose the appropriate submission format (archival/system/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the <a href="https://github.com/acl-org/acl-style-files" target="_blank">ACL stylesheet</a>.
+Papers should be submitted via the workshop's <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/MWE" target="_blank">submission page</a> (or <a href="https://openreview.net/group?id=eacl.org/EACL/2027/Workshop/MWE_ARR_Commitment" target="_blank">here</a> for ARR Commitment). Please choose the appropriate submission format (archival/system/non-archival). Archival papers with existing reviews will also be accepted through the ACL Rolling Review. Submissions must follow the <a href="https://github.com/acl-org/acl-style-files" target="_blank">ACL stylesheet</a>.
 
 Authors are encouraged, wherever relevant, to adopt the <a href="https://gitlab.com/parseme/pmwe/-/blob/master/Conventions-for-MWE-examples/PMWE_series_conventions_for_multilingual_examples.pdf" target="_blank">conventions on citing, glossing and translating multilingual examples of MWEs</a> promoted by the editors of the <a href="https://langsci-press.org/catalog/series/pmwe" target="_blank">Phraseology and Multiword Expressions book series</a> published by Language Science Press.
 
