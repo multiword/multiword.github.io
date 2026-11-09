@@ -24,7 +24,7 @@ The Special Interest Group on the Lexicon (<a href="http://www.siglex.org/" targ
    style="display: inline-block; background-color: #0085ff; color: white;
           padding: 8px 16px; border-radius: 4px; text-decoration: none;
           font-family: sans-serif; font-size: 16px;">
-  🦋 @multiword on Bluesky
+  🦋 @mwe-workshop on Bluesky
 </a>
 
 -----
