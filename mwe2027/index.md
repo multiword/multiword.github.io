@@ -12,18 +12,20 @@ layout: default
 **Organised and sponsored by:**\
 The Special Interest Group on the Lexicon (<a href="http://www.siglex.org/" target="_blank">SIGLEX</a>) of the Association for Computational Linguistics (<a href="https://www.aclweb.org/portal/" target="_blank">ACL</a>) and SIGLEX's Multiword Expressions Section (<a href="https://multiword.org/organization/constitution.html" target="_blank">SIGLEX-MWE</a>).
 
-<a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <!--
-<a href="https://bsky.app/profile/multiword.bsky.social"
+<a href="https://twitter.com/multiword?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@multiword</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-->
+
+<a href="https://twitter.com/mweworkshop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="true" data-show-count="false">@mweworkshop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a href="https://bsky.app/profile/mwe-workshop.bsky.social"
    target="_blank"
    rel="noopener noreferrer"
    style="display: inline-block; background-color: #0085ff; color: white;
           padding: 8px 16px; border-radius: 4px; text-decoration: none;
           font-family: sans-serif; font-size: 16px;">
-  🦋 Follow @multiword on Bluesky
+  🦋 @multiword on Bluesky
 </a>
--->
 
 -----
 
