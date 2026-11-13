@@ -33,9 +33,10 @@ The Special Interest Group on the Lexicon (<a href="http://www.siglex.org/" targ
 
 
 <!--* **December 8, 2026**: MWE 2027 workshop date confirmed (Workshop Date: March XX, 2027)-->
+* **November 12, 2026**: Second Call for Participation posted
 * **November 2, 2026**: Link to OpenReview posted
 * **October 6, 2026**: First Call for Participation posted
-* **October 3, 2026**: MWE 2027 proposal accepted to EACL 2027
+* **October 3, 2026**: MWE 2027 proposal <a href="https://2027.eacl.org/program/workshops/" target="_blank">accepted to EACL 2027</a>
 * **September 16, 2026**: Organising committee formed
 
 <!---
